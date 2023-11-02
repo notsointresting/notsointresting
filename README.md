@@ -5,6 +5,7 @@
 
 ## Quote
 ![Bigger the sacrifice, bigger the reward](SR.jpg "Sacrifice and Reward")
+> Bigger the sacrifice, bigger the reward.
 
 
 ## 🌐 Socials:
