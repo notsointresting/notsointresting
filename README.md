@@ -2,6 +2,11 @@
 🔭 I’m currently working on projects <br>🌱 I’m currently learning DS in c++ <br>💬 Ask me about life
 
 
+
+## Quote
+![Bigger the sacrifice, bigger the reward](SR.jpg "Sacrifice and Reward")
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiil/) 
 
