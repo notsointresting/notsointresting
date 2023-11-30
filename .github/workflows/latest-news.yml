@@ -3,6 +3,7 @@ name: Technological News Workflow
 on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight UTC
+  workflow_dispatch:  # Add this to allow manual runs
 
 jobs:
   get_news:
