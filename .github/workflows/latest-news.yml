@@ -21,15 +21,15 @@ jobs:
         run: |
           pip install requests
 
-      - name: Get News
-        run: python scripts/get_news.py  # Replace with your script or command
+      - name: Fetch News Data
+        run: python scripts/fetch_news.py
         env:
-          API_KEY: ${{ secrets.API_KEY }}  # Store your API key as a secret
+          API_KEY: ${{ secrets.API_KEY }}
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Update news"
+          git commit -m "Update news data"
           git push
