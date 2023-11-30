@@ -1,0 +1,35 @@
+name: Technological News Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run every day at midnight UTC
+
+jobs:
+  get_news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Get News
+        run: python scripts/get_news.py  # Replace with your script or command
+        env:
+          API_KEY: ${{ secrets.API_KEY }}  # Store your API key as a secret
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update news"
+          git push
