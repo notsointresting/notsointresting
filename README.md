@@ -1,7 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=notsointresting&style=for-the-badge&base=200)
 ---
 # 💫 About Me:
-👋 Hi there! I'm Sahil, a dedicated and passionate individual. 🎓 I'm currently in my final year of computer engineering at DBATU. 💻 My academic journey has equipped me with expertise in Python and SQL. 👨‍💻 I take pride in being a leader and lead developer in various academic projects, spanning domains such as Web Development, IoT, and Python-GUI management. 🌟 Currently, I'm exploring the exciting world of Language Model AI (LLMs) and LangChain, working on a chatbot project using Azure. 🚀 I'm always eager to learn and make a positive impact in the world of technology. Let's connect and create something awesome! 😊🌐
+- 🎓 Final-year computer engineering student at DBATU, specializing in Python and SQL.
+
+- 👨‍💻 Leader and lead developer in diverse academic projects: Web Dev, IoT, Python-GUI.
+
+- 🚀 Exploring AI with Language Models (LLMs) and LangChain; working on an Azure-based chatbot.
+
+- 🧠 Eager learner, always staying updated on the latest tech trends.
+
+- 😊 Aspiring to make a positive impact in the tech world through innovation and skills.
 
 
 ## Quote
