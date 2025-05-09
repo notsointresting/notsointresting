@@ -4,7 +4,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
-- 🎓 Final-year computer engineering student at DBATU, specializing in Python and SQL.
 
 - 👨‍💻 Leader and lead developer in diverse academic projects: Web Dev, IoT, Python-GUI.
 
