@@ -278,19 +278,35 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 ### 🎌 Random Anime Quote
+
 <!-- ANIME_QUOTE:START -->
-> *"People's lives don't end when they die. It ends when they lose faith."*
+> 💬 *"People's lives don't end when they die. It ends when they lose faith."*
 >
-> — **Itachi Uchiha**, *Naruto Shippuden*
+> 🎭 **Itachi Uchiha** — *Naruto Shippuden*
 <!-- ANIME_QUOTE:END -->
 
-<sub>🔄 Auto-updated every 4 hours via GitHub Actions | Powered by Animechan</sub>
+<sub>🔄 Updates every 4 hours via GitHub Actions</sub>
 
-<br><br>
+</td>
+</tr>
+</table>
 
-<!-- Personal Philosophy with nice styling -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+The+bigger+the+sacrifice%2C;the+bigger+the+reward.+%E2%9C%A8" alt="Philosophy"/>
+<br>
+
+### ✨ My Philosophy
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "The bigger the sacrifice, the bigger the reward."      ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 <br>
 

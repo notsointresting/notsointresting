@@ -28,8 +28,8 @@ jobs:
           CHARACTER=$(echo $QUOTE_DATA | jq -r '.data.character.name')
           ANIME=$(echo $QUOTE_DATA | jq -r '.data.anime.name')
           
-          # Create the formatted quote
-          FORMATTED_QUOTE="> *\"${QUOTE}\"*\n>\n> — **${CHARACTER}**, *${ANIME}*"
+          # Create the formatted quote with emojis
+          FORMATTED_QUOTE="> 💬 *\"${QUOTE}\"*\n>\n> 🎭 **${CHARACTER}** — *${ANIME}*"
           
           # Update README between markers
           sed -i '/<!-- ANIME_QUOTE:START -->/,/<!-- ANIME_QUOTE:END -->/c\<!-- ANIME_QUOTE:START -->\n'"${FORMATTED_QUOTE}"'\n<!-- ANIME_QUOTE:END -->' README.md
