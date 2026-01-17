@@ -271,14 +271,22 @@
 
 ---
 
-<!-- Quote Section -->
-<div align="center">
-  
-### 💭 Philosophy
-  
-<img src="./SR.jpg" width="400" alt="The bigger the sacrifice, the bigger the reward"/>
+<!-- Anime & Philosophy Section -->
+<h2 align="center">
+  ⚡ Anime Wisdom & Philosophy ⚡
+</h2>
 
-> *"The bigger the sacrifice, the bigger the reward."*
+<div align="center">
+
+<!-- Dynamic Anime Quote -->
+<a href="https://github.com/notsointresting">
+  <img src="https://animu-api.vercel.app/quote" alt="Random Anime Quote" width="600"/>
+</a>
+
+<br><br>
+
+<!-- Personal Philosophy with nice styling -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+The+bigger+the+sacrifice%2C;the+bigger+the+reward.+%E2%9C%A8" alt="Philosophy"/>
 
 <br>
 
