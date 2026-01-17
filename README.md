@@ -296,9 +296,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Flowers are disturbed, god of flowers weeps, winds of Heaven are disturbed, demon of Heaven laughs. Katen Kyōkotsu!"*
+> 💬 *"Stop coming after the jewel. I do not wish to waste more arrows."*
 >
-> 🎭 **Shunsui Kyōraku** — *Bleach*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
