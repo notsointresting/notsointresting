@@ -1,36 +1,39 @@
-name: Technological News Workflow
+name: 📰 Update Tech News
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run every day at midnight UTC
+    - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual runs
 
 jobs:
-  get_news:
+  update-readme-with-news:
+    name: Update README with latest news
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: 🔒 Cybersecurity News from The Hacker News
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          python-version: 3.8
+          feed_list: "https://feeds.feedburner.com/TheHackersNews"
+          max_post_count: 4
+          template: "- [$title]($url) $newline"
+          comment_tag_name: "CYBER_NEWS"
+          commit_message: "📰 Update cybersecurity news"
+          committer_email: "action@github.com"
+          committer_username: "GitHub Action"
 
-      - name: Install Dependencies
-        run: |
-          pip install requests
-
-      - name: Fetch News Data
-        run: python scripts/fetch_news.py
-        env:
-          API_KEY: ${{ secrets.API_KEY }}
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git diff --staged --quiet || git commit -m "Update news data - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+      - name: 🤖 AI News from MIT Technology Review
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.technologyreview.com/feed/"
+          max_post_count: 4
+          template: "- [$title]($url) $newline"
+          comment_tag_name: "AI_NEWS"
+          commit_message: "📰 Update AI news"
+          committer_email: "action@github.com"
+          committer_username: "GitHub Action"
