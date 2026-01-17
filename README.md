@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Stop coming after the jewel. I do not wish to waste more arrows."*
+> 💬 *"When captured birds grow wiser, they try to open the cage with their beaks. They don't give up, because they want to fly again."*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Genma Shiranui** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
