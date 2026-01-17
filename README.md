@@ -179,13 +179,17 @@
 <div align="center">
 
 ### 🔒 Latest Cybersecurity News
-<!-- CYBER_NEWS:START -->
-- *Loading latest news...*
+<!-- CYBER_NEWS:START -->- [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html) 
+- [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html) 
+- [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html) 
+- [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html) 
 <!-- CYBER_NEWS:END -->
 
 ### 🤖 Latest AI & Tech News
-<!-- AI_NEWS:START -->
-- *Loading latest news...*
+<!-- AI_NEWS:START -->- [The Download: cut through AI coding hype, and biotech trends to watch](https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/) 
+- [Three technologies that will shape biotech in 2026](https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/) 
+- [Exclusive eBook: How AGI Became a Consequential Conspiracy Theory](https://www.technologyreview.com/2026/01/15/1131079/exclusive-ebook-how-agi-became-a-consequential-conspiracy-theory/) 
+- [The Download: spying on the spies, and promising climate tech](https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/) 
 <!-- AI_NEWS:END -->
 
 <sub>📰 Auto-updated every 6 hours via GitHub Actions | Powered by RSS Feeds</sub>
