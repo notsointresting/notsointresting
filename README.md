@@ -186,8 +186,10 @@
 <!-- CYBER_NEWS:END -->
 
 ### 🤖 Latest AI & Tech News
-<!-- AI_NEWS:START -->
-- *Loading latest news...*
+<!-- AI_NEWS:START -->- [The Download: cut through AI coding hype, and biotech trends to watch](https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/) 
+- [Three technologies that will shape biotech in 2026](https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/) 
+- [Exclusive eBook: How AGI Became a Consequential Conspiracy Theory](https://www.technologyreview.com/2026/01/15/1131079/exclusive-ebook-how-agi-became-a-consequential-conspiracy-theory/) 
+- [The Download: spying on the spies, and promising climate tech](https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/) 
 <!-- AI_NEWS:END -->
 
 <sub>📰 Auto-updated every 6 hours via GitHub Actions | Powered by RSS Feeds</sub>
