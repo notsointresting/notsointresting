@@ -1,0 +1,43 @@
+name: 🎌 Update Anime Quote
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Run every 4 hours
+  workflow_dispatch:  # Allow manual runs
+  push:
+    branches:
+      - main
+
+jobs:
+  update-anime-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Anime Quote & Update README
+        run: |
+          # Fetch random anime quote from Animechan API
+          QUOTE_DATA=$(curl -s "https://api.animechan.io/v1/quotes/random")
+          
+          # Extract quote, character, and anime using jq
+          QUOTE=$(echo $QUOTE_DATA | jq -r '.data.content')
+          CHARACTER=$(echo $QUOTE_DATA | jq -r '.data.character.name')
+          ANIME=$(echo $QUOTE_DATA | jq -r '.data.anime.name')
+          
+          # Create the formatted quote
+          FORMATTED_QUOTE="> *\"${QUOTE}\"*\n>\n> — **${CHARACTER}**, *${ANIME}*"
+          
+          # Update README between markers
+          sed -i '/<!-- ANIME_QUOTE:START -->/,/<!-- ANIME_QUOTE:END -->/c\<!-- ANIME_QUOTE:START -->\n'"${FORMATTED_QUOTE}"'\n<!-- ANIME_QUOTE:END -->' README.md
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🎌 Update anime quote"
+          git push

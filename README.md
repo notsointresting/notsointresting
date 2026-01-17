@@ -278,10 +278,14 @@
 
 <div align="center">
 
-<!-- Dynamic Anime Quote -->
-<a href="https://github.com/notsointresting">
-  <img src="https://animu-api.vercel.app/quote" alt="Random Anime Quote" width="600"/>
-</a>
+### 🎌 Random Anime Quote
+<!-- ANIME_QUOTE:START -->
+> *"People's lives don't end when they die. It ends when they lose faith."*
+>
+> — **Itachi Uchiha**, *Naruto Shippuden*
+<!-- ANIME_QUOTE:END -->
+
+<sub>🔄 Auto-updated every 4 hours via GitHub Actions | Powered by Animechan</sub>
 
 <br><br>
 
