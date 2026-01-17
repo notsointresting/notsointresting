@@ -289,9 +289,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People's lives don't end when they die. It ends when they lose faith."*
+> 💬 *"It's something that appear on the chests of illegal contractees."*
 >
-> 🎭 **Itachi Uchiha** — *Naruto Shippuden*
+> 🎭 **Gilbert Nightray** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
