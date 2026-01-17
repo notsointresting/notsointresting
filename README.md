@@ -179,8 +179,10 @@
 <div align="center">
 
 ### 🔒 Latest Cybersecurity News
-<!-- CYBER_NEWS:START -->
-- *Loading latest news...*
+<!-- CYBER_NEWS:START -->- [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html) 
+- [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html) 
+- [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html) 
+- [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html) 
 <!-- CYBER_NEWS:END -->
 
 ### 🤖 Latest AI & Tech News
