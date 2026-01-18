@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t use such strong words. It'll only make you look weak."*
+> 💬 *"So, you don't like to get hit, huh? Well, you're about to have a very bad day."*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Monkey D. Luffy** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
