@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"So, you don't like to get hit, huh? Well, you're about to have a very bad day."*
+> 💬 *"How worthless. Why are you saying things are impossible? You just decided that to make yourself feel better! Sure, there are things you can't do, things that seem impossible, but that's what makes everyone unique!"*
 >
-> 🎭 **Monkey D. Luffy** — *One Piece*
+> 🎭 **Rima Mashiro** — *Shugo Chara*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
