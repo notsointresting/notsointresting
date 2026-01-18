@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You have yet to see what form your soul has taken. That's what it actually means when you claim that you lack joy in your life."*
+> 💬 *"Everyone worries and suffers, but they still go on with their lives. I'm expecting to be able to laugh again, so it's too early to despair!"*
 >
-> 🎭 **Gilgamesh** — *Fate/Zero*
+> 🎭 **Soramaru Kumō** — *Laughing Under the Clouds*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
