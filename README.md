@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everyone worries and suffers, but they still go on with their lives. I'm expecting to be able to laugh again, so it's too early to despair!"*
+> 💬 *"Don’t use such strong words. It'll only make you look weak."*
 >
-> 🎭 **Soramaru Kumō** — *Laughing Under the Clouds*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
