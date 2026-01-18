@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"How worthless. Why are you saying things are impossible? You just decided that to make yourself feel better! Sure, there are things you can't do, things that seem impossible, but that's what makes everyone unique!"*
+> 💬 *"One of the things Blank loves best is saying 'No' to people who think they've got an absolute advantage."*
 >
-> 🎭 **Rima Mashiro** — *Shugo Chara*
+> 🎭 **Sora** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
