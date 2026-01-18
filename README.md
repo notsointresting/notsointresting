@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When captured birds grow wiser, they try to open the cage with their beaks. They don't give up, because they want to fly again."*
+> 💬 *"You have yet to see what form your soul has taken. That's what it actually means when you claim that you lack joy in your life."*
 >
-> 🎭 **Genma Shiranui** — *Naruto*
+> 🎭 **Gilgamesh** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
