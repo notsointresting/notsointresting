@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t remember the name of every weakling I crush."*
+> 💬 *"Sadness is just another wall that blocks you from moving on. I know it's hard to get past it, but you got to break through."*
 >
-> 🎭 **Dracule Mihawk** — *One Piece*
+> 🎭 **Gray Fullbuster** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
