@@ -258,6 +258,31 @@
 
 ---
 
+<!-- fort Section -->
+<h2 align="center">
+  🏯 Digital Fortress of the Day
+</h2>
+
+<p align="center">
+  <sub>
+    Every fortress tells a story — strategy, defense, and resilience.
+  </sub>
+</p>
+
+<p align="center">
+  <img 
+    src="https://random-fort-generator.vercel.app/api/fort-card.svg" 
+    alt="Random Fort Generator"
+    width="600"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    🔄 Regenerated on every refresh · Inspired by history & strategy
+  </sub>
+</p>
+
 <!-- Connect Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -339,3 +364,4 @@
 **⭐ If you find my work interesting, consider dropping a star!**
 
 </div>
+
