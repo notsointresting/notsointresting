@@ -294,9 +294,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It feels like time is passing so quickly. Damn you, Einstein! Your science is crowding in on our kiss! He was right. The passage of time depends entirely on where you’re standing. Relativity Theory… it’s so romantic. But it’s just so tragic too."*
+> 💬 *"Fire soldiers do not leave their comrades behind and run away."*
 >
-> 🎭 **Kurisu Makise** — *Steins Gate*
+> 🎭 **Akitaru Obi** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
