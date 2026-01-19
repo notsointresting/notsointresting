@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Fire soldiers do not leave their comrades behind and run away."*
+> 💬 *"After everything I've faced.... Having a future with you snatched away from me ...is definitely the most terrifying thing I've ever had to endure...."*
 >
-> 🎭 **Akitaru Obi** — *Fire Force*
+> 🎭 **Gajeel Redfox** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
