@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Going beyond pilots with composable and sovereign AI](https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/) 
+<!-- AI_NEWS:START -->- [The Download: the US digital rights crackdown, and AI companionship](https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/) 
+- [Going beyond pilots with composable and sovereign AI](https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/) 
 - [What it’s like to be banned from the US for fighting online hate](https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/) 
 - [The Download: cut through AI coding hype, and biotech trends to watch](https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/) 
-- [Three technologies that will shape biotech in 2026](https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/) 
 <!-- AI_NEWS:END -->
 
 </td>
