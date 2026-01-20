@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sadness is just another wall that blocks you from moving on. I know it's hard to get past it, but you got to break through."*
+> 💬 *"Justice without a great cause begets nothing more than slaughter. That same slaughter in a great cause...Is Justice."*
 >
-> 🎭 **Gray Fullbuster** — *Fairy Tail*
+> 🎭 **Tousen Kaname** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
