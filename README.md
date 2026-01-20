@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I get reincarnated... I wanna become a clam."*
+> 💬 *"Look Goku, you can go out in public and have your hair sticking out in every direction if you want to, but not me!"*
 >
-> 🎭 **Monkey D. Luffy** — *One Piece*
+> 🎭 **Bulma** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
