@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kyo-kun! Kyo-kun! I do love you, Kyo-kun! I love you!!!"*
+> 💬 *"[Fuu passed out after one drink and is asleep] Sleeping so carelessly. I could do something to you so easily."*
 >
-> 🎭 **Sohma Kagura** — *Fruits Basket*
+> 🎭 **Mugen** — *Samurai Champloo*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
