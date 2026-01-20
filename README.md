@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html) 
-- [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack &amp; More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html) 
-- [DevOps &amp; SaaS Downtime: The High &lpar;and Hidden&rpar; Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html) 
-- [New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs](https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html) 
+<!-- CYBER_NEWS:START -->- [Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html) 
+- [Why Secrets in JavaScript Bundles are Still Being Missed](https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html) 
+- [Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html) 
+- [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
