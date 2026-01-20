@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Justice without a great cause begets nothing more than slaughter. That same slaughter in a great cause...Is Justice."*
+> 💬 *"If I get reincarnated... I wanna become a clam."*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Monkey D. Luffy** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
