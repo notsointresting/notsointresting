@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Look Goku, you can go out in public and have your hair sticking out in every direction if you want to, but not me!"*
+> 💬 *"I won the battle but lost the war!"*
 >
-> 🎭 **Bulma** — *Dragon Ball*
+> 🎭 **Zenitsu Agatsuma** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
