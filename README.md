@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I won the battle but lost the war!"*
+> 💬 *"Kyo-kun! Kyo-kun! I do love you, Kyo-kun! I love you!!!"*
 >
-> 🎭 **Zenitsu Agatsuma** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Sohma Kagura** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
