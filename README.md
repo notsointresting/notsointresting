@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I die here, then I'm a man that could only make it this far."*
+> 💬 *"The times when you want to cry are when you have to try your hardest. That's why I decided I'll cry in general. Then, when I have to shed tears for a time when I really want to cry, my tears would have run dry."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Jacuzzi Splot** — *Baccano!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
