@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [All anyone wants to talk about at Davos is AI and Donald Trump](https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/) 
-- [Reimagining ERP for the agentic AI era](https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/) 
-- [The era of agentic chaos and how data will save us](https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/) 
-- [The UK government is backing AI that can run its own lab experiments](https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/) 
+<!-- AI_NEWS:START -->- [Rethinking AI’s future in an augmented workplace](https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/) 
+- [Everyone wants AI sovereignty. No one can truly have it.](https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/) 
+- [The Download: Trump at Davos, and AI scientists](https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/) 
+- [All anyone wants to talk about at Davos is AI and Donald Trump](https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/) 
 <!-- AI_NEWS:END -->
 
 </td>
