@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't want to be anyone's burden. I don't want you to be my dad if it's going to hurt you. (thinking about Kazuma)"*
+> 💬 *"If I die here, then I'm a man that could only make it this far."*
 >
-> 🎭 **Sohma Kyo** — *Fruits Basket*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
