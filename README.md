@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Reimagining ERP for the agentic AI era](https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/) 
+<!-- AI_NEWS:START -->- [All anyone wants to talk about at Davos is AI and Donald Trump](https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/) 
+- [Reimagining ERP for the agentic AI era](https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/) 
 - [The era of agentic chaos and how data will save us](https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/) 
 - [The UK government is backing AI that can run its own lab experiments](https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/) 
-- [The Download: digitizing India, and scoring embryos](https://www.technologyreview.com/2026/01/20/1131459/the-download-digitizing-india-and-scoring-embryos/) 
 <!-- AI_NEWS:END -->
 
 </td>
