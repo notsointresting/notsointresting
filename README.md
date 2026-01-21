@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*to Duke Nightray* You've let your own son die for the honor of your household and other such rubbish. You've lost almost all of your family, and yet all you can think of is your own interests."*
+> 💬 *"I don't want to be anyone's burden. I don't want you to be my dad if it's going to hurt you. (thinking about Kazuma)"*
 >
-> 🎭 **Vincent Nightray** — *Pandora Hearts*
+> 🎭 **Sohma Kyo** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
