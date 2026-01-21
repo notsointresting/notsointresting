@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The times when you want to cry are when you have to try your hardest. That's why I decided I'll cry in general. Then, when I have to shed tears for a time when I really want to cry, my tears would have run dry."*
+> 💬 *"Naruto... Just so you know, there will be a war to protect the Eight-Tails and Nine-Tails. In other words - you. For the sake of the ninja world and as the Kazekage, I will guard you with my life. If as a member of Akatsuki, Sasuke Uchiha stands in the way of the ninja coalition... I will show him no mercy."*
 >
-> 🎭 **Jacuzzi Splot** — *Baccano!*
+> 🎭 **Gaara** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
