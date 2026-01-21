@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[Fuu passed out after one drink and is asleep] Sleeping so carelessly. I could do something to you so easily."*
+> 💬 *"Be Yourself because an Original is worth more than a Copy"*
 >
-> 🎭 **Mugen** — *Samurai Champloo*
+> 🎭 **Taiga Kagami** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
