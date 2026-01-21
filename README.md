@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [North Korea-Linked Hackers Target Developers via Malicious VS Code Projects](https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html) 
-- [Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html) 
-- [Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html) 
-- [The Hidden Risk of Orphan Accounts](https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html) 
+<!-- CYBER_NEWS:START -->- [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html) 
+- [Exposure Assessment Platforms Signal a Shift in Focus](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html) 
+- [Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs](https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html) 
+- [VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code](https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
