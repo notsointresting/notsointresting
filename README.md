@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Be Yourself because an Original is worth more than a Copy"*
+> 💬 *"*to Duke Nightray* You've let your own son die for the honor of your household and other such rubbish. You've lost almost all of your family, and yet all you can think of is your own interests."*
 >
-> 🎭 **Taiga Kagami** — *Kuroko's Basketball - duplicate*
+> 🎭 **Vincent Nightray** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
