@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html) 
+<!-- CYBER_NEWS:START -->- [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html) 
+- [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html) 
 - [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html) 
 - [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html) 
-- [Exposure Assessment Platforms Signal a Shift in Focus](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
