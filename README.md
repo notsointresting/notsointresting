@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The more painful the memories one recollects, the better the laughter."*
+> 💬 *"You know, a lot of people make excuses when they lose."*
 >
-> 🎭 **Horo** — *Spice and Wolf*
+> 🎭 **Ryoma Echizen** — *Prince Of Tennis*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
