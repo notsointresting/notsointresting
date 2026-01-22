@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You should enjoy the little detours to the fullest. Because that’s where you’ll find the things more important than what you want."*
+> 💬 *"The more painful the memories one recollects, the better the laughter."*
 >
-> 🎭 **Ging Freecss** — *Hunter x Hunter*
+> 🎭 **Horo** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
