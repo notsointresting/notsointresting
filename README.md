@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Why 2026 is a hot year for lithium](https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/) 
-- [Yann LeCun’s new venture is a contrarian bet against large language models](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/) 
-- [Rethinking AI’s future in an augmented workplace](https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/) 
-- [Everyone wants AI sovereignty. No one can truly have it.](https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/) 
+<!-- AI_NEWS:START -->- [“Dr. Google” had its issues. Can ChatGPT Health do better?](https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/) 
+- [Dispatch from Davos: hot air, big egos and cold flexes](https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/) 
+- [The Download: Yann LeCun’s new venture, and lithium’s on the rise](https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/) 
+- [Why 2026 is a hot year for lithium](https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/) 
 <!-- AI_NEWS:END -->
 
 </td>
