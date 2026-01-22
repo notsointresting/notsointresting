@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Rethinking AI’s future in an augmented workplace](https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/) 
+<!-- AI_NEWS:START -->- [Why 2026 is a hot year for lithium](https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/) 
+- [Yann LeCun’s new venture is a contrarian bet against large language models](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/) 
+- [Rethinking AI’s future in an augmented workplace](https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/) 
 - [Everyone wants AI sovereignty. No one can truly have it.](https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/) 
-- [The Download: Trump at Davos, and AI scientists](https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/) 
-- [All anyone wants to talk about at Davos is AI and Donald Trump](https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/) 
 <!-- AI_NEWS:END -->
 
 </td>
