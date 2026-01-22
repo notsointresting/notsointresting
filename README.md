@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You know, a lot of people make excuses when they lose."*
+> 💬 *"I'm not just a tool for you to use in order to solve your puzzles, you know!"*
 >
-> 🎭 **Ryoma Echizen** — *Prince Of Tennis*
+> 🎭 **Mello** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
