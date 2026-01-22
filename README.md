@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"History dictates that it is the wise who are most foolish."*
+> 💬 *"Mada mada dane."*
 >
-> 🎭 **Okabe Rintarou** — *Steins;Gate*
+> 🎭 **Ryoma Echizen** — *Prince Of Tennis*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
