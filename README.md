@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm not just a tool for you to use in order to solve your puzzles, you know!"*
+> 💬 *"History dictates that it is the wise who are most foolish."*
 >
-> 🎭 **Mello** — *Death Note*
+> 🎭 **Okabe Rintarou** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
