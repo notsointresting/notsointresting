@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Naruto... Just so you know, there will be a war to protect the Eight-Tails and Nine-Tails. In other words - you. For the sake of the ninja world and as the Kazekage, I will guard you with my life. If as a member of Akatsuki, Sasuke Uchiha stands in the way of the ninja coalition... I will show him no mercy."*
+> 💬 *"You should enjoy the little detours to the fullest. Because that’s where you’ll find the things more important than what you want."*
 >
-> 🎭 **Gaara** — *Naruto*
+> 🎭 **Ging Freecss** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
