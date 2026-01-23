@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html) 
-- [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html) 
-- [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams &amp; 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html) 
-- [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html) 
+<!-- CYBER_NEWS:START -->- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html) 
+- [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html) 
+- [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html) 
+- [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
