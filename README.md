@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Although my life hasn't been very fortunate until now, I'm glad if I caught your eye because of that misfortune..."*
+> 💬 *"This is your world. As an outsider it may be out of place to say this... But I want to make one thing clear: Mere observers have no right to decide the future!"*
 >
-> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
+> 🎭 **Reiji Akaba** — *Yu-Gi-Oh! Arc-V*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
