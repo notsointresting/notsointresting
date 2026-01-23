@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html) 
+<!-- CYBER_NEWS:START -->- [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html) 
+- [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html) 
+- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html) 
 - [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html) 
-- [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html) 
-- [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
