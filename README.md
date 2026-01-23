@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Mada mada dane."*
+> 💬 *"Although my life hasn't been very fortunate until now, I'm glad if I caught your eye because of that misfortune..."*
 >
-> 🎭 **Ryoma Echizen** — *Prince Of Tennis*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
