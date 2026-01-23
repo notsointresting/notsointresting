@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Throughout all of history, no wise king has ever forced his army to obey him through oppression. People will only truly fight for what is right. And there is only one thing that is truly right in this world! The one true, unchanging righteousness in the world is... cuteness! Cute makes right! All our needs, desires, and instincts seek cuteness, and it is for cuteness that we will give everything we have! That's just the way men are!"*
+> 💬 *"The fear of interacting with people...even I understand that one."*
 >
-> 🎭 **Sora** — *No Game, No Life*
+> 🎭 **Soul Evans** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
