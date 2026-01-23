@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [“Dr. Google” had its issues. Can ChatGPT Health do better?](https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/) 
+<!-- AI_NEWS:START -->- [America’s coming war over AI regulation](https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/) 
+- [Measles is surging in the US. Wastewater tracking could help.](https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/) 
+- [“Dr. Google” had its issues. Can ChatGPT Health do better?](https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/) 
 - [Dispatch from Davos: hot air, big egos and cold flexes](https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/) 
-- [The Download: Yann LeCun’s new venture, and lithium’s on the rise](https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/) 
-- [Why 2026 is a hot year for lithium](https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/) 
 <!-- AI_NEWS:END -->
 
 </td>
