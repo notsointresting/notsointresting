@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Trusting someone not to hurt you... how idiotic is that?"*
+> 💬 *"But even though she's gone... she's not really gone, right? That the light won't go on in that apartment... is a lie, right?"*
 >
-> 🎭 **Crona** — *Soul Eater*
+> 🎭 **Arisa Uotani** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
