@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The fear of interacting with people...even I understand that one."*
+> 💬 *"Trusting someone not to hurt you... how idiotic is that?"*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Crona** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
