@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why is it that the beautiful things are entwined more deeply with death than with life?"*
+> 💬 *"[to Choe Neng Poww, as the giant Arrancar charges a Cero after making a comment on Komamura's strength] I see...Then I shall stop that yawn in its tracks. Bankai."*
 >
-> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
+> 🎭 **Komamura Sajin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
