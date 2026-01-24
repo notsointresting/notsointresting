@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"But even though she's gone... she's not really gone, right? That the light won't go on in that apartment... is a lie, right?"*
+> 💬 *"Can it be that I'm afraid or is it merely I know not my own limit?"*
 >
-> 🎭 **Arisa Uotani** — *Fruits Basket*
+> 🎭 **Sesshomaru** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
