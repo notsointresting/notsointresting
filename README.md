@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to Choe Neng Poww, as the giant Arrancar charges a Cero after making a comment on Komamura's strength] I see...Then I shall stop that yawn in its tracks. Bankai."*
+> 💬 *"Is dying that scary to you?"*
 >
-> 🎭 **Komamura Sajin** — *Bleach*
+> 🎭 **Minato Arisato** — *Persona 3 the Movie: #1 Spring of Birth*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
