@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Is dying that scary to you?"*
+> 💬 *"All of life's journeys come with meetings, partings, and reunions."*
 >
-> 🎭 **Minato Arisato** — *Persona 3 the Movie: #1 Spring of Birth*
+> 🎭 **Meryl Stryfe** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
