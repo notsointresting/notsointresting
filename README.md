@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Well, I wonder what the prince would do if he knew, you authorized Planet Vegeta’s destruction from the start?"*
+> 💬 *"Logic is panic's prey."*
 >
-> 🎭 **Whis** — *Dragon Ball Z*
+> 🎭 **Kurama** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
