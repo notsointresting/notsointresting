@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Logic is panic's prey."*
+> 💬 *"What do you mean I use my sexual charm?!"*
 >
-> 🎭 **Kurama** — *Yu Yu Hakusho*
+> 🎭 **Misa Amane** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
