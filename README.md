@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Simple yet mysterious. Distant ancestors unlike any plant or animal we've ever seen. These groups of odd creatures have induced whispers of fear among man since ancient times."*
+> 💬 *"Well, I wonder what the prince would do if he knew, you authorized Planet Vegeta’s destruction from the start?"*
 >
-> 🎭 **Ginko** — *Mushi-Shi*
+> 🎭 **Whis** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
