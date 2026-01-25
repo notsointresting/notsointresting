@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even with your stones, I'm on a whole other level!"*
+> 💬 *"Simple yet mysterious. Distant ancestors unlike any plant or animal we've ever seen. These groups of odd creatures have induced whispers of fear among man since ancient times."*
 >
-> 🎭 **Edward Elric** — *Fullmetal Alchemist*
+> 🎭 **Ginko** — *Mushi-Shi*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
