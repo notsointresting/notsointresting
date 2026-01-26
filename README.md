@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What do you mean I use my sexual charm?!"*
+> 💬 *"Stop coming after the jewel. I do not wish to waste more arrows."*
 >
-> 🎭 **Misa Amane** — *Death Note*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
