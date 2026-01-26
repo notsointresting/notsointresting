@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why did you run away, Chitoge-chan? No... I don't want this... I won't be happy with you just giving up... To end up liking the same person. It's painful, for sure but Chitoge-chan, you like him enough to not be able to face him again after that, don't you? Regardless of who ends up with him, I want to be satisfied when it happens. I thought for sure that you think the same way. Is there a reason why that can't happen? Tell me Chitoge-chan..."*
+> 💬 *"*To Gajeel Redfox* You guys are complete idiots! I feel so sorry for you, I think I'm tearing up. Phantom Lord? The spirit ruler? What a joke; I'm not afraid of you at all!"*
 >
-> 🎭 **Onodera Kosaki** — *Nisekoi: False Love*
+> 🎭 **Lucy Heartfilia** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
