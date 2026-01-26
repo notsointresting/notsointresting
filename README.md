@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you've decided that you can't do it even before you act, you have already made it into something impossible."*
+> 💬 *"*to Ichigo, after he released his bankai for the first time* What is that? Are you saying that this small thing is a bankai? Isn't it just the sealed form of your zanpakutō? I see. First the execution, and now Bankai. I can see that you enjoy treading on our pride. Very well, then. I will carve into your body...The punishment for injuring our pride!"*
 >
-> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
+> 🎭 **Kuchiki Byakuya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
