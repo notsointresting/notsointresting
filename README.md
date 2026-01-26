@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*to Ichigo, after he released his bankai for the first time* What is that? Are you saying that this small thing is a bankai? Isn't it just the sealed form of your zanpakutō? I see. First the execution, and now Bankai. I can see that you enjoy treading on our pride. Very well, then. I will carve into your body...The punishment for injuring our pride!"*
+> 💬 *"Why did you run away, Chitoge-chan? No... I don't want this... I won't be happy with you just giving up... To end up liking the same person. It's painful, for sure but Chitoge-chan, you like him enough to not be able to face him again after that, don't you? Regardless of who ends up with him, I want to be satisfied when it happens. I thought for sure that you think the same way. Is there a reason why that can't happen? Tell me Chitoge-chan..."*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **Onodera Kosaki** — *Nisekoi: False Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
