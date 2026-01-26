@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Stop coming after the jewel. I do not wish to waste more arrows."*
+> 💬 *"You shouldn’t stop like that. If you can move forward, then you should."*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Furukawa Nagisa** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
