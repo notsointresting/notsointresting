@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You shouldn’t stop like that. If you can move forward, then you should."*
+> 💬 *"If you've decided that you can't do it even before you act, you have already made it into something impossible."*
 >
-> 🎭 **Furukawa Nagisa** — *Clannad*
+> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
