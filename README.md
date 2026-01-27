@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Never look at your life as something insignificant. Never forget those friends of yours that you loved."*
+> 💬 *"That's pretty bad when you can even give a half demon the creeps. *to Kagome*"*
 >
-> 🎭 **Natsu Dragneel** — *Fairy Tail*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
