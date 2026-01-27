@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html) 
-- [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html) 
-- [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs &amp; More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html) 
-- [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html) 
+<!-- CYBER_NEWS:START -->- [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html) 
+- [Microsoft Office Zero-Day &lpar;CVE-2026-21509&rpar; - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html) 
+- [Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas](https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html) 
+- [China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023](https://thehackernews.com/2026/01/china-linked-hackers-have-used.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
