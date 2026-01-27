@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*To Gajeel Redfox* You guys are complete idiots! I feel so sorry for you, I think I'm tearing up. Phantom Lord? The spirit ruler? What a joke; I'm not afraid of you at all!"*
+> 💬 *"Lend me 100 yen since I'm beautiful."*
 >
-> 🎭 **Lucy Heartfilia** — *Fairy Tail*
+> 🎭 **Aisa Himegami** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
