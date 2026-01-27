@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Why chatbots are starting to check your age](https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/) 
+<!-- AI_NEWS:START -->- [Inside OpenAI’s big play for science](https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/) 
+- [Why chatbots are starting to check your age](https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/) 
 - [The power of sound in a virtual world](https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/) 
 - [The Download: why LLMs are like aliens, and the future of head transplants](https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/) 
-- [The Download: chatbots for health, and US fights over AI regulation](https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/) 
 <!-- AI_NEWS:END -->
 
 </td>
