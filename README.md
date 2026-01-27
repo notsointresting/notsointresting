@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I despise you with my last breath. My spirit will not forget that all consuming hatred. So long that you live, my spirit can not be free. *to Inuyasha*"*
+> 💬 *"Never look at your life as something insignificant. Never forget those friends of yours that you loved."*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Natsu Dragneel** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
