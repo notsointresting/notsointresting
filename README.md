@@ -319,7 +319,7 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Meeting you was the best thing that ever happened to me. You made me so happy. I don’t want you to be lost or afraid or anything like that. From here on out, I know things might be hard sometimes. But no matter what may await, please don’t regret meeting me."*
+> 💬 *"You shouldn’t stop like that. If you can move forward, then you should."*
 >
 > 🎭 **Furukawa Nagisa** — *Clannad*
 <!-- ANIME_QUOTE:END -->
