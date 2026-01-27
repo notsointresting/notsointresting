@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Inside OpenAI’s big play for science](https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/) 
-- [Why chatbots are starting to check your age](https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/) 
-- [The power of sound in a virtual world](https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/) 
-- [The Download: why LLMs are like aliens, and the future of head transplants](https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/) 
+<!-- AI_NEWS:START -->- [OpenAI’s latest product lets you vibe code science](https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/) 
+- [Stratospheric internet could finally start taking off this year](https://www.technologyreview.com/2026/01/27/1131780/stratospheric-internet-take-off/) 
+- [The Download: OpenAI’s plans for science, and chatbot age verification](https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/) 
+- [Inside OpenAI’s big play for science](https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/) 
 <!-- AI_NEWS:END -->
 
 </td>
