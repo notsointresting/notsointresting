@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I saw the news and hopped over! You’re part of the league, right? I’ll kick your butt!"*
+> 💬 *"[thinking as Nel tells her to cheer for Ichigo] That's right. To begin with, I came here just thinking I wanted to protect everyone. But when I heard they had come to save me, I couldn't help but feel a little glad, just a bit in my heart. When I look at Kurosaki-kun in that mask, I think that he might not have come here to save me at all. Even though it's wrong, they shouldn't be going that far for me."*
 >
-> 🎭 **Rumi Usagiyama** — *My Hero Academia*
+> 🎭 **Inoue Orihime** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
