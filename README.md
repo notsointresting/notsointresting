@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [OpenAI’s latest product lets you vibe code science](https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/) 
+<!-- AI_NEWS:START -->- [The first human test of a rejuvenation method will begin “shortly”](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/) 
+- [OpenAI’s latest product lets you vibe code science](https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/) 
 - [Stratospheric internet could finally start taking off this year](https://www.technologyreview.com/2026/01/27/1131780/stratospheric-internet-take-off/) 
 - [The Download: OpenAI’s plans for science, and chatbot age verification](https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/) 
-- [Inside OpenAI’s big play for science](https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/) 
 <!-- AI_NEWS:END -->
 
 </td>
