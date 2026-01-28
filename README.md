@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You shouldn’t stop like that. If you can move forward, then you should."*
+> 💬 *"By abandoning offense, even without winning, the result will be effectively victory."*
 >
-> 🎭 **Furukawa Nagisa** — *Clannad*
+> 🎭 **Togame** — *Katanagatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
