@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"By abandoning offense, even without winning, the result will be effectively victory."*
+> 💬 *"I’ve always been alone. The only one that can bring warmth into my life, is you."*
 >
-> 🎭 **Togame** — *Katanagatari*
+> 🎭 **Kaname Kuran** — *Vampire Knight*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
