@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) 
+<!-- AI_NEWS:START -->- [The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem](https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/) 
+- [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) 
 - [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/) 
 - [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/) 
-- [What AI “remembers” about you is privacy’s next frontier](https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/) 
 <!-- AI_NEWS:END -->
 
 </td>
