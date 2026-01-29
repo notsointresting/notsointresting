@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am not a hero. I can't make anyone happy with any result. I can only do what I deem right with me not hating my choice at a later point."*
+> 💬 *"Every individual must be aware of themselves. If not, those who watch them think fools of themselves."*
 >
-> 🎭 **Osamu Mikumo** — *World Trigger*
+> 🎭 **Fuyumi Irisu** — *Hyouka*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
