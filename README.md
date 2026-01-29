@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Saving someone means not saving someone else."*
+> 💬 *"Nervousness. Panic. I’m feeling all kinds of pressure. But for some reason… I’m also incredibly excited!"*
 >
-> 🎭 **Emiya Kiritsugu** — *Fate/stay night*
+> 🎭 **Kafka Hibino** — *Kaiju No. 8*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
