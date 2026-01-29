@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/) 
+<!-- AI_NEWS:START -->- [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) 
+- [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/) 
+- [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/) 
 - [What AI “remembers” about you is privacy’s next frontier](https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/) 
-- [Rules fail at the prompt, succeed at the boundary](https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/) 
-- [The Download: A bid to treat blindness, and bridging the internet divide](https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/) 
 <!-- AI_NEWS:END -->
 
 </td>
