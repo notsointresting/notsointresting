@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No matter what you do, it's all futile in this world."*
+> 💬 *"The biggest idiot is you! So why don't you go back to school or whatever it is that idiots like you do and don't ever bother me again! You piece of shit! (To Yuki)"*
 >
-> 🎭 **Shuntarou Chishiya** — *Alice in Borderland*
+> 🎭 **Sohma Rin** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
