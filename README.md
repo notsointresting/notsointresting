@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nervousness. Panic. I’m feeling all kinds of pressure. But for some reason… I’m also incredibly excited!"*
+> 💬 *"There is one thing that makes a human a human... and that is their will."*
 >
-> 🎭 **Kafka Hibino** — *Kaiju No. 8*
+> 🎭 **Montana Max** — *Hellsing Ultimate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
