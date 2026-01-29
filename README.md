@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is one thing that makes a human a human... and that is their will."*
+> 💬 *"I am not a hero. I can't make anyone happy with any result. I can only do what I deem right with me not hating my choice at a later point."*
 >
-> 🎭 **Montana Max** — *Hellsing Ultimate*
+> 🎭 **Osamu Mikumo** — *World Trigger*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
