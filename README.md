@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Magic is not meant to be used to kill people... but without power we can't even protect the ones we love..."*
+> 💬 *"Because nothing makes one happier than being with the one you love."*
 >
-> 🎭 **Mirajane Strauss** — *Fairy Tail*
+> 🎭 **Isla** — *Plastic Memories*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
