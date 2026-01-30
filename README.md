@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs &amp; 25+ More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html) 
+<!-- CYBER_NEWS:START -->- [Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries](https://thehackernews.com/2026/01/researchers-find-175000-publicly.html) 
+- [ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs &amp; 25+ More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html) 
 - [Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html) 
 - [3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026](https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html) 
-- [SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass](https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
