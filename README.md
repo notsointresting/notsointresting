@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It may be hard right now... But you must silence those thoughts! Stop counting only those things that you have lost! What is gone, is gone! So ask yourself this: What is there... that still remains to you?!"*
+> 💬 *"The same thing as always. No matter how many times I reach game over and no matter how many times I must pathetically hit continue, I will not stop moving forward."*
 >
-> 🎭 **Jinbei** — *One Piece*
+> 🎭 **Kamijou Touma** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
