@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Every individual must be aware of themselves. If not, those who watch them think fools of themselves."*
+> 💬 *"It may be hard right now... But you must silence those thoughts! Stop counting only those things that you have lost! What is gone, is gone! So ask yourself this: What is there... that still remains to you?!"*
 >
-> 🎭 **Fuyumi Irisu** — *Hyouka*
+> 🎭 **Jinbei** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
