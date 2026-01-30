@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I like myself. I have never once hated myself. My high specs, my half-decent looks, my pessimistic, realist point of view... I don't hate any of it at all."*
+> 💬 *"Some questions with no answers cannot be answered even by those who live forever. Yet, the absence of a correct answer does not mean the question cannot be answered. If you want to know how I felt about the complete ban on some culture and art that I could not understand, was not interested in, or could not accept, in the name of preventing the violations of others’ rights or other trumped up charges, I believe that would be taking us onto the road of discriminating against others. If we define culture as that which is healthy or humane, and defend that decision in the name of justice, once any part of that system collapses, it will cause an unimaginable number of problems for society. For instance, if I drew a line in the middle and erased one side, the next day, a new line will appear in the middle of the side that is left. I think suppressing the instincts and thoughts of the human spirit is bad. The desire for purity and wholesomeness, when taken to an extreme, is harmful."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Rory Mercury** — *GATE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
