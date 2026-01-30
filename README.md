@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Because nothing makes one happier than being with the one you love."*
+> 💬 *"I like myself. I have never once hated myself. My high specs, my half-decent looks, my pessimistic, realist point of view... I don't hate any of it at all."*
 >
-> 🎭 **Isla** — *Plastic Memories*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
