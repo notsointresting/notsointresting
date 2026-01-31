@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being indebted to someone is nothing to be ashamed of. Not repaying that debt is."*
+> 💬 *"Feel the rage, The powerful, pure rage of not being able to forgive will become your unswerving drive to take action."*
 >
-> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
+> 🎭 **Giyu Tomioka** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
