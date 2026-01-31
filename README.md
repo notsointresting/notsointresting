@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The world hates us for what we are, you know it makes us happy… Even if it’s just a word."*
+> 💬 *"There is no need for any proof. There is no need to create any. We just have to live every second to the fullest, and the traces of the path we lived will burn into the ground. That will serve as proof of our existence."*
 >
-> 🎭 **Marco** — *One Piece*
+> 🎭 **Hijikata Toushirou** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
