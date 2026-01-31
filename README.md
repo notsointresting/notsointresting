@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If there is such a thing as the work of the devil, then there's no doubt it's what happened in this incident."*
+> 💬 *"The world hates us for what we are, you know it makes us happy… Even if it’s just a word."*
 >
-> 🎭 **Riza Hawkeye** — *Fullmetal Alchemist*
+> 🎭 **Marco** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
