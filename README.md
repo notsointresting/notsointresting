@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is no need for any proof. There is no need to create any. We just have to live every second to the fullest, and the traces of the path we lived will burn into the ground. That will serve as proof of our existence."*
+> 💬 *"The ticket to the future, is always blank."*
 >
-> 🎭 **Hijikata Toushirou** — *Gintama*
+> 🎭 **Vash the Stampede** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
