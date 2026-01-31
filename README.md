@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Feel the rage, The powerful, pure rage of not being able to forgive will become your unswerving drive to take action."*
+> 💬 *"If there is such a thing as the work of the devil, then there's no doubt it's what happened in this incident."*
 >
-> 🎭 **Giyu Tomioka** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Riza Hawkeye** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
