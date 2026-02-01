@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No one’s going to criticize you if you get excited for something, or you laugh with all your heart! And if someone does, I’ll beat them up!"*
+> 💬 *"Nothing that happens is ever forgotten, even if you can't remember it."*
 >
-> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
+> 🎭 **Zeniba** — *Spirited Away*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
