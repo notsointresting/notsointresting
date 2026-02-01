@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Any prize worth having requires a risk."*
+> 💬 *"No one’s going to criticize you if you get excited for something, or you laugh with all your heart! And if someone does, I’ll beat them up!"*
 >
-> 🎭 **Kurama** — *Yu Yu Hakusho*
+> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
