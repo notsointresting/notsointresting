@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nothing that happens is ever forgotten, even if you can't remember it."*
+> 💬 *"There has never been a report about a stomach ache or any other related medical trauma from swallowing your pride."*
 >
-> 🎭 **Zeniba** — *Spirited Away*
+> 🎭 **Daisuke Aramaki** — *Ghost in the Shell*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
