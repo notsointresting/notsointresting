@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Without a body, I can't even cry. Why am I here? I can't go anywhere. I'm neither here nor there. Who am I here for? What am I here for?"*
+> 💬 *"If a member of one’s family is killed by a thief, then one should hate the thief. But people will miss aim their hatred — why should they go to where the thief hides? If one loses a family member to sickness, then one should hate the disease. It is not the doctor’s fault; yet people will hate the doctor."*
 >
-> 🎭 **Atsushi Shimao** — *Natsuyuki Rendezvous*
+> 🎭 **Lelei la Lelena** — *GATE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
