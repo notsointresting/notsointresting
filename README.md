@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The ticket to the future, is always blank."*
+> 💬 *"Without a body, I can't even cry. Why am I here? I can't go anywhere. I'm neither here nor there. Who am I here for? What am I here for?"*
 >
-> 🎭 **Vash the Stampede** — *Trigun*
+> 🎭 **Atsushi Shimao** — *Natsuyuki Rendezvous*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
