@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If a member of one’s family is killed by a thief, then one should hate the thief. But people will miss aim their hatred — why should they go to where the thief hides? If one loses a family member to sickness, then one should hate the disease. It is not the doctor’s fault; yet people will hate the doctor."*
+> 💬 *"Any prize worth having requires a risk."*
 >
-> 🎭 **Lelei la Lelena** — *GATE*
+> 🎭 **Kurama** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
