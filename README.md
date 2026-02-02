@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [What’s next for EV batteries in 2026](https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/) 
-- [Inside the marketplace powering bespoke AI deepfakes of real women](https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/) 
-- [The Download: US immigration agencies’ AI videos, and inside the Vitalism movement](https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/) 
-- [How the sometimes-weird world of lifespan extension is gaining influence](https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/) 
+<!-- AI_NEWS:START -->- [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) 
+- [The crucial first step for designing a successful enterprise AI system](https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/) 
+- [The Download: inside a deepfake marketplace, and EV batteries’ future](https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/) 
+- [What’s next for EV batteries in 2026](https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/) 
 <!-- AI_NEWS:END -->
 
 </td>
