@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To believe in someone can be a dangerous thing."*
+> 💬 *"People do not exist to follow rules. Rules exist to protect the people."*
 >
-> 🎭 **TimeKeeper** — *Gunslinger Stratos: The Animation*
+> 🎭 **Medaka Kurokami** — *Medaka Box*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
