@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People do not exist to follow rules. Rules exist to protect the people."*
+> 💬 *"Someday, I just want to marry a regular girl who isn't too ugly and not too pretty. Have two children, first a girl, then a boy. Retire after my daughter is married and my son becomes a successful ninja, and spend the rest of my life playing shōgi or Go. Then die of old age before my wife."*
 >
-> 🎭 **Medaka Kurokami** — *Medaka Box*
+> 🎭 **Nara Shikamaru** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
