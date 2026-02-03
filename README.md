@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Every time you and I interact...a bit of "heart" is born between us. Heart isn't something inside you. But whenever you think, whenever you remember someone, that's when heart is born. I mean, if you were the only one alive in the whole world, heart wouldn't exist, now would it?"*
+> 💬 *"All creatures want to believe in something bigger than themselves. They cannot live without blind obedience. And to escape the pressure of that trust, those in whom faith is placed in turn look for someone higher than themselves. And then those people in turn look for someone even stronger. That is how all Kings are born. That is how all Gods are born."*
 >
-> 🎭 **Shiba Kaien** — *Bleach*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
