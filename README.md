@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you want to know what others think, you first have to say what you think."*
+> 💬 *"Perfection is a fairly nonexistent thing. If you couldn’t do it, it was probably impossible for anybody else, too."*
 >
-> 🎭 **Akise Aru** — *The Future Diary*
+> 🎭 **Reinhard von Lohengramm** — *Legend of the Galactic Heroes*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
