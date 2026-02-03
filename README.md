@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) 
+<!-- AI_NEWS:START -->- [The Download: squeezing more metal out of aging mines, and AI’s truth crisis](https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/) 
+- [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) 
 - [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) 
 - [The crucial first step for designing a successful enterprise AI system](https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/) 
-- [The Download: inside a deepfake marketplace, and EV batteries’ future](https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/) 
 <!-- AI_NEWS:END -->
 
 </td>
