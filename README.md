@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Perfection is a fairly nonexistent thing. If you couldn’t do it, it was probably impossible for anybody else, too."*
+> 💬 *"Even if I DO sacrifice my own life, I will only do it to save my friends."*
 >
-> 🎭 **Reinhard von Lohengramm** — *Legend of the Galactic Heroes*
+> 🎭 **Lenalee Lee** — *D.Gray-man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
