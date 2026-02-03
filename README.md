@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if I DO sacrifice my own life, I will only do it to save my friends."*
+> 💬 *"If you realize you made a mistake with the way you've been living your life, you just have to take the next moment and start over."*
 >
-> 🎭 **Lenalee Lee** — *D.Gray-man*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
