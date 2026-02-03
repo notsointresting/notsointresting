@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if no one in the world believes you, stick out your chest and scream in defiance."*
+> 💬 *"If you want to know what others think, you first have to say what you think."*
 >
-> 🎭 **Rukia Kuchiki** — *Bleach*
+> 🎭 **Akise Aru** — *The Future Diary*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
