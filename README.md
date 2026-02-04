@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: squeezing more metal out of aging mines, and AI’s truth crisis](https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/) 
+<!-- AI_NEWS:START -->- [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/) 
+- [The Download: the future of nuclear power plants, and social media-fueled AI hype](https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/) 
+- [The Download: squeezing more metal out of aging mines, and AI’s truth crisis](https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/) 
 - [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) 
-- [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) 
-- [The crucial first step for designing a successful enterprise AI system](https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/) 
 <!-- AI_NEWS:END -->
 
 </td>
