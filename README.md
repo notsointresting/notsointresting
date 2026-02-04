@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Death is terrible for anyone. Young or old, good or evil, it's all the same. Death is impartial. There is no especially terrible death. That's why death is so fearsome. Your deeds, your age, your personality, your wealth, your beauty... They are all meaningless in the face of death."*
+> 💬 *"How do you know that the person you were one second ago, is the same person that you are right now?"*
 >
-> 🎭 **Sunako Kirishiki** — *Shiki*
+> 🎭 **Eri Ochiai** — *Perfect Blue*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
