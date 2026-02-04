@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"How do you know that the person you were one second ago, is the same person that you are right now?"*
+> 💬 *"Don't bother coming to the darkness that you don't need to see... I don't want to show you the darkness that doesn't belong to you... Don't let yourself be hurt so much anymore... Rather, let me be your strength."*
 >
-> 🎭 **Eri Ochiai** — *Perfect Blue*
+> 🎭 **Natsume Hyuuga** — *Gakuen Alice*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
