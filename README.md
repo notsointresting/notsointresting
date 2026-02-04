@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh? I thought I severed your body from the waist-down, but...It seems the cut was too shallow."*
+> 💬 *"Death is terrible for anyone. Young or old, good or evil, it's all the same. Death is impartial. There is no especially terrible death. That's why death is so fearsome. Your deeds, your age, your personality, your wealth, your beauty... They are all meaningless in the face of death."*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Sunako Kirishiki** — *Shiki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
