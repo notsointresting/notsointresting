@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you realize you made a mistake with the way you've been living your life, you just have to take the next moment and start over."*
+> 💬 *"People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Ai Haibara** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
