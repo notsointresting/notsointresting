@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html) 
+<!-- CYBER_NEWS:START -->- [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html) 
+- [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html) 
 - [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html) 
 - [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html) 
-- [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
