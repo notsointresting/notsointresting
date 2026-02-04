@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder."*
+> 💬 *"Oh? I thought I severed your body from the waist-down, but...It seems the cut was too shallow."*
 >
-> 🎭 **Ai Haibara** — *Case Closed*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
