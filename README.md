@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The bond between Nezuko and me, can’t be severed by anyone!"*
+> 💬 *"There are things you can't have no matter how much you want them. So it's easier to just forget them."*
 >
-> 🎭 **Tanjiro Kamado** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
