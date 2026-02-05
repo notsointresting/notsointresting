@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Three questions about next-generation nuclear power, answered](https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/) 
+<!-- AI_NEWS:START -->- [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) 
+- [The Download: attempting to track AI, and the next generation of nuclear power](https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/) 
+- [Three questions about next-generation nuclear power, answered](https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/) 
 - [This is the most misunderstood graph in AI](https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/) 
-- [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/) 
-- [The Download: the future of nuclear power plants, and social media-fueled AI hype](https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/) 
 <!-- AI_NEWS:END -->
 
 </td>
