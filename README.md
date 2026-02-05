@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does?"*
+> 💬 *"The bond between Nezuko and me, can’t be severed by anyone!"*
 >
-> 🎭 **Faye Valentine** — *Cowboy Bebop*
+> 🎭 **Tanjiro Kamado** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
