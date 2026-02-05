@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"History dictates that it is the wise who are most foolish."*
+> 💬 *"It isn't just "others". Not "others". It's my Family. I'll force my ideals on my family. And since they're family, I'll lie to them. I'll deceive them. I'll cause them trouble. I'll make them worry. I'll owe them things, things I'll never be able to repay. However, I think that's okay. If you say that being an impostor is evil, then I will shoulder the burden of that evil. If lying is a bad thing, then I'm fine being the bad person. I don't need them to like me. I'm fine with being the worst kind of person."*
 >
-> 🎭 **Okabe Rintarou** — *Steins;Gate*
+> 🎭 **Koyomi Araragi** — *Nisemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
