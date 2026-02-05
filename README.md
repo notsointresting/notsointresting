@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Criticism of yourself as you're observed by others doesn't matter. If your existence is firmly acknowledged by you yourself, that's enough. If you can live with confidence in yourself, surely you can accept any kind of lifestyle."*
+> 💬 *"The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does?"*
 >
-> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
+> 🎭 **Faye Valentine** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
