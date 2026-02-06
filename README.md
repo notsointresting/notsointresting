@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) 
+<!-- AI_NEWS:START -->- [An experimental surgery is helping cancer survivors give birth](https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/) 
+- [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) 
 - [The Download: attempting to track AI, and the next generation of nuclear power](https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/) 
 - [Three questions about next-generation nuclear power, answered](https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/) 
-- [This is the most misunderstood graph in AI](https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/) 
 <!-- AI_NEWS:END -->
 
 </td>
