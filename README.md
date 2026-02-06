@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"About Whitebeard "Even in death, his body did not fall. His figure, taking down enemies while losing half of his head, was truly monstrous. The total number of sword wounds he received in this battle was 267. He was shot by 152 bullets. And was hit by 46 cannonballs. And despite all this, his proud back, over the course of his entire life as a pirate, never received a single scar from running away!""*
+> 💬 *"We do not live in a fairy-tale world. We cannot simply take revenge on those who have betrayed us and say "the end". We have to live on after this. And taking revenge for betrayal only invites more revenge."*
 >
-> 🎭 **Whitebeard** — *One Piece*
+> 🎭 **Kraft Lawrence** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
