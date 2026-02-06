@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This area feels weird, it's been throbbing hard since that time. When you told me not to go. When you held me so tight. It won't go away. Your voice is still in my ear. What happened to me? Is this... love?"*
+> 💬 *"[Talking to Riki] We've spent time together that made our hearts dance. But every story has to come to an end. No one can stay a kid forever. Time passes, and people grow up. There will come a day when we will no longer be together."*
 >
-> 🎭 **Mashiro Shiina** — *The Pet Girl of Sakurasou*
+> 🎭 **Kyousuke Natsume** — *Little Busters!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
