@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are things you can't have no matter how much you want them. So it's easier to just forget them."*
+> 💬 *"This area feels weird, it's been throbbing hard since that time. When you told me not to go. When you held me so tight. It won't go away. Your voice is still in my ear. What happened to me? Is this... love?"*
 >
-> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
+> 🎭 **Mashiro Shiina** — *The Pet Girl of Sakurasou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
