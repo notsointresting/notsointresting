@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if you are facing a bitter aspect of life... Drugs and murder are foul, without any excuse. Deserve a red card, for a loser."*
+> 💬 *"If the father's responsibility is to protect the child... then my responsibility is to exceed the father."*
 >
-> 🎭 **Shinichi Kudou** — *Case Closed*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
