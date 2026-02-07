@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I've always lived in a world of deceit. And amidst the lies, I was able to find my true treasure."*
+> 💬 *"I'm not just a tool for you to use in order to solve your puzzles, you know!"*
 >
-> 🎭 **Teito Klein** — *07-Ghost*
+> 🎭 **Mello** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
