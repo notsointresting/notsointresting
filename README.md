@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"(to Kagura) Sorry that's your cue to say "Shigure you perv" and roll your eyes, slap me, whatever."*
+> 💬 *"All meetings must end with partings."*
 >
-> 🎭 **Sohma Shigure** — *Fruits Basket*
+> 🎭 **Dera Mochimazzi** — *Tamako Market*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
