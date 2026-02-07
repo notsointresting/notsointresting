@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Justice is a weapon. It can be used to cause harm, but it cannot protect or save others."*
+> 💬 *"I've always lived in a world of deceit. And amidst the lies, I was able to find my true treasure."*
 >
-> 🎭 **Osamu Dazai** — *Bungo Stray Dogs*
+> 🎭 **Teito Klein** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
