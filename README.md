@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If the father's responsibility is to protect the child... then my responsibility is to exceed the father."*
+> 💬 *"(to Kagura) Sorry that's your cue to say "Shigure you perv" and roll your eyes, slap me, whatever."*
 >
-> 🎭 **Naruto Uzumaki** — *Naruto*
+> 🎭 **Sohma Shigure** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
