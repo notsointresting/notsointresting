@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The bells are very loud today."*
+> 💬 *"Are you going to keep staring at me because it's ticking me off. If you got something to say, say it."*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
