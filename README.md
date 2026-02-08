@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...If Tohru-chan were to die, I...I wonder if I'd be able to smile again one year later? Or if I'd wish that I could forget ever having met her. ...Tohru-chan... has tried really hard..."*
+> 💬 *"I am who I am because I learned your ideals and took your prayers to the heart. You've guided me. You've given me a life a mere puppet wouldn't have. You need not to pity me. I am a part of you."*
 >
-> 🎭 **Saki Hanajima** — *Fruits Basket*
+> 🎭 **Irisviel von Einzbern** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
