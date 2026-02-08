@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Family? Let me tell you what kind of link I have with them. They are just lumps of meat linked by hatred and murderous intent!"*
+> 💬 *"The bells are very loud today."*
 >
-> 🎭 **Gaara** — *Naruto*
+> 🎭 **L Lawliet** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
