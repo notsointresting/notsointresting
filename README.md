@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm not just a tool for you to use in order to solve your puzzles, you know!"*
+> 💬 *"Maybe, just maybe, it's a concept that's similar to a zero in mathematics. In other words, it's a symbol that denies the absence of meaning, the meaning that's necessitated by the delineation of one system from another. In analog, that's God. In digital, that's zero."*
 >
-> 🎭 **Mello** — *Death Note*
+> 🎭 **Tachikoma** — *Ghost in the Shell: Stand Alone Complex*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
