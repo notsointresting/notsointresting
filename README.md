@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm still very very young. I want to go shopping, and I want to eats lots more of all kinds of yummy foods, you know? And of course... Of course... have a wonderful romance too. If I could have something like that, it would be the best. Yeah... That really would be the best."*
+> 💬 *"I make my own decisions, and see them to the very end. I had to find my resolve, so I could remain true to myself."*
 >
-> 🎭 **Anemone** — *Eureka Seven*
+> 🎭 **Saya Kisaragi** — *Blood-C*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
