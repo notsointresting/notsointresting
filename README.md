@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I make my own decisions, and see them to the very end. I had to find my resolve, so I could remain true to myself."*
+> 💬 *"You guys are a team, you have to work together if you want to do anything! One person can't make a decision without the other, you decide together and you fight together!"*
 >
-> 🎭 **Saya Kisaragi** — *Blood-C*
+> 🎭 **Tsubaki Nakatsukasa** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
