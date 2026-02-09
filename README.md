@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/) 
+<!-- AI_NEWS:START -->- [Making AI Work, MIT Technology Review’s new AI newsletter, is here](https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/) 
+- [Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/) 
 - [The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry](https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/) 
 - [An experimental surgery is helping cancer survivors give birth](https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/) 
-- [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) 
 <!-- AI_NEWS:END -->
 
 </td>
