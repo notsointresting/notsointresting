@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You guys are a team, you have to work together if you want to do anything! One person can't make a decision without the other, you decide together and you fight together!"*
+> 💬 *"All people have sanctuary which mustn't be touched. A scar of sadness which mustn't be entered. The living confront each other to achieve their ideals. In a quiet voice, the man in the white coat told me... that he had finally found me, that he wanted my life. That man smiled a smile deeper than darkness. Legato Bluesummers, a man fascinated by Death..."*
 >
-> 🎭 **Tsubaki Nakatsukasa** — *Soul Eater*
+> 🎭 **Vash the Stampede** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
