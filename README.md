@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am who I am because I learned your ideals and took your prayers to the heart. You've guided me. You've given me a life a mere puppet wouldn't have. You need not to pity me. I am a part of you."*
+> 💬 *"I'm still very very young. I want to go shopping, and I want to eats lots more of all kinds of yummy foods, you know? And of course... Of course... have a wonderful romance too. If I could have something like that, it would be the best. Yeah... That really would be the best."*
 >
-> 🎭 **Irisviel von Einzbern** — *Fate/Zero*
+> 🎭 **Anemone** — *Eureka Seven*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
