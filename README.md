@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Love always happens without warning. At that time, the gears of fate will start spinning. Just like the hands of a clock, two people’s hearts will separate and meet again. Eventually, they reunite."*
+> 💬 *"Well, I wonder what the prince would do if he knew, you authorized Planet Vegeta’s destruction from the start?"*
 >
-> 🎭 **Konjiki No Yami** — *To LOVE Ru Darkness*
+> 🎭 **Whis** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
