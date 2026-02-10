@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Stop looking at my soul you creep!"*
+> 💬 *"Love always happens without warning. At that time, the gears of fate will start spinning. Just like the hands of a clock, two people’s hearts will separate and meet again. Eventually, they reunite."*
 >
-> 🎭 **Maka Albarn** — *Soul Eater*
+> 🎭 **Konjiki No Yami** — *To LOVE Ru Darkness*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
