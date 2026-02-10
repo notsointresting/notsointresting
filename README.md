@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Well, I wonder what the prince would do if he knew, you authorized Planet Vegeta’s destruction from the start?"*
+> 💬 *"I work to support my hobby. So if you asked me which I'd choose, my job or my hobby, my hobby takes priority."*
 >
-> 🎭 **Whis** — *Dragon Ball Z*
+> 🎭 **Itami Youji** — *GATE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
