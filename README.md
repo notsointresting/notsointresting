@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I want to make his dreams come true..."*
+> 💬 *"[To Envy] Now I see. You're Jealous. You're jealous of humans, aren't you? According to you, humans are supposed to be a lot weaker than Homunculi. And yet, even if they get discouraged after being beaten, and even if they get close to falling down after losing their paths, they continue to get up and fight. Everyone around them helps them get back up. And you're envious of that."*
 >
-> 🎭 **Haku** — *Naruto*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
