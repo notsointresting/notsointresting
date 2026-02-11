@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I described him in one word, it'd be di*k[beep]!"*
+> 💬 *"It's fine. Everyone makes mistakes. You just need to make an effort not to make the same mistake again."*
 >
-> 🎭 **Chika Akatsuki** — *Zombie-Loan*
+> 🎭 **Ainz Ooal Gown** — *Overlord*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
