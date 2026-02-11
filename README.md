@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hard work is worthless for those that don't believe in themselves."*
+> 💬 *"If I described him in one word, it'd be di*k[beep]!"*
 >
-> 🎭 **Naruto Uzumaki** — *Naruto*
+> 🎭 **Chika Akatsuki** — *Zombie-Loan*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
