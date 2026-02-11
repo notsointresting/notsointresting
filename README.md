@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's fine. Everyone makes mistakes. You just need to make an effort not to make the same mistake again."*
+> 💬 *"If anyone does not love the Lord Jesus Christ, let them be accursed at His coming. God save you from your fate. Amen!"*
 >
-> 🎭 **Ainz Ooal Gown** — *Overlord*
+> 🎭 **Alexander Anderson** — *Hellsing Ultimate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
