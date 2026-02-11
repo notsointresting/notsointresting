@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If anyone does not love the Lord Jesus Christ, let them be accursed at His coming. God save you from your fate. Amen!"*
+> 💬 *"To stop or to keep going? The one who decides is yourself."*
 >
-> 🎭 **Alexander Anderson** — *Hellsing Ultimate*
+> 🎭 **Shōkichi Naruko** — *Yowamushi Pedal*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
