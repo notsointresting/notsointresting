@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Chizuru, you shouldn't be laughing too much. It was just a youthful indiscretion. Don't treat someone's first love like a mistake!"*
+> 💬 *"Hard work is worthless for those that don't believe in themselves."*
 >
-> 🎭 **Kaname Tsukahara** — *You and Me.*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
