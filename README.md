@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A lump of steel, like a shooting star. Just seeing the same sky as you makes familiar scenery look different. I swing between hope and despair at your slightest gesture, and my heart starts to play a melody. What kind of feeling is this again? What do they call this kind of feeling? I think it's probably... Called Love. I'm sure this is what they call love."*
+> 💬 *"All heroes have established their thrones atop, not just their enemies. But a large quantity of allied corpses as well. There are no monarchs with clean hands."*
 >
-> 🎭 **Kousei Arima** — *Your Lie in April*
+> 🎭 **Paul von Oberstein** — *Legend of the Galactic Heroes*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
