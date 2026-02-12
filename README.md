@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: inside the QuitGPT movement, and EVs in Africa](https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/) 
+<!-- AI_NEWS:START -->- [Is a secure AI assistant possible?](https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/) 
+- [The Download: inside the QuitGPT movement, and EVs in Africa](https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/) 
 - [EVs could be cheaper to own than gas cars in Africa by 2040](https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/) 
 - [A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions](https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/) 
-- [The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon](https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/) 
 <!-- AI_NEWS:END -->
 
 </td>
