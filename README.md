@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To stop or to keep going? The one who decides is yourself."*
+> 💬 *"Assassination- It’s the family trade. We all take it up. My folks see me as an exceptional prospect. But I don’t see that I should have to live up to their expectations."*
 >
-> 🎭 **Shōkichi Naruko** — *Yowamushi Pedal*
+> 🎭 **Killua Zoldyck** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
