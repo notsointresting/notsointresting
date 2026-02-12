@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Idiot! Don't spit while you talk! Your virginity might be contagious!"*
+> 💬 *"A lump of steel, like a shooting star. Just seeing the same sky as you makes familiar scenery look different. I swing between hope and despair at your slightest gesture, and my heart starts to play a melody. What kind of feeling is this again? What do they call this kind of feeling? I think it's probably... Called Love. I'm sure this is what they call love."*
 >
-> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
+> 🎭 **Kousei Arima** — *Your Lie in April*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
