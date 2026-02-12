@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We all have the right to choose our own future. We should be able to walk the paths that we choose, not the future youÂ´ve decided for us."*
+> 💬 *"Idiot! Don't spit while you talk! Your virginity might be contagious!"*
 >
-> 🎭 **Natsu Dragneel** — *Fairy Tail*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
