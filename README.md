@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If... If you have such good deductive skills, you should have been able to see through my sister's disguise easily... But... but... WHY...!!!"*
+> 💬 *"We all have the right to choose our own future. We should be able to walk the paths that we choose, not the future youÂ´ve decided for us."*
 >
-> 🎭 **Ai Haibara** — *Case Closed*
+> 🎭 **Natsu Dragneel** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
