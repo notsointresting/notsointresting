@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The devil made me do it. It was all his fault. Yup, all him. Look at them shake. I don't blame them. The second I spotted them, I put a lid on the tin and ran away. In other words, I kidnapped them. Is there any way to spin this? I mean, any way to solve the problem?"*
+> 💬 *"There's something you can't see unless you're standing at the top, to experience that for the first time, I'm struggling to a higher place than anyone else, isn't that what freedom is?"*
 >
-> 🎭 **Watashi** — *Humanity Has Declined*
+> 🎭 **Itsuki Minami** — *Air Gear*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
