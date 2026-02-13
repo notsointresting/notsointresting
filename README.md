@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"For murderers, there is no good or evil. I know that."*
+> 💬 *"Anyone stronger than the god of destruction does not exist."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Beerus** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
