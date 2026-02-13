@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Anyone stronger than the god of destruction does not exist."*
+> 💬 *"I wont stop fighting when im tired, i'll stop fighting when you've shattered my heart into a thousand pieces"*
 >
-> 🎭 **Beerus** — *Dragon Ball Z*
+> 🎭 **Natsu Dragneel** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
