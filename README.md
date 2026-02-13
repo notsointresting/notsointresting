@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html) 
-- [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html) 
-- [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days &amp; 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html) 
-- [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html) 
+<!-- CYBER_NEWS:START -->- [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) 
+- [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html) 
+- [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html) 
+- [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
