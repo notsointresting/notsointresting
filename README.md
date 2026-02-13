@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I wont stop fighting when im tired, i'll stop fighting when you've shattered my heart into a thousand pieces"*
+> 💬 *"I'm not defined by my abilities alone."*
 >
-> 🎭 **Natsu Dragneel** — *Fairy Tail*
+> 🎭 **Kira Yamato** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
