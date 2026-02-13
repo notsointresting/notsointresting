@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) 
-- [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html) 
-- [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html) 
-- [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html) 
+<!-- CYBER_NEWS:START -->- [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html) 
+- [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html) 
+- [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html) 
+- [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
