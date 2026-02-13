@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The myth of the high-tech heist](https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/) 
+<!-- AI_NEWS:START -->- [ALS stole this musician’s voice. AI let him sing again.](https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/) 
+- [The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists](https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/) 
+- [The myth of the high-tech heist](https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/) 
 - [US deputy health secretary: Vaccine guidelines are still subject to change](https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/) 
-- [RFK Jr. follows a carnivore diet. That doesn’t mean you should.](https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/) 
-- [The Download: AI-enhanced cybercrime, and secure AI assistants](https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/) 
 <!-- AI_NEWS:END -->
 
 </td>
