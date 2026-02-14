@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nobody calls me a pipsqueak and gets away with it! Not even a little girl!"*
+> 💬 *"I study too, you know. How could I teach anyone if I didn't grow and learn day by day. Now let's get rid of this dangerous cloth. Experiencing my Absolute Defense Form over summer vacation taught me yet another skill: compressing not my whole body, but a portion of my tentacles to release a burst of energy. Remember this Itona, I say assassination is education. The assassination classrooms teacher will get stronger every time he teaches!"*
 >
-> 🎭 **Edward Elric** — *Fullmetal Alchemist*
+> 🎭 **Korosensei** — *Assassination Classroom 2nd Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
