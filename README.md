@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kill me. Make it quick. I no longer have the strength left in me to even walk. If you do not cut me down now, then this will go unsettled for eternity."*
+> 💬 *"It's time to launch the dams!"*
 >
-> 🎭 **Ulquiorra Schiffer** — *Bleach*
+> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
