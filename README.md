@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I study too, you know. How could I teach anyone if I didn't grow and learn day by day. Now let's get rid of this dangerous cloth. Experiencing my Absolute Defense Form over summer vacation taught me yet another skill: compressing not my whole body, but a portion of my tentacles to release a burst of energy. Remember this Itona, I say assassination is education. The assassination classrooms teacher will get stronger every time he teaches!"*
+> 💬 *"Those who try to step over someone else and go up higher... are actually only running away from some fear that they cannot see. Trying to step over someone is an cowardly action. It means you're not confident enough to face the opponent and speak to them with the same viewpoint. It doesn't matter how much power I have in me. By using that "power" that's taking over you. I do not want to become such a cowardly person. I will fight and get hurt in order to survive...."*
 >
-> 🎭 **Korosensei** — *Assassination Classroom 2nd Season*
+> 🎭 **Twenty-Fifth Baam** — *Tower of God*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
