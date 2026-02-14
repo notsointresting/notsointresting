@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's time to launch the dams!"*
+> 💬 *"Nobody calls me a pipsqueak and gets away with it! Not even a little girl!"*
 >
-> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
