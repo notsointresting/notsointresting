@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's something you can't see unless you're standing at the top, to experience that for the first time, I'm struggling to a higher place than anyone else, isn't that what freedom is?"*
+> 💬 *"Aahhh someone saves me."*
 >
-> 🎭 **Itsuki Minami** — *Air Gear*
+> 🎭 **Shippou** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
