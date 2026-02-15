@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"All of the connections we encounter in this world serve as teachers who nurture us."*
+> 💬 *"If an angelic being fell from the sky and tried to live in this world of ours, I think even they would commit many wrongs."*
 >
-> 🎭 **Korosensei** — *Assassination Classroom 2nd Season*
+> 🎭 **Juuzou Suzuya** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
