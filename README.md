@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I went with raven for a long bathroom break."*
+> 💬 *"All of the connections we encounter in this world serve as teachers who nurture us."*
 >
-> 🎭 **Oz Vessalius** — *Pandora Hearts*
+> 🎭 **Korosensei** — *Assassination Classroom 2nd Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
