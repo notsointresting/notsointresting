@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Always skillfully manipulate your pieces, that's how you survive. Use me and madam red, any piece within your reach. Even if the bodies of your pawns pile up in front of your thrown. Because if the king falls - this game is over."*
+> 💬 *"I went with raven for a long bathroom break."*
 >
-> 🎭 **Sebastian Michaelis** — *Black Butler*
+> 🎭 **Oz Vessalius** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
