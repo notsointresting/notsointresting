@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you're always worried about crushing the ants beneath you... you won't be able to walk."*
+> 💬 *"Between being eternally unable to wake from a dream, and being eternally unable to dream, which do you think would be more unfortunate? Still, both the dream that we deemed eternal, and this very reality, are destined to end someday."*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Lau** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
