@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If an angelic being fell from the sky and tried to live in this world of ours, I think even they would commit many wrongs."*
+> 💬 *"Thanks for the real vote of confidence. You two should be cheerleaders, you'd look cute in skirts!"*
 >
-> 🎭 **Juuzou Suzuya** — *Tokyo Ghoul*
+> 🎭 **Genkai** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
