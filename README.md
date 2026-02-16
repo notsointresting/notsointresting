@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The scientist using AI to hunt for antibiotics just about everywhere](https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/) 
+<!-- AI_NEWS:START -->- [Tuning into the future of collaboration](https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/) 
+- [The Download: unraveling a death threat mystery, and AI voice recreation for musicians](https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/) 
+- [The scientist using AI to hunt for antibiotics just about everywhere](https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/) 
 - [Hackers made death threats against this security researcher. Big mistake.](https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/) 
-- [ALS stole this musician’s voice. AI let him sing again.](https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/) 
-- [The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists](https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/) 
 <!-- AI_NEWS:END -->
 
 </td>
