@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The King lives to the fullest! He needs to live more fully than anyone else. He is a figure of admiration to his people!"*
+> 💬 *"Do you have something you want from me? You’re in quite a panic."*
 >
-> 🎭 **Rider** — *Fate/Zero*
+> 🎭 **Muzan Kibutsuji** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
