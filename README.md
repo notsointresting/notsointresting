@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Between being eternally unable to wake from a dream, and being eternally unable to dream, which do you think would be more unfortunate? Still, both the dream that we deemed eternal, and this very reality, are destined to end someday."*
+> 💬 *"I don't sit like this because I want to. I have to sit like this. If I were to sit normally, my deductive skills will immediately be reduced by roughly 40%."*
 >
-> 🎭 **Lau** — *Black Butler*
+> 🎭 **L Lawliet** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
