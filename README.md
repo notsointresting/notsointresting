@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Do you have something you want from me? You’re in quite a panic."*
+> 💬 *"If you're always worried about crushing the ants beneath you... you won't be able to walk."*
 >
-> 🎭 **Muzan Kibutsuji** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Guts** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
