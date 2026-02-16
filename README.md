@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Thanks for the real vote of confidence. You two should be cheerleaders, you'd look cute in skirts!"*
+> 💬 *"The King lives to the fullest! He needs to live more fully than anyone else. He is a figure of admiration to his people!"*
 >
-> 🎭 **Genkai** — *Yu Yu Hakusho*
+> 🎭 **Rider** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
