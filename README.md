@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Luxury means something with no meaning at all"*
+> 💬 *"*to Okita, who tells him that he should take his job more seriously* Shall I put you to sleep, ingrate?"*
 >
-> 🎭 **Souhei Saikawa** — *The Perfect Insider*
+> 🎭 **Hijikata Toushirou** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
