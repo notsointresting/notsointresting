@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The curious case of the disappearing Lamborghinis](https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/) 
+<!-- AI_NEWS:START -->- [The Download: the rise of luxury car theft, and fighting antimicrobial resistance](https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/) 
+- [The curious case of the disappearing Lamborghinis](https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/) 
 - [Tuning into the future of collaboration](https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/) 
 - [The Download: unraveling a death threat mystery, and AI voice recreation for musicians](https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/) 
-- [The scientist using AI to hunt for antibiotics just about everywhere](https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/) 
 <!-- AI_NEWS:END -->
 
 </td>
