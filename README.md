@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The spring of my heart surges upon the sight of your fresh smile, my love."*
+> 💬 *"Violence is never the right answer, unless used against heathens and monsters."*
 >
-> 🎭 **Suoh Tamaki** — *Ouran High School Host Club*
+> 🎭 **Alexander Anderson** — *Hellsing Ultimate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
