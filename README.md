@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't sit like this because I want to. I have to sit like this. If I were to sit normally, my deductive skills will immediately be reduced by roughly 40%."*
+> 💬 *"The spring of my heart surges upon the sight of your fresh smile, my love."*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Suoh Tamaki** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
