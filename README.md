@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*to Okita, who tells him that he should take his job more seriously* Shall I put you to sleep, ingrate?"*
+> 💬 *"However, even if it is reckless... I don't think someone who is making their best effort to try and break through the current situation is foolish."*
 >
-> 🎭 **Hijikata Toushirou** — *Gintama*
+> 🎭 **Su-won** — *Yona of the Dawn*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
