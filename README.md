@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"However, even if it is reckless... I don't think someone who is making their best effort to try and break through the current situation is foolish."*
+> 💬 *"To live is to die, to die is to live. Pure is unpure, unpure is pure."*
 >
-> 🎭 **Su-won** — *Yona of the Dawn*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
