@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To live is to die, to die is to live. Pure is unpure, unpure is pure."*
+> 💬 *"Have you ever heard in the world, there are things best not to ask?"*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Aokiji** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
