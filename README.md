@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I dreamed that you were a dog. And the dog was my husband. Anyway, it was the worst dream ever."*
+> 💬 *"My problem is probably that I don’t have any confidence about anything I do. Even if the thing I want most is right in front of me, I can’t help but imagine a future where I’m being rejected by it. I’m scared of getting hurt, so I run away from the people I love. What a good-for-nothing loser."*
 >
-> 🎭 **Taiga Aisaka** — *Toradora!*
+> 🎭 **Shōta Kisa** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
