@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Have you ever heard in the world, there are things best not to ask?"*
+> 💬 *"When something impossible happens, there are only two possibilities. Either your assumptions are wrong, or you have gone crazy."*
 >
-> 🎭 **Aokiji** — *One Piece*
+> 🎭 **Kougami Shinya** — *Psycho-Pass*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
