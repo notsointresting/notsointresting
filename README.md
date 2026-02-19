@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Google DeepMind wants to know if chatbots are just virtue signaling](https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/) 
-- [The Download: a blockchain enigma, and the algorithms governing our lives](https://www.technologyreview.com/2026/02/18/1133291/the-download-a-blockchain-enigma-and-the-algorithms-governing-our-lives/) 
-- [The robots who predict the future](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/) 
-- [Welcome to the dark side of crypto’s permissionless dream](https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/) 
+<!-- AI_NEWS:START -->- [How uncrewed narco subs could transform the Colombian drug trade](https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/) 
+- [The building legal case for global climate justice](https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/) 
+- [What it takes to make agentic AI work in retail](https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/) 
+- [From integration chaos to digital clarity: Nutrien Ag Solutions’ post-acquisition reset](https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/) 
 <!-- AI_NEWS:END -->
 
 </td>
