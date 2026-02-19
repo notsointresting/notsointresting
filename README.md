@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I hate nice girls. Just exchanging greetings with them will get them on your mind. Start texting each other, and your heart will be set a flutter. If they call you, you're done for. Enjoy staring at your logs and grinning like a fool. However, I won't get fooled again. That's what your kind calls kindness. If you're nice to me, you're nice to others. I always end up nearly forgetting that. Reality is cruel, so I'm sure lies are a form of kindness. Thus, I say kindness itself is also a lie. I always ended up with these expectations. And I always ended up with these misunderstandings. And before I knew it, I stopped hoping. A highly trained loner is once bitten, twice shy. As a veteran on this battlefield of life, I've gotten used to losing. That's why I always hate nice girls."*
+> 💬 *"When I realized, I was already on the roof of a building… I had come to hate everything. I was sick of sitting in my room holding my knees too. If nobody was going to notice or care if I died then… what’s the point in living?"*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Meoka Kiryuu** — *Steins Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
