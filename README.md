@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When I realized, I was already on the roof of a building… I had come to hate everything. I was sick of sitting in my room holding my knees too. If nobody was going to notice or care if I died then… what’s the point in living?"*
+> 💬 *"A life with no adventure in it is boring. The least a friend can do is stir up a little trouble in your heart."*
 >
-> 🎭 **Meoka Kiryuu** — *Steins Gate*
+> 🎭 **Gai Tsutsugami** — *Guilty Crown*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
