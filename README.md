@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A life with no adventure in it is boring. The least a friend can do is stir up a little trouble in your heart."*
+> 💬 *"People in supervising positions in investigation are supposed to give too much of their opinion, and if they are wrong, all it would take is an apology."*
 >
-> 🎭 **Gai Tsutsugami** — *Guilty Crown*
+> 🎭 **Near** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
