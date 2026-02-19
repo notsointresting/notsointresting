@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People in supervising positions in investigation are supposed to give too much of their opinion, and if they are wrong, all it would take is an apology."*
+> 💬 *"I won't ask what you wish for. I only hope it comes true by your own two hands. (to Kyo)"*
 >
-> 🎭 **Near** — *Death Note*
+> 🎭 **Sohma Yuki** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
