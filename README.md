@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html) 
-- [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html) 
-- [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html) 
-- [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html) 
+<!-- CYBER_NEWS:START -->- [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html) 
+- [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html) 
+- [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html) 
+- [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
