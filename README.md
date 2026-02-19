@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If it is with Ayuzawa, whatever I do, wherever I am, I am happy. So it's okay."*
+> 💬 *"No person can become a replacement for another. Not even the past version of themselves."*
 >
-> 🎭 **Takumi Usui** — *Maid Sama!*
+> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
