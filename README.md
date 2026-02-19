@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I won't ask what you wish for. I only hope it comes true by your own two hands. (to Kyo)"*
+> 💬 *"If it is with Ayuzawa, whatever I do, wherever I am, I am happy. So it's okay."*
 >
-> 🎭 **Sohma Yuki** — *Fruits Basket*
+> 🎭 **Takumi Usui** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
