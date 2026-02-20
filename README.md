@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We are nothingness. Our head is a void. And without anything around us, we are nothing. We become what we perceive."*
+> 💬 *"Whenever we pray for someone's happiness, someone else must be cursed in exchange."*
 >
-> 🎭 **Ulquiorra Schiffer** — *Bleach*
+> 🎭 **Sayaka Miki** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
