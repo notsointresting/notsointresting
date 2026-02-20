@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Mywealthand treasures? If you want it, I’ll let you have it. Look for it, I left all of it at that place!"*
+> 💬 *"Seeing nature and thinking it's beautiful is what's unnatural. That means the life you lead is an unclean one. If you can cut yourself off from mother nature and still survive, doesn't it mean you have enough inner beauty to allow you to do that?"*
 >
-> 🎭 **Gol D. Roger** — *One Piece*
+> 🎭 **Souhei Saikawa** — *The Perfect Insider*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
