@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whenever we pray for someone's happiness, someone else must be cursed in exchange."*
+> 💬 *"Mywealthand treasures? If you want it, I’ll let you have it. Look for it, I left all of it at that place!"*
 >
-> 🎭 **Sayaka Miki** — *Puella Magi Madoka Magica*
+> 🎭 **Gol D. Roger** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
