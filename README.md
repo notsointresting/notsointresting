@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Seeing nature and thinking it's beautiful is what's unnatural. That means the life you lead is an unclean one. If you can cut yourself off from mother nature and still survive, doesn't it mean you have enough inner beauty to allow you to do that?"*
+> 💬 *"A cowardly thief would sneak away in the night; the King of Conquerors leaves with his loot amidst songs of victory!"*
 >
-> 🎭 **Souhei Saikawa** — *The Perfect Insider*
+> 🎭 **Rider** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
