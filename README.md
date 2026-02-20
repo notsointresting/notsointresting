@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A cowardly thief would sneak away in the night; the King of Conquerors leaves with his loot amidst songs of victory!"*
+> 💬 *"If you have a wish, don't go back to the past and redo everything. If you want to change yourself, don't change the past, but change who you are now!"*
 >
-> 🎭 **Rider** — *Fate/Zero*
+> 🎭 **Emiya Shirou** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
