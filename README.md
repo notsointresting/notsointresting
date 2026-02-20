@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No person can become a replacement for another. Not even the past version of themselves."*
+> 💬 *"We are nothingness. Our head is a void. And without anything around us, we are nothing. We become what we perceive."*
 >
-> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
+> 🎭 **Ulquiorra Schiffer** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
