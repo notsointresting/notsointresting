@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) 
-- [The Download: autonomous narco submarines, and virtue signaling chatbots](https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/) 
-- [How uncrewed narco subs could transform the Colombian drug trade](https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/) 
-- [The building legal case for global climate justice](https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/) 
+<!-- AI_NEWS:START -->- [Job titles of the future: Breast biomechanic](https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/) 
+- [Community service](https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/) 
+- [Measles cases are rising. Other vaccine-preventable infections could be next.](https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/) 
+- [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) 
 <!-- AI_NEWS:END -->
 
 </td>
