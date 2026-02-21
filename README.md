@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I hate humans. I find the thought that I'm from the same species to be depressing."*
+> 💬 *"Huh? What are you, retarded? I'm super thoughtful. That's why I stay in the corner and don't cause anyone trouble."*
 >
-> 🎭 **Koko Hekmatyar** — *Jormungand*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
