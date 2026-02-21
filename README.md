@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Huh? What are you, retarded? I'm super thoughtful. That's why I stay in the corner and don't cause anyone trouble."*
+> 💬 *"If I kill you, that means I'll be the one closest to you when you're on your deathbed. Isn't it romantic?"*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
