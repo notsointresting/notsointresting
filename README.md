@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We have a proud tradition of failure to uphold!"*
+> 💬 *"When you said that we were scary, that means deep down, you had started to care about us! The thought of losing someone again… That’s the scary part, right?"*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
