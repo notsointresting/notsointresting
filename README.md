@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Learning and copying are the same. Everyone starts out copying someone else. Every last person."*
+> 💬 *"I hate humans. I find the thought that I'm from the same species to be depressing."*
 >
-> 🎭 **Yumi Iguchi** — *Shirobako*
+> 🎭 **Koko Hekmatyar** — *Jormungand*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
