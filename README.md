@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you have a wish, don't go back to the past and redo everything. If you want to change yourself, don't change the past, but change who you are now!"*
+> 💬 *"Learning and copying are the same. Everyone starts out copying someone else. Every last person."*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Yumi Iguchi** — *Shirobako*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
