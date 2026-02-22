@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t start a fight if you can’t end it."*
+> 💬 *"I don’t want to conquer anything. I just think the guy with the mostfreedomin this whole ocean… is the Pirate King!"*
 >
-> 🎭 **Sanji** — *One Piece*
+> 🎭 **Monkey D. Luffy** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
