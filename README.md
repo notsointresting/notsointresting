@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t want to conquer anything. I just think the guy with the mostfreedomin this whole ocean… is the Pirate King!"*
+> 💬 *"[To Hinata At Chuunin Exams] So you're not going to withdraw? Then don't blame me for what happens to you."*
 >
-> 🎭 **Monkey D. Luffy** — *One Piece*
+> 🎭 **Neji Hyuuga** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
