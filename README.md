@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What are you smoking? Don't you see how cool I am? You think I'm going to settle for a flat chested girl like her?"*
+> 💬 *"Don’t start a fight if you can’t end it."*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Sanji** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
