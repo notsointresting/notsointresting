@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you said that we were scary, that means deep down, you had started to care about us! The thought of losing someone again… That’s the scary part, right?"*
+> 💬 *"What are you smoking? Don't you see how cool I am? You think I'm going to settle for a flat chested girl like her?"*
 >
-> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
+> 🎭 **Soul Evans** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
