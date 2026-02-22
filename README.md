@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Hinata At Chuunin Exams] So you're not going to withdraw? Then don't blame me for what happens to you."*
+> 💬 *"They want to believe that's true and when someone wants to believe something is true, they usually will."*
 >
-> 🎭 **Neji Hyuuga** — *Naruto*
+> 🎭 **Henrietta** — *Log Horizon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
