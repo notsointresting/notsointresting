@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The popular will win, the hated will lose, it's such a tragedy. Then I won't lose to anyone. I will become the strongest monster ever and change this scenario."*
+> 💬 *"To truly love someone, is to always put their feelings before your own... no matter what."*
 >
-> 🎭 **Garou** — *One Punch Man*
+> 🎭 **Saki Hanajima** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
