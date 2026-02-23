@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To truly love someone, is to always put their feelings before your own... no matter what."*
+> 💬 *"There's no way I'm dying before you do, you morally bankrupt Colonel with a God complex."*
 >
-> 🎭 **Saki Hanajima** — *Fruits Basket*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
