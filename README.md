@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Exclusive eBook: The great Al hype correction of 2025](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/) 
+<!-- AI_NEWS:START -->- [Inside Chicago’s surveillance panopticon](https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/) 
+- [Exclusive eBook: The great Al hype correction of 2025](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/) 
 - [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) 
 - [Job titles of the future: Breast biomechanic](https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/) 
-- [Community service](https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/) 
 <!-- AI_NEWS:END -->
 
 </td>
