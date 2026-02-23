@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's no way I'm dying before you do, you morally bankrupt Colonel with a God complex."*
+> 💬 *"Good… death is chasing me. Ones who kill are also chased by death, always living alongside death… Jobs that risk one’s soul are truly beautiful! How rewarding… my battlefield!"*
 >
-> 🎭 **Edward Elric** — *Fullmetal Alchemist*
+> 🎭 **Solf J. Kimblee** — *Fullmetal Alchemist: Brotherhood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
