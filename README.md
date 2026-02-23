@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Good… death is chasing me. Ones who kill are also chased by death, always living alongside death… Jobs that risk one’s soul are truly beautiful! How rewarding… my battlefield!"*
+> 💬 *"The world hates us for what we are, you know it makes us happy… Even if it’s just a word."*
 >
-> 🎭 **Solf J. Kimblee** — *Fullmetal Alchemist: Brotherhood*
+> 🎭 **Marco** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
