@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [We’re putting more stuff into space than ever. Here’s what’s up there.](https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/) 
+<!-- AI_NEWS:START -->- [The Download: radioactive rhinos, and the rise and rise of peptides](https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/) 
+- [We’re putting more stuff into space than ever. Here’s what’s up there.](https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/) 
 - [Why conservationists are making rhinos radioactive](https://www.technologyreview.com/2026/02/24/1132760/conservationists-making-rhinos-radioactive/) 
 - [Peptides are everywhere. Here’s what you need to know.](https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/) 
-- [The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/) 
 <!-- AI_NEWS:END -->
 
 </td>
