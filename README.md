@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There’s nothing crueler than letting a dream end midway."*
+> 💬 *"If one side was just, it would be called a defense or a suppression. But this is war. And wars happen because both sides are just."*
 >
-> 🎭 **Shouta Aizawa** — *My Hero Academia*
+> 🎭 **Kajoumaru Hidetomo** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
