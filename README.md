@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's where all parallel lines meet. Where conflicting ideas are reconciled. It is... above the horizon."*
+> 💬 *"There is someone that I must meet again. And until that day… not even Death himself can take my life away!"*
 >
-> 🎭 **Horizon Ariadust** — *Horizon in the Middle of Nowhere*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
