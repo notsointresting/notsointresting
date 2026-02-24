@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is someone that I must meet again. And until that day… not even Death himself can take my life away!"*
+> 💬 *"Even though there's such a thing as an impossible game, there's no such thing as an impossible reality."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
