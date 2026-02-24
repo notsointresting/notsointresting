@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't surpress my feeling anymore. When she gets confused, I will still her back. Yes I know I am selfish, I don't care."*
+> 💬 *"It's where all parallel lines meet. Where conflicting ideas are reconciled. It is... above the horizon."*
 >
-> 🎭 **Kou Mabuchi** — *Blue Spring Ride*
+> 🎭 **Horizon Ariadust** — *Horizon in the Middle of Nowhere*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
