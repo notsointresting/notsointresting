@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html) 
-- [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html) 
-- [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html) 
-- [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html) 
+<!-- CYBER_NEWS:START -->- [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html) 
+- [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html) 
+- [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html) 
+- [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
