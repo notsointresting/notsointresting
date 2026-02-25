@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hope is harmony. A just heart, moving toward the light. That is all. Despair is hope's polar opposite. It is messy and confusing. Despair swallows up love, hatred, and everything else. Because not knowing where you will end up is despair. Despair is what even you cannot predict. Only despair's unpredictability will save you from a boring future."*
+> 💬 *"If I described him in one word, it'd be di*k[beep]!"*
 >
-> 🎭 **Junko Enoshima** — *Danganronpa 3: The End of Hope's Peak High School - Despair Arc*
+> 🎭 **Chika Akatsuki** — *Zombie-Loan*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
