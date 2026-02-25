@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*To Pantherlily* We'll stop it, even if my body crumbles to bits, I'll stop it with my soul!"*
+> 💬 *"You know, Nana... Even now, sometimes on street corners... when I meet someone, I see your shadow. I'm sure that even now, you're still wearing that man's cologne... so you can sleep, even alone..."*
 >
-> 🎭 **Natsu Dragneel** — *Fairy Tail*
+> 🎭 **Nana Osaki** — *Nana*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
