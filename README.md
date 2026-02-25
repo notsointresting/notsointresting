@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Just pull a string to turn these tile patterns into useful 3D structures](https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/) 
-- [A retinal reboot for amblyopia](https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/) 
-- [A new way to rejuvenate the immune system](https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/) 
-- [A I-designed proteins may help spot cancer](https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/) 
+<!-- AI_NEWS:START -->- [Listen to Earth’s rumbling, secret soundtrack](https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/) 
+- [3 things Juliet Beauchamp is into right now](https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/) 
+- [Now is a good time for doing crime](https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/) 
+- [Just pull a string to turn these tile patterns into useful 3D structures](https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/) 
 <!-- AI_NEWS:END -->
 
 </td>
