@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If one side was just, it would be called a defense or a suppression. But this is war. And wars happen because both sides are just."*
+> 💬 *"*To Pantherlily* We'll stop it, even if my body crumbles to bits, I'll stop it with my soul!"*
 >
-> 🎭 **Kajoumaru Hidetomo** — *Bleach*
+> 🎭 **Natsu Dragneel** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
