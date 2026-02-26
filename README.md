@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The balance between hope and despair keeps itself to zero. When was it you told me that? I understand what you mean now, I did save quite a few people, but in exchange hatred and jealousy filled my heart, I even hurt my best friend. Someone has to be cursed to balance out a wish for someone else's happiness."*
+> 💬 *"The past is not what needs to be rectified. We learn from the past to rectify the future."*
 >
-> 🎭 **Sayaka Miki** — *Puella Magi Madoka Magica*
+> 🎭 **Goyle** — *Blood Lad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
