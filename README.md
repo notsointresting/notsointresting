@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries](https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/) 
+<!-- AI_NEWS:START -->- [This company claims a battery breakthrough. Now they need to prove it.](https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/) 
+- [America was winning the race to find Martian life. Then China jumped in.](https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/) 
+- [Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries](https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/) 
 - [The Download: introducing the Crime issue](https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/) 
-- [Listen to Earth’s rumbling, secret soundtrack](https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/) 
-- [3 things Juliet Beauchamp is into right now](https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/) 
 <!-- AI_NEWS:END -->
 
 </td>
