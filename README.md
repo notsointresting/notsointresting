@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The lifespan of a human is certainly way too short. That's why you've got to make the most of it and live your life to the fullest."*
+> 💬 *"Why is it that what I want, and what's expected of me are so similar, yet so different?"*
 >
-> 🎭 **Leone** — *Akame ga Kill!*
+> 🎭 **Yui Yuigahama** — *My Teen Romantic Comedy SNAFU TOO!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
