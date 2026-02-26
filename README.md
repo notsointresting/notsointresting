@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: introducing the Crime issue](https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/) 
+<!-- AI_NEWS:START -->- [Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries](https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/) 
+- [The Download: introducing the Crime issue](https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/) 
 - [Listen to Earth’s rumbling, secret soundtrack](https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/) 
 - [3 things Juliet Beauchamp is into right now](https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/) 
-- [Now is a good time for doing crime](https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/) 
 <!-- AI_NEWS:END -->
 
 </td>
