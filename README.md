@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There were a lot of people who were kind to begin with. No, they were probably good people but, I don't want to see the disappointment in their eyes anymore. I don't really want to meet kind of people anymore."*
+> 💬 *"The lifespan of a human is certainly way too short. That's why you've got to make the most of it and live your life to the fullest."*
 >
-> 🎭 **Natsume Takeshi** — *Natsume Yuujinchou*
+> 🎭 **Leone** — *Akame ga Kill!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
