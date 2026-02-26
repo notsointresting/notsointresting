@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"At first, everyone is disgusted. Afraid to bear the sin of killing people. Afraid to receive punishment for replenishing themselves with the life of another. But, once you realize that you won't be punished for killing people, you get used to the guilt pretty soon. The guilt of using humans for food. Aren't humans the same?"*
+> 💬 *"If I don't understand how a friend feels, am I not allowed to worry about them? If I don't experience what you do, am I not allowed to worry about you, my friend?"*
 >
-> 🎭 **Mutou Tohru** — *Shiki*
+> 🎭 **Hishiro Chizuru** — *ReLIFE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
