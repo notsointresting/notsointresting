@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Finding value with AI and Industry 5.0 transformation](https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/) 
+<!-- AI_NEWS:START -->- [AI is rewiring how the world’s best Go players think](https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/) 
+- [Finding value with AI and Industry 5.0 transformation](https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/) 
 - [The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims](https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/) 
 - [This company claims a battery breakthrough. Now they need to prove it.](https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/) 
-- [America was winning the race to find Martian life. Then China jumped in.](https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/) 
 <!-- AI_NEWS:END -->
 
 </td>
