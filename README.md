@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To all the young ones in your group, you are no longer someone who passes through their lives and is forgotten. You have become someone very important to them. Your hardships are their hardships too."*
+> 💬 *"Go ahead! I'll just turn you into the police for assaulting a minor! (To Kyo)"*
 >
-> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
+> 🎭 **Sohma Hiro** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
