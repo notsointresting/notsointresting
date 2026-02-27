@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can't bring back what you've lost, think about what you have now!"*
+> 💬 *"Maybe it would be just like in the mangas. I'd tell him I love him and then we cut to the happy ending."*
 >
-> 🎭 **Jinbei** — *One Piece*
+> 🎭 **Ritsu Onodera** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
