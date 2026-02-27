@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The past is not what needs to be rectified. We learn from the past to rectify the future."*
+> 💬 *"You can't bring back what you've lost, think about what you have now!"*
 >
-> 🎭 **Goyle** — *Blood Lad*
+> 🎭 **Jinbei** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
