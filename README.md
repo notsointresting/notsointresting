@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Maybe it would be just like in the mangas. I'd tell him I love him and then we cut to the happy ending."*
+> 💬 *"Stop counting only those things you have lost! What is gone, is gone! So ask yourself this. What is there… that still remains to you?!"*
 >
-> 🎭 **Ritsu Onodera** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
+> 🎭 **Jinbe** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
