@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Stop counting only those things you have lost! What is gone, is gone! So ask yourself this. What is there… that still remains to you?!"*
+> 💬 *"To all the young ones in your group, you are no longer someone who passes through their lives and is forgotten. You have become someone very important to them. Your hardships are their hardships too."*
 >
-> 🎭 **Jinbe** — *One Piece*
+> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
