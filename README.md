@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Go ahead! I'll just turn you into the police for assaulting a minor! (To Kyo)"*
+> 💬 *"You said she's smart, but it only means she got high marks, and she's actually a stupid woman."*
 >
-> 🎭 **Sohma Hiro** — *Fruits Basket*
+> 🎭 **Near** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
