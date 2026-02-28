@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You said she's smart, but it only means she got high marks, and she's actually a stupid woman."*
+> 💬 *"Violence is the greatest power of the world!"*
 >
-> 🎭 **Near** — *Death Note*
+> 🎭 **Meruem** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
