@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Peace under an illusion is not true peace. It's only meaningful if the real world manages to accomplish it."*
+> 💬 *"You think surrendering, and offering yourself will stop the war? How arrogant. The life of each human is worth one, that's it. Nothing more, nothing less."*
 >
-> 🎭 **Gaara** — *Naruto*
+> 🎭 **King Bradley** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
