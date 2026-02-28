@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: how AI is shaking up Go, and a cybersecurity mystery](https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/) 
+<!-- AI_NEWS:START -->- [MIT Technology Review is a 2026 ASME finalist in reporting](https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/) 
+- [The Download: how AI is shaking up Go, and a cybersecurity mystery](https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/) 
 - [AI is rewiring how the world’s best Go players think](https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/) 
 - [Finding value with AI and Industry 5.0 transformation](https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/) 
-- [The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims](https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/) 
 <!-- AI_NEWS:END -->
 
 </td>
