@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Violence is the greatest power of the world!"*
+> 💬 *"It's amazing how every time you open your mouth, you manage to prove you're an idiot."*
 >
-> 🎭 **Meruem** — *Hunter x Hunter*
+> 🎭 **Vegeta** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
