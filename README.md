@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You think surrendering, and offering yourself will stop the war? How arrogant. The life of each human is worth one, that's it. Nothing more, nothing less."*
+> 💬 *"There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."*
 >
-> 🎭 **King Bradley** — *Fullmetal Alchemist*
+> 🎭 **Makarov Dreyar** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
