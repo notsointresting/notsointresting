@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's arrogant to think just saying things out loud is enough. Self-gratifying on the part of the speaker, and conceited on the part of the listener. You won't always come to an understanding by talking things out."*
+> 💬 *"Peace under an illusion is not true peace. It's only meaningful if the real world manages to accomplish it."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU TOO!*
+> 🎭 **Gaara** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
