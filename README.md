@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't just think about the ones you have lost. You can't get back what you have lost. What is it that you still have ?"*
+> 💬 *"Human is an existence full of sin."*
 >
-> 🎭 **Jinbei** — *One Piece*
+> 🎭 **Ai Enma** — *Hell Girl*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
