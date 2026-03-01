@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are people in this world that enjoy being alone, but there isn't a single person who can bear solitude."*
+> 💬 *"Don't just think about the ones you have lost. You can't get back what you have lost. What is it that you still have ?"*
 >
-> 🎭 **Makarov Dreyar** — *Fairy Tail*
+> 🎭 **Jinbei** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
