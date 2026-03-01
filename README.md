@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to Arrancar Gantenbainne Mosqueda] It seems that my power is more akin to yours than that of a Shinigami or a Quincy."*
+> 💬 *"He’d never be that dishonest cause he promised me that we’d own the whole country together."*
 >
-> 🎭 **Yasutora Sado** — *Bleach*
+> 🎭 **Mikey** — *Tokyo Revengers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
