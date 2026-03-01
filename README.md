@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When people are protecting something truly special to them, they truly can become... as strong as they can be."*
+> 💬 *"I have nosympathyfor criminals but for my family, I do."*
 >
-> 🎭 **Naruto Uzumaki** — *Naruto*
+> 🎭 **Monkey D. Garp** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
