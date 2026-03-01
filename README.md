@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Human is an existence full of sin."*
+> 💬 *"When people are protecting something truly special to them, they truly can become... as strong as they can be."*
 >
-> 🎭 **Ai Enma** — *Hell Girl*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
