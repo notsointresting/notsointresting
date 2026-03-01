@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I have nosympathyfor criminals but for my family, I do."*
+> 💬 *"[to Arrancar Gantenbainne Mosqueda] It seems that my power is more akin to yours than that of a Shinigami or a Quincy."*
 >
-> 🎭 **Monkey D. Garp** — *One Piece*
+> 🎭 **Yasutora Sado** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
