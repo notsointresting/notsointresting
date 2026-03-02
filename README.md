@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are things you can't see unless you change your standing."*
+> 💬 *"I'm a terrible person, aren't I? "If only Kurosaki-kun would cheer up, I'd be happy." At least, I thought that was how I felt. Then Kuchiki-san came back and cheered Kurosaki-kun up. I should have been really happy, but... but... [starts to cry] but instead I'm jealous of Kuchiki-san!"*
 >
-> 🎭 **Trafalgar Law** — *One Piece*
+> 🎭 **Inoue Orihime** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
