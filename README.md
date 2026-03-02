@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm a terrible person, aren't I? "If only Kurosaki-kun would cheer up, I'd be happy." At least, I thought that was how I felt. Then Kuchiki-san came back and cheered Kurosaki-kun up. I should have been really happy, but... but... [starts to cry] but instead I'm jealous of Kuchiki-san!"*
+> 💬 *"I don’t care what the society says. I’ve never regretted doing anything. I will survive and do what I want to."*
 >
-> 🎭 **Inoue Orihime** — *Bleach*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
