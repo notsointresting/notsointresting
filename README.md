@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't understand you! You said you don't love me, but you act like you do! Then you tell me to stay away. Do I have a chance or not?!"*
+> 💬 *"It's not the goodbyes that hurt, it's the flashbacks that follow..."*
 >
-> 🎭 **Yoshida Haru** — *My Little Monster*
+> 🎭 **Gray Fullbuster** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
