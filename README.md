@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t care what the society says. I’ve never regretted doing anything. I will survive and do what I want to."*
+> 💬 *"I'm inadequate in everything."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Soi Fon** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
