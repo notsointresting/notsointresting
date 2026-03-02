@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not the goodbyes that hurt, it's the flashbacks that follow..."*
+> 💬 *"There are things you can't see unless you change your standing."*
 >
-> 🎭 **Gray Fullbuster** — *Fairy Tail*
+> 🎭 **Trafalgar Law** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
