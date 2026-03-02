@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"He’d never be that dishonest cause he promised me that we’d own the whole country together."*
+> 💬 *"I don't understand you! You said you don't love me, but you act like you do! Then you tell me to stay away. Do I have a chance or not?!"*
 >
-> 🎭 **Mikey** — *Tokyo Revengers*
+> 🎭 **Yoshida Haru** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
