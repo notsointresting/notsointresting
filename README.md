@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People's thoughts don't always mirror how they feel. That's why they sometimes make decisions that seem nonsensical."*
+> 💬 *"Having happy and beautiful memories won't always bring you salvation. The more beautiful a memory is, the more painful it can become. It can even become terrifying. Both for the one who's leaving... And for the one left behind."*
 >
-> 🎭 **Shizuka Hiratsuka** — *My Teen Romantic Comedy SNAFU TOO!*
+> 🎭 **Isla** — *Plastic Memories*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
