@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Having happy and beautiful memories won't always bring you salvation. The more beautiful a memory is, the more painful it can become. It can even become terrifying. Both for the one who's leaving... And for the one left behind."*
+> 💬 *"I can't exactly fight a war with a big smile on my face."*
 >
-> 🎭 **Isla** — *Plastic Memories*
+> 🎭 **Athrun Zala** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
