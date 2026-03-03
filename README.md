@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Wear the best shoes you can, because those shoes will take you to great places."*
+> 💬 *"People's thoughts don't always mirror how they feel. That's why they sometimes make decisions that seem nonsensical."*
 >
-> 🎭 **Todo Shizuka** — *Hana Yori Dango*
+> 🎭 **Shizuka Hiratsuka** — *My Teen Romantic Comedy SNAFU TOO!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
