@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html) 
-- [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html) 
-- [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html) 
-- [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html) 
+<!-- CYBER_NEWS:START -->- [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html) 
+- [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html) 
+- [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html) 
+- [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
