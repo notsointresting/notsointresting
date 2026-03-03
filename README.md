@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you’re willing to do whatever it takes, I won’t hold back."*
+> 💬 *"Wear the best shoes you can, because those shoes will take you to great places."*
 >
-> 🎭 **Gon Freecss** — *Hunter x Hunter*
+> 🎭 **Todo Shizuka** — *Hana Yori Dango*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
