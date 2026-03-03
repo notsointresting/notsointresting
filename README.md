@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm inadequate in everything."*
+> 💬 *"I used to think that eating was only consuming needed nutrients. I never thought it could fill the emptiness in me."*
 >
-> 🎭 **Soi Fon** — *Bleach*
+> 🎭 **Teito Klein** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
