@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I used to think that eating was only consuming needed nutrients. I never thought it could fill the emptiness in me."*
+> 💬 *"If you’re willing to do whatever it takes, I won’t hold back."*
 >
-> 🎭 **Teito Klein** — *07-Ghost*
+> 🎭 **Gon Freecss** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
