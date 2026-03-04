@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Strangely enough, when you get older, the things you didn't understand when you were a child... start to make sense. "When this happened, I should have done that." "When that happened, I should have said this." Those types of things. You start to understand rather than regret. It may be closer to repentance. So it may be that I do want to repent and erase the ignorant self from my childhood. Maybe that's what they mean when they say adults are selfish."*
+> 💬 *"I’m a complete failure. At everything I do, I’m absolutely worthless. I know this, and yet I continue to burden the human race with my presence. Every day I rob the world of valuable air by breathing. I’m a thief, and I hate myself for it. I don’t deserve to exist. But even though I know it’s the right thing to do, I’m such a useless coward. I don’t even have the courage to jump!"*
 >
-> 🎭 **Sohma Ayame** — *Fruits Basket*
+> 🎭 **Ritsu Sohma** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
