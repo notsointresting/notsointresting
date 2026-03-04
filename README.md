@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [MIT Technology Review Insiders Panel](https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/) 
+<!-- AI_NEWS:START -->- [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) 
+- [The Download: Earth’s rumblings, and AI for strikes on Iran](https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/) 
+- [MIT Technology Review Insiders Panel](https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/) 
 - [The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal](https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/) 
-- [This startup claims it can stop lightning and prevent catastrophic wildfires](https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/) 
-- [OpenAI’s “compromise” with the Pentagon is what Anthropic feared](https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/) 
 <!-- AI_NEWS:END -->
 
 </td>
