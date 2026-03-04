@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I’m a complete failure. At everything I do, I’m absolutely worthless. I know this, and yet I continue to burden the human race with my presence. Every day I rob the world of valuable air by breathing. I’m a thief, and I hate myself for it. I don’t deserve to exist. But even though I know it’s the right thing to do, I’m such a useless coward. I don’t even have the courage to jump!"*
+> 💬 *"What repulsive creature makes my eardrums bleed?"*
 >
-> 🎭 **Ritsu Sohma** — *Fruits Basket*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
