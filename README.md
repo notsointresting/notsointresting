@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What repulsive creature makes my eardrums bleed?"*
+> 💬 *"Tragic he said. I'm tragic?"*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
