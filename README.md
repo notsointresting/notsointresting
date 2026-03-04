@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't exactly fight a war with a big smile on my face."*
+> 💬 *"Strangely enough, when you get older, the things you didn't understand when you were a child... start to make sense. "When this happened, I should have done that." "When that happened, I should have said this." Those types of things. You start to understand rather than regret. It may be closer to repentance. So it may be that I do want to repent and erase the ignorant self from my childhood. Maybe that's what they mean when they say adults are selfish."*
 >
-> 🎭 **Athrun Zala** — *Mobile Suit Gundam SEED*
+> 🎭 **Sohma Ayame** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
