@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are bad ways to win and good ways to lose. What's interesting and troubling, is that it's not always clear which is which. A flipped coin doesn't always land heads or tails. Sometimes it may never land at all."*
+> 💬 *"After being driven out of the orphanage, I had nothing to eat, nowhere to sleep, and, as one might expect, not a cent to my name. Yet, I lack the courage to commit theft. That is how I've arrived at my current predicament... However... if I wish to live, I have no choice but to steal and take from others!"*
 >
-> 🎭 **Grimsley** — *Pokémon*
+> 🎭 **Atsushi Nakajima** — *Bungo Stray Dogs*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
