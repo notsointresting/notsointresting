@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html) 
-- [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html) 
-- [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html) 
-- [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html) 
+<!-- CYBER_NEWS:START -->- [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html) 
+- [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html) 
+- [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html) 
+- [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
