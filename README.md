@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) 
+<!-- AI_NEWS:START -->- [How much wildfire prevention is too much?](https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/) 
+- [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) 
+- [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) 
 - [The Download: Earth’s rumblings, and AI for strikes on Iran](https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/) 
-- [MIT Technology Review Insiders Panel](https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/) 
-- [The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal](https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/) 
 <!-- AI_NEWS:END -->
 
 </td>
