@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you don't see her, you won't fall in love. If you don't fall in love, you won't get hurt."*
+> 💬 *"There are bad ways to win and good ways to lose. What's interesting and troubling, is that it's not always clear which is which. A flipped coin doesn't always land heads or tails. Sometimes it may never land at all."*
 >
-> 🎭 **Satou Tatsuhiro** — *Welcome to the N.H.K.*
+> 🎭 **Grimsley** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
