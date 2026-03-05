@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Abandon your fear. Look forward. Move forward and never stop. You'll age if you pull back. You'll die if you hesitate."*
+> 💬 *"I lost all of what you could call feelings of love. They weren't sealed, so they can't be released. They weren't broken, so they can't be fixed. That which is lost, cannot be recovered."*
 >
-> 🎭 **Zangetsu** — *Bleach*
+> 🎭 **Tatsuya Shiba** — *The Irregular at Magic High School*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
