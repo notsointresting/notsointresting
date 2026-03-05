@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Run? Is that how you speak to a hero? How little you understand. Allow me to educate you. If a hero were to run from battle... the children could no longer call him a hero."*
+> 💬 *"If you don't see her, you won't fall in love. If you don't fall in love, you won't get hurt."*
 >
-> 🎭 **Don Kanonji** — *Bleach*
+> 🎭 **Satou Tatsuhiro** — *Welcome to the N.H.K.*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
