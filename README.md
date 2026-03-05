@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I lost all of what you could call feelings of love. They weren't sealed, so they can't be released. They weren't broken, so they can't be fixed. That which is lost, cannot be recovered."*
+> 💬 *"Run? Is that how you speak to a hero? How little you understand. Allow me to educate you. If a hero were to run from battle... the children could no longer call him a hero."*
 >
-> 🎭 **Tatsuya Shiba** — *The Irregular at Magic High School*
+> 🎭 **Don Kanonji** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
