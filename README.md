@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Tohru, you must always be yourself and do things at your own pace. Someday... you'll catch up."*
+> 💬 *"How could I forget? He's into dead girls."*
 >
-> 🎭 **Kyoko Honda** — *Fruits Basket*
+> 🎭 **Kagome Higurashi** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
