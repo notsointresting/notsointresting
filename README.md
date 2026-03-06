@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"How could I forget? He's into dead girls."*
+> 💬 *"People tend to push the pain they're burdened with onto other people."*
 >
-> 🎭 **Kagome Higurashi** — *InuYasha*
+> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
