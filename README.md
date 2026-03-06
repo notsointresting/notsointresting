@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Shut up! I did what I had to do. People lie to survive. No one is blameless."*
+> 💬 *"I do not fear this new challenge, rather like a true warrior I will rise to meet it."*
 >
-> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Vegeta** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
