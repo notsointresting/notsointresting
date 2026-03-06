@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I do not fear this new challenge, rather like a true warrior I will rise to meet it."*
+> 💬 *"It looks to me like you've completely lost your touch."*
 >
-> 🎭 **Vegeta** — *Dragon Ball Z*
+> 🎭 **Shihouin Yoruichi** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
