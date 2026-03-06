@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People tend to push the pain they're burdened with onto other people."*
+> 💬 *"Shut up! I did what I had to do. People lie to survive. No one is blameless."*
 >
-> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
+> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
