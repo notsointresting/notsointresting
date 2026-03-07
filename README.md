@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We think the flower on the precipice is beautiful, because our fear makes our feet stop at its edge, instead of stepping forward into the sky, like that flower."*
+> 💬 *"Damn it, I really don't want to follow her to hell... Looks like I'll just have to pull her out of it!"*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Kamijou Touma** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
