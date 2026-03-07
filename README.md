@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being awesome is being nothing but yourself~"*
+> 💬 *"*about Grevil* He's the owner of the oddest hair in all of Sauville."*
 >
-> 🎭 **Shiro** — *Deadman Wonderland*
+> 🎭 **Victorique de Blois** — *Gosick*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
