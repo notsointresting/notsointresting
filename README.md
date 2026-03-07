@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*about Grevil* He's the owner of the oddest hair in all of Sauville."*
+> 💬 *"We think the flower on the precipice is beautiful, because our fear makes our feet stop at its edge, instead of stepping forward into the sky, like that flower."*
 >
-> 🎭 **Victorique de Blois** — *Gosick*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
