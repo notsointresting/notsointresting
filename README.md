@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The Kuchiki clan is one of the four noble houses. We must set the standard for all shinigami. If we do not abide by the code...then who will uphold it?"*
+> 💬 *"Being awesome is being nothing but yourself~"*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **Shiro** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
