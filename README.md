@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon](https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/) 
+<!-- AI_NEWS:START -->- [Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/) 
+- [The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon](https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/) 
 - [The Download: an AI agent’s hit piece, and preventing lightning](https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/) 
 - [How much wildfire prevention is too much?](https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/) 
-- [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) 
 <!-- AI_NEWS:END -->
 
 </td>
