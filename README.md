@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Damn it, I really don't want to follow her to hell... Looks like I'll just have to pull her out of it!"*
+> 💬 *"I will be the Man who surpass God."*
 >
-> 🎭 **Kamijou Touma** — *A Certain Magical Index*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
