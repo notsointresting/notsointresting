@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you find a raw diamond, wanting it to become polished is natural right?"*
+> 💬 *"You hit me with everything you had, so I decided I could trust you with everything I had."*
 >
-> 🎭 **Kuu Hizuri** — *Skip Beat!*
+> 🎭 **Konno Yuuki** — *Sword Art Online II*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
