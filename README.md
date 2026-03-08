@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will be the Man who surpass God."*
+> 💬 *"You were always there for me, and that’s all I needed. Just you. For some reason, I didn't feel sad or broken up, it just didn't seem real. But slowly I realized it was real – that you were gone. And little by little, I slowly felt something inside me go numb."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Jet Black** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
