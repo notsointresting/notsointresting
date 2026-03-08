@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You were always there for me, and that’s all I needed. Just you. For some reason, I didn't feel sad or broken up, it just didn't seem real. But slowly I realized it was real – that you were gone. And little by little, I slowly felt something inside me go numb."*
+> 💬 *"If you find a raw diamond, wanting it to become polished is natural right?"*
 >
-> 🎭 **Jet Black** — *Cowboy Bebop*
+> 🎭 **Kuu Hizuri** — *Skip Beat!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
