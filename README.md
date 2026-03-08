@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[about his deceased friend] I never overcame my shyness and told her that I actually liked clouds."*
+> 💬 *"Talent is something you make bloom, instinct is something you polish."*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Tooru Oikawa** — *Haikyu!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
