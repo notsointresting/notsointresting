@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll leave tomorrow's problems to tomorrow's me."*
+> 💬 *"Reality is just a crappy game!"*
 >
-> 🎭 **Saitama** — *One Punch Man*
+> 🎭 **Keima Katsuragi** — *The World God Only Knows*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
