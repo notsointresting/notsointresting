@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Reality is just a crappy game!"*
+> 💬 *"A pig who doesn't fly is just an ordinary pig."*
 >
-> 🎭 **Keima Katsuragi** — *The World God Only Knows*
+> 🎭 **Porco Rosso** — *Porco Rosso*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
