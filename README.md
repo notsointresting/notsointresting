@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Friends are a good thing, even if they tread a different path."*
+> 💬 *"I'll leave tomorrow's problems to tomorrow's me."*
 >
-> 🎭 **Ukitake Jyuushirou** — *Bleach*
+> 🎭 **Saitama** — *One Punch Man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
