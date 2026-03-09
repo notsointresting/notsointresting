@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will be the Man who surpass God."*
+> 💬 *"Friends are a good thing, even if they tread a different path."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Ukitake Jyuushirou** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
