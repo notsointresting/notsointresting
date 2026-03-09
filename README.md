@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Talent is something you make bloom, instinct is something you polish."*
+> 💬 *"I will be the Man who surpass God."*
 >
-> 🎭 **Tooru Oikawa** — *Haikyu!!*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
