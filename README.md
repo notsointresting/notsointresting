@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A pig who doesn't fly is just an ordinary pig."*
+> 💬 *"If you smile once when you’re feeling down, you begin to feel better and become more cheerful."*
 >
-> 🎭 **Porco Rosso** — *Porco Rosso*
+> 🎭 **Rito Yuuki** — *To Love Ru*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
