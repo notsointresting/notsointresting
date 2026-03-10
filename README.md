@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Your darkness...I will...seal it..."*
+> 💬 *"You guys sure are a worthless bunch. If you wanna wallow in your tears, save it for after you've done everything you can!"*
 >
-> 🎭 **Gray Fullbuster** — *Fairy Tail*
+> 🎭 **Seiya Kanie** — *Amagi Brilliant Park*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
