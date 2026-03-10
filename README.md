@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I still can't control my wish to see her. I never thought of how important she was to me. (about Rin)"*
+> 💬 *"Your darkness...I will...seal it..."*
 >
-> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
+> 🎭 **Gray Fullbuster** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
