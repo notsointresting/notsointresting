@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you smile once when you’re feeling down, you begin to feel better and become more cheerful."*
+> 💬 *"What do you know of death?!! Have you ever died?!! You think death will preserve your cause forever?!! Ridiculous!! Death leaves nothing behind!!"*
 >
-> 🎭 **Rito Yuuki** — *To Love Ru*
+> 🎭 **Brook** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
