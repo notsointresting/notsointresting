@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"ADW is a severe, incurable ailment that makes the patient Able to Do only what he Wants to do."*
+> 💬 *"I still can't control my wish to see her. I never thought of how important she was to me. (about Rin)"*
 >
-> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
+> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
