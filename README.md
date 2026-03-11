@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This frustrating happiness... Days so warm it almost makes you dizzy. By this time next year... It may be time for me to stop looking away and know for real. Since I've decided to protect the Book of Friends... Since I decided to accept what I hear and see."*
+> 💬 *"In the limited time we have between our births and our deaths, we live life with everything we've got."*
 >
-> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
+> 🎭 **Ushiromiya Battler** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
