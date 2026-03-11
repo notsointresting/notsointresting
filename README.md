@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*to Riku* At least I'm the cute one!!"*
+> 💬 *"Why don't we drink to me and my reflection in your lovely eyes?"*
 >
-> 🎭 **Risa Harada** — *D.N.Angel*
+> 🎭 **Andy Von De Oniyate** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
