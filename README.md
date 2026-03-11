@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You guys sure are a worthless bunch. If you wanna wallow in your tears, save it for after you've done everything you can!"*
+> 💬 *"Know much about purgatory? It's the place between heaven and hell, where those who were left behind, unable to get into heaven continue to suffer, a place of struggle and pain. In other words, the world that we're in now."*
 >
-> 🎭 **Seiya Kanie** — *Amagi Brilliant Park*
+> 🎭 **Vincent Volaju** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
