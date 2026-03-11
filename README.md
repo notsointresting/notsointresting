@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In the limited time we have between our births and our deaths, we live life with everything we've got."*
+> 💬 *"*to Riku* At least I'm the cute one!!"*
 >
-> 🎭 **Ushiromiya Battler** — *Umineko: When They Cry*
+> 🎭 **Risa Harada** — *D.N.Angel*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
