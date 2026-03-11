@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why don't we drink to me and my reflection in your lovely eyes?"*
+> 💬 *"I've liked him for so long. So long. But Mayama likes someone else. But I wanna hear his voice. I want to hold his hand. I feel like this."*
 >
-> 🎭 **Andy Von De Oniyate** — *Cowboy Bebop*
+> 🎭 **Ayumi Yamada** — *Honey and Clover*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
