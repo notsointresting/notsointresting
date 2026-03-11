@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Know much about purgatory? It's the place between heaven and hell, where those who were left behind, unable to get into heaven continue to suffer, a place of struggle and pain. In other words, the world that we're in now."*
+> 💬 *"This frustrating happiness... Days so warm it almost makes you dizzy. By this time next year... It may be time for me to stop looking away and know for real. Since I've decided to protect the Book of Friends... Since I decided to accept what I hear and see."*
 >
-> 🎭 **Vincent Volaju** — *Cowboy Bebop*
+> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
