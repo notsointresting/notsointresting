@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being angry consumes energy and makes me tired. So I'd rather apologize, even if I'm not at fault. Besides, we get along, and we both want to stay friends. Prolonging an awkward situation out of stubbornness is just silly."*
+> 💬 *"A woman's happiness is in throwing everything away to live for love."*
 >
-> 🎭 **Tanaka** — *Tanaka-kun is Always Listless*
+> 🎭 **Daisuke Yamamoto** — *Paradise Kiss*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
