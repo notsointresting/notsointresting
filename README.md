@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) 
+<!-- AI_NEWS:START -->- [Brutal times for the US battery industry](https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/) 
+- [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) 
 - [The Download: Pokémon Go to train world models, and the US-China race to find aliens](https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/) 
 - [How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/) 
-- [Prioritizing energy intelligence for sustainable growth](https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/) 
 <!-- AI_NEWS:END -->
 
 </td>
