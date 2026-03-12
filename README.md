@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The difference between the novice and the master is that the master has failed more times than the novice has tried."*
+> 💬 *"Moping around with sadness and sorrow... what will come of it? Even dead people can do that. However, I'll live and stand on my own two legs. If we are going to die one day, wouldn't it be better to have no regrets?"*
 >
-> 🎭 **Korosensei** — *Assassination Classroom*
+> 🎭 **Ciel Phantomhive** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
