@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are times in a man's life when he must STRIP"*
+> 💬 *"The difference between the novice and the master is that the master has failed more times than the novice has tried."*
 >
-> 🎭 **Gray Fullbuster** — *Fairy Tail*
+> 🎭 **Korosensei** — *Assassination Classroom*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
