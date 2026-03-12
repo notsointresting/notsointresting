@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Is that the kinda attitude you show to someone concerned about you?! What's gonna happen to the person who wants to see ya, huh?!?! Its obvious... Its obvious you wish to see each other... SO COME AND FREAKIN' SEE ME ALREADY!!"*
+> 💬 *"There are times in a man's life when he must STRIP"*
 >
-> 🎭 **Arisa Uotani** — *Fruits Basket*
+> 🎭 **Gray Fullbuster** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
