@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A woman's happiness is in throwing everything away to live for love."*
+> 💬 *"Is that the kinda attitude you show to someone concerned about you?! What's gonna happen to the person who wants to see ya, huh?!?! Its obvious... Its obvious you wish to see each other... SO COME AND FREAKIN' SEE ME ALREADY!!"*
 >
-> 🎭 **Daisuke Yamamoto** — *Paradise Kiss*
+> 🎭 **Arisa Uotani** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
