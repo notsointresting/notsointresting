@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Moping around with sadness and sorrow... what will come of it? Even dead people can do that. However, I'll live and stand on my own two legs. If we are going to die one day, wouldn't it be better to have no regrets?"*
+> 💬 *"There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The former is commonplace stupidity... but the latter is a rare species that is difficult to find."*
 >
-> 🎭 **Ciel Phantomhive** — *Black Butler*
+> 🎭 **Gilgamesh** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
