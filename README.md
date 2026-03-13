@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The former is commonplace stupidity... but the latter is a rare species that is difficult to find."*
+> 💬 *"There are times when there's a great pleasure waiting at the end of laments, pains, and near-death experiences."*
 >
-> 🎭 **Gilgamesh** — *Fate/Zero*
+> 🎭 **Hinagiku Katsura** — *Hayate the Combat Butler!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
