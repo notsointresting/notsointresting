@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I want to spend a lot more time with you! But I don’t want you to think I’m annoying, so I’m holding myself back. When you’re away, I always wonder what you’re doing and thinking."*
+> 💬 *"Doing something you want, isn't doing something you are good at, nor is it doing something you are able to. If it's to fulfill your wish, even if you're weak in it, you'll do it."*
 >
-> 🎭 **Kaga Kouko** — *Golden Time*
+> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
