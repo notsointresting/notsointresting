@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everyone is sacrificing something precious to them in order to save something else. Is that the reason for human action?"*
+> 💬 *"Poets say love can't be bought with money. Preachers say that there are things more important than money. So even though we work hard just to earn money, how can we obtain something more important than that?"*
 >
-> 🎭 **Shijima Kurookano** — *Nabari no Ou*
+> 🎭 **Mark** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
