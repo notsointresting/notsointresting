@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Veeam Patches 7 Critical Backup &amp; Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html) 
-- [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html) 
-- [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html) 
-- [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html) 
+<!-- CYBER_NEWS:START -->- [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html) 
+- [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html) 
+- [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html) 
+- [Veeam Patches 7 Critical Backup &amp; Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
