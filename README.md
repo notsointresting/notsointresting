@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Doing something you want, isn't doing something you are good at, nor is it doing something you are able to. If it's to fulfill your wish, even if you're weak in it, you'll do it."*
+> 💬 *"Everyone is sacrificing something precious to them in order to save something else. Is that the reason for human action?"*
 >
-> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
+> 🎭 **Shijima Kurookano** — *Nabari no Ou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
