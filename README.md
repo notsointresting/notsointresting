@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are times when there's a great pleasure waiting at the end of laments, pains, and near-death experiences."*
+> 💬 *"I want to spend a lot more time with you! But I don’t want you to think I’m annoying, so I’m holding myself back. When you’re away, I always wonder what you’re doing and thinking."*
 >
-> 🎭 **Hinagiku Katsura** — *Hayate the Combat Butler!!*
+> 🎭 **Kaga Kouko** — *Golden Time*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
