@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Poets say love can't be bought with money. Preachers say that there are things more important than money. So even though we work hard just to earn money, how can we obtain something more important than that?"*
+> 💬 *"*to Ichigo* I thought you were interesting before, but now you're just a creepy kid."*
 >
-> 🎭 **Mark** — *Spice and Wolf*
+> 🎭 **Ichimaru Gin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
