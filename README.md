@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I told you before, Komamura. The only paths that I see with these eyes are the ones not dyed with blood. Those paths are the paths to justice. So whichever path I choose...Is justice."*
+> 💬 *"Please... even if I die surrounded by snow that never melts... please let her be happy."*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Sohma Hatori** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
