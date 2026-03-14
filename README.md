@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To rule time is to rule the world."*
+> 💬 *"You've trapped yourself in a body you hated hiding in the pain, and now you want to torture yourself again for eternity...haven't we both paid enough?"*
 >
-> 🎭 **Suzuha Amane** — *Steins Gate*
+> 🎭 **Genkai** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
