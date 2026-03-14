@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*to Ichigo* I thought you were interesting before, but now you're just a creepy kid."*
+> 💬 *"To rule time is to rule the world."*
 >
-> 🎭 **Ichimaru Gin** — *Bleach*
+> 🎭 **Suzuha Amane** — *Steins Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
