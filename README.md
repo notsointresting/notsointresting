@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"For the right price, you can buy not only treasures, but dreams, hearts, and even people’s lives."*
+> 💬 *"Hahahahahahahah! Now we'll see who has the last quack!"*
 >
-> 🎭 **Leorio** — *Hunter x Hunter*
+> 🎭 **Ash Ketchum** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
