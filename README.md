@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Smile. Not for anyone else, but for yourself. Show yourself your own smile. You'll feel better then."*
+> 💬 *"Murder doesn't necessarily mean evil, right? The world being what it is, a lot of people out there deserve to die, don't they? But those who do take it upon themselves to kill others, have to be prepared to have others try to kill them as well. And that's what they call the law of Karma, my friends. That's why good or bad, the only ones who are going to be left standing are the ones with the strongest wills to survive."*
 >
-> 🎭 **Rintarou Tatewaki** — *Magic-Kyun! Renaissance*
+> 🎭 **Genjo Sanzo** — *Saiyuki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
