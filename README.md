@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hahahahahahahah! Now we'll see who has the last quack!"*
+> 💬 *"Smile. Not for anyone else, but for yourself. Show yourself your own smile. You'll feel better then."*
 >
-> 🎭 **Ash Ketchum** — *Pokémon*
+> 🎭 **Rintarou Tatewaki** — *Magic-Kyun! Renaissance*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
