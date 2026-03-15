@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Murder doesn't necessarily mean evil, right? The world being what it is, a lot of people out there deserve to die, don't they? But those who do take it upon themselves to kill others, have to be prepared to have others try to kill them as well. And that's what they call the law of Karma, my friends. That's why good or bad, the only ones who are going to be left standing are the ones with the strongest wills to survive."*
+> 💬 *"There's a noose that hangs at the entrance to the city. It's a message to be read by all who encounter it. For the cautious, the sane - it's a warning. For the reckless, the wild at heart - an invitation they cannot refuse. The worst of the criminal underworld gather here. They come here from across the world to butt heads and jostle for power. An evil city caught between the east and the west founded during the Cold War and nurtured by many who came here to ride the wave of the illegal drug trade sweeping across the continent. The edge of the world, the crucible of hypocrisy, a place where those whose souls have been destroyed in the relentless search for money and power reside. A final stop on the way to hell. How have I managed to stay alive this long? With the help of three people: Dutch, Revy and Benny. Also known as the Lagoon Company. The name of this city is spoken of among the villains of the world. Many who come here to make a name for themselves are swallowed by the darkness, never to return. A cruel fate awaits any half-assed small time crook, who accidentally stumbles into Roanapur. Right now another sacrificial lamb has wandered too far from home. The city awaits."*
 >
-> 🎭 **Genjo Sanzo** — *Saiyuki*
+> 🎭 **Okajima Rokuro** — *Black Lagoon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
