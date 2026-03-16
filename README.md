@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) 
-- [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/) 
-- [The Download: how AI is used for military targeting, and the Pentagon’s war on Claude](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/) 
-- [Future AI chips could be built on glass](https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/) 
+<!-- AI_NEWS:START -->- [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) 
+- [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) 
+- [The Download: glass chips and “AI-free” logos](https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/) 
+- [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) 
 <!-- AI_NEWS:END -->
 
 </td>
