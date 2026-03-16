@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You opened a path… to reach further heights… and you abandoned it… Very weak."*
+> 💬 *"Even if they're only a year older, shouldn't we respect and serve our elders?"*
 >
-> 🎭 **Kokushibo** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Sakamoto** — *Haven't You Heard? I'm Sakamoto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
