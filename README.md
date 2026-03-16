@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I hope it's a cool morning. That's how cool days always start out. And a cool guy like me deserves the coolest morning possible."*
+> 💬 *"There once was a boy, who dreamed of being a hero, who sincerely believed in the battle to banish darkness from a world of light. But light and darkness are equals and where one exists, so too must the other. When the boy finally realized this, that was when he started the path to becoming a true hero."*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Record of Lodoss War** — *Record of Lodoss War*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
