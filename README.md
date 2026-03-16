@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being able to cry for his companion. I was thinking you couldn't cry, nor did you have a heart. But in that case why... even a little... don't you share that feeling... with all the people you kill !!"*
+> 💬 *"Love does not hurt when you're loving the right person."*
 >
-> 🎭 **Gon Freecss** — *Hunter x Hunter*
+> 🎭 **Tachibana Marika** — *Nisekoi: False Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
