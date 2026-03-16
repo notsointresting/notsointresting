@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if they're only a year older, shouldn't we respect and serve our elders?"*
+> 💬 *"Remote islands are all about strange incidents, right?"*
 >
-> 🎭 **Sakamoto** — *Haven't You Heard? I'm Sakamoto*
+> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
