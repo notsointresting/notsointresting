@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There once was a boy, who dreamed of being a hero, who sincerely believed in the battle to banish darkness from a world of light. But light and darkness are equals and where one exists, so too must the other. When the boy finally realized this, that was when he started the path to becoming a true hero."*
+> 💬 *"Being able to cry for his companion. I was thinking you couldn't cry, nor did you have a heart. But in that case why... even a little... don't you share that feeling... with all the people you kill !!"*
 >
-> 🎭 **Record of Lodoss War** — *Record of Lodoss War*
+> 🎭 **Gon Freecss** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
