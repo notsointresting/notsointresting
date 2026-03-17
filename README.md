@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Relying on someone, helping each other out, and supporting each other. Most would say that's the right thing to do. However, that's just idealistic. In reality, someone always gets the short end of the stick."*
+> 💬 *"Duh!! There's no such thing as free wish."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Yato** — *Noragami*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
