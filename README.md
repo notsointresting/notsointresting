@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Human nature pursues strife."*
+> 💬 *"There are some things in life that will only be understood through words."*
 >
-> 🎭 **Pain** — *Naruto*
+> 🎭 **Winry Rockbell** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
