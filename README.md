@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You don't need a driver's license to hit and run!"*
+> 💬 *"If it's the army's job to end a war, it's the king's job to find a place for it to end."*
 >
-> 🎭 **Kagura** — *Gintama*
+> 🎭 **Maou** — *Maoyu*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
