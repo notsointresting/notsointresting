@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Love does not hurt when you're loving the right person."*
+> 💬 *"You don't need a driver's license to hit and run!"*
 >
-> 🎭 **Tachibana Marika** — *Nisekoi: False Love*
+> 🎭 **Kagura** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
