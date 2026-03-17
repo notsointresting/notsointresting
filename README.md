@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If it's the army's job to end a war, it's the king's job to find a place for it to end."*
+> 💬 *"Human nature pursues strife."*
 >
-> 🎭 **Maou** — *Maoyu*
+> 🎭 **Pain** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
