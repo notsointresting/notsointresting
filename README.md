@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are some things in life that will only be understood through words."*
+> 💬 *"Relying on someone, helping each other out, and supporting each other. Most would say that's the right thing to do. However, that's just idealistic. In reality, someone always gets the short end of the stick."*
 >
-> 🎭 **Winry Rockbell** — *Fullmetal Alchemist*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
