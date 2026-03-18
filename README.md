@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Human nature pursues strife."*
+> 💬 *"A dog's happiness is measured by how useful he is to his master."*
 >
-> 🎭 **Pain** — *Naruto*
+> 🎭 **Taiga Aisaka** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
