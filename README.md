@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[when Naruto transforms into a woman in front of the whole class] CUT THE STUPID TRICKS! THIS IS YOUR LAST WARNING!!"*
+> 💬 *"If you want to run from your past, fine. But whatever you do, don't run away from your present or worse, your future."*
 >
-> 🎭 **Iruka Umino** — *Naruto*
+> 🎭 **Kyohei Kadota** — *Durarara!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
