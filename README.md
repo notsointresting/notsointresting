@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you let anger and revenge consume you... You'll find yourself unable to behold the beautiful sights right before your eyes."*
+> 💬 *"Crying when you need to cry is another way to show strength."*
 >
-> 🎭 **Shinichi Kudou** — *Case Closed*
+> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
