@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Crying when you need to cry is another way to show strength."*
+> 💬 *"[when Naruto transforms into a woman in front of the whole class] CUT THE STUPID TRICKS! THIS IS YOUR LAST WARNING!!"*
 >
-> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
+> 🎭 **Iruka Umino** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
