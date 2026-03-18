@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A dog's happiness is measured by how useful he is to his master."*
+> 💬 *"If you let anger and revenge consume you... You'll find yourself unable to behold the beautiful sights right before your eyes."*
 >
-> 🎭 **Taiga Aisaka** — *Toradora!*
+> 🎭 **Shinichi Kudou** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
