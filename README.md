@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you want to run from your past, fine. But whatever you do, don't run away from your present or worse, your future."*
+> 💬 *"My companions make my heart strong. If I'm fighting for those I love, I care not what happens to this body."*
 >
-> 🎭 **Kyohei Kadota** — *Durarara!!*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
