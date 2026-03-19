@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When people are protecting something truly special to them, they truly can become... as strong as they can be."*
+> 💬 *"Fear. That is what we live with. And we live it everyday. Only in death are we free of it."*
 >
-> 🎭 **Naruto Uzumaki** — *Naruto*
+> 🎭 **Neji Hyuuga** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
