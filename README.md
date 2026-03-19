@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Fear. That is what we live with. And we live it everyday. Only in death are we free of it."*
+> 💬 *"To take responsibility is to take pain onto yourself. It means to bear more pain than what others felt because of your mistakes! If you ruined someone's silver tableware, you must repay with gold tableware. The president of a polluting manufacturing plant must live beside the plant's chimney. That's what taking responsibility means. However the people in so-called high positions never see the consequences. When mistakes are made, they will casually bow their heads and apologize. They think that's enough. Are you one of them too?"*
 >
-> 🎭 **Neji Hyuuga** — *Naruto*
+> 🎭 **Toua Tokuchi** — *One Outs*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
