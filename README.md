@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Walking along the path that she chose, without being affected by others... in this sense, white is her color...in another sense, it also makes me want to put more colors on her."*
+> 💬 *"There are people out there who would say there's nothing more important than love. But is love really that great? There are women, who because of love, get chased around by men. And there are men, who because of love, get killed by women. To put it down, for love to be so great, there's gotta be something else behind it that's even greater."*
 >
-> 🎭 **Takumi Usui** — *Maid Sama!*
+> 🎭 **Dante** — *Devil May Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
