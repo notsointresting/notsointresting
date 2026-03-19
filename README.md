@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"My companions make my heart strong. If I'm fighting for those I love, I care not what happens to this body."*
+> 💬 *"When people are protecting something truly special to them, they truly can become... as strong as they can be."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
