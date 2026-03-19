@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/) 
-- [What do new nuclear reactors mean for waste?](https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/) 
-- [The Pentagon is planning for AI companies to train on classified data, defense official says](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/) 
-- [The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit](https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/) 
+<!-- AI_NEWS:START -->- [The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste](https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/) 
+- [A $5 million prize awaits proof that quantum computers can solve health care problems](https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/) 
+- [Why the world doesn’t recycle more nuclear waste](https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/) 
+- [The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/) 
 <!-- AI_NEWS:END -->
 
 </td>
