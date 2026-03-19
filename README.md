@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To take responsibility is to take pain onto yourself. It means to bear more pain than what others felt because of your mistakes! If you ruined someone's silver tableware, you must repay with gold tableware. The president of a polluting manufacturing plant must live beside the plant's chimney. That's what taking responsibility means. However the people in so-called high positions never see the consequences. When mistakes are made, they will casually bow their heads and apologize. They think that's enough. Are you one of them too?"*
+> 💬 *"Walking along the path that she chose, without being affected by others... in this sense, white is her color...in another sense, it also makes me want to put more colors on her."*
 >
-> 🎭 **Toua Tokuchi** — *One Outs*
+> 🎭 **Takumi Usui** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
