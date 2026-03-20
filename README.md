@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Damn, at least one of us should've died!"*
+> 💬 *"It's simple. Even a single Coordinator is a threat to the Earth's survival, and our goal here is to get rid of them all!"*
 >
-> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
+> 🎭 **Muruta Azrael** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
