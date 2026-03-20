@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's simple. Even a single Coordinator is a threat to the Earth's survival, and our goal here is to get rid of them all!"*
+> 💬 *"This is a case of personal feelings: there's no way to force someone into saying that he or she loves someone. Besides, only the person knows whether the love truly exists. Even if it's said out with false feelings, it'll just cause damage on both sides."*
 >
-> 🎭 **Muruta Azrael** — *Mobile Suit Gundam SEED*
+> 🎭 **Yoshii Akihisa** — *Baka & Test - Summon the Beasts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
