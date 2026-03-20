@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If we are to die one day, wouldn't it be better to have no regrets?"*
+> 💬 *"Don't forget, our existence is a fragile and uncertain one, knowing that any one of us could die at any moment. In this short time that we have, we all have one or two wishes that we'd like to fulfill. Losing the most important wish... is like losing your reason for living."*
 >
-> 🎭 **Ciel Phantomhive** — *Black Butler*
+> 🎭 **Wakabayashi Hatsuna** — *Brynhildr in the Darkness*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
