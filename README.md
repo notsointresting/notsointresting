@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Real magic is the power to repair, to revive. To call back happiness which has disappeared, to call back love which has gotten cold. And it can call back a forgotten smile to a princess' face."*
+> 💬 *"Why are you looking for something when you can't even remember what it is?"*
 >
-> 🎭 **Virgilia** — *Umineko: When They Cry*
+> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
