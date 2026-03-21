@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I think being able to openly take away the most important thing people have... "life"... is the best thing that ever happened!"*
+> 💬 *"Sasuke, I always knew you were alone. In the beginning I was glad because I thought you were like me - I wanted to talk to you! But you... didn't speak. You always had everyone watching you. You could do everything and we were too different. So I decided that you would become my rival. I didn't want to lose because I was called a loser all the time. Even when we became Team 7, I still thought this way. I always tried to lie but... but the truth is... I always wanted to be like you. I aspired to be like you. Because of that... I was glad that you wanted to fight me."*
 >
-> 🎭 **Luciano Bradley** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
