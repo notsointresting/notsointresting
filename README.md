@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I try to deny my past, I'm denying the person I've become. I don't want to do that."*
+> 💬 *"I think being able to openly take away the most important thing people have... "life"... is the best thing that ever happened!"*
 >
-> 🎭 **Iori Nagase** — *Kokoro Connect*
+> 🎭 **Luciano Bradley** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
