@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This is a case of personal feelings: there's no way to force someone into saying that he or she loves someone. Besides, only the person knows whether the love truly exists. Even if it's said out with false feelings, it'll just cause damage on both sides."*
+> 💬 *"Real magic is the power to repair, to revive. To call back happiness which has disappeared, to call back love which has gotten cold. And it can call back a forgotten smile to a princess' face."*
 >
-> 🎭 **Yoshii Akihisa** — *Baka & Test - Summon the Beasts*
+> 🎭 **Virgilia** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
