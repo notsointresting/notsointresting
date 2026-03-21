@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why are you looking for something when you can't even remember what it is?"*
+> 💬 *"If I try to deny my past, I'm denying the person I've become. I don't want to do that."*
 >
-> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
+> 🎭 **Iori Nagase** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
