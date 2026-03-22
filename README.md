@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whenever I see tulips, I'm always reminded of when we learned that these precious little flowers, have the strength to endure harsh winters."*
+> 💬 *"Now you're suddenly in a big rush to go? What's the point in hurrying, we're already three hours late."*
 >
-> 🎭 **Asaba Yuta** — *You and Me.*
+> 🎭 **Elizabeth Thompson** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
