@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Girls who are pretty and pure only exist in fantasies."*
+> 💬 *"Studying was fun. I enjoyed solving problems quickly, and I was rewarded for the effort I put in. Studying made me feel complete."*
 >
-> 🎭 **Rentarou Kurahashi** — *Love Lab*
+> 🎭 **Shizuku Mizutani** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
