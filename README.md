@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Something this, something that--jeez you're annoying. (to Yuki)"*
+> 💬 *"Girls who are pretty and pure only exist in fantasies."*
 >
-> 🎭 **Sohma Rin** — *Fruits Basket*
+> 🎭 **Rentarou Kurahashi** — *Love Lab*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
