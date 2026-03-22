@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Studying was fun. I enjoyed solving problems quickly, and I was rewarded for the effort I put in. Studying made me feel complete."*
+> 💬 *"Inside my mind, there's a beautiful cup. A very beautiful, clear cup. And tiny drops kept falling into it: "drip, drip, drip", slowly but steadily, everyday. And today, I felt the cup had finally become completely full."*
 >
-> 🎭 **Shizuku Mizutani** — *My Little Monster*
+> 🎭 **Kuu** — *Haibane Renmei*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
