@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Now you're suddenly in a big rush to go? What's the point in hurrying, we're already three hours late."*
+> 💬 *"Something this, something that--jeez you're annoying. (to Yuki)"*
 >
-> 🎭 **Elizabeth Thompson** — *Soul Eater*
+> 🎭 **Sohma Rin** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
