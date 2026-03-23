@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Red is supposed to be the color of fate, right? Even if it’s annoying now, it might connect to something good when you least expect it."*
+> 💬 *"Kindness is not a crime. But sometimes it awakens the weakness and greed in others."*
 >
-> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
+> 🎭 **Su-won** — *Yona of the Dawn*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
