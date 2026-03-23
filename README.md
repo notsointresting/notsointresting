@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/) 
+<!-- AI_NEWS:START -->- [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) 
+- [The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/) 
 - [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) 
 - [The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot](https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/) 
-- [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) 
 <!-- AI_NEWS:END -->
 
 </td>
