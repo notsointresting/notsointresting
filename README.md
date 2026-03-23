@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"i'm on a little boat. I'm going against the current of the river, downstream to upstream. If you want something more, you move forward with all your might. If you try to stop, you fall behind. Humans can never stop moving. If they do not yearn for something... Right! Nothing begins without action! You gain nothing if you do nothing! Satisfaction is stagnation! Stagnation is death! I want to know! See! Feel! Experience! Understand! This monster is amazing, but we know nothing about him! This monster strength was amazing. He won every battle he fought! The ultimate soldier! Now it's a war between vampires? I have to thank the Servamp of Melancholy! In every era, wars have created progress!"*
+> 💬 *"Red is supposed to be the color of fate, right? Even if it’s annoying now, it might connect to something good when you least expect it."*
 >
-> 🎭 **Johannes Mimir Faustus** — *SERVAMP*
+> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
