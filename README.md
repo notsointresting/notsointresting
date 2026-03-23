@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Does it really matter that people don't like you?"*
+> 💬 *"If all you're good for is breathing in and out, then even an AC unit is more useful than you."*
 >
-> 🎭 **Shizuku Mizutani** — *My Little Monster*
+> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
