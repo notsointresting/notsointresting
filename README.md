@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kindness is not a crime. But sometimes it awakens the weakness and greed in others."*
+> 💬 *"I was feeling down, but you distracted me by subjecting me to your selfish whims. There are times when selfishness can save a person."*
 >
-> 🎭 **Su-won** — *Yona of the Dawn*
+> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
