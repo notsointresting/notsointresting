@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If all you're good for is breathing in and out, then even an AC unit is more useful than you."*
+> 💬 *"Are you going to keep staring at me because it's ticking me off. If you got something to say, say it."*
 >
-> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
