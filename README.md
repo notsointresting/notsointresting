@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are things that take a long time to acquire. Friends. Love. Really, nothing has been a waste."*
+> 💬 *"The root of all evil is the kotatsu."*
 >
-> 🎭 **Megumi Hanajima** — *Fruits Basket*
+> 🎭 **Chiaki Shinichi** — *Nodame Cantabile*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
