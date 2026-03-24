@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What irony. Such beauty, sprung from such an ugly soil."*
+> 💬 *"Soul! Soul! Are you okay?! You are going to be alright - Black Star is here for you now!! Open your eyes! One look at my big handsome face and you'll be cured for sure!"*
 >
-> 🎭 **Kurama** — *Yu Yu Hakusho*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
