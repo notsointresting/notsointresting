@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Soul! Soul! Are you okay?! You are going to be alright - Black Star is here for you now!! Open your eyes! One look at my big handsome face and you'll be cured for sure!"*
+> 💬 *"There are things that take a long time to acquire. Friends. Love. Really, nothing has been a waste."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Megumi Hanajima** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
