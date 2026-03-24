@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks](https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/) 
+<!-- AI_NEWS:START -->- [Exclusive eBook: Are we ready to hand AI agents the keys?](https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/) 
+- [This scientist rewarmed and studied pieces of his friend’s cryopreserved brain](https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/) 
+- [The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks](https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/) 
 - [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) 
-- [The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/) 
-- [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) 
 <!-- AI_NEWS:END -->
 
 </td>
