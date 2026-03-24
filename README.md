@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html) 
-- [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers &amp; More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html) 
-- [We Found Eight Attack Vectors Inside AWS Bedrock. Here&#39;s What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html) 
-- [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html) 
+<!-- CYBER_NEWS:START -->- [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html) 
+- [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html) 
+- [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html) 
+- [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
