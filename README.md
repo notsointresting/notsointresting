@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The things I had to tell her...The things I hoped she would listen to...There were so many of them."*
+> 💬 *"[To Ritsu Sohma] Sometimes living can be hard, but it's only because we're alive that we can make each other laugh, cry...be happy! [thinking] If that's not the reason for being born in this world...I don't know what is!"*
 >
-> 🎭 **Takaki Toono** — *5 Centimeters per Second*
+> 🎭 **Honda Tohru** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
