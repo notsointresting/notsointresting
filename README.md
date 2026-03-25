@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Ritsu Sohma] Sometimes living can be hard, but it's only because we're alive that we can make each other laugh, cry...be happy! [thinking] If that's not the reason for being born in this world...I don't know what is!"*
+> 💬 *"Life and death are like light and shadow. They're both always there. But people don't like thinking about death, so subconsciously, they always look away from it."*
 >
-> 🎭 **Honda Tohru** — *Fruits Basket*
+> 🎭 **Yato** — *Noragami*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
