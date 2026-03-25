@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Life and death are like light and shadow. They're both always there. But people don't like thinking about death, so subconsciously, they always look away from it."*
+> 💬 *"People don't kill people, really. Monsters do. Monsters like war, hungry nobles, and greedy kingdoms. And monsters like me, not you."*
 >
-> 🎭 **Yato** — *Noragami*
+> 🎭 **Ryner Lute** — *The Legend of the Legendary Heroes*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
