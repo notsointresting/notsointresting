@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Agentic commerce runs on truth and context](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/) 
-- [The AI Hype Index: AI goes to war](https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/) 
-- [Exclusive eBook: Are we ready to hand AI agents the keys?](https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/) 
-- [This scientist rewarmed and studied pieces of his friend’s cryopreserved brain](https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/) 
+<!-- AI_NEWS:START -->- [Roundtables: The Next Era of Space Exploration](https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/) 
+- [Why this battery company is pivoting to AI](https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/) 
+- [This startup wants to change how mathematicians do math](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/) 
+- [The Download: reawakening frozen brains, and the AI Hype Index returns](https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/) 
 <!-- AI_NEWS:END -->
 
 </td>
