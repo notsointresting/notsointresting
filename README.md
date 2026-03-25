@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you don't trust the boy who cries wolf - in other words, a child who lies, your sheep and goats will all get eaten. But who gives a damn about moral lectures. The important part is that because the boy believed in his lies, he really brought a wolf to the village. You can't deny that! *to Niwa Makoto*"*
+> 💬 *"If you're lonely, you should say something! If you're worried, say something! Most people aren't as sharp as you are! If you want those people to understand you, you should say something! Even if you're worried that you'll embarrass yourself, you should still say something!"*
 >
-> 🎭 **Yashiro Hoshimiya** — *Ground Control to Psychoelectric Girl*
+> 🎭 **Iori Nagase** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
