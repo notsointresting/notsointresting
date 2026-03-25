@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People don't kill people, really. Monsters do. Monsters like war, hungry nobles, and greedy kingdoms. And monsters like me, not you."*
+> 💬 *"If you don't trust the boy who cries wolf - in other words, a child who lies, your sheep and goats will all get eaten. But who gives a damn about moral lectures. The important part is that because the boy believed in his lies, he really brought a wolf to the village. You can't deny that! *to Niwa Makoto*"*
 >
-> 🎭 **Ryner Lute** — *The Legend of the Legendary Heroes*
+> 🎭 **Yashiro Hoshimiya** — *Ground Control to Psychoelectric Girl*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
