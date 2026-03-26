@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's amazing no one's locked you up yet (to Shigure)"*
+> 💬 *"It would be nice to live in a kind world without any fear, without any troubles, without hurting anybody, without ever being hurt; only doing the right thing. I wish I could reach this kind world by the shortest path possible."*
 >
-> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
+> 🎭 **Akito Sohma** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
