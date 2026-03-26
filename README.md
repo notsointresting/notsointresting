@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was trying to take the easy way out by running away from everything. No matter the pain, I will keep living. So, when I die, I’ll feel I did the best I could."*
+> 💬 *"The great flow that maintains the universe, call it the cycle of life, the course of nature each one of us is just a small part of that part. One in the all. Yet without all the individual ones, the all can't exist. This world flows by following grander laws that we can't even imagine. To recognize that flow, to work in it. To decompose, and recreate, that is alchemy."*
 >
-> 🎭 **Koala** — *Hunter x Hunter*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
