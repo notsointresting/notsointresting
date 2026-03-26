@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The snow gods: How a couple of ski bums built the internet’s best weather app](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/) 
+<!-- AI_NEWS:START -->- [The Download: a battery pivot to AI, and rewriting math](https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/) 
+- [The snow gods: How a couple of ski bums built the internet’s best weather app](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/) 
 - [Are high gas prices good news for EVs? It’s complicated.](https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/) 
 - [Roundtables: The Next Era of Space Exploration](https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/) 
-- [Why this battery company is pivoting to AI](https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/) 
 <!-- AI_NEWS:END -->
 
 </td>
