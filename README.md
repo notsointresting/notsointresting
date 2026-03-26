@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Let's eat fast so we can eat again!"*
+> 💬 *"Abuelo... That means grandpa."*
 >
-> 🎭 **Ash Ketchum** — *Pokémon*
+> 🎭 **Yasutora Sado** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
