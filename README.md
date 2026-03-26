@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Abuelo... That means grandpa."*
+> 💬 *"I was trying to take the easy way out by running away from everything. No matter the pain, I will keep living. So, when I die, I’ll feel I did the best I could."*
 >
-> 🎭 **Yasutora Sado** — *Bleach*
+> 🎭 **Koala** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
