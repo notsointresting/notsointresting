@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"So, you don’t like to get hit, huh? Well, you’re about to have a very bad day."*
+> 💬 *"In the battlefield, there is no place for hope. What lies there is only cold despair and a sin called victory, built on the pain of the defeated. All those people who met there have wholeheartedly admitted the evil and foolishness of this act called war. As long as people don't repent and don't regard it as the most evil taboo, then hell will endlessly reappear in the world."*
 >
-> 🎭 **Monkey D. Luffy** — *One Piece*
+> 🎭 **Emiya Kiritsugu** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
