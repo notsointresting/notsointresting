@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Mom... Mom in heaven.... Does love come suddenly like this"*
+> 💬 *"It takes an idiot to do cool things. That's why it's cool."*
 >
-> 🎭 **Haruhi Fujioka** — *Ouran High School Host Club*
+> 🎭 **Haruko Haruhara** — *FLCL*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
