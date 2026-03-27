@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In the battlefield, there is no place for hope. What lies there is only cold despair and a sin called victory, built on the pain of the defeated. All those people who met there have wholeheartedly admitted the evil and foolishness of this act called war. As long as people don't repent and don't regard it as the most evil taboo, then hell will endlessly reappear in the world."*
+> 💬 *"(In Gamma worldline, to Okabe) Look, even if we were enemies in the world you were before, right now I'm your only ally. Even if the whole world turned against you, I would continue to be your only ally."*
 >
-> 🎭 **Emiya Kiritsugu** — *Fate/Zero*
+> 🎭 **Moeka Kiryū** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
