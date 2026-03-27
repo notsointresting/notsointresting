@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"(In Gamma worldline, to Okabe) Look, even if we were enemies in the world you were before, right now I'm your only ally. Even if the whole world turned against you, I would continue to be your only ally."*
+> 💬 *"Mom... Mom in heaven.... Does love come suddenly like this"*
 >
-> 🎭 **Moeka Kiryū** — *Steins;Gate*
+> 🎭 **Haruhi Fujioka** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
