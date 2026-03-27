@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It takes an idiot to do cool things. That's why it's cool."*
+> 💬 *"Life really is a mysterious thing. Each and every life spins its own, totally separate tale, yet they become intricately entwined in each other. And no one knows how they will end up."*
 >
-> 🎭 **Haruko Haruhara** — *FLCL*
+> 🎭 **Decim** — *Death Parade*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
