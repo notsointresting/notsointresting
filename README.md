@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I’d rather fight and regret it than not fight and regret it."*
+> 💬 *"We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred."*
 >
-> 🎭 **Reinhard von Lohengramm** — *Legend of the Galactic Heroes*
+> 🎭 **Pain** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
