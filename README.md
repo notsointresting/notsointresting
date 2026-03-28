@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the internet’s best weather app, and why people freeze their brains](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/) 
+<!-- AI_NEWS:START -->- [A woman’s uterus has been kept alive outside the body for the first time](https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/) 
+- [The Download: the internet’s best weather app, and why people freeze their brains](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/) 
 - [Here’s why some people choose cryonics to store their bodies and brains after death](https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/) 
 - [The Download: a battery pivot to AI, and rewriting math](https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/) 
-- [The snow gods: How a couple of ski bums built the internet’s best weather app](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/) 
 <!-- AI_NEWS:END -->
 
 </td>
