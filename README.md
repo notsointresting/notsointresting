@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's just that I'm fighting the pain of lost love. I guess it's what you'd call a rude awakening... or, maybe... the weight of responsibility? But I'm fine. I'm fine. Caring for someone isn't based on logic. You can't really rationalize emotions. Once I think "I like him"... it's all over."*
+> 💬 *"Ask of me, and I shall give thee the heathen for thine inheritance, and for thy possession, the ends of the earth. Thou shalt break them with a rod of iron. Thou shalt dash them in pieces, like a potters vessel. Be wise now, therefore ye kings. Be admonished ye judges of the earth. Serve the lord with fear, and rejoice with trembling. Kiss the son lest he be angry, and ye perish in the way, though his wrath be kindled but a little."*
 >
-> 🎭 **Sohma Kagura** — *Fruits Basket*
+> 🎭 **Alexander Anderson** — *Hellsing*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
