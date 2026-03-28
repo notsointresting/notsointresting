@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Yammy] They're all trash...kill them all."*
+> 💬 *"I’d rather fight and regret it than not fight and regret it."*
 >
-> 🎭 **Ulquiorra Schiffer** — *Bleach*
+> 🎭 **Reinhard von Lohengramm** — *Legend of the Galactic Heroes*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
