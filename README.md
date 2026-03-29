@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Children, this is the only gift I can give you right now. A formless gift you call a memory. I don’t have any money and I can’t give you something tangible. But even so, even if it isn’t tangible, a memory is something that will continue to be with you. That is what I believe…"*
+> 💬 *"People only find me interesting because they can’t tell whether I’m serious or not."*
 >
-> 🎭 **Yoshino Yūsuke** — *Clannad*
+> 🎭 **Killua Zoldyck** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
