@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I’ve always been alone. The only one that can bring warmth into my life, is you."*
+> 💬 *"There's something you can't see unless you're standing at the top, to experience that for the first time, I'm struggling to a higher place than anyone else, isn't that what freedom is?"*
 >
-> 🎭 **Kaname Kuran** — *Vampire Knight*
+> 🎭 **Itsuki Minami** — *Air Gear*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
