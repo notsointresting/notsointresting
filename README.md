@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People only find me interesting because they can’t tell whether I’m serious or not."*
+> 💬 *"In this world, there are crimes too depraved to ever be forgiven."*
 >
-> 🎭 **Killua Zoldyck** — *Hunter x Hunter*
+> 🎭 **Tomio Ookawa** — *Shiki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
