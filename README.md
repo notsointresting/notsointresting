@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In this world, there are crimes too depraved to ever be forgiven."*
+> 💬 *"I’ve always been alone. The only one that can bring warmth into my life, is you."*
 >
-> 🎭 **Tomio Ookawa** — *Shiki*
+> 🎭 **Kaname Kuran** — *Vampire Knight*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
