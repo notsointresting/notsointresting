@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: brainless human clones and the first uterus kept alive outside a body](https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/) 
+<!-- AI_NEWS:START -->- [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) 
+- [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) 
+- [The Download: brainless human clones and the first uterus kept alive outside a body](https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/) 
 - [Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/) 
-- [A woman’s uterus has been kept alive outside the body for the first time](https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/) 
-- [The Download: the internet’s best weather app, and why people freeze their brains](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/) 
 <!-- AI_NEWS:END -->
 
 </td>
