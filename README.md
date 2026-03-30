@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It was the only way the world had to be fixed! A purpose, given to me!"*
+> 💬 *"See, "empty" just means you have plenty of room to take in all kinds of new things. Fun things, precious things, painful things, things you've never seen before!"*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Hana N. Fontainestand** — *Hanayamata*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
