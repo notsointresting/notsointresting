@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We'll never know unless I try."*
+> 💬 *"It was the only way the world had to be fixed! A purpose, given to me!"*
 >
-> 🎭 **Shinra Kusakabe** — *Fire Force*
+> 🎭 **Light Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
