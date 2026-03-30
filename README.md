@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When I'm away from you, even though I can't be around crowds, I want to go see you."*
+> 💬 *"The moment you find the courage to give up your life for someone... Would be the moment you understand love."*
 >
-> 🎭 **Gin** — *Into the Forest of Fireflies' Light*
+> 🎭 **Kenshin Himura** — *Rurouni Kenshin*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
