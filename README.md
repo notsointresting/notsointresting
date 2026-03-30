@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm still very very young. I want to go shopping, and I want to eats lots more of all kinds of yummy foods, you know? And of course... Of course... have a wonderful romance too. If I could have something like that, it would be the best. Yeah... That really would be the best."*
+> 💬 *"When I'm away from you, even though I can't be around crowds, I want to go see you."*
 >
-> 🎭 **Anemone** — *Eureka Seven*
+> 🎭 **Gin** — *Into the Forest of Fireflies' Light*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
