@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The moment you find the courage to give up your life for someone... Would be the moment you understand love."*
+> 💬 *"We'll never know unless I try."*
 >
-> 🎭 **Kenshin Himura** — *Rurouni Kenshin*
+> 🎭 **Shinra Kusakabe** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
