@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"See, "empty" just means you have plenty of room to take in all kinds of new things. Fun things, precious things, painful things, things you've never seen before!"*
+> 💬 *"Compared to failing without even trying, I'd rather take action, even at the risk of a mistake."*
 >
-> 🎭 **Hana N. Fontainestand** — *Hanayamata*
+> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
