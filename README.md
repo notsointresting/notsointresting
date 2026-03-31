@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You better watch out! I can break your neck!"*
+> 💬 *"You hit me with everything you had, so I decided I could trust you with everything I had."*
 >
-> 🎭 **Patricia Thompson** — *Soul Eater*
+> 🎭 **Konno Yuuki** — *Sword Art Online II*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
