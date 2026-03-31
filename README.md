@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Compared to failing without even trying, I'd rather take action, even at the risk of a mistake."*
+> 💬 *"Dressing up on the outside won’t change what’s on the inside."*
 >
-> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
+> 🎭 **Uka-no-Mitama-no-Kami** — *Inari Kon Kon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
