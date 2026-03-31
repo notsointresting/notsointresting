@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You hit me with everything you had, so I decided I could trust you with everything I had."*
+> 💬 *"You can't sit around envying other peoples worlds. You have to go out and change your own."*
 >
-> 🎭 **Konno Yuuki** — *Sword Art Online II*
+> 🎭 **Chiaki Shinichi** — *Nodame Cantabile*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
