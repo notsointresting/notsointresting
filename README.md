@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To live is to die, to die is to live. Pure is unpure, unpure is pure."*
+> 💬 *"You better watch out! I can break your neck!"*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Patricia Thompson** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
