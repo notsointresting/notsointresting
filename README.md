@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Dressing up on the outside won’t change what’s on the inside."*
+> 💬 *"In the end, L is indeed the greatest detective on earth..."*
 >
-> 🎭 **Uka-no-Mitama-no-Kami** — *Inari Kon Kon*
+> 🎭 **Light Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
