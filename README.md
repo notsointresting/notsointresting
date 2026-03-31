@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In the end, L is indeed the greatest detective on earth..."*
+> 💬 *"To live is to die, to die is to live. Pure is unpure, unpure is pure."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
