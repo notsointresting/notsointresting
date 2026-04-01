@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Every story has an ending. One day, we won’t be able to stay together."*
+> 💬 *"It's not a crime! Caring about your friends is not a crime!"*
 >
-> 🎭 **Kyousuke Natsume** — *Little Busters!*
+> 🎭 **Lucy Heartfilia** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
