@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can't sit around envying other peoples worlds. You have to go out and change your own."*
+> 💬 *"If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation. What's true for the group is also true for the individual. It's simple: overspecialize, and you breed in weakness. It's slow death."*
 >
-> 🎭 **Chiaki Shinichi** — *Nodame Cantabile*
+> 🎭 **Motoko Kusanagi** — *Ghost in the Shell*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
