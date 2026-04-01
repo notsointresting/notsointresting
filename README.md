@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not a crime! Caring about your friends is not a crime!"*
+> 💬 *"The day before yesterday, I saw a rabbit. Yesterday, it was a deer. And today, it’s you."*
 >
-> 🎭 **Lucy Heartfilia** — *Fairy Tail*
+> 🎭 **Ichinose Kotomi** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
