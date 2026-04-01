@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It is right for me, but not for you. Either way, the concept of "right" means no more than that."*
+> 💬 *"I never said I was a witch did I? You just made that assumption all on your own. I'm really just a cat with a ridiculous amount of magical power."*
 >
-> 🎭 **Magata Shiki** — *The Perfect Insider*
+> 🎭 **Blair** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
