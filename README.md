@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I never said I was a witch did I? You just made that assumption all on your own. I'm really just a cat with a ridiculous amount of magical power."*
+> 💬 *"Every story has an ending. One day, we won’t be able to stay together."*
 >
-> 🎭 **Blair** — *Soul Eater*
+> 🎭 **Kyousuke Natsume** — *Little Busters!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
