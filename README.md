@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation. What's true for the group is also true for the individual. It's simple: overspecialize, and you breed in weakness. It's slow death."*
+> 💬 *"It is right for me, but not for you. Either way, the concept of "right" means no more than that."*
 >
-> 🎭 **Motoko Kusanagi** — *Ghost in the Shell*
+> 🎭 **Magata Shiki** — *The Perfect Insider*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
