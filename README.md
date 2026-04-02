@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I already lost this life. I do not intend to stretch it out at the cost of my honor."*
+> 💬 *"It's dangerous here. If you stare at the stars long enough, you start thinking you could grab one, and you get this feeling like all your dreams will come true."*
 >
-> 🎭 **Jean** — *Claymore*
+> 🎭 **Shinichi Okazaki** — *Nana*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
