@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh sorry, my hand slipped."*
+> 💬 *"I already lost this life. I do not intend to stretch it out at the cost of my honor."*
 >
-> 🎭 **Death the Kid** — *Soul Eater*
+> 🎭 **Jean** — *Claymore*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
