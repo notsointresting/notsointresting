@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Yamcha, I was worried about you. For all I knew, you were dead in a ditch in a country you can't pronounce. You'll have to make this up to me. And you're going to enjoy it."*
+> 💬 *"Nobody can make someone who isn't trying to be happy into someone that's happy"*
 >
-> 🎭 **Bulma** — *Dragon Ball*
+> 🎭 **Tsubasa Hanekawa** — *Owarimonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
