@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The day before yesterday, I saw a rabbit. Yesterday, it was a deer. And today, it’s you."*
+> 💬 *"Yamcha, I was worried about you. For all I knew, you were dead in a ditch in a country you can't pronounce. You'll have to make this up to me. And you're going to enjoy it."*
 >
-> 🎭 **Ichinose Kotomi** — *Clannad*
+> 🎭 **Bulma** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
