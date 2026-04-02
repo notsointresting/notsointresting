@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nobody can make someone who isn't trying to be happy into someone that's happy"*
+> 💬 *"Oh sorry, my hand slipped."*
 >
-> 🎭 **Tsubasa Hanekawa** — *Owarimonogatari*
+> 🎭 **Death the Kid** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
