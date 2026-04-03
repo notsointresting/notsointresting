@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html) 
-- [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html) 
-- [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion &amp; 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html) 
-- [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html) 
+<!-- CYBER_NEWS:START -->- [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html) 
+- [Why Third-Party Risk Is the Biggest Gap in Your Clients&#39; Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html) 
+- [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html) 
+- [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
