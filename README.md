@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"She is trying to use rep... per... pre... what is it again? Oh, yeah! Perverse Psychology on me!"*
+> 💬 *"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"*
 >
-> 🎭 **Ash Ketchum** — *Pokémon*
+> 🎭 **Juuzou Suzuya** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
