@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/) 
+<!-- AI_NEWS:START -->- [Four things we’d need to put data centers in space](https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/) 
+- [The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/) 
 - [Fuel prices are soaring. Plastic could be next.](https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/) 
 - [The Download: gig workers training humanoids, and better AI benchmarks](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/) 
-- [The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/) 
 <!-- AI_NEWS:END -->
 
 </td>
