@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's impossible for someone to replace someone else."*
+> 💬 *"She is trying to use rep... per... pre... what is it again? Oh, yeah! Perverse Psychology on me!"*
 >
-> 🎭 **Koyomi Araragi** — *Bakemonogatari*
+> 🎭 **Ash Ketchum** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
