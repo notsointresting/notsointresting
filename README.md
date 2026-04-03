@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Books are nice, aren't they? With just one sentence you can get lost in all sorts of dreams. They way I think of it, literature allows the reader's consciousness to deeply relish the author and be closer to him. And so, we freely walk around the world of the story from the yarn spinner's point of view. It's only when you immerse yourself in the world of a book that you are able to forget just who you are."*
+> 💬 *"Always trying to make myself seem strong... So I locked my own heart in a suit of armor."*
 >
-> 🎭 **Shuu Tsukiyama** — *Tokyo Ghoul*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
