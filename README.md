@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Always trying to make myself seem strong... So I locked my own heart in a suit of armor."*
+> 💬 *"I'm watching a dream I'll never wake up from."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Spike Spiegel** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
