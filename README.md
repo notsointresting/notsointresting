@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"*
+> 💬 *"Once you taste poison, you might as well finish the meal. If it comes to that you would make as fine a dish as any."*
 >
-> 🎭 **Juuzou Suzuya** — *Tokyo Ghoul*
+> 🎭 **Horo** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
