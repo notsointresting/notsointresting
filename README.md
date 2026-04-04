@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Glad you're okay *wink* I kinda like you."*
+> 💬 *"Perhaps living without sin is a sin in itself."*
 >
-> 🎭 **Hideki Hinata** — *Angel Beats!*
+> 🎭 **Furude Rika** — *Higurashi: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
