@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Have you ever been kicked at the speed of light?"*
+> 💬 *"Glad you're okay *wink* I kinda like you."*
 >
-> 🎭 **Kizaru** — *One Piece*
+> 🎭 **Hideki Hinata** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
