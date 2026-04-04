@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What repulsive creature makes my eardrums bleed?"*
+> 💬 *"Pikachu, you're a Pika-pal!"*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Kasumi** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
