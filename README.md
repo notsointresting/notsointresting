@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm watching a dream I'll never wake up from."*
+> 💬 *"What repulsive creature makes my eardrums bleed?"*
 >
-> 🎭 **Spike Spiegel** — *Cowboy Bebop*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
