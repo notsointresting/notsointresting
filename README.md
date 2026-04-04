@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pikachu, you're a Pika-pal!"*
+> 💬 *"I don't know what you're trying to pull, but I'm not into this kinky stuff, and you're WAY too old!"*
 >
-> 🎭 **Kasumi** — *Pokémon*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
