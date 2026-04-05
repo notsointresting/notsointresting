@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What is "Courage"? Courage is owning your fear!"*
+> 💬 *"I don't remember saying that I would kill you because I'm a Soul Reaper. The reason I am killing you is simple. It's because you aimed your blade at my only pride."*
 >
-> 🎭 **William A. Zeppeli** — *JoJo's Bizarre Adventure*
+> 🎭 **Kuchiki Byakuya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
