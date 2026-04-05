@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't remember saying that I would kill you because I'm a Soul Reaper. The reason I am killing you is simple. It's because you aimed your blade at my only pride."*
+> 💬 *"This guy's a special kind of stupid."*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **Death the Kid** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
