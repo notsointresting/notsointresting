@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Perhaps living without sin is a sin in itself."*
+> 💬 *"Yo...time to pay the piper rat boy...I'm here to collect"*
 >
-> 🎭 **Furude Rika** — *Higurashi: When They Cry*
+> 🎭 **Sohma Kyo** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
