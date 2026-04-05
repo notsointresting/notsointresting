@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This guy's a special kind of stupid."*
+> 💬 *"It's dangerous here. If you stare at the stars long enough, you start thinking you could grab one, and you get this feeling like all your dreams will come true."*
 >
-> 🎭 **Death the Kid** — *Soul Eater*
+> 🎭 **Shinichi Okazaki** — *Nana*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
