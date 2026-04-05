@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Yo...time to pay the piper rat boy...I'm here to collect"*
+> 💬 *"What is "Courage"? Courage is owning your fear!"*
 >
-> 🎭 **Sohma Kyo** — *Fruits Basket*
+> 🎭 **William A. Zeppeli** — *JoJo's Bizarre Adventure*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
