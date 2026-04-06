@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ha ha! Eat my dust, rat-boy! (to Yuki)"*
+> 💬 *"The fact that you consider yourself as an equal to me, is being arrogant in itself."*
 >
-> 🎭 **Sohma Kyo** — *Fruits Basket*
+> 🎭 **Kuchiki Byakuya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
