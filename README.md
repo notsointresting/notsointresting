@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The fact that you consider yourself as an equal to me, is being arrogant in itself."*
+> 💬 *"All they saw in me was another little ghetto rat with no power and no God. What's left for a poor little Chinese bitch to rely on? It's money of course. And guns. Fuckin' A, with these two things, the world is a great place."*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **Revy** — *Black Lagoon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
