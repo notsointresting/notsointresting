@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Once the thread of fate is tangled, it cannot be undone."*
+> 💬 *"Greed may not be good, but it’s not so bad either. You humans think greed is just for money or power, but everyone wants something they can’t have."*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Greed** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
