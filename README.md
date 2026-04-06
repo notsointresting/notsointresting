@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This whole world is nothing but lies, lies! Lemme show you what I like to call the truth, the truth called despair!"*
+> 💬 *"Once the thread of fate is tangled, it cannot be undone."*
 >
-> 🎭 **Hazama** — *BlazBlue: Alter Memory*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
