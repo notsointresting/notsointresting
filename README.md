@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Greed may not be good, but it’s not so bad either. You humans think greed is just for money or power, but everyone wants something they can’t have."*
+> 💬 *"Ha ha! Eat my dust, rat-boy! (to Yuki)"*
 >
-> 🎭 **Greed** — *Fullmetal Alchemist*
+> 🎭 **Sohma Kyo** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
