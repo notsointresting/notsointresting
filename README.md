@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"All they saw in me was another little ghetto rat with no power and no God. What's left for a poor little Chinese bitch to rely on? It's money of course. And guns. Fuckin' A, with these two things, the world is a great place."*
+> 💬 *"Girls who are pretty and pure only exist in fantasies."*
 >
-> 🎭 **Revy** — *Black Lagoon*
+> 🎭 **Rentarou Kurahashi** — *Love Lab*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
