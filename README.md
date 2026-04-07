@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You shouldn’t stop like that. If you can move forward, then you should."*
+> 💬 *"*mockingly* That's amazing, Mikuru! We're counting on you! The Earth is in your-- *breaks into uncontrollable and hysterical laughter*"*
 >
-> 🎭 **Furukawa Nagisa** — *Clannad*
+> 🎭 **Tsuruya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
