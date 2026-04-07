@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Girls who are pretty and pure only exist in fantasies."*
+> 💬 *"Fact is genius's can take all the hard work of the common folk and turn the whole entire thing around, so that it's like it was all for nothing. As one of those with talent, let me apologize. I know it's unfair but... TOUGH SHIT, SUCKER'S!!"*
 >
-> 🎭 **Rentarou Kurahashi** — *Love Lab*
+> 🎭 **Takamura Mamoru** — *Hajime no Ippo*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
