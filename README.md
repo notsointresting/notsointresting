@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) 
+<!-- AI_NEWS:START -->- [The Download: AI’s impact on jobs, and data centres in space](https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/) 
+- [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) 
 - [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) 
 - [Four things we’d need to put data centers in space](https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/) 
-- [The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/) 
 <!-- AI_NEWS:END -->
 
 </td>
