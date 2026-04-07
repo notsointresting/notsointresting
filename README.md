@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those who aim further for other's sake. Those who think of others before themselves. ...And those who hate themselves more than anyone. These are the qualities of a Magus. This is a contradiction you can only have if you are born broken."*
+> 💬 *"After being driven out of the orphanage, I had nothing to eat, nowhere to sleep, and, as one might expect, not a cent to my name. Yet, I lack the courage to commit theft. That is how I've arrived at my current predicament... However... if I wish to live, I have no choice but to steal and take from others!"*
 >
-> 🎭 **Tohsaka Rin** — *Fate/stay night*
+> 🎭 **Atsushi Nakajima** — *Bungo Stray Dogs*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
