@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html) 
+<!-- CYBER_NEWS:START -->- [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html) 
+- [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html) 
 - [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html) 
 - [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html) 
-- [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
