@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When I realized, I was already on the roof of a building. ...I had come to hate everything. I was sick of sitting in my room holding my knees too. If nobody was going to notice or care if I died then... what's the point in living?"*
+> 💬 *"Don’t be so stuck-up. Just enjoy this! Killing and being killed. They are just a way to pass time."*
 >
-> 🎭 **Moeka Kiryū** — *Steins;Gate*
+> 🎭 **Zaraki Kenpachi** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
