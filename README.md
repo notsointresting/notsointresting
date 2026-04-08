@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Justice is not something that you can express in words."*
+> 💬 *"Know what makes Ganta so amazing? He always gets up again."*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Shiro** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
