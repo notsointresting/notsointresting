@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"For me, apples are like cigarettes and liquor for humans. If I'm deprived, I go into withdrawals."*
+> 💬 *"This blank space represents infinite potential. One day, it may become anything."*
 >
-> 🎭 **Ryuk** — *Death Note*
+> 🎭 **No Game No Life** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
