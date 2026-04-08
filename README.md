@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Know what makes Ganta so amazing? He always gets up again."*
+> 💬 *"When I realized, I was already on the roof of a building. ...I had come to hate everything. I was sick of sitting in my room holding my knees too. If nobody was going to notice or care if I died then... what's the point in living?"*
 >
-> 🎭 **Shiro** — *Deadman Wonderland*
+> 🎭 **Moeka Kiryū** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
