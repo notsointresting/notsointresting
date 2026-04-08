@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html) 
-- [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html) 
-- [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html) 
-- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html) 
+<!-- CYBER_NEWS:START -->- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms &lpar;IVIP&rpar;](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html) 
+- [Anthropic&#39;s Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html) 
+- [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html) 
+- [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
