@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not the goodbyes that hurt, it's the flashbacks that follow..."*
+> 💬 *"Justice is not something that you can express in words."*
 >
-> 🎭 **Gray Fullbuster** — *Fairy Tail*
+> 🎭 **Tousen Kaname** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
