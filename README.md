@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t be so stuck-up. Just enjoy this! Killing and being killed. They are just a way to pass time."*
+> 💬 *"For me, apples are like cigarettes and liquor for humans. If I'm deprived, I go into withdrawals."*
 >
-> 🎭 **Zaraki Kenpachi** — *Bleach*
+> 🎭 **Ryuk** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
