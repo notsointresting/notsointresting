@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This blank space represents infinite potential. One day, it may become anything."*
+> 💬 *"It's not good to expect too much, but you can't do anything if you're being overly pessimistic. If you just wait thinking it's useless, nothing will come of it."*
 >
-> 🎭 **No Game No Life** — *No Game, No Life*
+> 🎭 **Shinobu Oshino** — *Monogatari Series: Second Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
