@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everybody's After My Chainsaw Heart!"*
+> 💬 *"Nothing worse than being strong, but not strong enough."*
 >
-> 🎭 **Denji** — *Chainsaw Man*
+> 🎭 **Shinobu Sensui** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
