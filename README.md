@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are times when there's a great pleasure waiting at the end of laments, pains, and near-death experiences."*
+> 💬 *"Wow, he did it. He's gonna fl- *boosts up to the ceiling and smashes his head*"*
 >
-> 🎭 **Hinagiku Katsura** — *Hayate the Combat Butler!!*
+> 🎭 **Hideki Hinata** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
