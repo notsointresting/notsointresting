@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not good to expect too much, but you can't do anything if you're being overly pessimistic. If you just wait thinking it's useless, nothing will come of it."*
+> 💬 *"Now you're suddenly in a big rush to go? What's the point in hurrying, we're already three hours late."*
 >
-> 🎭 **Shinobu Oshino** — *Monogatari Series: Second Season*
+> 🎭 **Elizabeth Thompson** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
