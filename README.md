@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) 
-- [The Download: water threats in Iran and AI’s impact on what entrepreneurs make](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/) 
-- [Desalination plants in the Middle East are increasingly vulnerable](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/) 
-- [Enabling agent-first process redesign](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/) 
+<!-- AI_NEWS:START -->- [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/) 
+- [Is fake grass a bad idea? The AstroTurf wars are far from over.](https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/) 
+- [Desalination technology, by the numbers](https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/) 
+- [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) 
 <!-- AI_NEWS:END -->
 
 </td>
