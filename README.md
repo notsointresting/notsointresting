@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Now you're suddenly in a big rush to go? What's the point in hurrying, we're already three hours late."*
+> 💬 *"Everybody's After My Chainsaw Heart!"*
 >
-> 🎭 **Elizabeth Thompson** — *Soul Eater*
+> 🎭 **Denji** — *Chainsaw Man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
