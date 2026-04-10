@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to Toboe] I wanted to take you to paradise."*
+> 💬 *"All these things you guys seek....hard work, guts, faith....I'll crush them all."*
 >
-> 🎭 **Tsume** — *Wolf's Rain*
+> 🎭 **Atsushi Murasakibara** — *Kuroko's Basketball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
