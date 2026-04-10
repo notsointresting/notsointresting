@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/) 
+<!-- AI_NEWS:START -->- [The Download: an exclusive Jeff VanderMeer story and AI models too scary to release](https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/) 
+- [Constellations](https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/) 
+- [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/) 
 - [Is fake grass a bad idea? The AstroTurf wars are far from over.](https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/) 
-- [Desalination technology, by the numbers](https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/) 
-- [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) 
 <!-- AI_NEWS:END -->
 
 </td>
