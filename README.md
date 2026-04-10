@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"All these things you guys seek....hard work, guts, faith....I'll crush them all."*
+> 💬 *"If I ignore a friend, I have the ability to help, wouldn’t I be betraying him?"*
 >
-> 🎭 **Atsushi Murasakibara** — *Kuroko's Basketball*
+> 🎭 **Killua** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
