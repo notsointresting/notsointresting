@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Wow, he did it. He's gonna fl- *boosts up to the ceiling and smashes his head*"*
+> 💬 *"I think that in the end, I just care a lot about myself. I was the only one that I loved and respected. That's why I was scared to know what the others thought about me. I was afraid to get hurt, so I ran away and locked myself into my shell."*
 >
-> 🎭 **Hideki Hinata** — *Angel Beats!*
+> 🎭 **Kirara** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
