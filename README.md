@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"MAKA CHOP!"*
+> 💬 *"I'll enjoy shaving you to death."*
 >
-> 🎭 **Maka Albarn** — *Soul Eater*
+> 🎭 **Kisame Hoshigaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
