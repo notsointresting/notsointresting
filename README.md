@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When one person kills, resentment is born. That resentment makes a person kill again. To sever that vicious cycle--that is the purpose of this sword that cannot kill."*
+> 💬 *"MAKA CHOP!"*
 >
-> 🎭 **Kenshin Himura** — *Rurouni Kenshin*
+> 🎭 **Maka Albarn** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
