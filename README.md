@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Crying is a nosebleed of the heart."*
+> 💬 *"I don't have the strength or wisdom to stand up against someone who is insusceptible to reason. You won't even give me time to make an effort. That's why I'm going to rely on numbers!"*
 >
-> 🎭 **Minori Kushieda** — *Toradora!*
+> 🎭 **Ryuugamine Mikado** — *Durarara!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
