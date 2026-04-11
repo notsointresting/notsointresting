@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Black Star, it's over between us."*
+> 💬 *"Crying is a nosebleed of the heart."*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Minori Kushieda** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
