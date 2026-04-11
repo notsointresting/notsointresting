@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll enjoy shaving you to death."*
+> 💬 *"You took my teacher, and now I let you take my friend. What the hell do you want from me?"*
 >
-> 🎭 **Kisame Hoshigaki** — *Naruto*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
