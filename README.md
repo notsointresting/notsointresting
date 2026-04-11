@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't have the strength or wisdom to stand up against someone who is insusceptible to reason. You won't even give me time to make an effort. That's why I'm going to rely on numbers!"*
+> 💬 *"When one person kills, resentment is born. That resentment makes a person kill again. To sever that vicious cycle--that is the purpose of this sword that cannot kill."*
 >
-> 🎭 **Ryuugamine Mikado** — *Durarara!!*
+> 🎭 **Kenshin Himura** — *Rurouni Kenshin*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
