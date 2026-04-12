@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When I fall it will be silent and tragic."*
+> 💬 *"What does it mean to be reborn? That isn't the life I had anymore. It's someone else's life. Everyone only gets to live life one time [Yuri places her hand on her chest.], and it's right here. I only get it once. This is my life. I can't entrust it to someone, I can't steal a new one, I can't force it on others, I can't forget it or erase it. I can't stomp over it, laugh at it, or beautify it! I can't anything! I'd have to accept my one shot at life no matter how cruel, merciless, or unfair I thought it was! Sir, don't you understand? That is why I must fight. I must keep on fighting! Because... because I can never [slams her desk with her hands] accept that kind of life!"*
 >
-> 🎭 **Tsubaki Nakatsukasa** — *Soul Eater*
+> 🎭 **Yuri Nakamura** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
