@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being alive...is a sign of strength!"*
+> 💬 *"Food is a gift from god. Spices are a gift from the devil. It looks like it was a bit too spicy for you."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Sanji** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
