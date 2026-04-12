@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Food is a gift from god. Spices are a gift from the devil. It looks like it was a bit too spicy for you."*
+> 💬 *"When I fall it will be silent and tragic."*
 >
-> 🎭 **Sanji** — *One Piece*
+> 🎭 **Tsubaki Nakatsukasa** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
