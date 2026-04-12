@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I heard that when things were painful for her, she'd cover her ears with headphones and escape to the world of music. I tried it too. It was like everything was blown away. The vocals screamed for me. They grieved for me. The ones who put on the act of common sense were wrong. Those who cried were right. We, the lonely were more human. They screamed at the absurd, beat it down, and destroyed it. They saved me."*
+> 💬 *"Being alive...is a sign of strength!"*
 >
-> 🎭 **Iwasawa** — *Angel Beats!*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
