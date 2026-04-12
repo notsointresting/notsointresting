@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You took my teacher, and now I let you take my friend. What the hell do you want from me?"*
+> 💬 *"I heard that when things were painful for her, she'd cover her ears with headphones and escape to the world of music. I tried it too. It was like everything was blown away. The vocals screamed for me. They grieved for me. The ones who put on the act of common sense were wrong. Those who cried were right. We, the lonely were more human. They screamed at the absurd, beat it down, and destroyed it. They saved me."*
 >
-> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
+> 🎭 **Iwasawa** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
