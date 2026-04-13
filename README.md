@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you are doing it, I'm doing it. If I don't do it, will you? If you don't do it, I'll do it. I'm doing it so that you'll do it too!!"*
+> 💬 *"Now, now, these things happen to everyone... EXCEPT ME!!!!! That's for making fun of my masterpiece! If there's one thing I hate, it's criticism!"*
 >
-> 🎭 **Kamina** — *Gurren Lagann*
+> 🎭 **Kenji Harima** — *School Rumble*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
