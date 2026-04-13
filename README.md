@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Bears are creatures that feel no insecurity in living alone. They're an animal that lives in isolation. Plus, they can hibernate. What a fabulous thing that is. If I were to be reborn, I definitely want to be a bear."*
+> 💬 *"If you save Kaien, then what becomes of his pride? If you go to his aid now, his life will be saved. But... at the same time, it would end up killing his pride for all eternity."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Ukitake Jyuushirou** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
