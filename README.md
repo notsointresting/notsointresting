@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There’s no use. There’s no such thing as a victory that can be won through effort. It doesn’t exist."*
+> 💬 *"The school takes no responsibility of your future! You are fully responsible for your own future! That is why you have to find what you want to do! You are all free!"*
 >
-> 🎭 **Shinichi Kudou** — *Case Closed*
+> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
