@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/) 
+<!-- AI_NEWS:START -->- [Why opinion on AI is so divided](https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/) 
+- [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) 
+- [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/) 
 - [Job titles of the future: Wildlife first responder](https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/) 
-- [You have no choice in reading this article—maybe](https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/) 
-- [What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma](https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/) 
 <!-- AI_NEWS:END -->
 
 </td>
