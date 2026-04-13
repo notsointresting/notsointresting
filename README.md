@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma](https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/) 
-- [The Download: an exclusive Jeff VanderMeer story and AI models too scary to release](https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/) 
-- [Constellations](https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/) 
-- [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/) 
+<!-- AI_NEWS:START -->- [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/) 
+- [Job titles of the future: Wildlife first responder](https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/) 
+- [You have no choice in reading this article—maybe](https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/) 
+- [What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma](https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/) 
 <!-- AI_NEWS:END -->
 
 </td>
