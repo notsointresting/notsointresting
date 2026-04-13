@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The school takes no responsibility of your future! You are fully responsible for your own future! That is why you have to find what you want to do! You are all free!"*
+> 💬 *"Bears are creatures that feel no insecurity in living alone. They're an animal that lives in isolation. Plus, they can hibernate. What a fabulous thing that is. If I were to be reborn, I definitely want to be a bear."*
 >
-> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
