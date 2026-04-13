@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We have to live a life of no regrets."*
+> 💬 *"If you are doing it, I'm doing it. If I don't do it, will you? If you don't do it, I'll do it. I'm doing it so that you'll do it too!!"*
 >
-> 🎭 **Portgas D. Ace** — *One Piece*
+> 🎭 **Kamina** — *Gurren Lagann*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
