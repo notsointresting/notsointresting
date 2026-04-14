@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't have any regrets. I'm glad I met you, Sousuke Sagara."*
+> 💬 *"Open your eyes. "God" is nothing more than a construct created by man to inspire fear and promote order."*
 >
-> 🎭 **Kaname Chidori** — *Full Metal Panic!*
+> 🎭 **King Bradley** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
