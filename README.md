@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Courage must know fear and make fear its own! Fear upsets breathing! Conquer fear and your breath will never fail you! Hamon breathing comes from courage! A good human is a brave human! Courage is a marvel of humanity!"*
+> 💬 *"When someone gives you an inch, don’t take a mile, you moron!"*
 >
-> 🎭 **William A. Zeppeli** — *JoJo's Bizarre Adventure: Phantom Blood*
+> 🎭 **Draken** — *Tokyo Revengers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
