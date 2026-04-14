@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html) 
+<!-- CYBER_NEWS:START -->- [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html) 
+- [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html) 
 - [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html) 
 - [Your MTTD Looks Great. Your Post-Alert Gap Doesn&#39;t](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html) 
-- [North Korea&#39;s APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
