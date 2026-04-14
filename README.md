@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Other people’s life choices have nothing to do with me. But when you talked about giving up, you looked sad."*
+> 💬 *"I don't have any regrets. I'm glad I met you, Sousuke Sagara."*
 >
-> 🎭 **Leno Ichikawa** — *Kaiju No. 8*
+> 🎭 **Kaname Chidori** — *Full Metal Panic!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
