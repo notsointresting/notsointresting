@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Now, now, these things happen to everyone... EXCEPT ME!!!!! That's for making fun of my masterpiece! If there's one thing I hate, it's criticism!"*
+> 💬 *"I don't think it's all that bad to be surrounded by people who don't care much about authority or social status. It's good to know that there are various various ways of thinking."*
 >
-> 🎭 **Kenji Harima** — *School Rumble*
+> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
