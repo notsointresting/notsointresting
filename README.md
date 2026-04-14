@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When someone gives you an inch, don’t take a mile, you moron!"*
+> 💬 *"Other people’s life choices have nothing to do with me. But when you talked about giving up, you looked sad."*
 >
-> 🎭 **Draken** — *Tokyo Revengers*
+> 🎭 **Leno Ichikawa** — *Kaiju No. 8*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
