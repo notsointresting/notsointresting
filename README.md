@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You let them take it from right under your nose."*
+> 💬 *"*To Temari* It really doesn't matter to me if I ever become a chūnin or not, but I guess I shouldn't let myself be beaten by a female, so let's do it."*
 >
-> 🎭 **Near** — *Death Note*
+> 🎭 **Nara Shikamaru** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
