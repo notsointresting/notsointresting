@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Open your eyes. "God" is nothing more than a construct created by man to inspire fear and promote order."*
+> 💬 *"If you were given the chance to redo your life, would you take it?"*
 >
-> 🎭 **King Bradley** — *Fullmetal Alchemist*
+> 🎭 **Iori Nagase** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
