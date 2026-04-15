@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Your sudden smiles always surprise me. But are dangerous enough to make my heart race."*
+> 💬 *"So ephemeral and weak. But its shining with all its might. Thump, Thump, like a heartbeat. This is the light of life."*
 >
-> 🎭 **Takumi Usui** — *Maid Sama!*
+> 🎭 **Kaori Miyazono** — *Your Lie in April*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
