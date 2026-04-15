@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*To Temari* It really doesn't matter to me if I ever become a chūnin or not, but I guess I shouldn't let myself be beaten by a female, so let's do it."*
+> 💬 *"Your sudden smiles always surprise me. But are dangerous enough to make my heart race."*
 >
-> 🎭 **Nara Shikamaru** — *Naruto*
+> 🎭 **Takumi Usui** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
