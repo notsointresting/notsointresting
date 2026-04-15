@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"So ephemeral and weak. But its shining with all its might. Thump, Thump, like a heartbeat. This is the light of life."*
+> 💬 *"Dreams. Each man longs to pursue his dream. Each man is tortured by this dream, but the dream gives meaning to his life. Even if the dream ruins his life, man cannot allow himself to leave it behind. In this world, is man ever able to possess anything more solid, than a dream?"*
 >
-> 🎭 **Kaori Miyazono** — *Your Lie in April*
+> 🎭 **Berserk** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
