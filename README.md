@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) 
-- [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) 
-- [The Download: the state of AI, and protecting bears with drones](https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/) 
-- [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) 
+<!-- AI_NEWS:START -->- [The Download: NASA’s nuclear spacecraft and unveiling our AI 10](https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/) 
+- [Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram](https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/) 
+- [No one’s sure if synthetic mirror life will kill us all](https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/) 
+- [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) 
 <!-- AI_NEWS:END -->
 
 </td>
