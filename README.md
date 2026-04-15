@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) 
+<!-- AI_NEWS:START -->- [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) 
+- [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) 
 - [The Download: the state of AI, and protecting bears with drones](https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/) 
 - [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) 
-- [Coming soon: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/) 
 <!-- AI_NEWS:END -->
 
 </td>
