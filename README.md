@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you were given the chance to redo your life, would you take it?"*
+> 💬 *"You let them take it from right under your nose."*
 >
-> 🎭 **Iori Nagase** — *Kokoro Connect*
+> 🎭 **Near** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
