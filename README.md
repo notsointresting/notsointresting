@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if things are painful and tough, people should appreciate what it means to be alive."*
+> 💬 *"And if when everything ends, nothing is left in my hands...that's alright."*
 >
-> 🎭 **Yato** — *Noragami*
+> 🎭 **Sohma Rin** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
