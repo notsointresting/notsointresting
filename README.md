@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A politician in the past once said: "My secretaries did it all.""*
+> 💬 *"Humans aren't made perfectly. Everyone lies. Even so... I've been careful not to tell lies that hurt others."*
 >
-> 🎭 **UNESCO Director** — *Humanity Has Declined*
+> 🎭 **Light Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
