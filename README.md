@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"And if when everything ends, nothing is left in my hands...that's alright."*
+> 💬 *"A politician in the past once said: "My secretaries did it all.""*
 >
-> 🎭 **Sohma Rin** — *Fruits Basket*
+> 🎭 **UNESCO Director** — *Humanity Has Declined*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
