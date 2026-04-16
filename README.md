@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html) 
+<!-- CYBER_NEWS:START -->- [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html) 
+- [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html) 
 - [Actively Exploited nginx-ui Flaw &lpar;CVE-2026-33032&rpar; Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html) 
 - [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html) 
-- [Deterministic + Agentic AI: The Architecture Exposure Validation Requires](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
