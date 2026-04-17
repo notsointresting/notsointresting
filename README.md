@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It is the role of a parent to stand in front of their children... and protect them even if their legs were to give out at any moment."*
+> 💬 *"Everyone has different faces."*
 >
-> 🎭 **Makarov Dreyar** — *Fairy Tail*
+> 🎭 **Taichi Yaegashi** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
