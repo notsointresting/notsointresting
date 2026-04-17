@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everyone has different faces."*
+> 💬 *"I'm the sniper king, sogeking."*
 >
-> 🎭 **Taichi Yaegashi** — *Kokoro Connect*
+> 🎭 **Usopp** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
