@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Humans aren't made perfectly. Everyone lies. Even so... I've been careful not to tell lies that hurt others."*
+> 💬 *"Don’t tell me he wants to conquer the world? Can’t he come up with something more original?"*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Lina Inverse** — *Slayers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
