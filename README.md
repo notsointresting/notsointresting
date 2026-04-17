@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm the sniper king, sogeking."*
+> 💬 *"Even if your heart feels like it's been stabbed, it won't bleed or leave a scar behind. There'll be someone who'll help you bear the pain. It'll all work out, so don't brood over it. No matter how much it seems to hurt, it's all just a trick of the mind."*
 >
-> 🎭 **Usopp** — *One Piece*
+> 🎭 **Saya Irino** — *Black Rock Shooter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
