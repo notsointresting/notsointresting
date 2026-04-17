@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t tell me he wants to conquer the world? Can’t he come up with something more original?"*
+> 💬 *"It is the role of a parent to stand in front of their children... and protect them even if their legs were to give out at any moment."*
 >
-> 🎭 **Lina Inverse** — *Slayers*
+> 🎭 **Makarov Dreyar** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
