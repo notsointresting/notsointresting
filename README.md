@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Making AI operational in constrained public sector environments](https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/) 
-- [Treating enterprise AI as an operating layer](https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/) 
-- [The Download: cyberscammers’ banking bypasses, and carbon removal troubles](https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/) 
-- [Why having “humans in the loop” in an AI war is an illusion](https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/) 
+<!-- AI_NEWS:START -->- [The Download: bad news for inner Neanderthals, and AI warfare’s human illusion](https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/) 
+- [The case for fixing everything](https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/) 
+- [How robots learn: A brief, contemporary history](https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/) 
+- [Making AI operational in constrained public sector environments](https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/) 
 <!-- AI_NEWS:END -->
 
 </td>
