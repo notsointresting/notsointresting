@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Anything can happen. No one ever thinks it will until it does. What will happen, happens. That's how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it."*
+> 💬 *"You're a team player, a save-the-day superhero... I hate people like you."*
 >
-> 🎭 **Kyousuke Natsume** — *Little Busters!*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
