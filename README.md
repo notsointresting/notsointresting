@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Illegal contractees kill people to be able to change the past."*
+> 💬 *"You and I, our levels are as distant as the earth from the heavens. Must I spell it out for you? I have discarded my left arm, discarded my left leg, and yet even then I have not nearly lowered myself to your level."*
 >
-> 🎭 **Gilbert Nightray** — *Pandora Hearts*
+> 🎭 **Kuchiki Byakuya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
