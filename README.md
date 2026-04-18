@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You're a team player, a save-the-day superhero... I hate people like you."*
+> 💬 *"If you let yourself get depressed, you'd be making light of the people who trust and follow you."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Ogami Rei** — *Code:Breaker*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
