@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You and I, our levels are as distant as the earth from the heavens. Must I spell it out for you? I have discarded my left arm, discarded my left leg, and yet even then I have not nearly lowered myself to your level."*
+> 💬 *"We do not live in a fairy-tale world. We cannot simply take revenge on those who have betrayed us and say "the end". We have to live on after this. And taking revenge for betrayal only invites more revenge."*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **Kraft Lawrence** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
