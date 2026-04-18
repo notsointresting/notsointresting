@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We do not live in a fairy-tale world. We cannot simply take revenge on those who have betrayed us and say "the end". We have to live on after this. And taking revenge for betrayal only invites more revenge."*
+> 💬 *"Oh right, most talented artists become famous after they're dead, I'll make you great by taking you to the cemetery called prison!"*
 >
-> 🎭 **Kraft Lawrence** — *Spice and Wolf*
+> 🎭 **Detective Conan** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
