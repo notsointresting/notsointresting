@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you let yourself get depressed, you'd be making light of the people who trust and follow you."*
+> 💬 *"To win, but not destroy; to conquer, but not humiliate: That is what true conquest is!"*
 >
-> 🎭 **Ogami Rei** — *Code:Breaker*
+> 🎭 **Rider** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
