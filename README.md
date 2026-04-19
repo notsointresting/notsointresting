@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To win, but not destroy; to conquer, but not humiliate: That is what true conquest is!"*
+> 💬 *"If you run into a wall and pretend it doesn't exist, you'll never make progress. The wall will never change, so you're the one who has to change."*
 >
-> 🎭 **Rider** — *Fate/Zero*
+> 🎭 **Hijikata Toushirou** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
