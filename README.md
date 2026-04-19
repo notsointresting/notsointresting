@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you run into a wall and pretend it doesn't exist, you'll never make progress. The wall will never change, so you're the one who has to change."*
+> 💬 *"Humans are so voracious, though. They eat everything from plants to animals... almost as if they think they are the top living creature to roam the earth. No being is more full of themselves as the humans."*
 >
-> 🎭 **Hijikata Toushirou** — *Gintama*
+> 🎭 **Hildegard** — *Beelzebub*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
