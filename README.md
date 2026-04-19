@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Fear is freedom! Subjugation is liberation! Contradiction is truth! These are the truths of this world! Surrender to those truths, you pigs who fawn over clothing!"*
+> 💬 *"Is there a limit to how much you can love somebody? No matter how much I hurt him or get hurt by him, I find myself far from hating him, actually hoping that those wounds will scar, like burns...because then you can never forget me."*
 >
-> 🎭 **Satsuki Kiryuuin** — *Kill la Kill*
+> 🎭 **Hiroki Kamijou** — *Junjo Romantica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
