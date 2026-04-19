@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Is there a limit to how much you can love somebody? No matter how much I hurt him or get hurt by him, I find myself far from hating him, actually hoping that those wounds will scar, like burns...because then you can never forget me."*
+> 💬 *"To stop or to keep going? The one who decides is yourself."*
 >
-> 🎭 **Hiroki Kamijou** — *Junjo Romantica*
+> 🎭 **Shōkichi Naruko** — *Yowamushi Pedal*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
