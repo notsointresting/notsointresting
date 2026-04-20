@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Pie Day 2026](https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/) 
-- [The Download: bad news for inner Neanderthals, and AI warfare’s human illusion](https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/) 
-- [The case for fixing everything](https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/) 
-- [How robots learn: A brief, contemporary history](https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/) 
+<!-- AI_NEWS:START -->- [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/) 
+- [Colossal Biosciences said it cloned red wolves. Is it for real?](https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/) 
+- [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) 
+- [Pie Day 2026](https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/) 
 <!-- AI_NEWS:END -->
 
 </td>
