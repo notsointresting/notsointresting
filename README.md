@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The real world is scary. It’s pain to deal with other people."*
+> 💬 *"Manipulating the pieces according to your strategy... That is what defines a King."*
 >
-> 🎭 **Shiori Shiomiya** — *The World God Only Knows*
+> 🎭 **Minerva Orland** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
