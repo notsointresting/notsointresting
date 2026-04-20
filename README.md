@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Manipulating the pieces according to your strategy... That is what defines a King."*
+> 💬 *"Victory isn't determined solely by who has the superior physical abilities."*
 >
-> 🎭 **Minerva Orland** — *Fairy Tail*
+> 🎭 **Tsumugu Kinagase** — *Kill la Kill*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
