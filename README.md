@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Victory isn't determined solely by who has the superior physical abilities."*
+> 💬 *"I'd rather die with someone than let that person die before my eyes. More so if she's a girl like you."*
 >
-> 🎭 **Tsumugu Kinagase** — *Kill la Kill*
+> 🎭 **Kazuto Kirigaya** — *Sword Art Online*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
