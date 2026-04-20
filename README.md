@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you can't see what's important, then it's because you're too ashamed to open your eyes."*
+> 💬 *"The real world is scary. It’s pain to deal with other people."*
 >
-> 🎭 **Ganta Igarashi** — *Deadman Wonderland*
+> 🎭 **Shiori Shiomiya** — *The World God Only Knows*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
