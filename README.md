@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To stop or to keep going? The one who decides is yourself."*
+> 💬 *"It's quite educational, seeing the thought process of someone in charge."*
 >
-> 🎭 **Shōkichi Naruko** — *Yowamushi Pedal*
+> 🎭 **Watashi** — *Humanity Has Declined*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
