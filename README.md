@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's quite educational, seeing the thought process of someone in charge."*
+> 💬 *"If you can't see what's important, then it's because you're too ashamed to open your eyes."*
 >
-> 🎭 **Watashi** — *Humanity Has Declined*
+> 🎭 **Ganta Igarashi** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
