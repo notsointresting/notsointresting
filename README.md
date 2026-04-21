@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*punches Kurogane* That was payback, Kuro-sama!"*
+> 💬 *"I will protect Hinamori."*
 >
-> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
+> 🎭 **Toushirou Hitsugaya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
