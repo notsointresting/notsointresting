@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sometimes people put up walls, not to keep others out, but to see who cares enough to break them down."*
+> 💬 *"You do them one favor and they think you're their best friend. This is why I could care less if their entire species was swallowed up."*
 >
-> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
