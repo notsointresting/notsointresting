@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html) 
+<!-- CYBER_NEWS:START -->- [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html) 
+- [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html) 
+- [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html) 
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html) 
-- [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html) 
-- [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
