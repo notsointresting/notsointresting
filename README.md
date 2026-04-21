@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'd rather die with someone than let that person die before my eyes. More so if she's a girl like you."*
+> 💬 *"*punches Kurogane* That was payback, Kuro-sama!"*
 >
-> 🎭 **Kazuto Kirigaya** — *Sword Art Online*
+> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
