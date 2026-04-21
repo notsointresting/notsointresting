@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will protect Hinamori."*
+> 💬 *"Those who hate themselves, cannot love or trust others."*
 >
-> 🎭 **Toushirou Hitsugaya** — *Bleach*
+> 🎭 **Rei Ayanami** — *Neon Genesis Evangelion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
