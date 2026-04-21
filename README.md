@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those who hate themselves, cannot love or trust others."*
+> 💬 *"Sometimes people put up walls, not to keep others out, but to see who cares enough to break them down."*
 >
-> 🎭 **Rei Ayanami** — *Neon Genesis Evangelion*
+> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
