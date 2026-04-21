@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You do them one favor and they think you're their best friend. This is why I could care less if their entire species was swallowed up."*
+> 💬 *"Human nature pursues strife."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Pain** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
