@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Under normal circumstances, humans should have continued to evolve as the greatest creatures upon this earth, but we were actually regressing. A rotten world. Politics, law, education... Was there anybody around who could correct this world? But someone had to do it."*
+> 💬 *"It's painful when you get disappointed by the person you look up to."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Misaki Ayuzawa** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
