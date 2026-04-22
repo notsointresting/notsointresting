@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/) 
-- [The new word in home construction could be “plastics”](https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/) 
-- [A natural protein may protect the GI tract from infection](https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/) 
-- [This tool could show how consciousness works](https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/) 
+<!-- AI_NEWS:START -->- [The Download: introducing the 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/) 
+- [AI needs a strong data fabric to deliver business value](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/) 
+- [3 things Michelle Kim is into right now](https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/) 
+- [One town’s scheme to get rid of its geese](https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/) 
 <!-- AI_NEWS:END -->
 
 </td>
