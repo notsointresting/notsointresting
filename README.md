@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You must believe in yourself, follow your path without fear."*
+> 💬 *"The past makes you wanna die out of regret and future makes you depressed out of anxiety. So by elimination, the present is likely the happiest time."*
 >
-> 🎭 **Mamoru Chiba** — *Sailor Moon*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU TOO!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
