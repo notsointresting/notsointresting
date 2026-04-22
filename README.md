@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The past makes you wanna die out of regret and future makes you depressed out of anxiety. So by elimination, the present is likely the happiest time."*
+> 💬 *"Under normal circumstances, humans should have continued to evolve as the greatest creatures upon this earth, but we were actually regressing. A rotten world. Politics, law, education... Was there anybody around who could correct this world? But someone had to do it."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU TOO!*
+> 🎭 **Light Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
