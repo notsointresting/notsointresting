@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's painful when you get disappointed by the person you look up to."*
+> 💬 *"You can run away, but that’ll just make it worse!"*
 >
-> 🎭 **Misaki Ayuzawa** — *Maid Sama!*
+> 🎭 **Kurisu Makise** — *Steins Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
