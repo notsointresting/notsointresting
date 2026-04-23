@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Games are fun because you can do things you couldn’t in real life, right?"*
+> 💬 *"Shining brightly even for a split second is better than living a dull-grey life for eternity."*
 >
-> 🎭 **Akatsuki** — *Log Horizon*
+> 🎭 **Jing** — *Jing: King of Bandits*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
