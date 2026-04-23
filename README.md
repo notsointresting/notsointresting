@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can run away, but that’ll just make it worse!"*
+> 💬 *"I don't need you anymore. I'm tired of you. (To Haru)"*
 >
-> 🎭 **Kurisu Makise** — *Steins Gate*
+> 🎭 **Sohma Rin** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
