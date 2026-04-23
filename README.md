@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Think of your shivers as excitement rather than fear. Cover the anxiety on your face with a smile."*
+> 💬 *"A wall's a wall and there's no wall I can't punch a hole through!"*
 >
-> 🎭 **Kurusu Keigo** — *The Future Diary*
+> 🎭 **Kiba Inuzuka** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
