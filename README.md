@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't need you anymore. I'm tired of you. (To Haru)"*
+> 💬 *"Games are fun because you can do things you couldn’t in real life, right?"*
 >
-> 🎭 **Sohma Rin** — *Fruits Basket*
+> 🎭 **Akatsuki** — *Log Horizon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
