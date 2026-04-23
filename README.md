@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Shining brightly even for a split second is better than living a dull-grey life for eternity."*
+> 💬 *"Think of your shivers as excitement rather than fear. Cover the anxiety on your face with a smile."*
 >
-> 🎭 **Jing** — *Jing: King of Bandits*
+> 🎭 **Kurusu Keigo** — *The Future Diary*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
