@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I choose my own battlefields. Not by my blood, but by my heart! I stand on the battlefield to protect what's important to me. And if anyone stands in my way, I don't care if it's one of my kind, my brother or anyone else… I'll crush them all!"*
+> 💬 *"Have you ever heard in the world, there are things best not to ask?"*
 >
-> 🎭 **Kagura** — *Gintama*
+> 🎭 **Aokiji** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
