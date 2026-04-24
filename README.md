@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) 
+<!-- AI_NEWS:START -->- [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) 
+- [Health-care AI is here. We don’t know if it actually helps patients.](https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/) 
+- [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) 
 - [Will fusion power get cheap? Don’t count on it.](https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/) 
-- [The Download: introducing the 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/) 
-- [AI needs a strong data fabric to deliver business value](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/) 
 <!-- AI_NEWS:END -->
 
 </td>
