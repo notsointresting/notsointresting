@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Since when did the "Cat" set the rules for this house? You mean to tell me that you contribute more to this house than anyone else? Do you pay all the bills? I can't stand people who do absolutely nothing but complain all the time! (To Kyo)"*
+> 💬 *"When you talk properly, you get your feelings across properly, right?"*
 >
-> 🎭 **Sohma Hiro** — *Fruits Basket*
+> 🎭 **Shouta Kazehaya** — *Kimi ni Todoke: From Me to You*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
