@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Have you ever heard in the world, there are things best not to ask?"*
+> 💬 *"Charging from the front isn't the only way to cross a wall. If pushing doesn't work, why not try pulling? Try thinking from the opposite direction, you might be able to find a new way out."*
 >
-> 🎭 **Aokiji** — *One Piece*
+> 🎭 **Kou Kazamatsuri** — *Whistle!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
