@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A wall's a wall and there's no wall I can't punch a hole through!"*
+> 💬 *"Rule breakers should be punished. If you go easy on them, they'll think explaining their circumstances will get them forgiven, and the same thing will only happen again."*
 >
-> 🎭 **Kiba Inuzuka** — *Naruto*
+> 🎭 **Myouri Unzen** — *Medaka Box*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
