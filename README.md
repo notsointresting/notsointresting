@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We'd love to get up, Ash...unfortunately, you're STANDING on us."*
+> 💬 *"I'm Faust VIII, your opponent. Please be gentle."*
 >
-> 🎭 **Kasumi** — *Pokémon*
+> 🎭 **Johann Faust VIII** — *Shaman King*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
