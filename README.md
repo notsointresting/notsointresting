@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"But hating something you love is a painful feeling."*
+> 💬 *"We'd love to get up, Ash...unfortunately, you're STANDING on us."*
 >
-> 🎭 **Tetsuya Kuroko** — *Kuroko's Basketball - duplicate*
+> 🎭 **Kasumi** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
