@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html) 
+<!-- CYBER_NEWS:START -->- [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html) 
+- [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html) 
 - [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html) 
 - [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html) 
-- [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
