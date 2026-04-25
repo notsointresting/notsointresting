@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm Faust VIII, your opponent. Please be gentle."*
+> 💬 *"If there is a pure wish in this world, it must be the desire to be born."*
 >
-> 🎭 **Johann Faust VIII** — *Shaman King*
+> 🎭 **Kotomine Kirei** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
