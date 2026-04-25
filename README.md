@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If there is a pure wish in this world, it must be the desire to be born."*
+> 💬 *"I haven't said anything about letting them commit murder...yet."*
 >
-> 🎭 **Kotomine Kirei** — *Fate/stay night*
+> 🎭 **L Lawliet** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
