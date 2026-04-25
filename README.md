@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you talk properly, you get your feelings across properly, right?"*
+> 💬 *"I don’t like the terms good person or bad person because it’s impossible to be entirely good to everyone, or entirely bad to everyone. To some, you are a good person, while to others you are a bad person."*
 >
-> 🎭 **Shouta Kazehaya** — *Kimi ni Todoke: From Me to You*
+> 🎭 **Armin Arlert** — *Attack on Titan*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
