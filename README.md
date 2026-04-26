@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am the only one who's earned that right in the entire universe! I alone have the right to judge all of humanity!"*
+> 💬 *"When things change, isn't it better to get used to the new situation quickly? If that's the case, it's better to know what you have to do. Rejecting everything and doing things half-heartedly won't make it any easier. Hanging onto your pride will only weigh you down. So, to make life easier, sometimes it's best to go along with what other people want. As I said, it's just like the old saying: "When in Rome, do as the Romans do". Instead of others forcing it upon you, it's easier for you to want to do it yourself, right? You should try it, Mikoto. You'll be happier."*
 >
-> 🎭 **Rau Le Creuset** — *Mobile Suit Gundam SEED*
+> 🎭 **Tooru Kouno** — *Princess Princess*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
