@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whoever invented stew is brilliant! It has milk in it and it still tastes good."*
+> 💬 *"Mom... Mom in heaven.... Does love come suddenly like this"*
 >
-> 🎭 **Edward Elric** — *Fullmetal Alchemist*
+> 🎭 **Haruhi Fujioka** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
