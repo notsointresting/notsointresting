@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I haven't said anything about letting them commit murder...yet."*
+> 💬 *"I am the only one who's earned that right in the entire universe! I alone have the right to judge all of humanity!"*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Rau Le Creuset** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
