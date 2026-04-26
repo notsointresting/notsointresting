@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Didn't your mother ever tell you that mentioning a woman's age will get you killed?"*
+> 💬 *"People don't vanish from this world the moment they die. Their true death is when they are forgotten by the living."*
 >
-> 🎭 **Shizuka Hiratsuka** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Tokou Nanami** — *Brynhildr in the Darkness*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
