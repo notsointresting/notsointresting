@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People don't vanish from this world the moment they die. Their true death is when they are forgotten by the living."*
+> 💬 *"Whoever invented stew is brilliant! It has milk in it and it still tastes good."*
 >
-> 🎭 **Tokou Nanami** — *Brynhildr in the Darkness*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
