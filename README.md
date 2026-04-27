@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) 
+<!-- AI_NEWS:START -->- [Rebuilding the data stack for AI](https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/) 
+- [The Download: DeepSeek’s latest AI breakthrough, and the race to build world models](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/) 
+- [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) 
 - [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) 
-- [Health-care AI is here. We don’t know if it actually helps patients.](https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/) 
-- [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) 
 <!-- AI_NEWS:END -->
 
 </td>
