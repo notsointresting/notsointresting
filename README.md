@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I swear to God that when we die, we'll die together."*
+> 💬 *"There is strength in words... Sometimes, they become words of power. I thought that if I said I'm fine, then I really would be fine. But it's no use... It doesn't work."*
 >
-> 🎭 **Mikage** — *07-Ghost*
+> 🎭 **Ik-su** — *Yona of the Dawn*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
