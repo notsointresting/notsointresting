@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We would not have met, and the flowers will protect you. Kiba, because you protected this one, the flowers will return and bloom once more. So when the world is reborn, and Paradise opens, we will meet again. This one will be waiting for you. Find this one. And this time, the Paradise you hoped for will be..."*
+> 💬 *"No one can say they grew up in a sterile room, never failing or making mistakes. Life is an ongoing process of trial and error."*
 >
-> 🎭 **Cheza** — *Wolf's Rain*
+> 🎭 **Sonozaki Mion** — *Higurashi: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
