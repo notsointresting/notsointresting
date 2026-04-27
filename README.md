@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No one can say they grew up in a sterile room, never failing or making mistakes. Life is an ongoing process of trial and error."*
+> 💬 *"I swear to God that when we die, we'll die together."*
 >
-> 🎭 **Sonozaki Mion** — *Higurashi: When They Cry*
+> 🎭 **Mikage** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
