@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Mom... Mom in heaven.... Does love come suddenly like this"*
+> 💬 *"It is love that can make us strong, but it is also love that can make us weak."*
 >
-> 🎭 **Haruhi Fujioka** — *Ouran High School Host Club*
+> 🎭 **Makarov Dreyar** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
