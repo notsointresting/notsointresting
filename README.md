@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It is love that can make us strong, but it is also love that can make us weak."*
+> 💬 *"If you're helping someone and expecting something in return, you're doing business not kindness."*
 >
-> 🎭 **Makarov Dreyar** — *Fairy Tail*
+> 🎭 **Shirayuki** — *Snow White with the Red Hair*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
