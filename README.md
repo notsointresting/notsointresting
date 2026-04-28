@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"One can hardly lose what one does not already have."*
+> 💬 *"It's awfully quiet back there. Are you two making out?"*
 >
-> 🎭 **Horo** — *Spice and Wolf*
+> 🎭 **Cho Hakkai** — *Saiyuki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
