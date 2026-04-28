@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's awfully quiet back there. Are you two making out?"*
+> 💬 *"It's meaningless to just live, and it's meaningless to just fight. I want to win."*
 >
-> 🎭 **Cho Hakkai** — *Saiyuki*
+> 🎭 **Kurosaki Ichigo** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
