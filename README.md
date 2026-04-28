@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is strength in words... Sometimes, they become words of power. I thought that if I said I'm fine, then I really would be fine. But it's no use... It doesn't work."*
+> 💬 *"One can hardly lose what one does not already have."*
 >
-> 🎭 **Ik-su** — *Yona of the Dawn*
+> 🎭 **Horo** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
