@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We simply cannot see the world as it is. The world people see is nothing more than how our brains translate it. In other words, it's subjective."*
+> 💬 *"You mean that we failed again to prevent a bombing? What are you doing, Hijikata-san? You should take this job more seriously."*
 >
-> 🎭 **Alis Color** — *Sunday Without God*
+> 🎭 **Okita Sougo** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
