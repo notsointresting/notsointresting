@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's meaningless to just live, and it's meaningless to just fight. I want to win."*
+> 💬 *"We simply cannot see the world as it is. The world people see is nothing more than how our brains translate it. In other words, it's subjective."*
 >
-> 🎭 **Kurosaki Ichigo** — *Bleach*
+> 🎭 **Alis Color** — *Sunday Without God*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
