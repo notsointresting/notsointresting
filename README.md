@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You mean that we failed again to prevent a bombing? What are you doing, Hijikata-san? You should take this job more seriously."*
+> 💬 *"Crying when you need to cry is another way to show strength."*
 >
-> 🎭 **Okita Sougo** — *Gintama*
+> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
