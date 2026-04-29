@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That's right! Whatever the tragedy or the blunder is, only the things that actually happened are written in stone!"*
+> 💬 *"The reward for ambition too great... is self destruction."*
 >
-> 🎭 **Donquixote Doflamingo** — *One Piece*
+> 🎭 **Guts** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
