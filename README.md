@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Romance is just trying to convey your feelings to another person."*
+> 💬 *"This is our show. We're the ones who are writing the script."*
 >
-> 🎭 **Tadashi Isogai** — *Living for the Day After Tomorrow*
+> 🎭 **Taiga Kagami** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
