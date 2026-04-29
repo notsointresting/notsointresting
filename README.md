@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am the God placed here to save the weak and create a perfect world."*
+> 💬 *"That's right! Whatever the tragedy or the blunder is, only the things that actually happened are written in stone!"*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Donquixote Doflamingo** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
