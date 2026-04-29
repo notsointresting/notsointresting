@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The reward for ambition too great... is self destruction."*
+> 💬 *"Of course. Humans can be kind because there are things they do not understand. If they knew everything, they would attempt nothing. If they attempted nothing, nothing new would happen. Humans seek answers to the things they do not know. That is how kindness, nostalgia, joy, and fun are born."*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Magata Shiki** — *The Perfect Insider*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
