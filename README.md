@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Crying when you need to cry is another way to show strength."*
+> 💬 *"Romance is just trying to convey your feelings to another person."*
 >
-> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
+> 🎭 **Tadashi Isogai** — *Living for the Day After Tomorrow*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
