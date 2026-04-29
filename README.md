@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This is our show. We're the ones who are writing the script."*
+> 💬 *"I am the God placed here to save the weak and create a perfect world."*
 >
-> 🎭 **Taiga Kagami** — *Kuroko's Basketball - duplicate*
+> 🎭 **Light Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
