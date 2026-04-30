@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ooops....My finger slipped."*
+> 💬 *"So sorry you caught me on such a bad day, it makes me a real jerk!"*
 >
-> 🎭 **Death the Kid** — *Soul Eater*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
