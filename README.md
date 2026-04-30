@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Of course. Humans can be kind because there are things they do not understand. If they knew everything, they would attempt nothing. If they attempted nothing, nothing new would happen. Humans seek answers to the things they do not know. That is how kindness, nostalgia, joy, and fun are born."*
+> 💬 *"They don't call me Greed for nothing! I want money, I want women, status and power! I want everything this world's selling and eternity's topping the list!"*
 >
-> 🎭 **Magata Shiki** — *The Perfect Insider*
+> 🎭 **Greed** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
