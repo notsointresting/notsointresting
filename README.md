@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html) 
+<!-- CYBER_NEWS:START -->- [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html) 
+- [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html) 
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html) 
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html) 
-- [What to Look for in an Exposure Management Platform &lpar;And What Most of Them Get Wrong&rpar;](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
