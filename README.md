@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: storing nuclear waste and orchestrating agents](https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/) 
+<!-- AI_NEWS:START -->- [The Download: the North Pole’s future and humanoid data](https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/) 
+- [The Download: storing nuclear waste and orchestrating agents](https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/) 
 - [It’s time to make a plan for nuclear waste](https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/) 
 - [The Download: Musk and Altman’s legal showdown, and AI’s profit problem](https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/) 
-- [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) 
 <!-- AI_NEWS:END -->
 
 </td>
