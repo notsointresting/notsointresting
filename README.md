@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[as a child] Why should I be sad?! My parents died protecting the village from the monster fox. They're heroes, and I'm the son of those heroes! If I cry, it's because I'm happy! I'm not even sad that they went and left me all alone..."*
+> 💬 *"Ooops....My finger slipped."*
 >
-> 🎭 **Iruka Umino** — *Naruto*
+> 🎭 **Death the Kid** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
