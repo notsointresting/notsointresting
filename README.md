@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html) 
+<!-- CYBER_NEWS:START -->- [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html) 
+- [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html) 
+- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html) 
 - [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html) 
-- [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html) 
-- [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
