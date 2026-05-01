@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What are you good at, what do you like… You need to show something that makes people understand who you are."*
+> 💬 *"You must not change the past, once it’s been established."*
 >
-> 🎭 **Tatsuya Himuro** — *Kuroko's Basketball - duplicate*
+> 🎭 **Rintaro Okabe** — *Steins Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
