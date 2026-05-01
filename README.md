@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You must not change the past, once it’s been established."*
+> 💬 *"That's ridiculous. People usually have a stereotypical idea, or an assumption like that and that's what creates a blind spot"*
 >
-> 🎭 **Rintaro Okabe** — *Steins Gate*
+> 🎭 **Donquixote Doflamingo** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
