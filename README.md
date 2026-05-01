@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The chains of fear are easily broken with the blade of courage."*
+> 💬 *"What are you good at, what do you like… You need to show something that makes people understand who you are."*
 >
-> 🎭 **Goltas** — *Magi - The Labyrinth of Magic*
+> 🎭 **Tatsuya Himuro** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
