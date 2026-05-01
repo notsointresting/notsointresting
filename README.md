@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That's ridiculous. People usually have a stereotypical idea, or an assumption like that and that's what creates a blind spot"*
+> 💬 *"Uncoil the seas and heavens, Nejibana!"*
 >
-> 🎭 **Donquixote Doflamingo** — *One Piece*
+> 🎭 **Shiba Kaien** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
