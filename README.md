@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [This startup’s new mechanistic interpretability tool lets you debug LLMs](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/) 
+<!-- AI_NEWS:START -->- [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/) 
+- [This startup’s new mechanistic interpretability tool lets you debug LLMs](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/) 
 - [The Download: the North Pole’s future and humanoid data](https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/) 
 - [The Download: storing nuclear waste and orchestrating agents](https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/) 
-- [It’s time to make a plan for nuclear waste](https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/) 
 <!-- AI_NEWS:END -->
 
 </td>
