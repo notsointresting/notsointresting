@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It doesn't matter if you grew up without parents, and it doesn't matter if you don't believe in God. There's someone out there watching over you."*
+> 💬 *"The chains of fear are easily broken with the blade of courage."*
 >
-> 🎭 **Taiga Aisaka** — *Toradora!*
+> 🎭 **Goltas** — *Magi - The Labyrinth of Magic*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
