@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I know everyone has their stories of pain and sadness or things that they don't want to bring up, but if you can't be a good friend without telling that, then I don't need any friends at all!"*
+> 💬 *"It doesn't matter if you grew up without parents, and it doesn't matter if you don't believe in God. There's someone out there watching over you."*
 >
-> 🎭 **Sonozaki Mion** — *Higurashi: When They Cry*
+> 🎭 **Taiga Aisaka** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
