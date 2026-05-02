@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You think I'm making demons simply as weapons, but demons are created by the human soul."*
+> 💬 *"It's dangerous here. If you stare at the stars long enough, you start thinking you could grab one, and you get this feeling like all your dreams will come true."*
 >
-> 🎭 **Millenium Earl** — *D.Gray-man*
+> 🎭 **Shinichi Okazaki** — *Nana*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
