@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Uncoil the seas and heavens, Nejibana!"*
+> 💬 *"The chickens have earned their right to live, while the humans will go hungry."*
 >
-> 🎭 **Shiba Kaien** — *Bleach*
+> 🎭 **Watashi** — *Humanity Has Declined*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
