@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's dangerous here. If you stare at the stars long enough, you start thinking you could grab one, and you get this feeling like all your dreams will come true."*
+> 💬 *"If you want to do something and have the power for it, then do it!"*
 >
-> 🎭 **Shinichi Okazaki** — *Nana*
+> 🎭 **Kamijou Touma** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
