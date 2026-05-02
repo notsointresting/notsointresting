@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Who cares about school?! The real me lives on the Internet!"*
+> 💬 *"I bet dead people are easier to get along with."*
 >
-> 🎭 **Natsume Asako** — *My Little Monster*
+> 🎭 **Crona** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
