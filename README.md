@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I bet dead people are easier to get along with."*
+> 💬 *"Running away isn’t the same thing as losing. You only truly lose by dying. So as long you’re alive, you win."*
 >
-> 🎭 **Crona** — *Soul Eater*
+> 🎭 **Senator Figaro** — *Valvrave the Liberator*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
