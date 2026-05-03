@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can neither live with you. Nor without you."*
+> 💬 *"*referring to Ichigo* I see. So I still haven't reached you..."*
 >
-> 🎭 **Uta** — *Tokyo Ghoul*
+> 🎭 **Zangetsu** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
