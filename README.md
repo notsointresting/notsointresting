@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ninjas are revolting, they stole my idea. I'll have to kill them now."*
+> 💬 *"Life isn't that sweet. That's why everyone wants sweet things."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Undertaker** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
