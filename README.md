@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Life isn't that sweet. That's why everyone wants sweet things."*
+> 💬 *"I can neither live with you. Nor without you."*
 >
-> 🎭 **Undertaker** — *Black Butler*
+> 🎭 **Uta** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
