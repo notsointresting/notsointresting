@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*referring to Ichigo* I see. So I still haven't reached you..."*
+> 💬 *"Nobody calls me a pipsqueak and gets away with it! Not even a little girl!"*
 >
-> 🎭 **Zangetsu** — *Bleach*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
