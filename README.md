@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Human potential for evolution is limitless."*
+> 💬 *"It increases the weight of whatever it hits, until my opponent can no longer bear the weight and falls to the ground. And then they bow their head as if in apology. That's why it's called "Wabisuke"."*
 >
-> 🎭 **Isaac** — *Hunter x Hunter*
+> 🎭 **Kira Izuru** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
