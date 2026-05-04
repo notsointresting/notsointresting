@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We are taught never to shed tears. For to shed tears means that the body has been defeated by emotion. And to us, this simple act of crying proves, without question, that the existence of emotion is nothing but a burden."*
+> 💬 *"Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo."*
 >
-> 🎭 **Rukia Kuchiki** — *Bleach*
+> 🎭 **Kazuya Hiramaru** — *Bakuman.*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
