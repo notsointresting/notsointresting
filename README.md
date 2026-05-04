@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why do people have to work? I just want to eat and sleep. I should have born as a panda at the zoo."*
+> 💬 *"Human potential for evolution is limitless."*
 >
-> 🎭 **Kazuya Hiramaru** — *Bakuman.*
+> 🎭 **Isaac** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
