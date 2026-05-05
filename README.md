@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Justice is not something that you can express in words."*
+> 💬 *"Jojo, being human means having limits. I've learned something. The more carefully you scheme, the more unexpected events come along"*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Dio Brando** — *JoJo's Bizarre Adventure: Phantom Blood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
