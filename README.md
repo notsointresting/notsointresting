@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You know, I really can't stand it when guys pick on people weaker than them...but I guess I'll do it to you anyway!"*
+> 💬 *"I want to make his dreams come true..."*
 >
-> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
+> 🎭 **Haku** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
