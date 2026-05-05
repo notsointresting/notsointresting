@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I want to make his dreams come true..."*
+> 💬 *"Even though there is life, no one here is living it. Life is overflowing and they are merely drinking their fill. But Dio and all the people I've met on my journey aren't like that... they're.. they're more... they were blazing with fire. They were torches burning with life."*
 >
-> 🎭 **Haku** — *Naruto*
+> 🎭 **Casshern** — *Casshern Sins*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
