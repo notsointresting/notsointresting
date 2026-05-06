@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html) 
-- [Critical Apache HTTP/2 Flaw &lpar;CVE-2026-23918&rpar; Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html) 
-- [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html) 
-- [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html) 
+<!-- CYBER_NEWS:START -->- [The Hacker News Launches &#39;Cybersecurity Stars Awards 2026&#39; — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html) 
+- [Your AI Agents Are Already Inside the Perimeter. Do You Know What They&#39;re Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html) 
+- [Google&#39;s Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html) 
+- [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
