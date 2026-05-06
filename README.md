@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I’m not gonna be your worthless punching bag-Deku forever… Kacchan, I’m… I’m the Deku who always does his best!"*
+> 💬 *"We can't live if we don't keep running forward."*
 >
-> 🎭 **Izuku Midoriya** — *My Hero Academia*
+> 🎭 **Natsu Dragneel** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
