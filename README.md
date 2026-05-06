@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We can't live if we don't keep running forward."*
+> 💬 *"I was trying to chop off your head from the eye up. A little scratch counts as a miss."*
 >
-> 🎭 **Natsu Dragneel** — *Fairy Tail*
+> 🎭 **Tousen Kaname** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
