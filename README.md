@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Every minute felt like an eternity time, clearly as if it had malicious intent, slowly ebbed away from me, I clenched my teeth and keeping myself from crying was the only thing I could do..."*
+> 💬 *"And to think, I could kill every man, woman and child here in the blink of an eye if I wanted to. The power of death is intoxicating."*
 >
-> 🎭 **Takaki Toono** — *5 Centimeters per Second*
+> 🎭 **Legato Bluesummers** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
