@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was trying to chop off your head from the eye up. A little scratch counts as a miss."*
+> 💬 *"Gintoki, will you take up your sword once again to cleanse this rotting nation? Lend me the strength of the fearsome white demon once again. [flashback to when they were fighting together] Is this it? Rather than falling into enemy hands, we should kill ourselves and die as warriors."*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Kotarō Katsura** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
