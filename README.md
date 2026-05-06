@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Jojo, being human means having limits. I've learned something. The more carefully you scheme, the more unexpected events come along"*
+> 💬 *"I’m not gonna be your worthless punching bag-Deku forever… Kacchan, I’m… I’m the Deku who always does his best!"*
 >
-> 🎭 **Dio Brando** — *JoJo's Bizarre Adventure: Phantom Blood*
+> 🎭 **Izuku Midoriya** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
