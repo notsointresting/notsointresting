@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If this is all it takes to tear us apart, then maybe we weren't all that close to begin with."*
+> 💬 *"If you're felling like there's nowhere you belong... That you're trapped in a small world. It's those feelings that drive us beyond our world."*
 >
-> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU TOO!*
+> 🎭 **Reiji Nitta** — *Space Brothers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
