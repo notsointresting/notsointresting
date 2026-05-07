@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nothing amazing happens here. Only the ordinary."*
+> 💬 *"...Have I... Stumbled upon a brand new shitty game again...?"*
 >
-> 🎭 **Naota Nandaba** — *FLCL*
+> 🎭 **Keima Katsuragi** — *The World God Only Knows*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
