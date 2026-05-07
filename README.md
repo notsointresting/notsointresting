@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you're felling like there's nowhere you belong... That you're trapped in a small world. It's those feelings that drive us beyond our world."*
+> 💬 *"Nothing amazing happens here. Only the ordinary."*
 >
-> 🎭 **Reiji Nitta** — *Space Brothers*
+> 🎭 **Naota Nandaba** — *FLCL*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
