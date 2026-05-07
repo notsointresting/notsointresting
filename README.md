@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I love chocolates."*
+> 💬 *"Not every result can be the one desired. Trust your own judgments and actions. That is enough."*
 >
-> 🎭 **Mello** — *Death Note*
+> 🎭 **Cadis Etrama Di Raizel** — *Noblesse*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
