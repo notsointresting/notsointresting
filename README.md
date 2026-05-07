@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Not every result can be the one desired. Trust your own judgments and actions. That is enough."*
+> 💬 *"If this is all it takes to tear us apart, then maybe we weren't all that close to begin with."*
 >
-> 🎭 **Cadis Etrama Di Raizel** — *Noblesse*
+> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU TOO!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
