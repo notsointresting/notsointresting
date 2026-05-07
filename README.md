@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"And to think, I could kill every man, woman and child here in the blink of an eye if I wanted to. The power of death is intoxicating."*
+> 💬 *"I love chocolates."*
 >
-> 🎭 **Legato Bluesummers** — *Trigun*
+> 🎭 **Mello** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
