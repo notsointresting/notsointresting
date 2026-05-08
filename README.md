@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You meet someone and then part ways. It’s a natural part of the human experience. No one can promise they’ll be together forever."*
+> 💬 *"A guy who likes someone else shouldn't be taking care of the girl he just dumped."*
 >
-> 🎭 **Nana** — *Golden Time*
+> 🎭 **Takumi Nomiya** — *Honey and Clover*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
