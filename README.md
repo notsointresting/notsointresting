@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's nothing more repulsive than being touched by a guy you don't like."*
+> 💬 *"You meet someone and then part ways. It’s a natural part of the human experience. No one can promise they’ll be together forever."*
 >
-> 🎭 **Natsume Asako** — *My Little Monster*
+> 🎭 **Nana** — *Golden Time*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
