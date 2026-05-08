@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A guy who likes someone else shouldn't be taking care of the girl he just dumped."*
+> 💬 *"I understand your feelings of wanting to bring the bad guy to justice, but do bear with it. It also requires courage to hide oneself."*
 >
-> 🎭 **Takumi Nomiya** — *Honey and Clover*
+> 🎭 **Ai Haibara** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
