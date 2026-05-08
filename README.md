@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the tech reshaping IVF and the rise of balcony solar](https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/) 
+<!-- AI_NEWS:START -->- [The Download: AI malaise and babymaking tech](https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/) 
+- [Here’s how technology transformed babymaking](https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/) 
+- [The Download: the tech reshaping IVF and the rise of balcony solar](https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/) 
 - [The balcony solar boom is coming to the US](https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/) 
-- [What’s next for IVF](https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/) 
-- [The Download: seafloor science and military chatbots](https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/) 
 <!-- AI_NEWS:END -->
 
 </td>
