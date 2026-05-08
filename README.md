@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...Have I... Stumbled upon a brand new shitty game again...?"*
+> 💬 *"Things that don't change go extinct."*
 >
-> 🎭 **Keima Katsuragi** — *The World God Only Knows*
+> 🎭 **Milly Ashford** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
