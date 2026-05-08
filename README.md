@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Things that don't change go extinct."*
+> 💬 *"There's nothing more repulsive than being touched by a guy you don't like."*
 >
-> 🎭 **Milly Ashford** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Natsume Asako** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
