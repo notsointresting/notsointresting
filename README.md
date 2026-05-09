@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It takes an idiot to do cool things. That's why it's cool."*
+> 💬 *"You're wrong... You're wrong about that as well, Oz! We're just two people who met through someone called 'Elliot'. You're quite mistaken thinking we were friends through him. Because I don't know a thing about you!"*
 >
-> 🎭 **Haruko Haruhara** — *FLCL*
+> 🎭 **Leo Baskerville** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
