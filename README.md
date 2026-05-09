@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not whether it's feasible or not – it's what I'm doing."*
+> 💬 *"Humans all behave the same way, like idiots. They all forget that someday, they're gonna die, so the moment they come face to face with death, they cling to life."*
 >
-> 🎭 **Near** — *Death Note*
+> 🎭 **Ginti** — *Death Parade*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
