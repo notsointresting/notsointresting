@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/) 
+<!-- AI_NEWS:START -->- [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman](https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/) 
+- [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/) 
 - [The Download: AI malaise and babymaking tech](https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/) 
 - [Here’s how technology transformed babymaking](https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/) 
-- [The Download: the tech reshaping IVF and the rise of balcony solar](https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/) 
 <!-- AI_NEWS:END -->
 
 </td>
