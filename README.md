@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You're wrong... You're wrong about that as well, Oz! We're just two people who met through someone called 'Elliot'. You're quite mistaken thinking we were friends through him. Because I don't know a thing about you!"*
+> 💬 *"Battles aren't supposed to be heroic affairs. They are not supposed to be fun or exciting, to us every battle is filled with despair, they are dark, horrifying, grizzly. We should fear warfare, avoid it always and whenever possible choose the path of peace."*
 >
-> 🎭 **Leo Baskerville** — *Pandora Hearts*
+> 🎭 **Kira Izuru** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
