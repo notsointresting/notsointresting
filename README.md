@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What's past is past. I cannot redo it, nor go back to it. I have escaped from that scene and still continue to live. All I can do is look forward."*
+> 💬 *"It's not the fun and games you think. It's bizarre... sinister... cursed. (speaking of the curse to Tohru)"*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Sohma Hatori** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
