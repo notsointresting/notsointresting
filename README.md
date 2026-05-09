@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not the fun and games you think. It's bizarre... sinister... cursed. (speaking of the curse to Tohru)"*
+> 💬 *"It takes an idiot to do cool things. That's why it's cool."*
 >
-> 🎭 **Sohma Hatori** — *Fruits Basket*
+> 🎭 **Haruko Haruhara** — *FLCL*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
