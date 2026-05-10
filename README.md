@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Like, wow, don't I make like the COOLEST girl?"*
+> 💬 *"He's swinging his sword with the grace of a flyswatter. That's no way to survive."*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
