@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Humans all behave the same way, like idiots. They all forget that someday, they're gonna die, so the moment they come face to face with death, they cling to life."*
+> 💬 *"People usually fall in love based on looks. But their true self might be very different from how they look."*
 >
-> 🎭 **Ginti** — *Death Parade*
+> 🎭 **Nagihiko Fujisaki** — *Shugo Chara*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
