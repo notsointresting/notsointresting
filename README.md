@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People usually fall in love based on looks. But their true self might be very different from how they look."*
+> 💬 *"It's not a sin to fall in love. You can't even arrest someone over that."*
 >
-> 🎭 **Nagihiko Fujisaki** — *Shugo Chara*
+> 🎭 **Gajeel Redfox** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
