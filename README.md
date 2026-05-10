@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Fine! You heard fox boy, there's nothing we can do for the old hag if she's already limp. Just gotta keep on truckin, yes sir! I'm gonna go outside and make myself a nice, big, shiny first-place medal, sit in the sun, and have a stupendous friggin day, dammit!"*
+> 💬 *"Charging from the front isn't the only way to cross a wall. If pushing doesn't work, why not try pulling? Try thinking from the opposite direction, you might be able to find a new way out."*
 >
-> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
+> 🎭 **Kou Kazamatsuri** — *Whistle!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
