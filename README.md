@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If there is a pure wish in this world, it must be the desire to be born."*
+> 💬 *"Fine. I'll correct myself. I have no experience. I'm a virgin. More to the point, the only kind of girl who'd talk to an unappealing virgin like you are late-bloomer virgins like me!"*
 >
-> 🎭 **Kotomine Kirei** — *Fate/stay night*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
