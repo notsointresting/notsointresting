@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"He's swinging his sword with the grace of a flyswatter. That's no way to survive."*
+> 💬 *"Enough. I've had enough. I'm dropping out."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Risa Koizumi** — *Lovely Complex*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
