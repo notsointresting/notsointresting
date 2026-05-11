@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman](https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/) 
-- [Here’s what you need to know about the cruise ship hantavirus outbreak](https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/) 
-- [The Download: AI malaise and babymaking tech](https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/) 
-- [Here’s how technology transformed babymaking](https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/) 
+<!-- AI_NEWS:START -->- [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/) 
+- [Innovation abounds in device charging](https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/) 
+- [Implementing advanced AI technologies in finance](https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/) 
+- [The Download: the hantavirus outbreak and Musk v. Altman week 2](https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/) 
 <!-- AI_NEWS:END -->
 
 </td>
