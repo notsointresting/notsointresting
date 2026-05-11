@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those who stand above others, must have noble ideals along with the most noble intentions. Anyone that cannot manage the will of the masses is not fit to serve as the leader. You say you're punishing someone for standing up to you? That kind of justice is a lie."*
+> 💬 *"Hinata... this is the unalterable difference in strength... the distinction that separates the elite from the failure. This is the unchangeable reality. From the moment you said you wouldn't run, your defeat was inevitable. The only possible outcome was your present despair... Withdraw!"*
 >
-> 🎭 **Silver Knight** — *.hack//Gift*
+> 🎭 **Neji Hyuuga** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
