@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/) 
+<!-- AI_NEWS:START -->- [Three things in AI to watch, according to a Nobel-winning economist](https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/) 
+- [Fostering breakthrough AI innovation through customer-back engineering](https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/) 
 - [Innovation abounds in device charging](https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/) 
 - [Implementing advanced AI technologies in finance](https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/) 
-- [The Download: the hantavirus outbreak and Musk v. Altman week 2](https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/) 
 <!-- AI_NEWS:END -->
 
 </td>
