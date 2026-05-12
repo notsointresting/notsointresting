@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html) 
+<!-- CYBER_NEWS:START -->- [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html) 
+- [RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html) 
+- [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html) 
 - [Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help](https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html) 
-- [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI &amp; More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html) 
-- [Why Agentic AI Is Security&#39;s Next Blind Spot](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
