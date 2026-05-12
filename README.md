@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I can’t even protect my captain’sdream, then whateverambitionI have is nothing but talk! Luffy must be the man who becomes the Pirate King!"*
+> 💬 *"I'm begging you, don't make me a killer!"*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
