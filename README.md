@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm begging you, don't make me a killer!"*
+> 💬 *"That’s right. Worried about being discovered, living in fear. It’s a painful thing."*
 >
-> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
+> 🎭 **Ai Haibara** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
