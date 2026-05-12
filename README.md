@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[After Hatori asks what snow becomes when it melts]Ah...um, well...hmm. It becomes spring! No matter how cold it is now, spring will come again! Without fail. It's strange isn't it? But it's true."*
+> 💬 *"If you don't know what state you wounds are in, of where you're hurting if you don't know that for yourself, there's no point in trying to share it with others, is there?"*
 >
-> 🎭 **Honda Tohru** — *Fruits Basket*
+> 🎭 **Hisomu Yoshiharu** — *Kiznaiver*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
