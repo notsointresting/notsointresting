@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html) 
-- [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html) 
-- [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html) 
-- [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html) 
+<!-- CYBER_NEWS:START -->- [Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html) 
+- [OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html) 
+- [iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html) 
+- [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
