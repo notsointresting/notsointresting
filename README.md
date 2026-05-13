@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you turn your eyes away from sad things, they'll happen again one day. If you keep running away, you'll keep repeating the same mistakes. That's why you have to face the truth straight on."*
+> 💬 *"Yeah I lied; so what is the truth? Underneath the band-aid?"*
 >
-> 🎭 **Riki Naoe** — *Little Busters!*
+> 🎭 **Haruko Haruhara** — *FLCL*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
