@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft](https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/) 
+<!-- AI_NEWS:START -->- [AI chatbots are giving out people’s real phone numbers](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/) 
+- [The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft](https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/) 
 - [A plan to make drugs in orbit is going commercial](https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/) 
 - [World Models: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/) 
-- [The Download: a Nobel winner on AI, and the case for fixing everything](https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/) 
 <!-- AI_NEWS:END -->
 
 </td>
