@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When I'm away from you, even though I can't be around crowds, I want to go see you."*
+> 💬 *"If you turn your eyes away from sad things, they'll happen again one day. If you keep running away, you'll keep repeating the same mistakes. That's why you have to face the truth straight on."*
 >
-> 🎭 **Gin** — *Into the Forest of Fireflies' Light*
+> 🎭 **Riki Naoe** — *Little Busters!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
