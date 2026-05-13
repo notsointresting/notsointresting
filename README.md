@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Yeah I lied; so what is the truth? Underneath the band-aid?"*
+> 💬 *"Death is simply another stage of our life."*
 >
-> 🎭 **Haruko Haruhara** — *FLCL*
+> 🎭 **Grand Elder Guru** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
