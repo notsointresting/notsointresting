@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You get free hatred for everything you sell. I've amassed a real supply of it, so I'd like to sell it too... But no one wants to buy it from me!"*
+> 💬 *"When I'm away from you, even though I can't be around crowds, I want to go see you."*
 >
-> 🎭 **Koko Hekmatyar** — *Jormungand*
+> 🎭 **Gin** — *Into the Forest of Fireflies' Light*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
