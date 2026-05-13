@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Admiration is the furthest thing from understanding."*
+> 💬 *"You get free hatred for everything you sell. I've amassed a real supply of it, so I'd like to sell it too... But no one wants to buy it from me!"*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Koko Hekmatyar** — *Jormungand*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
