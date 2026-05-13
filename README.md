@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Death is simply another stage of our life."*
+> 💬 *"You’re only resorting to physical abuse because you can’t prove that I’m wrong."*
 >
-> 🎭 **Grand Elder Guru** — *Dragon Ball*
+> 🎭 **Armin Arlert** — *Attack on Titan*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
