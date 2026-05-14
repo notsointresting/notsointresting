@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Only a foolish human would attempt to rationalize emotion."*
+> 💬 *"Senpai, take me to the art museum again. Next time, I'll carefully listen to what you say. Please feed me worms!"*
 >
-> 🎭 **Makina** — *Brynhildr in the Darkness*
+> 🎭 **Noda Megumi** — *Nodame Cantabile*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
