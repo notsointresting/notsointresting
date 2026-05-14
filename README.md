@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Um well Miss Maka? Can you do me a favor and help me out with your father? I can't get him off my leg."*
+> 💬 *"I Love Me Some Bad Guys!"*
 >
-> 🎭 **Medusa Gorgon** — *Soul Eater*
+> 🎭 **Denji** — *Chainsaw Man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
