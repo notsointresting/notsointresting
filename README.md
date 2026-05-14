@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I got no intentions of becoming a captain. Becoming a captain would mean that I can't fight under Captain Zaraki. If your wish is to surpass Kuchiki Byakuya... then I just have one wish: to fight and die under that man's command. That's all."*
+> 💬 *"The same thing as always. No matter how many times I reach game over and no matter how many times I must pathetically hit continue, I will not stop moving forward."*
 >
-> 🎭 **Madarame Ikkaku** — *Bleach*
+> 🎭 **Kamijou Touma** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
