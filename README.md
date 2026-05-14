@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You’re only resorting to physical abuse because you can’t prove that I’m wrong."*
+> 💬 *"Um well Miss Maka? Can you do me a favor and help me out with your father? I can't get him off my leg."*
 >
-> 🎭 **Armin Arlert** — *Attack on Titan*
+> 🎭 **Medusa Gorgon** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
