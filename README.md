@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Senpai, take me to the art museum again. Next time, I'll carefully listen to what you say. Please feed me worms!"*
+> 💬 *"Kira is childish and he hates losing... I'm also childish and hate to lose. That's how I know."*
 >
-> 🎭 **Noda Megumi** — *Nodame Cantabile*
+> 🎭 **L Lawliet** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
