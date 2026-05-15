@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Because I wished for everyone to live, I did everything I could."*
+> 💬 *"There's no way someone who can't even protect himself can protect anyone else, is there?"*
 >
-> 🎭 **Sakura Kinomoto** — *Tsubasa RESERVoir CHRoNiCLE*
+> 🎭 **Touka Kirishima** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
