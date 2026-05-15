@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kira is childish and he hates losing... I'm also childish and hate to lose. That's how I know."*
+> 💬 *"Because I wished for everyone to live, I did everything I could."*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Sakura Kinomoto** — *Tsubasa RESERVoir CHRoNiCLE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
