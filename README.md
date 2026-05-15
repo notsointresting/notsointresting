@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It is fine to assume that the Master's role is to support the battle from the back. But there are always exceptions. There are Masters who can only fight head on."*
+> 💬 *"If you have love in your life, you must keep living."*
 >
-> 🎭 **Souichirou Kuzuki** — *Fate/stay night*
+> 🎭 **Juvia Loxar** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
