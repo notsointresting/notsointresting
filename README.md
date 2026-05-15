@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Your honor isn’t worth your life."*
+> 💬 *"It is fine to assume that the Master's role is to support the battle from the back. But there are always exceptions. There are Masters who can only fight head on."*
 >
-> 🎭 **Shanks** — *One Piece*
+> 🎭 **Souichirou Kuzuki** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
