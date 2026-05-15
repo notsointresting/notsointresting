@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's no way someone who can't even protect himself can protect anyone else, is there?"*
+> 💬 *"Your honor isn’t worth your life."*
 >
-> 🎭 **Touka Kirishima** — *Tokyo Ghoul*
+> 🎭 **Shanks** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
