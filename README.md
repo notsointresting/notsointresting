@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back."*
+> 💬 *"In the end the shape and form don't matter at all, it's only the soul that matters right? Nothing else."*
 >
-> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
+> 🎭 **Soul Evans** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
