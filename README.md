@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In the end the shape and form don't matter at all, it's only the soul that matters right? Nothing else."*
+> 💬 *"Living things are restrained by Chains: The laws of nature, the flow of time, the vessel known as your “body”, and the existence called your mind. There's only one chain that people can wield: WORDS."*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
