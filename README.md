@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If we're going to win, we might as well get the best deal out of it in the process."*
+> 💬 *"You don't have to be reasonable when you're in love."*
 >
-> 🎭 **Kyoya Ootori** — *Ouran High School Host Club*
+> 🎭 **Emi Yusa** — *The Devil is a Part-Timer!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
