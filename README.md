@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You don't have to be reasonable when you're in love."*
+> 💬 *"Skipping school for one day might not be a problem, but if you skip for three days in a row, it'd be really hard to convince yourself to go back."*
 >
-> 🎭 **Emi Yusa** — *The Devil is a Part-Timer!*
+> 🎭 **Ushiromiya Ange** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
