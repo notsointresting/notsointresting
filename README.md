@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you have love in your life, you must keep living."*
+> 💬 *"Why don't you understand? Nunnally was blinded! My own sister was crippled! She knew... she knew that there were things in this world that she will never be able to do by herself! So her smile... Nunnally's smile... was her way of expressing gratitude!"*
 >
-> 🎭 **Juvia Loxar** — *Fairy Tail*
+> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
