@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Living things are restrained by Chains: The laws of nature, the flow of time, the vessel known as your “body”, and the existence called your mind. There's only one chain that people can wield: WORDS."*
+> 💬 *"Cutting down a man who's done nothing wrong. Is that what you spent all that time honing those skills for? In my opinion, you're worthless."*
 >
-> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
+> 🎭 **Jin** — *Samurai Champloo*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
