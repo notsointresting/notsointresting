@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Before I am a Servant, I am a knight. I can only serve but one lord."*
+> 💬 *"The frog in the well can't communicate with the ocean creatures, as it knows the depth of the sky. It's because the frog lived inside a cramped and small space, so he knows better than anyone, how precious freedom is."*
 >
-> 🎭 **Lancer** — *Fate/Zero*
+> 🎭 **Akito Wanijima** — *Air Gear*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
