@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Cutting down a man who's done nothing wrong. Is that what you spent all that time honing those skills for? In my opinion, you're worthless."*
+> 💬 *"Don't be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end."*
 >
-> 🎭 **Jin** — *Samurai Champloo*
+> 🎭 **Clare** — *Claymore*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
