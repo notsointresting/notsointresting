@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The frog in the well can't communicate with the ocean creatures, as it knows the depth of the sky. It's because the frog lived inside a cramped and small space, so he knows better than anyone, how precious freedom is."*
+> 💬 *"I can't exactly fight a war with a big smile on my face."*
 >
-> 🎭 **Akito Wanijima** — *Air Gear*
+> 🎭 **Athrun Zala** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
