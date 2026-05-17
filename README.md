@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end."*
+> 💬 *"Before I am a Servant, I am a knight. I can only serve but one lord."*
 >
-> 🎭 **Clare** — *Claymore*
+> 🎭 **Lancer** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
