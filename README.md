@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't exactly fight a war with a big smile on my face."*
+> 💬 *"Because we can’t understand each other, it makes us want to make things clear even more."*
 >
-> 🎭 **Athrun Zala** — *Mobile Suit Gundam SEED*
+> 🎭 **Sawako Kuronuma** — *Kimi ni Todoke: From Me to You*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
