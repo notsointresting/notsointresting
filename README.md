@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I still don't know where to find happiness. But I'll continue to think about whether it's good to be here... whether it was good to have been born. But in the end, it's just realizing the obvious over and over again. Because I am myself."*
+> 💬 *"Thus at long last the fighting between the rival gangs had ended! To sum up, this leads us to number 778 of the 1,000 provisions you must observe. Never mail a letter without the return address or the proper postage. And don't call collect."*
 >
-> 🎭 **Shinji Ikari** — *Neon Genesis Evangelion*
+> 🎭 **Excalibur** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
