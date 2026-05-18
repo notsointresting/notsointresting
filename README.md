@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pirates are evil? The Marines are righteous?… Justice will prevail, you say? But of course, it will! Whoever wins this war becomes justice!"*
+> 💬 *"Hey, "Thou Shalt Not Kill", remember? What kind of church man are you?"*
 >
-> 🎭 **Donquixote Doflamingo** — *One Piece*
+> 🎭 **Vash the Stampede** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
