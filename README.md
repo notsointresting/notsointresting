@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hey, "Thou Shalt Not Kill", remember? What kind of church man are you?"*
+> 💬 *"When people have different opinions, you should apply the majority vote."*
 >
-> 🎭 **Vash the Stampede** — *Trigun*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
