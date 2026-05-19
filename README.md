@@ -189,7 +189,7 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/) 
+<!-- AI_NEWS:START -->- [Here’s why Elon Musk lost his suit against OpenAI](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/) 
 - [What to expect from Google this week](https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/) 
 - [The Signals That Matter – MIT Insider’s Panel](https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/) 
 - [Inside Anduril and Meta’s quest to make smart glasses for warfare](https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/) 
