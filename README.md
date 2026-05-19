@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We teachers have to be role models for you students. If we can’t face you all head on, what can we teach you!"*
+> 💬 *"I'm too naive. With thoughts like "If I saved someone maybe I can start all over again.""*
 >
-> 🎭 **Nishimura Souichi** — *Baka & Test - Summon the Beasts*
+> 🎭 **Accelerator** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
