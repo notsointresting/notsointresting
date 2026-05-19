@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html) 
-- [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html) 
-- [How to Reduce Phishing Exposure Before It Turns into Business Disruption](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html) 
-- [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html) 
+<!-- CYBER_NEWS:START -->- [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html) 
+- [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html) 
+- [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html) 
+- [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
