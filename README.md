@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm too naive. With thoughts like "If I saved someone maybe I can start all over again.""*
+> 💬 *"Those bound by superficial rules who do not use their pawns to the utmost are fools."*
 >
-> 🎭 **Accelerator** — *A Certain Magical Index*
+> 🎭 **Ciel Phantomhive** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
