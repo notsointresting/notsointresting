@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those bound by superficial rules who do not use their pawns to the utmost are fools."*
+> 💬 *"Unlike in manga and anime, in real life, no heroes can save you when you're down."*
 >
-> 🎭 **Ciel Phantomhive** — *Black Butler*
+> 🎭 **Minako Kanou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
