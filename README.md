@@ -189,7 +189,7 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Boston Metal gets a $75 million lifeline to produce critical metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) 
+<!-- AI_NEWS:START -->- [Green steel startup Boston Metal is doubling down on critical metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) 
 - [The Download: fully artificial chicken eggs and why Musk lost](https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/) 
 - [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) 
 - [Understanding the modern cybercrime landscape](https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/) 
