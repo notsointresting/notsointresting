@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Stealing someone's name is never all right. It means you're unwilling to recognize them as human."*
+> 💬 *"I don't have have much time. It's not that I'm busy, but I'm only willing to give you about two and a half more minutes of my life!"*
 >
-> 🎭 **Shiroe** — *Log Horizon*
+> 🎭 **Shizuo Heiwajima** — *Durarara!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
