@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't have have much time. It's not that I'm busy, but I'm only willing to give you about two and a half more minutes of my life!"*
+> 💬 *"Revenge never does anyone any good. Killing the person you hate will never ease the pain. Always look forward! Follow the path of light!"*
 >
-> 🎭 **Shizuo Heiwajima** — *Durarara!!*
+> 🎭 **Mikage** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
