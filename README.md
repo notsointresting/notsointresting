@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html) 
+<!-- CYBER_NEWS:START -->- [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html) 
+- [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html) 
+- [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html) 
 - [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html) 
-- [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html) 
-- [Typosquatting Is No Longer a User Problem. It&#39;s a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
