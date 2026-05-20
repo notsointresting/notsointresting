@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Understanding the modern cybercrime landscape](https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/) 
+<!-- AI_NEWS:START -->- [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) 
+- [Understanding the modern cybercrime landscape](https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/) 
 - [The Download: Musk v. Altman, smart glasses for warfare, and Google I/O](https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/) 
 - [Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell](https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/) 
-- [Here’s why Elon Musk lost his suit against OpenAI](https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/) 
 <!-- AI_NEWS:END -->
 
 </td>
