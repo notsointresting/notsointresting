@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Number 58 of the 1,000 provisions I would like you to observe, never talk to me while I'm humming to myself. This is an important provision do you understand?"*
+> 💬 *"I was too bent on fulfilling my objectives… I failed to see things from a larger perspective. I failed to build up a good relationship with them."*
 >
-> 🎭 **Excalibur** — *Soul Eater*
+> 🎭 **Yoshioka Futaba** — *Blue Spring Ride*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
