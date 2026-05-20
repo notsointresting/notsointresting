@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Revenge never does anyone any good. Killing the person you hate will never ease the pain. Always look forward! Follow the path of light!"*
+> 💬 *"Number 58 of the 1,000 provisions I would like you to observe, never talk to me while I'm humming to myself. This is an important provision do you understand?"*
 >
-> 🎭 **Mikage** — *07-Ghost*
+> 🎭 **Excalibur** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
