@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Unlike in manga and anime, in real life, no heroes can save you when you're down."*
+> 💬 *"Stealing someone's name is never all right. It means you're unwilling to recognize them as human."*
 >
-> 🎭 **Minako Kanou** — *Ultimate Otaku Teacher*
+> 🎭 **Shiroe** — *Log Horizon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
