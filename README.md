@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I suddenly showed up, would I bother him? Surprise him? There’s no way we could meet. But what if we did? What should I do? Would I annoy him? Would it be awkward? Or maybe… He’d be a bit glad to see me?"*
+> 💬 *"Care about me!!!"*
 >
-> 🎭 **Mitsuha Miyamizu** — *Your Name.*
+> 🎭 **Yui** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
