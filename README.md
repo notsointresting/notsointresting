@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Tech researchers are suing the Trump administration over the future of online safety](https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/) 
-- [Green steel startup Boston Metal is doubling down on critical metals](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/) 
-- [The Download: fully artificial chicken eggs and why Musk lost](https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/) 
-- [Roundtables: Inside the Musk v. Altman Trial](https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/) 
+<!-- AI_NEWS:START -->- [Anthropic’s Code with Claude showed off coding’s future—whether you like it or not](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/) 
+- [The Download: online safety’s future and climate tech’s big pivot](https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/) 
+- [Climate tech companies are pivoting to critical minerals](https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/) 
+- [Tech researchers are suing the Trump administration over the future of online safety](https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/) 
 <!-- AI_NEWS:END -->
 
 </td>
