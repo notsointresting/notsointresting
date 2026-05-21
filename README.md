@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The law doesn't protect people. People protect the law. People have always detested evil and sought out a righteous way of living. Their feelings, the accumulation of those peoples feelings are the law. They're neither the provisions, nor the system. They're the fragile and irreplaceable feelings that everyone carries in their hearts."*
+> 💬 *"I’ll promise you one thing: you two will never be in danger again."*
 >
-> 🎭 **Akane Tsunemori** — *Psycho-Pass*
+> 🎭 **Tsukasa Shishio** — *Dr. Stone*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
