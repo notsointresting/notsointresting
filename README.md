@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I’ll promise you one thing: you two will never be in danger again."*
+> 💬 *"Maybe there’s only a dark road up ahead. But you still have to believe and keep going. Believe that the stars will light your path, even a little bit."*
 >
-> 🎭 **Tsukasa Shishio** — *Dr. Stone*
+> 🎭 **Kaori Miyazono** — *Your Lie in April*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
