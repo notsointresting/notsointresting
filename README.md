@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) 
-- [Scaling creativity in the age of AI](https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/) 
-- [Anthropic’s Code with Claude showed off coding’s future—whether you like it or not](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/) 
-- [The Download: online safety’s future and climate tech’s big pivot](https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/) 
+<!-- AI_NEWS:START -->- [The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science](https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/) 
+- [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) 
+- [The Enhanced Games fit right in with the rest of 2026’s longevity vibes](https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/) 
+- [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) 
 <!-- AI_NEWS:END -->
 
 </td>
