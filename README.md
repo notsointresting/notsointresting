@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't hate the darkness. It was IN the darkness that I was raised."*
+> 💬 *"It’s not bad to dream. But you also have to consider what’s realistic."*
 >
-> 🎭 **Kimimaro** — *Naruto*
+> 🎭 **All Might** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
