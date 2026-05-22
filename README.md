@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It’s not bad to dream. But you also have to consider what’s realistic."*
+> 💬 *"We are NOT asking him where the treasure is hidden!!! We're not even asking him whether there IS any treasure or not!! I'm not sure, but... ...everybody set out to sea, risking their lives to search for it!!! If you ask this old man anything about it here and now... Then I'll quit being a pirate! I don't want to go on a boring adventure like that!"*
 >
-> 🎭 **All Might** — *My Hero Academia*
+> 🎭 **Monkey D. Luffy** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
