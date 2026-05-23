@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am only one man with one heart… Call me a demon, call me a monster… but I can’t be the strongest forever!"*
+> 💬 *"You are right. I have not yet introduced myself. I am Captain of the Seventh Division Komamura Sajin. And though it shames me, I am just as you say -- A meager worm of a man."*
 >
-> 🎭 **Edward Newgate** — *One Piece*
+> 🎭 **Komamura Sajin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
