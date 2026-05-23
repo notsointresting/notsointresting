@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A lot of people are too scared to admit that they're still children. They do everything they can to avoid it. So people who can admit that have a lot of courage."*
+> 💬 *"I am only one man with one heart… Call me a demon, call me a monster… but I can’t be the strongest forever!"*
 >
-> 🎭 **Honda Tohru** — *Fruits Basket*
+> 🎭 **Edward Newgate** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
