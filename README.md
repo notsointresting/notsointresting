@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you cut a thread, and then tie it, the thickness will be different where you originally cut it, right? In that sense, it means irreversible change."*
+> 💬 *"I'll never show you my tears. These are the tears of those who died with regrets. If there's a way to take away these regrets, I'll make sure I'll find it."*
 >
-> 🎭 **Kaminski Natalia** — *Fate/Zero*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
