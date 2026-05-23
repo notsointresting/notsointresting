@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll never show you my tears. These are the tears of those who died with regrets. If there's a way to take away these regrets, I'll make sure I'll find it."*
+> 💬 *"A lot of people are too scared to admit that they're still children. They do everything they can to avoid it. So people who can admit that have a lot of courage."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Honda Tohru** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
