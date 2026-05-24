@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hey! I'm totally an adult! I bitch and whine, lie through my teeth, and do things that are unfair."*
+> 💬 *"Laws aren't perfect, because humans who created laws aren't perfect. It's impossible to be perfect. However, the laws are evidence of the human's struggle to be righteous."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Soichiro Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
