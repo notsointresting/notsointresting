@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Laws aren't perfect, because humans who created laws aren't perfect. It's impossible to be perfect. However, the laws are evidence of the human's struggle to be righteous."*
+> 💬 *"It's okay, cool guys see naked women all the time, I'm totally used to it."*
 >
-> 🎭 **Soichiro Yagami** — *Death Note*
+> 🎭 **Soul Evans** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
