@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's okay, cool guys see naked women all the time, I'm totally used to it."*
+> 💬 *"You know the first rule in combat? [Empties sub-machine gun through closed door] ... shoot them before they shoot you."*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Faye Valentine** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
