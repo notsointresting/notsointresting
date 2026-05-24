@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You know the first rule in combat? [Empties sub-machine gun through closed door] ... shoot them before they shoot you."*
+> 💬 *"[To Orihime] I've repaid my debt to you. Now, you're gonna accompany me on a little errand."*
 >
-> 🎭 **Faye Valentine** — *Cowboy Bebop*
+> 🎭 **Grimmjow Jeagerjaques** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
