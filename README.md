@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The luminous blue stripes that ring our bodies are the ties that bind friends together in the world of flame and smoke. Never break them."*
+> 💬 *"The weak are destined to lie beneath the boots of the strong. If that angers you, overcome your deficits."*
 >
-> 🎭 **Akitaru Obi** — *Fire Force*
+> 🎭 **Esdeath** — *Akame ga Kill!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
