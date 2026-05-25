@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I think, if you want to improve yourself, you should challenge your own limits."*
+> 💬 *"If you can fool your friends, you can fool your enemies."*
 >
-> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Xelloss Metallium** — *Slayers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
