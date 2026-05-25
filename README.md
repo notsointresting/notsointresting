@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you can fool your friends, you can fool your enemies."*
+> 💬 *"Celebrating Mr. Jesus's birthday (Christmas) was fun, why don't we celebrate Buddha's and Muhammad's birthday next time?"*
 >
-> 🎭 **Xelloss Metallium** — *Slayers*
+> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
