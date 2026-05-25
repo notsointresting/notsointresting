@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Orihime] I've repaid my debt to you. Now, you're gonna accompany me on a little errand."*
+> 💬 *"I think, if you want to improve yourself, you should challenge your own limits."*
 >
-> 🎭 **Grimmjow Jeagerjaques** — *Bleach*
+> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
