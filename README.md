@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Celebrating Mr. Jesus's birthday (Christmas) was fun, why don't we celebrate Buddha's and Muhammad's birthday next time?"*
+> 💬 *"The luminous blue stripes that ring our bodies are the ties that bind friends together in the world of flame and smoke. Never break them."*
 >
-> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Akitaru Obi** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
