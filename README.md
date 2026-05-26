@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: puncturing the AI jobs panic](https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/) 
+<!-- AI_NEWS:START -->- [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) 
+- [The Download: puncturing the AI jobs panic](https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/) 
 - [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) 
 - [It’s time to address the looming crisis in entry-level work.](https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/) 
-- [The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science](https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/) 
 <!-- AI_NEWS:END -->
 
 </td>
