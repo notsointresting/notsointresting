@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not a sense of justice. Figuring out difficult cases is my hobby. If you measured good and evil deeds by current laws, I would be responsible for many crimes. The same way you all like to solve mysteries and riddles, or clear video games more quickly. For me too, it's simply prolonging something I enjoy doing. That's why I only take on cases that pique my interest. It's not justice at all. And if it means being able to clear a case, I don't play fair, I'm a dishonest, cheating human being who hates losing."*
+> 💬 *"You're horrible! Commenting on my appearance like that! I don't have to listen to this from you! It's sexual harassment!"*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Medusa Gorgon** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
