@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science](https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/) 
+<!-- AI_NEWS:START -->- [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) 
+- [It’s time to address the looming crisis in entry-level work.](https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/) 
+- [The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science](https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/) 
 - [Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/) 
-- [The Enhanced Games fit right in with the rest of 2026’s longevity vibes](https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/) 
-- [Roundtables: Can AI Learn to Understand the World?](https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/) 
 <!-- AI_NEWS:END -->
 
 </td>
