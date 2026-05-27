@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t care who you are! I will surpass you!"*
+> 💬 *"As a sister, and our lovable Iris, violence does not become you."*
 >
-> 🎭 **Monkey D. Luffy** — *One Piece*
+> 🎭 **Maki Oze** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
