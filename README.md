@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"As a sister, and our lovable Iris, violence does not become you."*
+> 💬 *"I'm so happy I think I might die."*
 >
-> 🎭 **Maki Oze** — *Fire Force*
+> 🎭 **Misaki Takahashi** — *Junjo Romantica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
