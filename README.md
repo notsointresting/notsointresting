@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's more cruel to give someone false hope, you know."*
+> 💬 *"I don’t care who you are! I will surpass you!"*
 >
-> 🎭 **Michiru Kinushima** — *Plastic Memories*
+> 🎭 **Monkey D. Luffy** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
