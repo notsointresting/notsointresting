@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't want to lie anymore. The words "I believe in you" is a curse. No, it's a spell. If the one who hears it feels cursed, they are."*
+> 💬 *"It's more cruel to give someone false hope, you know."*
 >
-> 🎭 **Watanuki Sakuya** — *SERVAMP*
+> 🎭 **Michiru Kinushima** — *Plastic Memories*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
