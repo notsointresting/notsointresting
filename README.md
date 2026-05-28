@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/) 
+<!-- AI_NEWS:START -->- [How a new extraction process could unlock the world’s lithium](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/) 
+- [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/) 
 - [Climate tech companies are going public. What’s next?](https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/) 
 - [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) 
-- [The Download: keeping up with AI, and the future of IVF](https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/) 
 <!-- AI_NEWS:END -->
 
 </td>
