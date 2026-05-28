@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: keeping up with AI, and the future of IVF](https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/) 
-- [Rethinking organizational design in the age of agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) 
-- [The Download: puncturing the AI jobs panic](https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/) 
-- [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/) 
+<!-- AI_NEWS:START -->- [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/) 
+- [Climate tech companies are going public. What’s next?](https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/) 
+- [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) 
+- [The Download: keeping up with AI, and the future of IVF](https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/) 
 <!-- AI_NEWS:END -->
 
 </td>
