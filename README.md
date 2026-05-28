@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html) 
+<!-- CYBER_NEWS:START -->- [JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware](https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html) 
+- [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html) 
 - [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html) 
 - [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html) 
-- [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
