@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you smile once when you’re feeling down, you begin to feel better and become more cheerful."*
+> 💬 *"The world is full of choices unseen. With the willingness to notice, anyone can choose a world of their very own, from an infinity of choices."*
 >
-> 🎭 **Rito Yuuki** — *To Love Ru*
+> 🎭 **Shinku** — *Rozen Maiden*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
