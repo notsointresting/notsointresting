@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Drop ink on the finest snow-white paper and it will inevitably absorb into black. Its purity demands it. Tainted men have immunities. Black does not absorb black."*
+> 💬 *"If you smile once when you’re feeling down, you begin to feel better and become more cheerful."*
 >
-> 🎭 **Shinobu Sensui** — *Yu Yu Hakusho*
+> 🎭 **Rito Yuuki** — *To Love Ru*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
