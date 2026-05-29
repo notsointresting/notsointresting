@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't go believing everyone with glasses is smart!"*
+> 💬 *"There's no reason a fake can't do what the real thing would. And it's possible for a fake to be more real than the real thing."*
 >
-> 🎭 **Hyuuga Junpei** — *Kuroko's Basketball - duplicate*
+> 🎭 **Shinobu Oshino** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
