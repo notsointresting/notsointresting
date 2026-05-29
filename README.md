@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [How a new extraction process could unlock the world’s lithium](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/) 
-- [The Download: climate tech goes public and the AI Hype Index returns](https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/) 
-- [Climate tech companies are going public. What’s next?](https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/) 
-- [The AI Hype Index: AI gets booed in graduation season](https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/) 
+<!-- AI_NEWS:START -->- [The Download: unlocking lithium and controlling Ebola](https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/) 
+- [The deadly Ebola outbreak is proving difficult to control](https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/) 
+- [How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment](https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/) 
+- [How a new extraction process could unlock the world’s lithium](https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/) 
 <!-- AI_NEWS:END -->
 
 </td>
