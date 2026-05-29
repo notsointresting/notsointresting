@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I die here, then I’m a man that could only make it this far."*
+> 💬 *"Whether you win or lose... You can always come out ahead by learning from the experience."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **All Might** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
