@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whether you win or lose... You can always come out ahead by learning from the experience."*
+> 💬 *"Sunday, May 14th at 14:15:30--the moment I got Senjōgahara's phone number."*
 >
-> 🎭 **All Might** — *My Hero Academia*
+> 🎭 **Koyomi Araragi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
