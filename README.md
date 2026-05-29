@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You destroyed those Menos Grandes. That's enough for me! I have decided to fight by your side! I won't accept no as an answer, masked ones!"*
+> 💬 *"Don't go believing everyone with glasses is smart!"*
 >
-> 🎭 **Komamura Sajin** — *Bleach*
+> 🎭 **Hyuuga Junpei** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
