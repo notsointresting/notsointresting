@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's no reason a fake can't do what the real thing would. And it's possible for a fake to be more real than the real thing."*
+> 💬 *"If I die here, then I’m a man that could only make it this far."*
 >
-> 🎭 **Shinobu Oshino** — *Bakemonogatari*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
