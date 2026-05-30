@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm watching a dream I'll never wake up from."*
+> 💬 *"Keep the past, for all intents and purposes, where it is."*
 >
-> 🎭 **Spike Spiegel** — *Cowboy Bebop*
+> 🎭 **Okabe Rintarou** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
