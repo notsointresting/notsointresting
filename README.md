@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nothing can remain the same forever, because if you don't change you can't improve... Facing this inescapable ''reality'' if you don't grow... You'll be crushed... For everyone to ascend and accomplish their dreams. They must grow."*
+> 💬 *"Let me tell you something... Real sin is something you can never atone for."*
 >
-> 🎭 **Itsuki Minami** — *Air Gear*
+> 🎭 **Ban** — *The Seven Deadly Sins*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
