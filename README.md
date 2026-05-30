@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Let me tell you something... Real sin is something you can never atone for."*
+> 💬 *"It's like that myth about the hero... He made wings out of wax so he could fly... but when he got too close to the sun... to God... the wax melted and he crashed to the ground..."*
 >
-> 🎭 **Ban** — *The Seven Deadly Sins*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
