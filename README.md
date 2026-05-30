@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If people want to, they can become angels or demons themselves."*
+> 💬 *"Nothing can remain the same forever, because if you don't change you can't improve... Facing this inescapable ''reality'' if you don't grow... You'll be crushed... For everyone to ascend and accomplish their dreams. They must grow."*
 >
-> 🎭 **Rika Suzuki** — *The Devil is a Part-Timer!*
+> 🎭 **Itsuki Minami** — *Air Gear*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
