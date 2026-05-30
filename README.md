@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sunday, May 14th at 14:15:30--the moment I got Senjōgahara's phone number."*
+> 💬 *"If people want to, they can become angels or demons themselves."*
 >
-> 🎭 **Koyomi Araragi** — *Bakemonogatari*
+> 🎭 **Rika Suzuki** — *The Devil is a Part-Timer!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
