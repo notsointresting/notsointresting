@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if we don't understand each other, that's not a reason to reject each other. There are two sides to any argument. Is there one point of view that has all the anwers? Give it some thought."*
+> 💬 *"I think that "truth" is something that is covered up most of the time."*
 >
-> 🎭 **Alder** — *Pokémon*
+> 🎭 **Lloyd Asplund** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
