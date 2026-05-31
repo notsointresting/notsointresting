@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I think that "truth" is something that is covered up most of the time."*
+> 💬 *"[To Tamaki] Sleep first, then dream."*
 >
-> 🎭 **Lloyd Asplund** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Kyoya Ootori** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
