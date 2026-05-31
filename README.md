@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Such a shame. I overestimated you. As a vampire, you were just a pathetic piece of shit. And now you're nothing but dog shit!"*
+> 💬 *"Even if we don't understand each other, that's not a reason to reject each other. There are two sides to any argument. Is there one point of view that has all the anwers? Give it some thought."*
 >
-> 🎭 **Alucard** — *Hellsing*
+> 🎭 **Alder** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
