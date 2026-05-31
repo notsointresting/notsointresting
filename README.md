@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Keep the past, for all intents and purposes, where it is."*
+> 💬 *"It's because I loved her the most that I wanted to kill her as swiftly as possible."*
 >
-> 🎭 **Okabe Rintarou** — *Steins;Gate*
+> 🎭 **Akame** — *Akame ga Kill!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
