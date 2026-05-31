@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's because I loved her the most that I wanted to kill her as swiftly as possible."*
+> 💬 *"Such a shame. I overestimated you. As a vampire, you were just a pathetic piece of shit. And now you're nothing but dog shit!"*
 >
-> 🎭 **Akame** — *Akame ga Kill!*
+> 🎭 **Alucard** — *Hellsing*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
