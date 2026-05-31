@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [PAN-OS GlobalProtect Authentication Bypass &lpar;CVE-2026-0257&rpar; Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html) 
+<!-- CYBER_NEWS:START -->- [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html) 
+- [PAN-OS GlobalProtect Authentication Bypass &lpar;CVE-2026-0257&rpar; Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html) 
 - [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html) 
 - [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html) 
-- [New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
