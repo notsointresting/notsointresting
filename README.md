@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even I... know what it's like to be jealous."*
+> 💬 *"All we can do is live while losing things."*
 >
-> 🎭 **Sohma Shigure** — *Fruits Basket*
+> 🎭 **Renji Yomo** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
