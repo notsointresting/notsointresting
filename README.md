@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I envy you. You've been betrayed and hurt, yet you can still forgive each other. I envy you for having such a great friend."*
+> 💬 *"If I want your opinion I WILL GIVE IT TO YOU!!!"*
 >
-> 🎭 **Kuroyukihime** — *Accel World*
+> 🎭 **Kasumi** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
