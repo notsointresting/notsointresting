@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"All we can do is live while losing things."*
+> 💬 *"I envy you. You've been betrayed and hurt, yet you can still forgive each other. I envy you for having such a great friend."*
 >
-> 🎭 **Renji Yomo** — *Tokyo Ghoul*
+> 🎭 **Kuroyukihime** — *Accel World*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
