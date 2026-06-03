@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html) 
-- [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html) 
-- [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html) 
-- [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html) 
+<!-- CYBER_NEWS:START -->- [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html) 
+- [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy &amp; Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html) 
+- [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html) 
+- [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
