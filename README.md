@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's overpriced, but that's okay, HERE'S YOUR CHANGE!"*
+> 💬 *"Nerd violence..."*
 >
-> 🎭 **Touji Suzuhara** — *Neon Genesis Evangelion*
+> 🎭 **Kurama** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
