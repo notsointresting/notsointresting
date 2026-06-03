@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nerd violence..."*
+> 💬 *"I have no desire to kill you. In fact, you're not worth killing. Killing you, would only tarnish my blade."*
 >
-> 🎭 **Kurama** — *Yu Yu Hakusho*
+> 🎭 **Jin** — *Samurai Champloo*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
