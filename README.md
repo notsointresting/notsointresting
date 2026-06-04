@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"They have no faces, no mouths... Their slimy bodies are completely hairless! They are... the skinned chickens!... Or you could just say they're chickens."*
+> 💬 *"Reaching out to someone is simple. All you need is the resolve to say, "I'm your ally no matter what." "I believe in you." That's all the resolve you need. It's okay to make mistakes. I grew up by making mistakes. Don't have any regrets. Your justice may be completely different from someone else's. You are completely different people after all. But you still live on together. People always look for ways to do just that."*
 >
-> 🎭 **Watashi** — *Humanity Has Declined*
+> 🎭 **Shirota Tooru** — *SERVAMP*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
