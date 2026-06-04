@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't tell me what to do, you seaweed head."*
+> 💬 *"I felt like I was watching a dream I'd never wake up from. Before I knew it, the dream was all over."*
 >
-> 🎭 **Alice** — *Pandora Hearts*
+> 🎭 **Spike Spiegel** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
