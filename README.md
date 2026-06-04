@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I felt like I was watching a dream I'd never wake up from. Before I knew it, the dream was all over."*
+> 💬 *"I'm always just waiting. Waiting for someone to reach out to me. But at the same time, I'm really self-conscious and a coward."*
 >
-> 🎭 **Spike Spiegel** — *Cowboy Bebop*
+> 🎭 **Chizuru Ooshima** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
