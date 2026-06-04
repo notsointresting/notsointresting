@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [How virtual power plants could provide energy for data centers](https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/) 
+<!-- AI_NEWS:START -->- [The Download: AI-generated lawsuits and virtual power plants for data centers](https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/) 
+- [How courts are coping with a flood of AI-generated lawsuits](https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/) 
+- [How virtual power plants could provide energy for data centers](https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/) 
 - [The Download: Trump’s new AI order, and smart glasses for warfare](https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/) 
-- [The Download: AI can run your admin department now](https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/) 
-- [Rehumanizing global health care with agentic AI](https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/) 
 <!-- AI_NEWS:END -->
 
 </td>
