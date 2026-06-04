@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm always just waiting. Waiting for someone to reach out to me. But at the same time, I'm really self-conscious and a coward."*
+> 💬 *"They have no faces, no mouths... Their slimy bodies are completely hairless! They are... the skinned chickens!... Or you could just say they're chickens."*
 >
-> 🎭 **Chizuru Ooshima** — *My Little Monster*
+> 🎭 **Watashi** — *Humanity Has Declined*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
