@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Then stand up right away! And don’t act like you’re about to die! It’s not like you!"*
+> 💬 *"The road of life is never without trials and tribulations."*
 >
-> 🎭 **Usopp** — *One Piece*
+> 🎭 **Castor** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
