@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You must believe in yourself, follow your path without fear."*
+> 💬 *"Then stand up right away! And don’t act like you’re about to die! It’s not like you!"*
 >
-> 🎭 **Mamoru Chiba** — *Sailor Moon*
+> 🎭 **Usopp** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
