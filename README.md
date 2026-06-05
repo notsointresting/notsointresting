@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Things like heroes are unnecessary. Can't you save someone if you're standing right there, at that very spot? In front of your eyes are people that don't wish to cry that are crying! In front of your eyes are people that can only clench their teeth while struggling and can't even say the words "please save me"! Is that not enough?"*
+> 💬 *"Every time you and I interact...a bit of "heart" is born between us. Heart isn't something inside you. But whenever you think, whenever you remember someone, that's when heart is born. I mean, if you were the only one alive in the whole world, heart wouldn't exist, now would it?"*
 >
-> 🎭 **Kamijou Touma** — *A Certain Magical Index*
+> 🎭 **Shiba Kaien** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
