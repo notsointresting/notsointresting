@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Life isn't just doing things for yourself. It's possible to live in such a way that other people's happiness, makes you happy too."*
+> 💬 *"The point of life isn't to be perfect. It's to do what you want to do. To be who you want to be."*
 >
-> 🎭 **Asuna Yūki** — *Sword Art Online*
+> 🎭 **Iori Nagase** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
