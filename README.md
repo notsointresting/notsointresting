@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The point of life isn't to be perfect. It's to do what you want to do. To be who you want to be."*
+> 💬 *"What kind of mad scientist worries about not getting enough vegetables?"*
 >
-> 🎭 **Iori Nagase** — *Kokoro Connect*
+> 🎭 **Okabe Rintarou** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
