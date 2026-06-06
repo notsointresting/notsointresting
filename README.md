@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Fighting's fine, but losing looks like it'll hurt... so that'd suck."*
+> 💬 *"I called you an idiot, idiot!"*
 >
-> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
+> 🎭 **Kiba Inuzuka** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
