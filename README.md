@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What kind of mad scientist worries about not getting enough vegetables?"*
+> 💬 *"Fighting's fine, but losing looks like it'll hurt... so that'd suck."*
 >
-> 🎭 **Okabe Rintarou** — *Steins;Gate*
+> 🎭 **Fay D. Flourite** — *Tsubasa RESERVoir CHRoNiCLE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
