@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The only thing waiting for you outside is a world of death."*
+> 💬 *"Our contracts are completely dependent upon you agreeing to them first. I think that, in and of itself, is quite kind of us."*
 >
-> 🎭 **Re-L Mayer** — *Ergo Proxy*
+> 🎭 **Kyubee** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
