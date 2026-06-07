@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"My obvious charms and god-like powers always dazzle the simple, ordinary folk."*
+> 💬 *"The only thing waiting for you outside is a world of death."*
 >
-> 🎭 **Dark Schneider** — *Bastard!!*
+> 🎭 **Re-L Mayer** — *Ergo Proxy*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
