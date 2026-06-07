@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Our contracts are completely dependent upon you agreeing to them first. I think that, in and of itself, is quite kind of us."*
+> 💬 *"Hatred will never be erased! The only thing you can do is erase the ones you hate!"*
 >
-> 🎭 **Kyubee** — *Puella Magi Madoka Magica*
+> 🎭 **Hakuryū Ren** — *Magi - The Labyrinth of Magic*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
