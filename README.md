@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I called you an idiot, idiot!"*
+> 💬 *"My obvious charms and god-like powers always dazzle the simple, ordinary folk."*
 >
-> 🎭 **Kiba Inuzuka** — *Naruto*
+> 🎭 **Dark Schneider** — *Bastard!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
