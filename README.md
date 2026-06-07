@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hatred will never be erased! The only thing you can do is erase the ones you hate!"*
+> 💬 *"If you're going to hide a tree, put it in the forest."*
 >
-> 🎭 **Hakuryū Ren** — *Magi - The Labyrinth of Magic*
+> 🎭 **Frau** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
