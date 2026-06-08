@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Why this year’s World Cup ball may not fly as far](https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/) 
+<!-- AI_NEWS:START -->- [The Download: how the World Cup ball will fly and OpenAI’s “super app”](https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/) 
+- [Why this year’s World Cup ball may not fly as far](https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/) 
 - [The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains](https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/) 
 - [Are AI chatbots making us lose control of our brains?](https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/) 
-- [The Meta hack shows there’s more to AI security than Mythos](https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/) 
 <!-- AI_NEWS:END -->
 
 </td>
