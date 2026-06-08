@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you keep your vision clear you will see the future. What happens in our future is our own responsibility."*
+> 💬 *"People can really change. When they're far away from each other, their hearts will change. It's so cruel that the only thing I can do is wait."*
 >
-> 🎭 **Rem Saverem** — *Trigun*
+> 🎭 **Ran Mouri** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
