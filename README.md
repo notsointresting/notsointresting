@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Maybe the future is bad. But there's a future beyond that, right?"*
+> 💬 *"Mysterious things are everywhere. So bizarre as often as you can hear of them. Without witness, with sight unseen, without a care it is simply a phenomenon. Merely not of concern. In this world, mankind itself has its own fantastic wonders."*
 >
-> 🎭 **Gasai Yuno** — *The Future Diary*
+> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
