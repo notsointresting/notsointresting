@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you're going to hide a tree, put it in the forest."*
+> 💬 *"Maybe the future is bad. But there's a future beyond that, right?"*
 >
-> 🎭 **Frau** — *07-Ghost*
+> 🎭 **Gasai Yuno** — *The Future Diary*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
