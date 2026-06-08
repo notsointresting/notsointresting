@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Mysterious things are everywhere. So bizarre as often as you can hear of them. Without witness, with sight unseen, without a care it is simply a phenomenon. Merely not of concern. In this world, mankind itself has its own fantastic wonders."*
+> 💬 *"If you keep your vision clear you will see the future. What happens in our future is our own responsibility."*
 >
-> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
+> 🎭 **Rem Saverem** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
