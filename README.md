@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We didn’t give up on our dreams! We changed our dreams into your dream! That’s what parents do! That’s what a family does!"*
+> 💬 *"Having happy and beautiful memories won't always bring you salvation. The more beautiful a memory is, the more painful it can become. It can even become terrifying. Both for the one who's leaving... And for the one left behind."*
 >
-> 🎭 **Furukawa Akio** — *Clannad*
+> 🎭 **Isla** — *Plastic Memories*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
