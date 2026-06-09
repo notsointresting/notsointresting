@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People can really change. When they're far away from each other, their hearts will change. It's so cruel that the only thing I can do is wait."*
+> 💬 *"We didn’t give up on our dreams! We changed our dreams into your dream! That’s what parents do! That’s what a family does!"*
 >
-> 🎭 **Ran Mouri** — *Case Closed*
+> 🎭 **Furukawa Akio** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
