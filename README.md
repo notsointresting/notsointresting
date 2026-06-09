@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Your sudden smiles always surprise me. But are dangerous enough to make my heart race."*
+> 💬 *"Of all the nerve, assault me and then ask for a meal, you're getting squat!"*
 >
-> 🎭 **Takumi Usui** — *Maid Sama!*
+> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
