@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Of all the nerve, assault me and then ask for a meal, you're getting squat!"*
+> 💬 *"I said she's not an Angel. She's a human, just like us. Didn't you notice?"*
 >
-> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
+> 🎭 **Yuri Nakamura** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
