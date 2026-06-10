@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Because nothing makes one happier than being with the one you love."*
+> 💬 *"I wish I could go back to my childhood. It went by so quickly I feel like it was robbed from me."*
 >
-> 🎭 **Isla** — *Plastic Memories*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
