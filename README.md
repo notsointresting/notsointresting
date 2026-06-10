@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Did you know? The world is full of hate and there isn't any reason for it?"*
+> 💬 *"Because nothing makes one happier than being with the one you love."*
 >
-> 🎭 **Anemone** — *Eureka Seven*
+> 🎭 **Isla** — *Plastic Memories*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
