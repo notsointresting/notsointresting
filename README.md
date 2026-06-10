@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I said she's not an Angel. She's a human, just like us. Didn't you notice?"*
+> 💬 *"Don’t give up! There’s no shame in falling down! True shame is to not stand up again!"*
 >
-> 🎭 **Yuri Nakamura** — *Angel Beats!*
+> 🎭 **Midorima Shintarou** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
