@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t give up! There’s no shame in falling down! True shame is to not stand up again!"*
+> 💬 *"Did you know? The world is full of hate and there isn't any reason for it?"*
 >
-> 🎭 **Midorima Shintarou** — *Kuroko's Basketball - duplicate*
+> 🎭 **Anemone** — *Eureka Seven*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
