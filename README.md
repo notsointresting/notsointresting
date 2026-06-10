@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html) 
-- [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html) 
-- [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html) 
-- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html) 
+<!-- CYBER_NEWS:START -->- [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html) 
+- [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html) 
+- [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html) 
+- [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
