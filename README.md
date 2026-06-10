@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I wish I could go back to my childhood. It went by so quickly I feel like it was robbed from me."*
+> 💬 *"How much more love do you need for you to accept me?"*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Masamune Takano** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
