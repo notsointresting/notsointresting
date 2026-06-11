@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"How much more love do you need for you to accept me?"*
+> 💬 *"The real evil is the power to kill people. Someone who finds himself with that power is cursed. No matter how you use it, anything obtained by killing people can never bring true happiness."*
 >
-> 🎭 **Masamune Takano** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
+> 🎭 **Soichiro Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
