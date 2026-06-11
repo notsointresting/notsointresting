@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"As long as I don't admit defeat, then it'll never be a loss!"*
+> 💬 *"Trunks, I never hugged you as a baby… let me hug you."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Vegeta** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
