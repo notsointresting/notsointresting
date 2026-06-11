@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the “steroid olympics” and a safer Mythos](https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/) 
-- [The “steroid olympics” were a circus—and a window into our culture](https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/) 
-- [The Download: whole-body rejuvenation drugs and five things to know about AI](https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/) 
-- [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) 
+<!-- AI_NEWS:START -->- [The Download: soccer’s data renaissance and China’s big nuclear plans](https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/) 
+- [Google DeepMind is worried about what happens when millions of agents start to interact](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/) 
+- [Job titles of the future: Nature’s drug designer](https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/) 
+- [Inside soccer’s data renaissance](https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/) 
 <!-- AI_NEWS:END -->
 
 </td>
