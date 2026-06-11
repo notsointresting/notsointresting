@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Trunks, I never hugged you as a baby… let me hug you."*
+> 💬 *"You guys can’t even act without a group. The hell do you want?"*
 >
-> 🎭 **Vegeta** — *Dragon Ball Z*
+> 🎭 **Mikey** — *Tokyo Revengers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
