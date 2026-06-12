@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html) 
+<!-- CYBER_NEWS:START -->- [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html) 
+- [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html) 
+- [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html) 
 - [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html) 
-- [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html) 
-- [ShinyHunters Exploits Oracle PeopleSoft Zero-Day &lpar;CVE-2026-35273&rpar; to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
