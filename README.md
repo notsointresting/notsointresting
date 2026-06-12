@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't give alcohol to minors!"*
+> 💬 *"There is no such thing as luck in this world. Rules, prerequisites, psychological states... There are any number of invisible factors that combine to produce an unpredictable, but inevitable result. The winner of each game is decided before it even begins. Chance is never a factor."*
 >
-> 🎭 **Edward Elric** — *Fullmetal Alchemist*
+> 🎭 **Sora** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
