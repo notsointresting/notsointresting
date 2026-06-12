@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is no such thing as luck in this world. Rules, prerequisites, psychological states... There are any number of invisible factors that combine to produce an unpredictable, but inevitable result. The winner of each game is decided before it even begins. Chance is never a factor."*
+> 💬 *"There are two kinds of girls in this world. Lovely girls who can get along with me. And all the bitches who can't"*
 >
-> 🎭 **Sora** — *No Game, No Life*
+> 🎭 **Sena Kashiwazaki** — *Haganai: I don't have many friends NEXT*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
