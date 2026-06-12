@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html) 
+<!-- CYBER_NEWS:START -->- [ShinyHunters Exploits Oracle PeopleSoft Zero-Day &lpar;CVE-2026-35273&rpar; to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html) 
+- [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html) 
 - [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html) 
 - [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html) 
-- [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
