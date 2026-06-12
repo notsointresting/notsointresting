@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are two kinds of girls in this world. Lovely girls who can get along with me. And all the bitches who can't"*
+> 💬 *"We're going to be moving forward! If we move forward, we'll get stronger, both physically and mentally."*
 >
-> 🎭 **Sena Kashiwazaki** — *Haganai: I don't have many friends NEXT*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist: Brotherhood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
