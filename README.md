@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When the world shoves you around, you just gotta stand up and shove back. It’s not like somebody’s gonna save you if you start babbling excuses."*
+> 💬 *"It’s unbearable to die hating someone."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Detective Conan** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
