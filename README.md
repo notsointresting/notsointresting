@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Was I able to live inside someone’s heart? Was I able to live inside your heart? Do you think you’ll remember me at least a little? You’d better not hit "reset!" Don’t forget me, okay? That’s a promise, okay? I'm glad it’s you, after all. Will I reach you? I hope I can reach you."*
+> 💬 *"We have to live a life of no regrets."*
 >
-> 🎭 **Kaori Miyazono** — *Your Lie in April*
+> 🎭 **Portgas D. Ace** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
