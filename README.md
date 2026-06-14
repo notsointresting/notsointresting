@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if I am to carry all the evils of this world, it won't matter. If that can save the world, then I'd gladly accept it."*
+> 💬 *"If you follow the rules, there's no way you can outdo them."*
 >
-> 🎭 **Emiya Kiritsugu** — *Fate/Zero*
+> 🎭 **Motoharu Tsuchimikado** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
