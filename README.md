@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Only underlings get caught up in the matter of style and lose the battle. A captain can't afford such indulgences. Don't try to be a good kid. Whether you own somebody or they own you. The moment you start a fight, you are wrong in either way."*
+> 💬 *"The future belongs to those who believe in the beauty of their dreams."*
 >
-> 🎭 **Shunsui Kyōraku** — *Bleach*
+> 🎭 **Shōyō Hinata** — *Haikyu!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
