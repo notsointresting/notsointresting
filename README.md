@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The future belongs to those who believe in the beauty of their dreams."*
+> 💬 *"Justice is a weapon. It can be used to cause harm, but it cannot protect or save others."*
 >
-> 🎭 **Shōyō Hinata** — *Haikyu!!*
+> 🎭 **Osamu Dazai** — *Bungo Stray Dogs*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
