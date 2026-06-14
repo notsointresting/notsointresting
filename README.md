@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you follow the rules, there's no way you can outdo them."*
+> 💬 *"I think, if you want to improve yourself, you should challenge your own limits."*
 >
-> 🎭 **Motoharu Tsuchimikado** — *A Certain Magical Index*
+> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
