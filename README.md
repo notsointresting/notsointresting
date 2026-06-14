@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Justice is a weapon. It can be used to cause harm, but it cannot protect or save others."*
+> 💬 *"Even if I am to carry all the evils of this world, it won't matter. If that can save the world, then I'd gladly accept it."*
 >
-> 🎭 **Osamu Dazai** — *Bungo Stray Dogs*
+> 🎭 **Emiya Kiritsugu** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
