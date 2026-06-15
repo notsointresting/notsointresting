@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The brain is a microcosm, creating its own stories. People then live out these stories."*
+> 💬 *"(To Ichigo Kurosaki before getting shot point-blank by his Cero) I see. So you show no mercy. Just like a true Hollow. I care not. Defeated by you as I stand, my existence holds no further meaning. Do it."*
 >
-> 🎭 **Seiichi Kirima** — *Boogiepop Phantom*
+> 🎭 **Ulquiorra Schiffer** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
