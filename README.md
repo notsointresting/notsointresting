@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you want to do damage to the other ship you have to ram them in the middle! Now do it again!"*
+> 💬 *"The brain is a microcosm, creating its own stories. People then live out these stories."*
 >
-> 🎭 **Death the Kid** — *Soul Eater*
+> 🎭 **Seiichi Kirima** — *Boogiepop Phantom*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
