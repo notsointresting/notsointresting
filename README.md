@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I think, if you want to improve yourself, you should challenge your own limits."*
+> 💬 *"If you want to do damage to the other ship you have to ram them in the middle! Now do it again!"*
 >
-> 🎭 **Yukino Yukinoshita** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Death the Kid** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
