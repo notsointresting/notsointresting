@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/) 
+<!-- AI_NEWS:START -->- [This man with ALS is “the first power user” of a brain implant that lets him speak](https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/) 
+- [The Download: cutting AC emissions, and nature’s drug designer](https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/) 
+- [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/) 
 - [The Download: “reprogramming” aging, and the hidden sense of interoception](https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/) 
-- [You do your own time](https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/) 
-- [Why “reprogramming” is the buzziest approach to reversing aging right now](https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/) 
 <!-- AI_NEWS:END -->
 
 </td>
