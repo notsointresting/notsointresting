@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) 
+<!-- AI_NEWS:START -->- [Want to get a data center online quickly? Give it some flex.](https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/) 
+- [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/) 
 - [This man with ALS is “the first power user” of a brain implant that lets him speak](https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/) 
 - [The Download: cutting AC emissions, and nature’s drug designer](https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/) 
-- [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/) 
 <!-- AI_NEWS:END -->
 
 </td>
