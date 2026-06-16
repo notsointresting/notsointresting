@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"With your positions revealed, you’re in my crosshairs. And there’s no hiding from the coming storm. As Hawks would say… speed beats power."*
+> 💬 *"*referring to Jun* Look at her! Because she hasn't got any boyfriends around she fawns all over her guardian ghost."*
 >
-> 🎭 **Tokoyami Fumikage** — *My Hero Academia*
+> 🎭 **Tao Len** — *Shaman King*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
