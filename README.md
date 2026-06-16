@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"And I thought you were going to buy a stone to evolve yourself."*
+> 💬 *"With your positions revealed, you’re in my crosshairs. And there’s no hiding from the coming storm. As Hawks would say… speed beats power."*
 >
-> 🎭 **Ash Ketchum** — *Pokémon*
+> 🎭 **Tokoyami Fumikage** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
