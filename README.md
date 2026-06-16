@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*referring to Jun* Look at her! Because she hasn't got any boyfriends around she fawns all over her guardian ghost."*
+> 💬 *"Whatever you say All Might, I’ll step up to this challenge! As long as you’re by my side, I can do anything. That’s how I feel anyway."*
 >
-> 🎭 **Tao Len** — *Shaman King*
+> 🎭 **Izuku Midoriya** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
