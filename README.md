@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Okay, I'll talk! Take the elevator to see my boss!"*
+> 💬 *"Losing something is sad. Even when I lose something as tiny as a worn-out eraser, I feel pretty down for a day or two. That's why I'm looking for him."*
 >
-> 🎭 **Rocket Grunt** — *Pokémon*
+> 🎭 **Komari Kamikita** — *Little Busters!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
