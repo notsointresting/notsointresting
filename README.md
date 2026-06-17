@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Beautiful night, isn't it, Police Girl? It's especially beautiful, of course, if you're a bloodsucker."*
+> 💬 *"The most inflated egos are often the most fragile."*
 >
-> 🎭 **Alucard** — *Hellsing*
+> 🎭 **All Might** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
