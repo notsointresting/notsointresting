@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The most inflated egos are often the most fragile."*
+> 💬 *"Okay, I'll talk! Take the elevator to see my boss!"*
 >
-> 🎭 **All Might** — *My Hero Academia*
+> 🎭 **Rocket Grunt** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
