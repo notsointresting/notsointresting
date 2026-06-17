@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whatever you say All Might, I’ll step up to this challenge! As long as you’re by my side, I can do anything. That’s how I feel anyway."*
+> 💬 *"Beautiful night, isn't it, Police Girl? It's especially beautiful, of course, if you're a bloodsucker."*
 >
-> 🎭 **Izuku Midoriya** — *My Hero Academia*
+> 🎭 **Alucard** — *Hellsing*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
