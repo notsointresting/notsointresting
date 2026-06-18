@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Not bad, for an early prototype."*
+> 💬 *"It’s always the ones with talent who pass… I’m the one who decides if I give up or not."*
 >
-> 🎭 **Piccolo** — *Dragon Ball*
+> 🎭 **Kafka Hibino** — *Kaiju No. 8*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
