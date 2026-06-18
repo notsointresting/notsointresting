@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"But still... Not trying to undo misunderstandings is the same as telling a lie."*
+> 💬 *"Not bad, for an early prototype."*
 >
-> 🎭 **Yotsugi Ononoki** — *Monogatari Series: Second Season*
+> 🎭 **Piccolo** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
