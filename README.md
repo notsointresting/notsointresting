@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It’s always the ones with talent who pass… I’m the one who decides if I give up or not."*
+> 💬 *"There aren't many things you can believe. That's how human beings work. They only care about themselves, and no one else really matters. They get caught up in their own lackadaisical dialogue, lying their way through life."*
 >
-> 🎭 **Kafka Hibino** — *Kaiju No. 8*
+> 🎭 **Death Parade** — *Death Parade*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
