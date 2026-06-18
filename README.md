@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Losing something is sad. Even when I lose something as tiny as a worn-out eraser, I feel pretty down for a day or two. That's why I'm looking for him."*
+> 💬 *"But still... Not trying to undo misunderstandings is the same as telling a lie."*
 >
-> 🎭 **Komari Kamikita** — *Little Busters!*
+> 🎭 **Yotsugi Ononoki** — *Monogatari Series: Second Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
