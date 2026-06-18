@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There aren't many things you can believe. That's how human beings work. They only care about themselves, and no one else really matters. They get caught up in their own lackadaisical dialogue, lying their way through life."*
+> 💬 *"If it is because of what you call a heart, then it is the heart that causes you humans pain. It is because of your heart that you will die."*
 >
-> 🎭 **Death Parade** — *Death Parade*
+> 🎭 **Ulquiorra Schiffer** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
