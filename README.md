@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html) 
-- [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html) 
-- [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html) 
-- [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html) 
+<!-- CYBER_NEWS:START -->- [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html) 
+- [INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html) 
+- [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html) 
+- [DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
