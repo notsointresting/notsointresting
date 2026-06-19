@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I realized that back then, the reason I wanted to become human, was that I really just wanted to have friends. Now, I just want to be a monster that can help Luffy."*
+> 💬 *"I was going to let you go. After all, there aren't many of us out there, but you're just such a pain in the ass."*
 >
-> 🎭 **Tony Tony Chopper** — *One Piece*
+> 🎭 **Lucy** — *Elfen Lied*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
