@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If it is because of what you call a heart, then it is the heart that causes you humans pain. It is because of your heart that you will die."*
+> 💬 *"I wanted to be saved too..."*
 >
-> 🎭 **Ulquiorra Schiffer** — *Bleach*
+> 🎭 **Uryuu Minene** — *The Future Diary*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
