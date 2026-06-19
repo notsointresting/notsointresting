@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you're hiding a secret from the whole world, it puts a weight on your shoulders."*
+> 💬 *"I realized that back then, the reason I wanted to become human, was that I really just wanted to have friends. Now, I just want to be a monster that can help Luffy."*
 >
-> 🎭 **Taichi Yaegashi** — *Kokoro Connect*
+> 🎭 **Tony Tony Chopper** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
