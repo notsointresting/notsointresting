@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: a new hunt for dark matter and Kenya’s case for going solar](https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/) 
+<!-- AI_NEWS:START -->- [The inevitable weakness of metrics](https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/) 
+- [Brain-computer interface trials are taking off](https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/) 
+- [The Download: a new hunt for dark matter and Kenya’s case for going solar](https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/) 
 - [Geoengineering still faces major practical challenges](https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/) 
-- [The search for dark matter has been blown wide open](https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/) 
-- [The Download: a reality check for geoengineering and the science of interoception](https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/) 
 <!-- AI_NEWS:END -->
 
 </td>
