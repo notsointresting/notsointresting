@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I wanted to be saved too..."*
+> 💬 *"When you're hiding a secret from the whole world, it puts a weight on your shoulders."*
 >
-> 🎭 **Uryuu Minene** — *The Future Diary*
+> 🎭 **Taichi Yaegashi** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
