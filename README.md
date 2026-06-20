@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Work together with everyone, motivating one another...even though they may not be your close friends, you can still understand each another. I'm looking forward to bonding with more people."*
+> 💬 *"I know as much of games as I do of hugs and puppies, and care for them even less. Wake me for the end of the world."*
 >
-> 🎭 **Mikan Sakura** — *Gakuen Alice*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
