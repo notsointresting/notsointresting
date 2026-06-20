@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was going to let you go. After all, there aren't many of us out there, but you're just such a pain in the ass."*
+> 💬 *"Work together with everyone, motivating one another...even though they may not be your close friends, you can still understand each another. I'm looking forward to bonding with more people."*
 >
-> 🎭 **Lucy** — *Elfen Lied*
+> 🎭 **Mikan Sakura** — *Gakuen Alice*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
