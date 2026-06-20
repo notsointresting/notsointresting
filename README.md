@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Put one finger on my street hawk and I’ll kill you."*
+> 💬 *"I hate Shinigami."*
 >
-> 🎭 **Mikey** — *Tokyo Revengers*
+> 🎭 **Uryuu Ishida** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
