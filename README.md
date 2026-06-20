@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Unpatchable &#39;usbliter8&#39; Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html) 
+<!-- CYBER_NEWS:START -->- [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html) 
+- [Unpatchable &#39;usbliter8&#39; Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html) 
 - [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html) 
 - [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html) 
-- [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
