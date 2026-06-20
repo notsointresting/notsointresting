@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I know as much of games as I do of hugs and puppies, and care for them even less. Wake me for the end of the world."*
+> 💬 *"Put one finger on my street hawk and I’ll kill you."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Mikey** — *Tokyo Revengers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
