@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If wishes could be granted, if desires could be fulfilled, then I wouldn't wish or desire for anything after all. The things you're handed on a silver platter are never genuine, and never everlasting. And that is why I'll always keep searching."*
+> 💬 *"There are all sorts of mysteries in this world, like snacks and candy and sweets falling from the sky!"*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU TOO!*
+> 🎭 **Komari Kamikita** — *Little Busters!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
