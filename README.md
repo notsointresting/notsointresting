@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Thus at long last the fighting between the rival gangs had ended! To sum up, this leads us to number 778 of the 1,000 provisions you must observe. Never mail a letter without the return address or the proper postage. And don't call collect."*
+> 💬 *"I know that I have no strengths to offer. It irritates me how weak I am. But let me protect them!"*
 >
-> 🎭 **Excalibur** — *Soul Eater*
+> 🎭 **Yona** — *Yona of the Dawn*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
