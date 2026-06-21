@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I know that I have no strengths to offer. It irritates me how weak I am. But let me protect them!"*
+> 💬 *"Whatever happens, happens."*
 >
-> 🎭 **Yona** — *Yona of the Dawn*
+> 🎭 **Spike Spiegel** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
