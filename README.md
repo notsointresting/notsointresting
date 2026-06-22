@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html) 
-- [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html) 
-- [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html) 
-- [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html) 
+<!-- CYBER_NEWS:START -->- [29-Year-Old Squid Proxy Bug &#39;Squidbleed&#39; Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html) 
+- [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html) 
+- [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html) 
+- [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
