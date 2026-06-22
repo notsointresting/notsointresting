@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are all sorts of mysteries in this world, like snacks and candy and sweets falling from the sky!"*
+> 💬 *"I've heard similar threats from a number of poor fools whose memories I keep alive by dancing on their tombstones!"*
 >
-> 🎭 **Komari Kamikita** — *Little Busters!*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
