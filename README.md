@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I've heard similar threats from a number of poor fools whose memories I keep alive by dancing on their tombstones!"*
+> 💬 *""True to herself", "True to myself". We all have our own personal image that's dictated by others, one that's always off the mark. We wish to remain true to ourselves, but who gets to decide who we are as people? When our image never goes hand-in-hand with reality, where can we find something genuine? Where can we find our true selves?"*
 >
-> 🎭 **Inuyasha** — *InuYasha*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU TOO!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
