@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if you think I’m a nuisance, no matter where you go, I’ll find you. I’ll always be listening for your voice. When the rain falls, when the wind blows, when the flowers scatter, when shadow looms. In every sign, I’ll search for your voice."*
+> 💬 *"Pikachu, you're a Pika-pal!"*
 >
-> 🎭 **Tada Banri** — *Golden Time*
+> 🎭 **Kasumi** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
