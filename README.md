@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pikachu, you're a Pika-pal!"*
+> 💬 *"Doesn't seem to matter how far I travel, my destiny is always followed by blood and gunsmoke. The result is always the same every time, mountains of death and debris."*
 >
-> 🎭 **Kasumi** — *Pokémon*
+> 🎭 **Vash the Stampede** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
