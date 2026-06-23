@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kuwabara, come back! You're like an ugly singer with a good voice, best for backup!"*
+> 💬 *"You have yet to see what form your soul has taken. That's what it actually means when you claim that you lack joy in your life."*
 >
-> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
+> 🎭 **Gilgamesh** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
