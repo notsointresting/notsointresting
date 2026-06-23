@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Doesn't seem to matter how far I travel, my destiny is always followed by blood and gunsmoke. The result is always the same every time, mountains of death and debris."*
+> 💬 *"Destiny is a mysterious thing. It lets people reach their intended destinations."*
 >
-> 🎭 **Vash the Stampede** — *Trigun*
+> 🎭 **Iraha Lemercier** — *The World is Still Beautiful*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
