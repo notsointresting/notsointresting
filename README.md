@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You have yet to see what form your soul has taken. That's what it actually means when you claim that you lack joy in your life."*
+> 💬 *"Even if you think I’m a nuisance, no matter where you go, I’ll find you. I’ll always be listening for your voice. When the rain falls, when the wind blows, when the flowers scatter, when shadow looms. In every sign, I’ll search for your voice."*
 >
-> 🎭 **Gilgamesh** — *Fate/Zero*
+> 🎭 **Tada Banri** — *Golden Time*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
