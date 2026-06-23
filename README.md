@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Elephant alert! AI warning systems aim to avoid deadly clashes](https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/) 
+<!-- AI_NEWS:START -->- [The Download: the future of chipmaking and Anthropic’s government clash](https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/) 
+- [Elephant alert! AI warning systems aim to avoid deadly clashes](https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/) 
 - [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) 
 - [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) 
-- [The Download: record-breaking subsea tunnels and flexible data centers](https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/) 
 <!-- AI_NEWS:END -->
 
 </td>
