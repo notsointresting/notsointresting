@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html) 
+<!-- CYBER_NEWS:START -->- [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html) 
+- [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html) 
+- [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html) 
 - [Agentic AI: The Weapon That No Longer Needs a Warrior](https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html) 
-- [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html) 
-- [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
