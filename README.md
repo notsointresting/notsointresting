@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the future of chipmaking and Anthropic’s government clash](https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/) 
-- [Elephant alert! AI warning systems aim to avoid deadly clashes](https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/) 
-- [The $400 million machine powering the future of chipmaking](https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/) 
-- [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/) 
+<!-- AI_NEWS:START -->- [Heads in the game](https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/) 
+- [Super Mario is mathier than you think](https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/) 
+- [A man of many words](https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/) 
+- [Sharing a love for calculus](https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/) 
 <!-- AI_NEWS:END -->
 
 </td>
