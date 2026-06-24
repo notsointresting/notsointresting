@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Leave her out of this... who we let in this house is really none of your concern. You're the one who doesn't belong here. (to Kyo)"*
+> 💬 *"Even though I'm bitter over losing, even though I'm depressed, even though my ankle hurts, and my eyes are smeared with tears...even though I've never felt worse...I wonder why the stars are sparkling like this. The scent of the music room in his hair. I can hear his slightly ragged breathing. His shoulder, wet with tears, is so warm. I am by his side. I wish time would just stand still."*
 >
-> 🎭 **Sohma Yuki** — *Fruits Basket*
+> 🎭 **Tsubaki Sawabe** — *Your Lie in April*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
