@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Destiny is a mysterious thing. It lets people reach their intended destinations."*
+> 💬 *"Sorry, Aizen-sama. I got caught."*
 >
-> 🎭 **Iraha Lemercier** — *The World is Still Beautiful*
+> 🎭 **Ichimaru Gin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
