@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Heads in the game](https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/) 
-- [Super Mario is mathier than you think](https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/) 
-- [A man of many words](https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/) 
-- [Sharing a love for calculus](https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/) 
+<!-- AI_NEWS:START -->- [The Download: introducing the Engineering issue](https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/) 
+- [Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections](https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/) 
+- [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) 
+- [This flying solar-powered platform could deliver better internet from the air](https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/) 
 <!-- AI_NEWS:END -->
 
 </td>
