@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sorry, Aizen-sama. I got caught."*
+> 💬 *"Steal one, get one free!"*
 >
-> 🎭 **Ichimaru Gin** — *Bleach*
+> 🎭 **Kojirou** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
