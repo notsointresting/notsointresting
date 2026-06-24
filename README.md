@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: introducing the Engineering issue](https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/) 
-- [Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections](https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/) 
+<!-- AI_NEWS:START -->- [Europe’s extreme heat is shutting down power plants](https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/) 
+- [The Download: introducing the Engineering issue](https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/) 
+- [Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections](https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/) 
 - [The emergence of the web data infrastructure layer for AI](https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/) 
-- [This flying solar-powered platform could deliver better internet from the air](https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/) 
 <!-- AI_NEWS:END -->
 
 </td>
