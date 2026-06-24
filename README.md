@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Steal one, get one free!"*
+> 💬 *"Leave her out of this... who we let in this house is really none of your concern. You're the one who doesn't belong here. (to Kyo)"*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Sohma Yuki** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
