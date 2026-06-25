@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Tedium is such a crime. It takes the limited amount of time that is given to man, and rather than spending it in indolence or drowning it in pleasure it just sits there sucking, eating it up. I can't put up with that, tedium is a crime! Death to tedium! Die!"*
+> 💬 *"Even if your feelings or wishes do not come true, or if things don't go as you planned - on another road grows another flower. A new flower blooms there."*
 >
-> 🎭 **Graham Specter** — *Baccano!*
+> 🎭 **Dera Mochimazzi** — *Tamako Market*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
