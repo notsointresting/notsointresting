@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html) 
-- [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html) 
-- [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html) 
-- [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html) 
+<!-- CYBER_NEWS:START -->- [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html) 
+- [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html) 
+- [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html) 
+- [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
