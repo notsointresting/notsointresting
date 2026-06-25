@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I never had anything this good before. I guess everything tastes good when I'm with you."*
+> 💬 *"If someone were to drown in the seas for my sake, then I would be released from stone and return to life... to live once more. But if I were to return to life one day, which would give me the most important thing - I would then cry alone. I would cry longing for my stone. Of what use would my blood even be if it were to ripen like wine for it would not be able to bring back the one who loved me most from the water's depth."*
 >
-> 🎭 **Yoshida Haru** — *My Little Monster*
+> 🎭 **Cossette d'Auvergne** — *Le Portrait de Petit Cossette*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
