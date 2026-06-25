@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if your feelings or wishes do not come true, or if things don't go as you planned - on another road grows another flower. A new flower blooms there."*
+> 💬 *"I never had anything this good before. I guess everything tastes good when I'm with you."*
 >
-> 🎭 **Dera Mochimazzi** — *Tamako Market*
+> 🎭 **Yoshida Haru** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
