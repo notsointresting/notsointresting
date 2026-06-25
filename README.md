@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Let me tell you the truth. The truth behind fighting. Fighting continues forever. After you've defeated one person, someone stronger appears. If you manage to defeat him, then an even stronger person comes along. If you don't have the resolve to endure that eternal struggle, then eventually your confidence will erode. But it doesn't end there! The battle will continue elsewhere, fought by others. It's an endless cycle! And it doesn't end with a person's death. The cycle will continue! As long as people and their souls exist, there will be disputes and those disputes will lead to fights. And those fights will continue without limit, for all eternity."*
+> 💬 *"People who use others are stupid, but people who are used are even more stupid."*
 >
-> 🎭 **Kariya Jin** — *Bleach*
+> 🎭 **Aoyagi Ritsuka** — *Loveless*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
