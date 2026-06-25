@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law](https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/) 
+<!-- AI_NEWS:START -->- [Repositioning retail for the AI era](https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/) 
+- [The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law](https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/) 
 - [What Europe’s heat wave means for the power grid](https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/) 
 - [IBM has unveiled chip technology that could help extend Moore’s Law another decade](https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/) 
-- [Europe’s extreme heat is shutting down power plants](https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/) 
 <!-- AI_NEWS:END -->
 
 </td>
