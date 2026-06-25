@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If someone were to drown in the seas for my sake, then I would be released from stone and return to life... to live once more. But if I were to return to life one day, which would give me the most important thing - I would then cry alone. I would cry longing for my stone. Of what use would my blood even be if it were to ripen like wine for it would not be able to bring back the one who loved me most from the water's depth."*
+> 💬 *"Let me tell you the truth. The truth behind fighting. Fighting continues forever. After you've defeated one person, someone stronger appears. If you manage to defeat him, then an even stronger person comes along. If you don't have the resolve to endure that eternal struggle, then eventually your confidence will erode. But it doesn't end there! The battle will continue elsewhere, fought by others. It's an endless cycle! And it doesn't end with a person's death. The cycle will continue! As long as people and their souls exist, there will be disputes and those disputes will lead to fights. And those fights will continue without limit, for all eternity."*
 >
-> 🎭 **Cossette d'Auvergne** — *Le Portrait de Petit Cossette*
+> 🎭 **Kariya Jin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
