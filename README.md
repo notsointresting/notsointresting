@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People who use others are stupid, but people who are used are even more stupid."*
+> 💬 *"I don't understand what I say that makes people so mad. I don't understand how they feel. I know that's because I haven't properly socialized, I've tried to learn. I've tried to study up on it, but I just don't know what's right."*
 >
-> 🎭 **Aoyagi Ritsuka** — *Loveless*
+> 🎭 **Hishiro Chizuru** — *ReLIFE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
