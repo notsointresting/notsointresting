@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you are down, how do you pick yourself up? People fall into two categories... depending on how they pick themselves up. The first one sees somebody who is worse off and thinks, "Hey! I am better off than that guy." And the second kind of guy sees a challenge and tries to raise himself to it."*
+> 💬 *"I won't die no matter what. That's what I believe, so stay silent and believe in me. I am a guy who will never die."*
 >
-> 🎭 **Gintama** — *Gintama*
+> 🎭 **Claire Stanfield** — *Baccano!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
