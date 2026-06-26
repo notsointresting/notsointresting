@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't understand what I say that makes people so mad. I don't understand how they feel. I know that's because I haven't properly socialized, I've tried to learn. I've tried to study up on it, but I just don't know what's right."*
+> 💬 *"When you are down, how do you pick yourself up? People fall into two categories... depending on how they pick themselves up. The first one sees somebody who is worse off and thinks, "Hey! I am better off than that guy." And the second kind of guy sees a challenge and tries to raise himself to it."*
 >
-> 🎭 **Hishiro Chizuru** — *ReLIFE*
+> 🎭 **Gintama** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
