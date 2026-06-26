@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I won't die no matter what. That's what I believe, so stay silent and believe in me. I am a guy who will never die."*
+> 💬 *"A picture of you sleeping with a stupid look on your face totally oblivious to the dangers of this trip serves as a warning to future generations!"*
 >
-> 🎭 **Claire Stanfield** — *Baccano!*
+> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
