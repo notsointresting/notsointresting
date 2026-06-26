@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A picture of you sleeping with a stupid look on your face totally oblivious to the dangers of this trip serves as a warning to future generations!"*
+> 💬 *"I believe the difference between those up there and me is the question of whether you have given up or not."*
 >
-> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Ja Wangnan** — *Tower of God*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
