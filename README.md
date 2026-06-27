@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To hate something that you used to love is such a painful feeling."*
+> 💬 *"There is no sense in worrying about something you cannot control, so why bother?"*
 >
-> 🎭 **Ciel Phantomhive** — *Black Butler*
+> 🎭 **Yoh Asakura** — *Shaman King*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
