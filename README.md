@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The disturbance in the stitch, is a disturbance in the heart."*
+> 💬 *"It's awfully quiet back there. Are you two making out?"*
 >
-> 🎭 **Anissina von Karbelnikoff** — *Kyo kara Maoh!*
+> 🎭 **Cho Hakkai** — *Saiyuki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
