@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is no sense in worrying about something you cannot control, so why bother?"*
+> 💬 *"The disturbance in the stitch, is a disturbance in the heart."*
 >
-> 🎭 **Yoh Asakura** — *Shaman King*
+> 🎭 **Anissina von Karbelnikoff** — *Kyo kara Maoh!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
