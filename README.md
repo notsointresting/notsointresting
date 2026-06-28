@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's awfully quiet back there. Are you two making out?"*
+> 💬 *"Scatter, Senbonzakura."*
 >
-> 🎭 **Cho Hakkai** — *Saiyuki*
+> 🎭 **Kuchiki Byakuya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
