@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You suddenly appeared in front of me in this hell. The day that I would get to meet you...I always wanted to apologize to you...I only endured because of that! I kept on living."*
+> 💬 *"It's just... a love that's continued for many years without straying is something that, to anyone who sees it, is beautiful and impossible to fault. But... Though it may be short, and it may be something that's become crooked and bent partway through, if they're serious about the way they feel... then I don't think that's something that isn't beautiful."*
 >
-> 🎭 **Lucy** — *Elfen Lied*
+> 🎭 **Maiko Shuu** — *Nisekoi: False Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
