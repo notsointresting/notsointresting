@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Let the heavens deal with life and death, even the most fearful lose to that… let’s live for another moment."*
+> 💬 *"You suddenly appeared in front of me in this hell. The day that I would get to meet you...I always wanted to apologize to you...I only endured because of that! I kept on living."*
 >
-> 🎭 **Marshall D. Teach** — *One Piece*
+> 🎭 **Lucy** — *Elfen Lied*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
