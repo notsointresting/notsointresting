@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you give me wings, I will soar for you even if this whole land sinks down to the water. If you give me a sword, I will fight for you even if this whole sky shoots through with your light."*
+> 💬 *"Let the heavens deal with life and death, even the most fearful lose to that… let’s live for another moment."*
 >
-> 🎭 **Kurosaki Ichigo** — *Bleach*
+> 🎭 **Marshall D. Teach** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
