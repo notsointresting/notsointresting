@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That’s right… Who cares if I’m a zero? Stand up… She’s watching! I can’t embarrass myself in front of her anymore!"*
+> 💬 *"This scheme of yours is beneath me. Should it fail, Jaken, you will die."*
 >
-> 🎭 **Kafka Hibino** — *Kaiju No. 8*
+> 🎭 **Sesshomaru** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
