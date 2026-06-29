@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This scheme of yours is beneath me. Should it fail, Jaken, you will die."*
+> 💬 *"People like you... are the reason why people like me need medication."*
 >
-> 🎭 **Sesshomaru** — *InuYasha*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
