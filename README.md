@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People like you... are the reason why people like me need medication."*
+> 💬 *"When you meet your God tell him to leave me alone."*
 >
-> 🎭 **Inuyasha** — *InuYasha*
+> 🎭 **Guts** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
