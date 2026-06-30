@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Talent is something you make bloom, instinct is something you polish."*
+> 💬 *"We found ourselves in conflict with each other many times. There were hard times when we wanted to run away or give up. But it was only because that rain fell, that the seeds of our emotions could sprout. And the flowers of deeper friendship could bloom."*
 >
-> 🎭 **Tooru Oikawa** — *Haikyu!!*
+> 🎭 **Misaki Kamiigusa** — *The Pet Girl of Sakurasou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
