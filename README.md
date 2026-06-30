@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Who'd eat a pervert's banana? *blushing*"*
+> 💬 *"Talent is something you make bloom, instinct is something you polish."*
 >
-> 🎭 **Kurisu Makise** — *Steins;Gate*
+> 🎭 **Tooru Oikawa** — *Haikyu!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
