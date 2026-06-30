@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html) 
-- [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html) 
-- [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html) 
-- [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html) 
+<!-- CYBER_NEWS:START -->- [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html) 
+- [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html) 
+- [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html) 
+- [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
