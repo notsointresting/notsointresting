@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you meet your God tell him to leave me alone."*
+> 💬 *"It's overpriced, but that's okay, HERE'S YOUR CHANGE!"*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Touji Suzuhara** — *Neon Genesis Evangelion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
