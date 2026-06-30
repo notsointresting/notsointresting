@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's overpriced, but that's okay, HERE'S YOUR CHANGE!"*
+> 💬 *"Who'd eat a pervert's banana? *blushing*"*
 >
-> 🎭 **Touji Suzuhara** — *Neon Genesis Evangelion*
+> 🎭 **Kurisu Makise** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
