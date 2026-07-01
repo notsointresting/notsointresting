@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh, silly me. I must have forgotten to turn on my hearing aid. When you're a washed up old hag like me, the memory is the first to go."*
+> 💬 *"Smiles are what connect people! It allows them to communicate through their souls! Connected souls will never lose to the strength that only relies on control! Dueling is the same! Only strength alone doesn't speak to anyone's soul!"*
 >
-> 🎭 **Genkai** — *Yu Yu Hakusho*
+> 🎭 **Yuzu Hiiragi** — *Yu-Gi-Oh! Arc-V*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
