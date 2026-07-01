@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's just that I'm fighting the pain of lost love. I guess it's what you'd call a rude awakening... or, maybe... the weight of responsibility? But I'm fine. I'm fine. Caring for someone isn't based on logic. You can't really rationalize emotions. Once I think "I like him"... it's all over."*
+> 💬 *"Let's calm down. The enemy is shooting at us."*
 >
-> 🎭 **Sohma Kagura** — *Fruits Basket*
+> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
