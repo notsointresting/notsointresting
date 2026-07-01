@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The toilet is a wonder of civilization. It is a grand invention. It preserves human dignity."*
+> 💬 *"Oh, silly me. I must have forgotten to turn on my hearing aid. When you're a washed up old hag like me, the memory is the first to go."*
 >
-> 🎭 **Watashi** — *Humanity Has Declined*
+> 🎭 **Genkai** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
