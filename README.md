@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) 
+<!-- AI_NEWS:START -->- [The Download: Anthropic launches Claude Science, and California’s carbon manure math](https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/) 
+- [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/) 
 - [Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body](https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/) 
 - [The Download: AI “coworkers” and stratospheric internet](https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/) 
-- [Agriculture is ready for AI, but its data isn’t](https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/) 
 <!-- AI_NEWS:END -->
 
 </td>
