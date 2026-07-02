@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To be able to forgive those who have wronged you... only the truly strong can do that."*
+> 💬 *"Listen to yourself whining and complaining like some sorry little victim! You can whimper all day for all I care, you're nothing but a coward!"*
 >
-> 🎭 **Kanako Watanabe** — *Star Driver*
+> 🎭 **Naruto Uzumaki** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
