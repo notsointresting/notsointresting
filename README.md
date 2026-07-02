@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sometimes, the blood rushes to my head and I feel like, if I run, I'll lose something important."*
+> 💬 *"Waah, Kyo's picking on me! (Repeated line)"*
 >
-> 🎭 **Portgas D. Ace** — *One Piece*
+> 🎭 **Sohma Momiji** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
