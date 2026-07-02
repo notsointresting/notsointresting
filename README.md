@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Waah, Kyo's picking on me! (Repeated line)"*
+> 💬 *"(using a rental Pikachu doll) Thundershock, Thunderbolt, Thunder. I've been defeated so many times by Pikachu's attacks, I know them all by heart! Ahahahahahaha!"*
 >
-> 🎭 **Sohma Momiji** — *Fruits Basket*
+> 🎭 **Kojirou** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
