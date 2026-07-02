@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"(using a rental Pikachu doll) Thundershock, Thunderbolt, Thunder. I've been defeated so many times by Pikachu's attacks, I know them all by heart! Ahahahahahaha!"*
+> 💬 *"To be able to forgive those who have wronged you... only the truly strong can do that."*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Kanako Watanabe** — *Star Driver*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
