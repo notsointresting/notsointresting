@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Let's calm down. The enemy is shooting at us."*
+> 💬 *"Sometimes, the blood rushes to my head and I feel like, if I run, I'll lose something important."*
 >
-> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Portgas D. Ace** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
