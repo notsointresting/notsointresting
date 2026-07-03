@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hey! I'm totally an adult! I bitch and whine, lie through my teeth, and do things that are unfair."*
+> 💬 *"Maybe there've been times when I've been pissed and hated things, but it wasn't from this work. My dad's a no-show, my mom's lush and school sucks, but this job is the one damn thing I'm good at. If all the crap in my life hasn't screwed up yet, then neither will this and neither will you."*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
