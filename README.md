@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"As long as no one got hurt, it's all good. Who cares who saved who?"*
+> 💬 *"I'll help you... But not by death, this world has enough of that. You can keep your life as long as you change the way you live it. It's never too late, believe me."*
 >
-> 🎭 **Kamijou Touma** — *A Certain Magical Index*
+> 🎭 **Kurama** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
