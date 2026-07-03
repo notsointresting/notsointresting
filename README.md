@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Listen to yourself whining and complaining like some sorry little victim! You can whimper all day for all I care, you're nothing but a coward!"*
+> 💬 *"That’s just the way it is. Change is inevitable. Instead of resisting it, you’re better served simple going with the flow."*
 >
-> 🎭 **Naruto Uzumaki** — *Naruto*
+> 🎭 **Kyouraku Shunsui** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
