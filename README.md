@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That’s just the way it is. Change is inevitable. Instead of resisting it, you’re better served simple going with the flow."*
+> 💬 *"Hey! I'm totally an adult! I bitch and whine, lie through my teeth, and do things that are unfair."*
 >
-> 🎭 **Kyouraku Shunsui** — *Bleach*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
