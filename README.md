@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't exactly fight a war with a big smile on my face."*
+> 💬 *"As long as no one got hurt, it's all good. Who cares who saved who?"*
 >
-> 🎭 **Athrun Zala** — *Mobile Suit Gundam SEED*
+> 🎭 **Kamijou Touma** — *A Certain Magical Index*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
