@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I know I look like an idiot, but… I’ve decided to bet my whole life up to this point."*
+> 💬 *"That's it! My head as a trampoline is where I draw the line!"*
 >
-> 🎭 **Kafka Hibino** — *Kaiju No. 8*
+> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
