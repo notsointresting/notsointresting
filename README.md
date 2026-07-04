@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Killing for your own ideas... even a bandit could do that if it's killing a complete stranger. However, it's a completely different thing when it comes to killing a relative or a friend. Desire alone isn't enough. You need indomitable will and unwavering beliefs."*
+> 💬 *"I know I look like an idiot, but… I’ve decided to bet my whole life up to this point."*
 >
-> 🎭 **Ichijiku Chisato** — *Brynhildr in the Darkness*
+> 🎭 **Kafka Hibino** — *Kaiju No. 8*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
