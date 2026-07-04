@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll help you... But not by death, this world has enough of that. You can keep your life as long as you change the way you live it. It's never too late, believe me."*
+> 💬 *"Don't touch the poster at the Game Corner! There's no secret switch behind it!"*
 >
-> 🎭 **Kurama** — *Yu Yu Hakusho*
+> 🎭 **Rocket Grunt** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
