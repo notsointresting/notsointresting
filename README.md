@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't touch the poster at the Game Corner! There's no secret switch behind it!"*
+> 💬 *"Killing for your own ideas... even a bandit could do that if it's killing a complete stranger. However, it's a completely different thing when it comes to killing a relative or a friend. Desire alone isn't enough. You need indomitable will and unwavering beliefs."*
 >
-> 🎭 **Rocket Grunt** — *Pokémon*
+> 🎭 **Ichijiku Chisato** — *Brynhildr in the Darkness*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
