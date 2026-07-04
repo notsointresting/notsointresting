@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To stop or to keep going? The one who decides is yourself."*
+> 💬 *"I hate waiting, but if waiting means being able to be with you I'll wait for as long as forever."*
 >
-> 🎭 **Shōkichi Naruko** — *Yowamushi Pedal*
+> 🎭 **Taiga Aisaka** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
