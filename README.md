@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That's it! My head as a trampoline is where I draw the line!"*
+> 💬 *"To stop or to keep going? The one who decides is yourself."*
 >
-> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
+> 🎭 **Shōkichi Naruko** — *Yowamushi Pedal*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
