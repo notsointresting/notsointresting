@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I hate waiting, but if waiting means being able to be with you I'll wait for as long as forever."*
+> 💬 *"There comes atimewhen a man has to stand and fight! That time is when his friends’dreamsare being laughed at! And I won’t let you laugh at that!"*
 >
-> 🎭 **Taiga Aisaka** — *Toradora!*
+> 🎭 **Usopp** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
