@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There comes atimewhen a man has to stand and fight! That time is when his friends’dreamsare being laughed at! And I won’t let you laugh at that!"*
+> 💬 *"This is the first and last time I bring a dude to my bed."*
 >
-> 🎭 **Usopp** — *One Piece*
+> 🎭 **Sha Gojyo** — *Saiyuki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
