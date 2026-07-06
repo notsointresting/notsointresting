@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No matter how scared you are, it is important that you learn about what you fear."*
+> 💬 *"You should quake in fear of your impending death."*
 >
-> 🎭 **Adolf Reinhardt** — *Terraformars*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
