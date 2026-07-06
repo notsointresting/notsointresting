@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *""Checkmate" doesn't mean you've simply cornered the enemy king. It's a declaration that the enemy king is yours. That's why I said it the first time I met you. "Checkmate.""*
+> 💬 *"No matter how scared you are, it is important that you learn about what you fear."*
 >
-> 🎭 **Sora** — *No Game, No Life*
+> 🎭 **Adolf Reinhardt** — *Terraformars*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
