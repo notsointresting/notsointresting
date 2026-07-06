@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t hesitate to cut the enemy. Don’t falter to finish them off. Much less heal their wounds. That’s unspeakable, nino. Leave the chocolate here. Become a demon, nino. As strong as a demon. As wicked as a demon. You have to learn that the only way to stand up against ruthlessness, is to become ruthless yourself."*
+> 💬 *""Checkmate" doesn't mean you've simply cornered the enemy king. It's a declaration that the enemy king is yours. That's why I said it the first time I met you. "Checkmate.""*
 >
-> 🎭 **Dordonii Alessandro Del Socacchio** — *Bleach*
+> 🎭 **Sora** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
