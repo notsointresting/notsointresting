@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What good is a treasure if I am alone?"*
+> 💬 *"The Commander-General's rather violent today, wouldn't you say?"*
 >
-> 🎭 **Nami** — *One Piece*
+> 🎭 **Ukitake Jyuushirou** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
