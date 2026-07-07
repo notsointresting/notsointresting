@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...There's nothing to feel sorry for on my behalf. I've been a very selfish girl. For the first time, I was able to see that. Thank you for worrying about me, mama. (to her mother)"*
+> 💬 *"She should want to see me. If I had said how I feel about her, she would miss me even more. All this time, I've been breaking her heart by keeping her wait, yet I can't still appear before her eyes. I never want to see her cry anymore. Even if it means I no longer exist in her heart. How immature of me, right?"*
 >
-> 🎭 **Sohma Kagura** — *Fruits Basket*
+> 🎭 **Shinichi Kudou** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
