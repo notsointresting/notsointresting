@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why..? How can she say things like that so easily? If we hear that from our parents, what are we supposed to do? Rin thinks that she's been "bad". But who do you think is the one who's being "bad" here!?! Having people take their anger out on us, being laughed at, not being taken seriously. We kids get hurt just like you do! Why can't you understand something so simple?! Apologize! APOLOGIZE! APOLOGIZE TO RIN!! [Rin's mom shuts the door] HEY!! I TOLD YOU TO APOLOGIZE!!"*
+> 💬 *"The most inflated egos are often the most fragile."*
 >
-> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
+> 🎭 **All Might** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
