@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"She should want to see me. If I had said how I feel about her, she would miss me even more. All this time, I've been breaking her heart by keeping her wait, yet I can't still appear before her eyes. I never want to see her cry anymore. Even if it means I no longer exist in her heart. How immature of me, right?"*
+> 💬 *"Why..? How can she say things like that so easily? If we hear that from our parents, what are we supposed to do? Rin thinks that she's been "bad". But who do you think is the one who's being "bad" here!?! Having people take their anger out on us, being laughed at, not being taken seriously. We kids get hurt just like you do! Why can't you understand something so simple?! Apologize! APOLOGIZE! APOLOGIZE TO RIN!! [Rin's mom shuts the door] HEY!! I TOLD YOU TO APOLOGIZE!!"*
 >
-> 🎭 **Shinichi Kudou** — *Case Closed*
+> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
