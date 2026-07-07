@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You should quake in fear of your impending death."*
+> 💬 *"...There's nothing to feel sorry for on my behalf. I've been a very selfish girl. For the first time, I was able to see that. Thank you for worrying about me, mama. (to her mother)"*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Sohma Kagura** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
