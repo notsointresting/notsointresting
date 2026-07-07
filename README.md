@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The most inflated egos are often the most fragile."*
+> 💬 *"What good is a treasure if I am alone?"*
 >
-> 🎭 **All Might** — *My Hero Academia*
+> 🎭 **Nami** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
