@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"High school girls, high school girls, all for me, high school girls!"*
+> 💬 *"A four-poster coffin. Bloody hell."*
 >
-> 🎭 **Sohma Shigure** — *Fruits Basket*
+> 🎭 **Seras Victoria** — *Hellsing*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
