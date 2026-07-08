@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"* The Zone README.md SR.jpg In this state of extreme focus, all unnecessary thoughts disappear and the athlete becomes absorbed in his play. Only those who have practiced and practiced earn the right to stand before the door, and it only opens unpredictably. It is the ultimate domain, open only to the chosen."*
+> 💬 *"High school girls, high school girls, all for me, high school girls!"*
 >
-> 🎭 **Kuroko No Basket** — *Kuroko's Basketball - duplicate*
+> 🎭 **Sohma Shigure** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
