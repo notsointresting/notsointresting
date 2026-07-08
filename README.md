@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The Commander-General's rather violent today, wouldn't you say?"*
+> 💬 *"Since when did the "Cat" set the rules for this house? You mean to tell me that you contribute more to this house than anyone else? Do you pay all the bills? I can't stand people who do absolutely nothing but complain all the time! (To Kyo)"*
 >
-> 🎭 **Ukitake Jyuushirou** — *Bleach*
+> 🎭 **Sohma Hiro** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
