@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A four-poster coffin. Bloody hell."*
+> 💬 *"So, how about you tell me right now whom you'd like me to kill, and how. I'll treat'cha to it."*
 >
-> 🎭 **Seras Victoria** — *Hellsing*
+> 🎭 **Mello** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
