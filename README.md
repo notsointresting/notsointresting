@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you want to protect something, do it right! Don’t let them get their way anymore!"*
+> 💬 *"* The Zone README.md SR.jpg In this state of extreme focus, all unnecessary thoughts disappear and the athlete becomes absorbed in his play. Only those who have practiced and practiced earn the right to stand before the door, and it only opens unpredictably. It is the ultimate domain, open only to the chosen."*
 >
-> 🎭 **Crocodile** — *One Piece*
+> 🎭 **Kuroko No Basket** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
