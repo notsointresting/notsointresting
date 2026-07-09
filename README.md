@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Crazy baby."*
+> 💬 *"Everyone has something they like, something they have to do, or something they want to do."*
 >
-> 🎭 **TK** — *Angel Beats!*
+> 🎭 **Yutaka Hasebe** — *Servant x Service*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
