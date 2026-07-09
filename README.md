@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If it's a fight between a man and man, choose the path you believe is right. Only a fool would stand indecisive after being frightened at the thought of being soiled by the mud."*
+> 💬 *"I'll tattle-tale to Yachiru if you keep that up, Ikkaku!"*
 >
-> 🎭 **Fullmetal Alchemist: Brotherhood** — *Fullmetal Alchemist: Brotherhood*
+> 🎭 **Matsumoto Rangiku** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
