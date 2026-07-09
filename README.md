@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll tattle-tale to Yachiru if you keep that up, Ikkaku!"*
+> 💬 *"Crazy baby."*
 >
-> 🎭 **Matsumoto Rangiku** — *Bleach*
+> 🎭 **TK** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
