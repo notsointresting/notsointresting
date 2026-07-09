@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everyone has something they like, something they have to do, or something they want to do."*
+> 💬 *"The essence of good deeds and evil is the same. They're both no more than a person's actions to make up for a defect in themselves."*
 >
-> 🎭 **Yutaka Hasebe** — *Servant x Service*
+> 🎭 **Yashiro Gaku** — *Erased*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
