@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"So, how about you tell me right now whom you'd like me to kill, and how. I'll treat'cha to it."*
+> 💬 *"If it's a fight between a man and man, choose the path you believe is right. Only a fool would stand indecisive after being frightened at the thought of being soiled by the mud."*
 >
-> 🎭 **Mello** — *Death Note*
+> 🎭 **Fullmetal Alchemist: Brotherhood** — *Fullmetal Alchemist: Brotherhood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
