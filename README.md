@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The essence of good deeds and evil is the same. They're both no more than a person's actions to make up for a defect in themselves."*
+> 💬 *"The same melody repeats itself as the song grows richer and more beautiful. Wouldn't it be wonderful if we could live seemingly constant lives while experiencing changes bit by bit?"*
 >
-> 🎭 **Yashiro Gaku** — *Erased*
+> 🎭 **Sayuri Kurata** — *Kanon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
