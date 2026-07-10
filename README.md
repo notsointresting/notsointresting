@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html) 
-- [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html) 
-- [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html) 
-- [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html) 
+<!-- CYBER_NEWS:START -->- [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html) 
+- [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html) 
+- [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html) 
+- [Laser Attack Resets Tangem Wallet Passwords on Cards That Can&#39;t Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
