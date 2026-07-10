@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You must be prepared to face the worst possible scenarios. Because harsh reality strikes without warning."*
+> 💬 *"Isn’t it okay to consider sad or hard times as the seasoning that lets you enjoy life? You can change them inside yourself so that you can enjoy anything. It truly is a wonderful thing, living each day."*
 >
-> 🎭 **Hunter X Hunter** — *Hunter x Hunter*
+> 🎭 **Grandma Akino** — *Aria the Animation*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
