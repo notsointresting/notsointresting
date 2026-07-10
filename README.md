@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those painful memories are what help us make it to tomorrow and become stronger."*
+> 💬 *"You must be prepared to face the worst possible scenarios. Because harsh reality strikes without warning."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Hunter X Hunter** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
