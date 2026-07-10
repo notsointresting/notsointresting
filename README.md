@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I’ll never give in to you circus freaks!"*
+> 💬 *"Those painful memories are what help us make it to tomorrow and become stronger."*
 >
-> 🎭 **Vegeta** — *Dragon Ball Z*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
