@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The same melody repeats itself as the song grows richer and more beautiful. Wouldn't it be wonderful if we could live seemingly constant lives while experiencing changes bit by bit?"*
+> 💬 *"I’ll never give in to you circus freaks!"*
 >
-> 🎭 **Sayuri Kurata** — *Kanon*
+> 🎭 **Vegeta** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
