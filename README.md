@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We have no choice but to accept the one and only life we're given, no matter how cruel and heartless it might be."*
+> 💬 *"I can't seem to get my head on straight."*
 >
-> 🎭 **Yuri Nakamura** — *Angel Beats!*
+> 🎭 **Franken Stein** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
