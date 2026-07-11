@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The little man is having trouble holding his sword. *to Inuyasha*"*
+> 💬 *"We have no choice but to accept the one and only life we're given, no matter how cruel and heartless it might be."*
 >
-> 🎭 **Sesshomaru** — *InuYasha*
+> 🎭 **Yuri Nakamura** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
