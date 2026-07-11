@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There probably isn't any meaning in life. Perhaps you can find something interesting to do while you are alive. Like how you found that flower. Like how I found you."*
+> 💬 *"It's not the goodbyes that hurt, it's the flashbacks that follow..."*
 >
-> 🎭 **Orochimaru** — *Naruto*
+> 🎭 **Gray Fullbuster** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
