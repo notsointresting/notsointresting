@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Alright already, you had me at shut up."*
+> 💬 *"[to an arrogant projectile-specialist Shinigami] Apparently, on this side, "ultimate master" means a windbag with diarrhea of the mouth."*
 >
-> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
+> 🎭 **Uryuu Ishida** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
