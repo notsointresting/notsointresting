@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not the goodbyes that hurt, it's the flashbacks that follow..."*
+> 💬 *"I don’t know how I’ll feel when I’m dead, But I don’t want to regret the way I lived."*
 >
-> 🎭 **Gray Fullbuster** — *Fairy Tail*
+> 🎭 **Yuji Itadori** — *Jujutsu Kaisen*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
