@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The essence of good deeds and evil is the same. They're both no more than a person's actions to make up for a defect in themselves."*
+> 💬 *"It's something that appear on the chests of illegal contractees."*
 >
-> 🎭 **Yashiro Gaku** — *Erased*
+> 🎭 **Gilbert Nightray** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
