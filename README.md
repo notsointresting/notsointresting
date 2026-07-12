@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"At first, everyone is disgusted. Afraid to bear the sin of killing people. Afraid to receive punishment for replenishing themselves with the life of another. But, once you realize that you won't be punished for killing people, you get used to the guilt pretty soon. The guilt of using humans for food. Aren't humans the same?"*
+> 💬 *"The essence of good deeds and evil is the same. They're both no more than a person's actions to make up for a defect in themselves."*
 >
-> 🎭 **Mutou Tohru** — *Shiki*
+> 🎭 **Yashiro Gaku** — *Erased*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
