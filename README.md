@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's something that appear on the chests of illegal contractees."*
+> 💬 *"Alright already, you had me at shut up."*
 >
-> 🎭 **Gilbert Nightray** — *Pandora Hearts*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
