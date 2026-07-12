@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t know how I’ll feel when I’m dead, But I don’t want to regret the way I lived."*
+> 💬 *"At first, everyone is disgusted. Afraid to bear the sin of killing people. Afraid to receive punishment for replenishing themselves with the life of another. But, once you realize that you won't be punished for killing people, you get used to the guilt pretty soon. The guilt of using humans for food. Aren't humans the same?"*
 >
-> 🎭 **Yuji Itadori** — *Jujutsu Kaisen*
+> 🎭 **Mutou Tohru** — *Shiki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
