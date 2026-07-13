@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We can only live while we lose."*
+> 💬 *"Rather than regret doing nothing, regret something that you've done."*
 >
-> 🎭 **Renji Yomo** — *Tokyo Ghoul*
+> 🎭 **Tenma Tsukamoto** — *School Rumble*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
