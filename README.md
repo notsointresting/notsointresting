@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It seems Saiyans have changed since the last time I saw them. They have become cowardly."*
+> 💬 *"I can only say that the human curiosity is something completely irrational."*
 >
-> 🎭 **Beerus** — *Dragon Ball Z*
+> 🎭 **Kyubee** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
