@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can only say that the human curiosity is something completely irrational."*
+> 💬 *"It's not the final judgement of "good" and "evil" that's important. What matters is that you come to that decision yourself. That you agonize over it and eventually accept it."*
 >
-> 🎭 **Kyubee** — *Puella Magi Madoka Magica*
+> 🎭 **Akane Tsunemori** — *Psycho-Pass*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
