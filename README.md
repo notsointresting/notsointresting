@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to an arrogant projectile-specialist Shinigami] Apparently, on this side, "ultimate master" means a windbag with diarrhea of the mouth."*
+> 💬 *"It seems Saiyans have changed since the last time I saw them. They have become cowardly."*
 >
-> 🎭 **Uryuu Ishida** — *Bleach*
+> 🎭 **Beerus** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
