@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I refuse to stand by and watch you give up. I won't lose you, I can't. We'll walk away from this battle together."*
+> 💬 *"In their heart, everyone has faith that their victory exists. However, in the face of time and destiny, the act of faith is fruitless and fleeting at best."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **C.C.** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
