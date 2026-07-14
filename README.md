@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whether it's good or bad, it's so unfortunate to wake up during a dream."*
+> 💬 *"Do you want to kill me? It's only natural that you do. But I cannot die right now. Because there is something I must do."*
 >
-> 🎭 **Judeau** — *Berserk*
+> 🎭 **Su-won** — *Yona of the Dawn*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
