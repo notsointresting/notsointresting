@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This will just be a signal fire. We’ll fill those heroes full of holes… and put them in their place. All for a brighter future."*
+> 💬 *"I will acknowledge you as my enemy and destroy you."*
 >
-> 🎭 **Dabi** — *My Hero Academia*
+> 🎭 **Acnologia** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
