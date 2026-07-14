@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will acknowledge you as my enemy and destroy you."*
+> 💬 *"I refuse to stand by and watch you give up. I won't lose you, I can't. We'll walk away from this battle together."*
 >
-> 🎭 **Acnologia** — *Fairy Tail*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
