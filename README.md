@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Do you want to kill me? It's only natural that you do. But I cannot die right now. Because there is something I must do."*
+> 💬 *"This will just be a signal fire. We’ll fill those heroes full of holes… and put them in their place. All for a brighter future."*
 >
-> 🎭 **Su-won** — *Yona of the Dawn*
+> 🎭 **Dabi** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
