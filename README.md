@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Rather than regret doing nothing, regret something that you've done."*
+> 💬 *"Whether it's good or bad, it's so unfortunate to wake up during a dream."*
 >
-> 🎭 **Tenma Tsukamoto** — *School Rumble*
+> 🎭 **Judeau** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
