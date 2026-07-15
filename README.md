@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: Claude’s inner workings, and the future of world models](https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/) 
+<!-- AI_NEWS:START -->- [The Download: a useful quantum machine and a record-breaking subsea tunnel](https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/) 
+- [The Download: Claude’s inner workings, and the future of world models](https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/) 
 - [PsiQuantum has a plan to make a massive quantum computer out of light](https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/) 
 - [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/) 
-- [The Download: a donor conception cap and world models for AI](https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/) 
 <!-- AI_NEWS:END -->
 
 </td>
