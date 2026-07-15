@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If this is the path you choose to walk... I will not interfere. But if you turn the people against you... Will you be able to function as a hero? This worries me. But if you ever get in a tight spot... I will be there."*
+> 💬 *"What do you suppose the most irrational thing is? - It's humanity."*
 >
-> 🎭 **Genos** — *One Punch Man*
+> 🎭 **Deadman Wonderland** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
