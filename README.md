@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Perhaps this is what it means to be bound by sin. To spin in the same circle, looking for where the sin lies, and at some point losing sight of the way out."*
+> 💬 *"If you use him, you’ll get rid of all the curses nearby in a flash."*
 >
-> 🎭 **Renmei Communicator** — *Haibane Renmei*
+> 🎭 **Satoru Gojo** — *Jujutsu Kaisen*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
