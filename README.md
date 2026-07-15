@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What do you suppose the most irrational thing is? - It's humanity."*
+> 💬 *"Perhaps this is what it means to be bound by sin. To spin in the same circle, looking for where the sin lies, and at some point losing sight of the way out."*
 >
-> 🎭 **Deadman Wonderland** — *Deadman Wonderland*
+> 🎭 **Renmei Communicator** — *Haibane Renmei*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
