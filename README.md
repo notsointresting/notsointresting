@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In their heart, everyone has faith that their victory exists. However, in the face of time and destiny, the act of faith is fruitless and fleeting at best."*
+> 💬 *"What do you know of death?!! Have you ever died?!! You think death will preserve your cause forever?!! Ridiculous!! Death leaves nothing behind!! Once a person passes on, nothing remains but dead bones!! If there is one thing I can’t stand, it is a person with no respect for life!!"*
 >
-> 🎭 **C.C.** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Brook** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
