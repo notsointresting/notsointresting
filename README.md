@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What do you know of death?!! Have you ever died?!! You think death will preserve your cause forever?!! Ridiculous!! Death leaves nothing behind!! Once a person passes on, nothing remains but dead bones!! If there is one thing I can’t stand, it is a person with no respect for life!!"*
+> 💬 *"Mom... Mom in heaven.... Does love come suddenly like this"*
 >
-> 🎭 **Brook** — *One Piece*
+> 🎭 **Haruhi Fujioka** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
