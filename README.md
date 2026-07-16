@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm home. What, are you greeting me in an apron? You look pretty good in it."*
+> 💬 *"Life's never been easy! What you abandon, and what you take. Even I know that repeating that choice is what it means to be alive! But... If that means I have to keep losing everything over and over... I'll risk my life to try and take it all! I won't give up! Ever!"*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Bridges Yuuya** — *Muv-Luv Alternative: Total Eclipse*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
