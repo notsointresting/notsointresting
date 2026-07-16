@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You really are dependable, Fushiguro."*
+> 💬 *"Why are you looking for something when you can't even remember what it is?"*
 >
-> 🎭 **Yuji Itadori** — *Jujutsu Kaisen*
+> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
