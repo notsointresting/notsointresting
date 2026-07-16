@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If one feels it is fun now, one will be able to enjoy life the most. Everything will change over time, so we must treasure the happy moments before us."*
+> 💬 *"You really are dependable, Fushiguro."*
 >
-> 🎭 **Akari Mizunashi** — *Aria the Animation*
+> 🎭 **Yuji Itadori** — *Jujutsu Kaisen*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
