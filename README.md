@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why are you looking for something when you can't even remember what it is?"*
+> 💬 *"I'm home. What, are you greeting me in an apron? You look pretty good in it."*
 >
-> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
+> 🎭 **Emiya Shirou** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
