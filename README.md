@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll get what I want... even if I have to steal it."*
+> 💬 *"If one feels it is fun now, one will be able to enjoy life the most. Everything will change over time, so we must treasure the happy moments before us."*
 >
-> 🎭 **Rue Kuroha** — *Princess Tutu*
+> 🎭 **Akari Mizunashi** — *Aria the Animation*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
