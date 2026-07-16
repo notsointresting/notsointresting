@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you use him, you’ll get rid of all the curses nearby in a flash."*
+> 💬 *"I'll get what I want... even if I have to steal it."*
 >
-> 🎭 **Satoru Gojo** — *Jujutsu Kaisen*
+> 🎭 **Rue Kuroha** — *Princess Tutu*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
