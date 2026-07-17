@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You don't need a driver's license to hit and run!"*
+> 💬 *"The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society."*
 >
-> 🎭 **Kagura** — *Gintama*
+> 🎭 **All Might** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
