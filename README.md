@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Life's never been easy! What you abandon, and what you take. Even I know that repeating that choice is what it means to be alive! But... If that means I have to keep losing everything over and over... I'll risk my life to try and take it all! I won't give up! Ever!"*
+> 💬 *"It's my own recipe which I call Misty's mystery stew, and it's got 47 secret ingredients."*
 >
-> 🎭 **Bridges Yuuya** — *Muv-Luv Alternative: Total Eclipse*
+> 🎭 **Kasumi** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
