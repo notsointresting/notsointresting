@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html) 
-- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html) 
-- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html) 
-- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html) 
+<!-- CYBER_NEWS:START -->- [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html) 
+- [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html) 
+- [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html) 
+- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
