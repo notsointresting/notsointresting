@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: OpenAI unveils GPT-Red and heat pumps rise in the US](https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/) 
-- [Why heat pumps are still so hot in the US](https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/) 
-- [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/) 
-- [The Download: a useful quantum machine and a record-breaking subsea tunnel](https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/) 
+<!-- AI_NEWS:START -->- [The Download: perimenopause misinformation and China’s latest AI leap](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/) 
+- [There’s a lot of hype around perimenopause. Don’t buy it.](https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/) 
+- [The risk of weather data sabotage is rising](https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/) 
+- [The Download: OpenAI unveils GPT-Red and heat pumps rise in the US](https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/) 
 <!-- AI_NEWS:END -->
 
 </td>
