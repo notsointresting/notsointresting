@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The slight difference between those who always aim for the top and those who don’t, it’ll come to matter in a big way once you all emerge into society."*
+> 💬 *"You were ready to kill another creature, yet you’re scared of being killed yourself. Don’t you think that is strange? When you point a gun at a living thing… this is what that act means."*
 >
-> 🎭 **All Might** — *My Hero Academia*
+> 🎭 **Kurumi Tokisaki** — *Date A Live*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
