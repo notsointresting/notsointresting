@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...If Tohru-chan were to die, I...I wonder if I'd be able to smile again one year later? Or if I'd wish that I could forget ever having met her. ...Tohru-chan... has tried really hard..."*
+> 💬 *"A Coma doesn't exist, it is a preparatory research for the next life."*
 >
-> 🎭 **Saki Hanajima** — *Fruits Basket*
+> 🎭 **Fuura Kafuka** — *Sayonara, Zetsubou-Sensei*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
