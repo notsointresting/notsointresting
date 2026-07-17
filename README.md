@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A Coma doesn't exist, it is a preparatory research for the next life."*
+> 💬 *"You don't need a driver's license to hit and run!"*
 >
-> 🎭 **Fuura Kafuka** — *Sayonara, Zetsubou-Sensei*
+> 🎭 **Kagura** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
