@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's my own recipe which I call Misty's mystery stew, and it's got 47 secret ingredients."*
+> 💬 *"...If Tohru-chan were to die, I...I wonder if I'd be able to smile again one year later? Or if I'd wish that I could forget ever having met her. ...Tohru-chan... has tried really hard..."*
 >
-> 🎭 **Kasumi** — *Pokémon*
+> 🎭 **Saki Hanajima** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
