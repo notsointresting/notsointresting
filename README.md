@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Man fears the darkness, and so he scrapes away at the edges of it with fire. He creates life by diminishing the Darkness."*
+> 💬 *"We believe that God exists. And he exists because we exist."*
 >
-> 🎭 **Rei Ayanami** — *Neon Genesis Evangelion*
+> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
