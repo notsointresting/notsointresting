@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People do not exist to follow rules. Rules exist to protect the people."*
+> 💬 *"Do you know where hell is? Inside your head."*
 >
-> 🎭 **Medaka Kurokami** — *Medaka Box*
+> 🎭 **Crona** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
