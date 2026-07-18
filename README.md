@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It makes you sad when someone suddenly just up and disappears without a word. If you're just going to end up hurt in the end, you're better off not forming any bonds at all."*
+> 💬 *"Man fears the darkness, and so he scrapes away at the edges of it with fire. He creates life by diminishing the Darkness."*
 >
-> 🎭 **Yozora Mikazuki** — *Boku wa Tomodachi ga Sukunai*
+> 🎭 **Rei Ayanami** — *Neon Genesis Evangelion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
