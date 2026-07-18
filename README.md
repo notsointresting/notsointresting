@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not good to expect too much, but you can't do anything if you're being overly pessimistic. If you just wait thinking it's useless, nothing will come of it."*
+> 💬 *"It makes you sad when someone suddenly just up and disappears without a word. If you're just going to end up hurt in the end, you're better off not forming any bonds at all."*
 >
-> 🎭 **Shinobu Oshino** — *Monogatari Series: Second Season*
+> 🎭 **Yozora Mikazuki** — *Boku wa Tomodachi ga Sukunai*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
