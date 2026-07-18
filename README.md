@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Do you know where hell is? Inside your head."*
+> 💬 *"It's not good to expect too much, but you can't do anything if you're being overly pessimistic. If you just wait thinking it's useless, nothing will come of it."*
 >
-> 🎭 **Crona** — *Soul Eater*
+> 🎭 **Shinobu Oshino** — *Monogatari Series: Second Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
