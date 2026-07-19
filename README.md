@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Our battle will be concluded, and I will begin my reign from the summit of victory!"*
+> 💬 *"If you get all worked up yourself, you’ll always get someone who’ll rebel. Being too eager brings negative results."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Sagara Misae** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
