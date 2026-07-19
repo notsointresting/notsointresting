@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We believe that God exists. And he exists because we exist."*
+> 💬 *"Blaming others isn't going to resolve anything. There'll be a lot of things that are injust throughout your life. You will have to stand up by yourself."*
 >
-> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Kazuichi Arai** — *Kimi ni Todoke: From Me to You*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
