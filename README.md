@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Blaming others isn't going to resolve anything. There'll be a lot of things that are injust throughout your life. You will have to stand up by yourself."*
+> 💬 *"Number 58 of the 1,000 provisions I would like you to observe, never talk to me while I'm humming to myself. This is an important provision do you understand?"*
 >
-> 🎭 **Kazuichi Arai** — *Kimi ni Todoke: From Me to You*
+> 🎭 **Excalibur** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
