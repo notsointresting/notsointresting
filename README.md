@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hey, if you take a step over that line, your territorial law won't mean shit!"*
+> 💬 *"I find myself hard to understand sometimes."*
 >
-> 🎭 **Isao Kondō** — *Gintama*
+> 🎭 **Eru Chitanda** — *Hyouka*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
