@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I find myself hard to understand sometimes."*
+> 💬 *"I haven't said anything about letting them commit murder...yet."*
 >
-> 🎭 **Eru Chitanda** — *Hyouka*
+> 🎭 **L Lawliet** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
