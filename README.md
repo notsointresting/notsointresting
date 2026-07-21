@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Games are not boring. Games purify our souls and leave room for new development that challenges the mind! They are the products of human wisdom!"*
+> 💬 *"Being good guys for once would be super-dupulous!"*
 >
-> 🎭 **Seto Kaiba** — *Yu-Gi-Oh!*
+> 🎭 **Kojirou** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
