@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being good guys for once would be super-dupulous!"*
+> 💬 *"Just by living, people hurt others without even realizing it. So long as humanity exists, hate will also exist. There is no peace in this cursed world. War is just a crime paid for by the pain of the defeated..."*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Pain** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
