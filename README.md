@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I haven't said anything about letting them commit murder...yet."*
+> 💬 *"Games are not boring. Games purify our souls and leave room for new development that challenges the mind! They are the products of human wisdom!"*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Seto Kaiba** — *Yu-Gi-Oh!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
