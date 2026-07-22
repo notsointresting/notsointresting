@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No matter what, I’ll be always be your friend. No matter how far you go, I’ll be thinking about you everyday."*
+> 💬 *"All of life's journeys come with meetings, partings, and reunions."*
 >
-> 🎭 **Kamikita Komari** — *Little Busters!*
+> 🎭 **Meryl Stryfe** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
