@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Enemies Are Enemies...We're Only Using Them."*
+> 💬 *"There's no lack of painful things in this world, but hunger and loneliness must surely be two of the worst. Thanks to you, I didn't know a moment of either of them."*
 >
-> 🎭 **Aki Hayakawa** — *Chainsaw Man*
+> 🎭 **Sakae Jinnouchi** — *Summer Wars*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
