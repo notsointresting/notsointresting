@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A lot of something is ugly in itself."*
+> 💬 *"Enemies Are Enemies...We're Only Using Them."*
 >
-> 🎭 **Gilgamesh** — *Fate/stay night*
+> 🎭 **Aki Hayakawa** — *Chainsaw Man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
