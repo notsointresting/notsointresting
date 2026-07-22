@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"All of life's journeys come with meetings, partings, and reunions."*
+> 💬 *"A lot of something is ugly in itself."*
 >
-> 🎭 **Meryl Stryfe** — *Trigun*
+> 🎭 **Gilgamesh** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
