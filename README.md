@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you were in this situation, what would you have done? You would run after Byakuya...And then kick him in the butt, right? No matter how one captain complains, the Central Government won't change their decision for one person. But if it was you, you would still run around appealing to save Kuchiki...No. You would probably do something completely different. You always chose the path that lead to the most danger. Am I right...Kaien?"*
+> 💬 *"No matter how dark things may get, the special bond I share with my friends will always find a way to shine through! I may be scared, but that fear won't keep me from dueling!"*
 >
-> 🎭 **Ukitake Jyuushirou** — *Bleach*
+> 🎭 **Tea Gardner** — *Yu-Gi-Oh!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
