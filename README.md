@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What could that creep possibly be thinking sending sexy underwear to his own daughter."*
+> 💬 *"I want out of this damn moat!"*
 >
-> 🎭 **Maka Albarn** — *Soul Eater*
+> 🎭 **Guts** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
