@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are some things you can gain by letting some things go. Happiness isn't just what you have here and now."*
+> 💬 *"Those who willing to fight beside me in the battle forfreedom, come aboard my ship, I will change this world someday, I swear it."*
 >
-> 🎭 **Kunio Yaobi** — *Tamako Market*
+> 🎭 **Monkey D. Dragon** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
