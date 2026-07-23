@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I can get the target to move as I want, I’ve succeeded as a Hunter."*
+> 💬 *"What could that creep possibly be thinking sending sexy underwear to his own daughter."*
 >
-> 🎭 **Ging Freecss** — *Hunter x Hunter*
+> 🎭 **Maka Albarn** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
