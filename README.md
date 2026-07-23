@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No matter how dark things may get, the special bond I share with my friends will always find a way to shine through! I may be scared, but that fear won't keep me from dueling!"*
+> 💬 *"If I can get the target to move as I want, I’ve succeeded as a Hunter."*
 >
-> 🎭 **Tea Gardner** — *Yu-Gi-Oh!*
+> 🎭 **Ging Freecss** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
