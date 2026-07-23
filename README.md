@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I want out of this damn moat!"*
+> 💬 *"There are some things you can gain by letting some things go. Happiness isn't just what you have here and now."*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Kunio Yaobi** — *Tamako Market*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
