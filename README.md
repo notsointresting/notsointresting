@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ichigo...We can't...Watch any longer...Eachother's backs...I just can't...I just can't help you out anymore."*
+> 💬 *"If you're going to give up that easily, we have no hope."*
 >
-> 🎭 **Yasutora Sado** — *Bleach*
+> 🎭 **Shiroe** — *Log Horizon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
