@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html) 
-- [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html) 
-- [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html) 
-- [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html) 
+<!-- CYBER_NEWS:START -->- [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html) 
+- [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft&#39;s Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html) 
+- [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html) 
+- [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
