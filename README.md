@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When I say it doesn’t hurt me, that means I can bear it."*
+> 💬 *"To get what you want, you put up with something, make an effort, learn a skill, and inspire yourself. Is that how it is with Hinazuki too? Right now... I can tell she's enduring something. Just the opposite of me, she is pretending to be indifferent. She pretends to feel nothing, but a 10 year old girl isn't that strong."*
 >
-> 🎭 **Killua** — *Hunter x Hunter*
+> 🎭 **Satoru Fujinuma** — *Erased*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
