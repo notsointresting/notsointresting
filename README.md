@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nobody will be happy being told off for something they never did."*
+> 💬 *"Life sometimes deals you a bad hand and you make a lot of mistakes along the way, but as long as you believe in yourself and walk along your chosen path with a smile, everything will be alright."*
 >
-> 🎭 **Sakamoto Yuuji** — *Baka & Test - Summon the Beasts*
+> 🎭 **Narumi Anjo** — *Gakuen Alice*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
