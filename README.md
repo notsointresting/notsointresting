@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can take control of my mind and my body, but there is one thing a Saiyan always keep... his PRIDE!"*
+> 💬 *"Listen carefully because I'm only gonna say this once, I love you."*
 >
-> 🎭 **Vegeta** — *Dragon Ball*
+> 🎭 **Motoharu Yano** — *We Were There*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
