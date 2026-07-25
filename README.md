@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Listen carefully because I'm only gonna say this once, I love you."*
+> 💬 *"Everyone smiles, when they are with you. Please... from now on, go and help people in my place. Share your happiness with them."*
 >
-> 🎭 **Motoharu Yano** — *We Were There*
+> 🎭 **Yui** — *Sword Art Online*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
