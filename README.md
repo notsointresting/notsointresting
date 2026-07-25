@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everyone smiles, when they are with you. Please... from now on, go and help people in my place. Share your happiness with them."*
+> 💬 *"You're a strange one, all right. But having pride doesn't count for much if you're dead, you know?"*
 >
-> 🎭 **Yui** — *Sword Art Online*
+> 🎭 **Hige** — *Wolf's Rain*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
