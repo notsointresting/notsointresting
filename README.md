@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"He's just...he's still a child. There are still a lot of things he can't give up. There's no rush. (To Ayame about Yuki)"*
+> 💬 *"No, but I can learn. I'll bathe in blood. If that's what it takes to protect my friends, I'll take it. All the hatred, the disease. I'll take it as my own and end it."*
 >
-> 🎭 **Sohma Hatori** — *Fruits Basket*
+> 🎭 **Shū Ouma** — *Guilty Crown*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
