@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you're going to give up that easily, we have no hope."*
+> 💬 *"He's just...he's still a child. There are still a lot of things he can't give up. There's no rush. (To Ayame about Yuki)"*
 >
-> 🎭 **Shiroe** — *Log Horizon*
+> 🎭 **Sohma Hatori** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
