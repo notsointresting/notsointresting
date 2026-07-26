@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is only one truth."*
+> 💬 *"Kyon. The contest begins the second someone challenges you. Anything the loser says otherwise is merely an excuse."*
 >
-> 🎭 **Shinichi Kudou** — *Case Closed*
+> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
