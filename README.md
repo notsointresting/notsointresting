@@ -319,7 +319,7 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kyon. The contest begins the second someone challenges you. Anything the loser says otherwise is merely an excuse."*
+> 💬 *"Every school story has to have a maid character!"*
 >
 > 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
