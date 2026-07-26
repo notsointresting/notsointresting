@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sure there are things you can't do, things that seem impossible, but that's what makes everyone unique!"*
+> 💬 *"There is only one truth."*
 >
-> 🎭 **Rima Mashiro** — *Shugo Chara*
+> 🎭 **Shinichi Kudou** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
