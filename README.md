@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The quest to keep organs alive outside the body](https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/) 
-- [The Download: an organ transplant breakthrough, and homegrown Chinese chips](https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/) 
-- [Supercooled kidneys have been transplanted into pigs in a “landmark achievement”](https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/) 
-- [The Download: energy transmission and US threats against Chinese AI](https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/) 
+<!-- AI_NEWS:START -->- [The Download: lasers for nuclear fuel, and organ preservation advances](https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/) 
+- [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) 
+- [Closing the data loop in AI-driven drug discovery](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/) 
+- [Building the enterprise environment for agentic AI](https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/) 
 <!-- AI_NEWS:END -->
 
 </td>
