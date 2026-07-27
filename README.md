@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Tragic he said. I'm tragic?"*
+> 💬 *"*to a dying Elliot* I really liked you. It was only thanks to you that Gil managed to live in that house without forgetting how to smile."*
 >
-> 🎭 **Kikyo** — *InuYasha*
+> 🎭 **Vincent Nightray** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
