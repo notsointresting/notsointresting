@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Every school story has to have a maid character!"*
+> 💬 *"I think there are times people have to die… even if I don’t like it."*
 >
-> 🎭 **Haruhi Suzumiya** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Armin Arlert** — *Attack on Titan*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
