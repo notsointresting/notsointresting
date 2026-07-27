@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In the end the winner is still the last man standing."*
+> 💬 *"Tragic he said. I'm tragic?"*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Kikyo** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
