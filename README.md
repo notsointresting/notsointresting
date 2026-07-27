@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"From the moment I first saw you, you’ve looked so sad. Your face shows so much pain. Your eyes were like mine. They looked so sad, so hurt, so lonely… as if you couldn’t stand it."*
+> 💬 *"In the end the winner is still the last man standing."*
 >
-> 🎭 **Claymore** — *Claymore*
+> 🎭 **Guts** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
