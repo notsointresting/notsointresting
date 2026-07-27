@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I think there are times people have to die… even if I don’t like it."*
+> 💬 *"If you are weak, don't bare your fangs."*
 >
-> 🎭 **Armin Arlert** — *Attack on Titan*
+> 🎭 **Kiyomasa Senji** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
