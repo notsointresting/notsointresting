@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*to a dying Elliot* I really liked you. It was only thanks to you that Gil managed to live in that house without forgetting how to smile."*
+> 💬 *"I don’t want to change. I want to change. We all hold in our hearts conflicting feelings, each back to back. And so, we live our days."*
 >
-> 🎭 **Vincent Nightray** — *Pandora Hearts*
+> 🎭 **Dera Mochimazzi** — *Tamako Market*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
