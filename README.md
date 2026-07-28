@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I only have one chance to have my life, and it's right here. It's the only life I have. This is my life. I can't give it to anyone else, It can't be stolen, I can't force it on anyone, or forget it, or make it disappear, or trample on it, or laugh it away, or beautify it. I have no choice but to accept this one cruel, meaningless life! That's why I will fight, and why I will continue fighting."*
+> 💬 *"If you want to be strong, smile! He who can smile, even when he's so sad that he wants to die, when it's so painful that he wants to give it all up and run away, is the one who becomes strong."*
 >
-> 🎭 **Yuri Nakamura** — *Angel Beats!*
+> 🎭 **Atro Spiker** — *Rokka: Braves of the Six Flowers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
