@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t want to change. I want to change. We all hold in our hearts conflicting feelings, each back to back. And so, we live our days."*
+> 💬 *"While I was with you guys, I became more human. I didn't like that. I even have a family and started to like living on earth."*
 >
-> 🎭 **Dera Mochimazzi** — *Tamako Market*
+> 🎭 **Vegeta** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
