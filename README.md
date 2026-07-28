@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"While I was with you guys, I became more human. I didn't like that. I even have a family and started to like living on earth."*
+> 💬 *"Whenever I get up in the morning, I always think to myself, "Am I really the same person I was yesterday?" For example, just as a computer loads its OS into memory and boots up each time it restarts, is it possible I'm just booting up the person called "Saikawa Sohuei" each morning and trying to play that role?"*
 >
-> 🎭 **Vegeta** — *Dragon Ball*
+> 🎭 **Souhei Saikawa** — *The Perfect Insider*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
