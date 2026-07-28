@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) 
+<!-- AI_NEWS:START -->- [The Download: OpenAI’s predictable hack, and an AI stock sell-off](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/) 
+- [Samsung’s chip workers are jumping ship to rival SK Hynix](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/) 
+- [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/) 
 - [How lasers could help provide fuel for nuclear reactors](https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/) 
-- [The Download: lasers for nuclear fuel, and organ preservation advances](https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/) 
-- [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/) 
 <!-- AI_NEWS:END -->
 
 </td>
