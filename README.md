@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Each person has his or her own way of having fun."*
+> 💬 *"Grown-ups are idiots. If they really want to bring an end to this endless fighting, they need to sit down with one another and reach a truce."*
 >
-> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Tobirama Senju** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
