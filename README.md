@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: a chip talent battle, and deflating AI hype](https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/) 
+<!-- AI_NEWS:START -->- [How an overlooked geothermal plant got a second chance](https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/) 
+- [The Download: a chip talent battle, and deflating AI hype](https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/) 
 - [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/) 
 - [The Download: OpenAI’s predictable hack, and an AI stock sell-off](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/) 
-- [Samsung’s chip workers are jumping ship to rival SK Hynix](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/) 
 <!-- AI_NEWS:END -->
 
 </td>
