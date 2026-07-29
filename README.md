@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"And so it all begins. This boy's name is Yusuke. He's 14 years old and is supposed to be the hero of the story... but oddly enough, he's dead."*
+> 💬 *"Each person has his or her own way of having fun."*
 >
-> 🎭 **Yu Yu Hakusho** — *Yu Yu Hakusho*
+> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
