@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Humans only can reveal their true potential during an absolutely critical situation."*
+> 💬 *"Total victory is scoring an easy win by doing what you always do."*
 >
-> 🎭 **Anna Kyouyama** — *Shaman King*
+> 🎭 **Karma Akabane** — *Assassination Classroom*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
