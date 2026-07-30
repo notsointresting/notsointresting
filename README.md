@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Their mistakes were simple ones. Gouki's mistake was being overconfident and Kurama's... sympathy for his human prey."*
+> 💬 *"Darkness. When everything that you know and love is taken away from you so harshly. All you can think about is anger, hatred and even revenge. And no one can save you."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Orochimaru** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
