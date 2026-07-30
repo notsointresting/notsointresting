@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You don't have to worry about being special or normal compared to everyone else! It doesn't matter who it is. So as long as they think you're special, then you're special."*
+> 💬 *"A flower can't choose the place where it blooms and a child can't choose the parents he's born to."*
 >
-> 🎭 **Eru Chitanda** — *Hyouka*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
