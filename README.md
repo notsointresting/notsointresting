@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me."*
+> 💬 *"You don't have to worry about being special or normal compared to everyone else! It doesn't matter who it is. So as long as they think you're special, then you're special."*
 >
-> 🎭 **Alois Trancy** — *Black Butler*
+> 🎭 **Eru Chitanda** — *Hyouka*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
