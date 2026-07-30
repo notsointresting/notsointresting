@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You should cry while you still can. When you get bigger, sometimes, you can't cry even if you have something you wanna cry about."*
+> 💬 *"I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me."*
 >
-> 🎭 **Okazaki Tomoya** — *Clannad*
+> 🎭 **Alois Trancy** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
