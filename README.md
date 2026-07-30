@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Grown-ups are idiots. If they really want to bring an end to this endless fighting, they need to sit down with one another and reach a truce."*
+> 💬 *"You should cry while you still can. When you get bigger, sometimes, you can't cry even if you have something you wanna cry about."*
 >
-> 🎭 **Tobirama Senju** — *Naruto*
+> 🎭 **Okazaki Tomoya** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
