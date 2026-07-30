@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A flower can't choose the place where it blooms and a child can't choose the parents he's born to."*
+> 💬 *"Their mistakes were simple ones. Gouki's mistake was being overconfident and Kurama's... sympathy for his human prey."*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
