@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html) 
-- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html) 
-- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html) 
-- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html) 
+<!-- CYBER_NEWS:START -->- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html) 
+- [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html) 
+- [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html) 
+- [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
