@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Darkness. When everything that you know and love is taken away from you so harshly. All you can think about is anger, hatred and even revenge. And no one can save you."*
+> 💬 *"There's nothing that won't change, every day things will change a little bit more."*
 >
-> 🎭 **Orochimaru** — *Naruto*
+> 🎭 **Ganta Igarashi** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
