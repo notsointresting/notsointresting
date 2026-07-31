@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's impossible for humans to forget their emotions."*
+> 💬 *"I never... [chuckles]... laughed this hard in front of my parents.(to Tohru)"*
 >
-> 🎭 **Wolfgang Grimmer** — *Monster*
+> 🎭 **Sohma Yuki** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
