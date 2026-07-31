@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's nothing that won't change, every day things will change a little bit more."*
+> 💬 *"It's impossible for humans to forget their emotions."*
 >
-> 🎭 **Ganta Igarashi** — *Deadman Wonderland*
+> 🎭 **Wolfgang Grimmer** — *Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
