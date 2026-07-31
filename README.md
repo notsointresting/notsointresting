@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Once my stomach settles down... You better be prepared, 'cause we'll really give you something to cry about in the mat... ugh... ch... uughh..."*
+> 💬 *"Without love, people could exist without knowing truth and falsehood. By knowing it, they cry and grief and get lost. I was the same back then."*
 >
-> 🎭 **Shōyō Hinata** — *Haikyu!!*
+> 🎭 **Furudo Erika** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
