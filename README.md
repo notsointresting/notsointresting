@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Without love, people could exist without knowing truth and falsehood. By knowing it, they cry and grief and get lost. I was the same back then."*
+> 💬 *"Those who regretted their own actions. I would never trample over them. Because demons were once human, too. Just like me, they were human, too."*
 >
-> 🎭 **Furudo Erika** — *Umineko: When They Cry*
+> 🎭 **Tanjiro Kamado** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
