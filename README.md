@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I never... [chuckles]... laughed this hard in front of my parents.(to Tohru)"*
+> 💬 *"Once my stomach settles down... You better be prepared, 'cause we'll really give you something to cry about in the mat... ugh... ch... uughh..."*
 >
-> 🎭 **Sohma Yuki** — *Fruits Basket*
+> 🎭 **Shōyō Hinata** — *Haikyu!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
