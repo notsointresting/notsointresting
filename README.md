@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/) 
+<!-- AI_NEWS:START -->- [The Download: Montana’s new experimental drug rules](https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/) 
+- [Montana’s new “right to try” law can’t come soon enough for some](https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/) 
+- [Montana’s plan to become an experimental medical hub just pushed forward](https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/) 
 - [The Download: tricking LLMs, and reviving geothermal plants](https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/) 
-- [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/) 
-- [How an overlooked geothermal plant got a second chance](https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/) 
 <!-- AI_NEWS:END -->
 
 </td>
