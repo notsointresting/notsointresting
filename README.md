@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those who regretted their own actions. I would never trample over them. Because demons were once human, too. Just like me, they were human, too."*
+> 💬 *"Is that so? Then I'll just use "pathetic" next time."*
 >
-> 🎭 **Tanjiro Kamado** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
