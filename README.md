@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *""True to herself", "True to myself". We all have our own personal image that's dictated by others, one that's always off the mark. We wish to remain true to ourselves, but who gets to decide who we are as people? When our image never goes hand-in-hand with reality, where can we find something genuine? Where can we find our true selves?"*
+> 💬 *"[to Ichigo] You're a Soul Reaper and I'm a Hollow. Whichever side loses will be massacred! It's been that way for over a thousand years! Who needs any more reason than that?! Now bring it! The last man standing gets to go home alive! That's all there is to it!"*
 >
-> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU TOO!*
+> 🎭 **Grimmjow Jeagerjaques** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
