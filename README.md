@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to Ichigo] You're a Soul Reaper and I'm a Hollow. Whichever side loses will be massacred! It's been that way for over a thousand years! Who needs any more reason than that?! Now bring it! The last man standing gets to go home alive! That's all there is to it!"*
+> 💬 *"A traveler does not leave regret behind in a village, but good memories."*
 >
-> 🎭 **Grimmjow Jeagerjaques** — *Bleach*
+> 🎭 **Kraft Lawrence** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
