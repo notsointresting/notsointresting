@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A traveler does not leave regret behind in a village, but good memories."*
+> 💬 *"I will get back up as often as it takes, and each time, I won't be beaten."*
 >
-> 🎭 **Kraft Lawrence** — *Spice and Wolf*
+> 🎭 **Shinra Kusakabe** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
