@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will get back up as often as it takes, and each time, I won't be beaten."*
+> 💬 *"What's been troubling me lately are these small farewells that make me feel a bit lonely. Brief meetings and farewells. I want to treasure each and every moment."*
 >
-> 🎭 **Shinra Kusakabe** — *Fire Force*
+> 🎭 **Takashi Natsume** — *Natsume's Book of Friends*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
