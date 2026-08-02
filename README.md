@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I just wanna enjoy myself. Seriously. Do some leisurely patrolling, put in a few appearances, say Aw shucks, no trouble today, and get a good night’s sleep! That’s my ideal life! I wanna make this world one where heroes have time to kill."*
+> 💬 *"*commenting on Haruhi's naming of the SOS brigade* Haruhi's incomprehensible words settled the matter. Oh, joy. Just do whatever you want."*
 >
-> 🎭 **Keigo Takami** — *My Hero Academia*
+> 🎭 **Kyon** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
