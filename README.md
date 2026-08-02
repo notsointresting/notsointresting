@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...As they played the game...I waited for someone to call "onigiri". But no one called. I was very little then. I had almost forgotten about that. But they knew...there would never be room for an onigiri...in a fruits basket."*
+> 💬 *"If I can, I'd prefer nobody to be sad."*
 >
-> 🎭 **Honda Tohru** — *Fruits Basket*
+> 🎭 **Emiya Kiritsugu** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
