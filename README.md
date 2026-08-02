@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Rule breakers should be punished. If you go easy on them, they'll think explaining their circumstances will get them forgiven, and the same thing will only happen again."*
+> 💬 *"What's important, is to know fear and yet take a step forward."*
 >
-> 🎭 **Myouri Unzen** — *Medaka Box*
+> 🎭 **Rosette Christopher** — *Chrono Crusade*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
