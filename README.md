@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What's important, is to know fear and yet take a step forward."*
+> 💬 *"I just wanna enjoy myself. Seriously. Do some leisurely patrolling, put in a few appearances, say Aw shucks, no trouble today, and get a good night’s sleep! That’s my ideal life! I wanna make this world one where heroes have time to kill."*
 >
-> 🎭 **Rosette Christopher** — *Chrono Crusade*
+> 🎭 **Keigo Takami** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
