@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*commenting on Haruhi's naming of the SOS brigade* Haruhi's incomprehensible words settled the matter. Oh, joy. Just do whatever you want."*
+> 💬 *"...As they played the game...I waited for someone to call "onigiri". But no one called. I was very little then. I had almost forgotten about that. But they knew...there would never be room for an onigiri...in a fruits basket."*
 >
-> 🎭 **Kyon** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Honda Tohru** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
