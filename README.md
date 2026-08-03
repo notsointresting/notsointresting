@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You've only seen one of my dances."*
+> 💬 *"[Vegeta's last thought before he dies fighting Majin Buu] Bulma, Trunks. This is for you."*
 >
-> 🎭 **Kimimaro** — *Naruto*
+> 🎭 **Vegeta** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
