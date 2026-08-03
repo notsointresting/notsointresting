@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[Vegeta's last thought before he dies fighting Majin Buu] Bulma, Trunks. This is for you."*
+> 💬 *"Oh, I'm sorry. Her head's so empty, so I mistook her for a vase and put flowers in her. You might want to spit that out quick, though. Those can be quite poisonous."*
 >
-> 🎭 **Vegeta** — *Dragon Ball*
+> 🎭 **Ino Yamanaka** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
