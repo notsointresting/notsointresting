@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ugly? I'll have you know they call me The Rose of Martial Arts around here!"*
+> 💬 *"My heart was beating so fast, that one heart wasn't enough."*
 >
-> 🎭 **Kaoru Kamiya** — *Rurouni Kenshin*
+> 🎭 **Ritsu Onodera** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
