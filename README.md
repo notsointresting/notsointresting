@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I can, I'd prefer nobody to be sad."*
+> 💬 *"Ugly? I'll have you know they call me The Rose of Martial Arts around here!"*
 >
-> 🎭 **Emiya Kiritsugu** — *Fate/stay night*
+> 🎭 **Kaoru Kamiya** — *Rurouni Kenshin*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
