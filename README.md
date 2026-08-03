@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"My heart was beating so fast, that one heart wasn't enough."*
+> 💬 *"You've only seen one of my dances."*
 >
-> 🎭 **Ritsu Onodera** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
+> 🎭 **Kimimaro** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
