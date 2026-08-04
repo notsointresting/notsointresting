@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you leave, I'll probably be sad. However, if there's somewhere else you'd rather be, you should admit it. Don't lose sight of what you really want."*
+> 💬 *"You need to decide where you belong before anything else. If you can do that, you can decide what you want to do."*
 >
-> 🎭 **Shizuku Mizutani** — *My Little Monster*
+> 🎭 **Jin Mitaka** — *The Pet Girl of Sakurasou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
