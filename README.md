@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's better to be hurt than to hurt others. Nice people can be happy with just that."*
+> 💬 *"In this world, there is only one demon whose blood flowing in its veins has the power to turn humans into demons."*
 >
-> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
+> 🎭 **Muzan Kibutsuji** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
