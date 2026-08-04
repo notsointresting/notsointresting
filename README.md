@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are people in this world who don't understand that what they consider a harmless prank can deeply hurt someone else."*
+> 💬 *"It's better to be hurt than to hurt others. Nice people can be happy with just that."*
 >
-> 🎭 **Mio Nishizono** — *Little Busters!*
+> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
