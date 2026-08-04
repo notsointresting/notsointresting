@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I have a lot of different words desperately trying to get my message across. However, you, were able to pass on what you wanted to say with just a few of them."*
+> 💬 *"If you leave, I'll probably be sad. However, if there's somewhere else you'd rather be, you should admit it. Don't lose sight of what you really want."*
 >
-> 🎭 **Akihiko Usami** — *Junjo Romantica*
+> 🎭 **Shizuku Mizutani** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
