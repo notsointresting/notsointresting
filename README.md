@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"My name is Krad. But you do not have to remember it, because here you will die."*
+> 💬 *"I have a lot of different words desperately trying to get my message across. However, you, were able to pass on what you wanted to say with just a few of them."*
 >
-> 🎭 **Krad** — *D.N.Angel*
+> 🎭 **Akihiko Usami** — *Junjo Romantica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
