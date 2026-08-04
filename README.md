@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You need to decide where you belong before anything else. If you can do that, you can decide what you want to do."*
+> 💬 *"There are people in this world who don't understand that what they consider a harmless prank can deeply hurt someone else."*
 >
-> 🎭 **Jin Mitaka** — *The Pet Girl of Sakurasou*
+> 🎭 **Mio Nishizono** — *Little Busters!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
