@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: NASA’s new telescope and Chinese tech import curbs](https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/) 
+<!-- AI_NEWS:START -->- [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) 
+- [The Download: NASA’s new telescope and Chinese tech import curbs](https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/) 
 - [NASA’s new dark-energy space telescope can also detect killer asteroids](https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/) 
 - [The Download: US robot restrictions and ICE’s DNA grab](https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/) 
-- [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/) 
 <!-- AI_NEWS:END -->
 
 </td>
