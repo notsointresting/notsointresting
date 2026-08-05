@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can't feel lonely if there's no one else around."*
+> 💬 *"To hate something that you used to love is such a painful feeling."*
 >
-> 🎭 **Kenji Yamaguchi** — *My Little Monster*
+> 🎭 **Ciel Phantomhive** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
