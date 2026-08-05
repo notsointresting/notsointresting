@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No, she's hiding something. But what could it be? Snacks? Guitar? Wait, maybe ton-chan."*
+> 💬 *"If you keep your vision clear you will see the future. What happens in our future is our own responsibility."*
 >
-> 🎭 **Sawako Yamanaka** — *K-ON!*
+> 🎭 **Rem Saverem** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
