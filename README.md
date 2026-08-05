@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you keep your vision clear you will see the future. What happens in our future is our own responsibility."*
+> 💬 *"I didn’t choose you. Don’t you see this is all just an accident. You actually thought you were chosen because you’re so smart or something? Don’t be so vain. It just happened to fall around here and you just happen to pick it up, and that’s all there is to it."*
 >
-> 🎭 **Rem Saverem** — *Trigun*
+> 🎭 **Ryuk** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
