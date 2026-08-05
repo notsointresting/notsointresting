@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was afraid of the me that didn't know what he wanted to do. And the days just keep on moving. But even then If I keep on going like this, will I be able to see it? Maybe someday."*
+> 💬 *"You can't feel lonely if there's no one else around."*
 >
-> 🎭 **Yuuta Takemoto** — *Honey and Clover*
+> 🎭 **Kenji Yamaguchi** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
