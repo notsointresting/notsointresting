@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html) 
-- [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html) 
-- [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html) 
-- [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html) 
+<!-- CYBER_NEWS:START -->- [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html) 
+- [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html) 
+- [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html) 
+- [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
