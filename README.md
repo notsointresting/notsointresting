@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In this world, there is only one demon whose blood flowing in its veins has the power to turn humans into demons."*
+> 💬 *"No, she's hiding something. But what could it be? Snacks? Guitar? Wait, maybe ton-chan."*
 >
-> 🎭 **Muzan Kibutsuji** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Sawako Yamanaka** — *K-ON!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
