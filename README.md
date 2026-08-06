@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"My grandfather's deck has no pathetic cards, Kaiba. But it does contain... the unstoppable Exodia!"*
+> 💬 *"I've done it! After years of climbing the ladder, I've finally made it! Now that I have control of all good, no one can stop me! I now rule the human race! First, I will restore all the long-abandoned customs! Control the people! Control the goods! Control the economy! Once that's done, I can easily take over the nation! I'm in position to wield all of the power! Time to implement a dictatorial democracy! I can be a tyrant!"*
 >
-> 🎭 **Yami Yugi** — *Yu-Gi-Oh!*
+> 🎭 **UNESCO Director** — *Humanity Has Declined*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
