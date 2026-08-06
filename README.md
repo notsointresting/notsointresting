@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There're too many people who worry about the things I don't worry about."*
+> 💬 *"This is vengeance, so I am to ferry you to hell."*
 >
-> 🎭 **Takeshi Nanase** — *Magical Warfare*
+> 🎭 **Ai Enma** — *Hell Girl*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
