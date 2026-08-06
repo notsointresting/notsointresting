@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) 
+<!-- AI_NEWS:START -->- [The Download: Google’s AI shake-up and Meta’s rogue model](https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/) 
+- [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) 
 - [The Download: NASA’s new telescope and Chinese tech import curbs](https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/) 
 - [NASA’s new dark-energy space telescope can also detect killer asteroids](https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/) 
-- [The Download: US robot restrictions and ICE’s DNA grab](https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/) 
 <!-- AI_NEWS:END -->
 
 </td>
