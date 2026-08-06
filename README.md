@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"To hate something that you used to love is such a painful feeling."*
+> 💬 *"There're too many people who worry about the things I don't worry about."*
 >
-> 🎭 **Ciel Phantomhive** — *Black Butler*
+> 🎭 **Takeshi Nanase** — *Magical Warfare*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
