@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This is vengeance, so I am to ferry you to hell."*
+> 💬 *"My grandfather's deck has no pathetic cards, Kaiba. But it does contain... the unstoppable Exodia!"*
 >
-> 🎭 **Ai Enma** — *Hell Girl*
+> 🎭 **Yami Yugi** — *Yu-Gi-Oh!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
