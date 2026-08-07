@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I have no intention of risking my own life to save someone I had no intention of saving in the first place."*
+> 💬 *"I feel confined, only free to expand myself within boundaries."*
 >
-> 🎭 **Megumi Fushiguro** — *Jujutsu Kaisen*
+> 🎭 **Motoko Kusanagi** — *Ghost in the Shell*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
