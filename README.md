@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I've done it! After years of climbing the ladder, I've finally made it! Now that I have control of all good, no one can stop me! I now rule the human race! First, I will restore all the long-abandoned customs! Control the people! Control the goods! Control the economy! Once that's done, I can easily take over the nation! I'm in position to wield all of the power! Time to implement a dictatorial democracy! I can be a tyrant!"*
+> 💬 *"You find a glimmer of hope, only to lose it. That is when your despair tastes the most divine."*
 >
-> 🎭 **UNESCO Director** — *Humanity Has Declined*
+> 🎭 **Takaya Kurisu** — *Amagi Brilliant Park*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
