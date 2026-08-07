@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you lose sight of your path, listen for the destination in your heart."*
+> 💬 *"I have no intention of risking my own life to save someone I had no intention of saving in the first place."*
 >
-> 🎭 **Allen Walker** — *D.Gray-man*
+> 🎭 **Megumi Fushiguro** — *Jujutsu Kaisen*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
