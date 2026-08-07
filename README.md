@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You find a glimmer of hope, only to lose it. That is when your despair tastes the most divine."*
+> 💬 *"War is merely one method of diplomacy. However, it is the least efficient one."*
 >
-> 🎭 **Takaya Kurisu** — *Amagi Brilliant Park*
+> 🎭 **Bismarck Waldstein** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
