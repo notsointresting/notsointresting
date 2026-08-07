@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"War is merely one method of diplomacy. However, it is the least efficient one."*
+> 💬 *"When you lose sight of your path, listen for the destination in your heart."*
 >
-> 🎭 **Bismarck Waldstein** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Allen Walker** — *D.Gray-man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
