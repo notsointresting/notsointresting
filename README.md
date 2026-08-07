@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I feel confined, only free to expand myself within boundaries."*
+> 💬 *"Fake people have an image to maintain. Real people just don't care."*
 >
-> 🎭 **Motoko Kusanagi** — *Ghost in the Shell*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
