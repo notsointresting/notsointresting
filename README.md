@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm crazy!? What's crazy is this world that refuses to let me be with you!!!"*
+> 💬 *"Only those who have suffered long, can see the light within the shadows"*
 >
-> 🎭 **Gasai Yuno** — *The Future Diary*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
