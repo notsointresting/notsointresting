@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm the sniper king, sogeking."*
+> 💬 *"If you're lonely, you should say something! If you're worried, say something! Most people aren't as sharp as you are! If you want those people to understand you, you should say something! Even if you're worried that you'll embarrass yourself, you should still say something!"*
 >
-> 🎭 **Usopp** — *One Piece*
+> 🎭 **Iori Nagase** — *Kokoro Connect*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
