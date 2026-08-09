@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Change will never come about if you don't make it happen."*
+> 💬 *"The weak always cling to words, and those with power die for those without it."*
 >
-> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Claymore** — *Claymore*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
