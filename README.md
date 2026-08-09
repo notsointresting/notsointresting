@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Who cares about school?! The real me lives on the Internet!"*
+> 💬 *"I can't surpress my feeling anymore. When she gets confused, I will still her back. Yes I know I am selfish, I don't care."*
 >
-> 🎭 **Natsume Asako** — *My Little Monster*
+> 🎭 **Kou Mabuchi** — *Blue Spring Ride*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
