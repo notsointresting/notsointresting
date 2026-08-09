@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is a meaning for wings that cannot fly! It's a precious memory of when you once flew in the sky."*
+> 💬 *"Change will never come about if you don't make it happen."*
 >
-> 🎭 **Yukito Kunisaki** — *Air*
+> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
