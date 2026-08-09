@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Only those who have suffered long, can see the light within the shadows"*
+> 💬 *"There is a meaning for wings that cannot fly! It's a precious memory of when you once flew in the sky."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Yukito Kunisaki** — *Air*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
