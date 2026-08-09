@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In this world, there is only good and evil, that was the first universal truths I grasped from observing the world around me when I was a child. Every human being without exception ends up falling into one category or the other."*
+> 💬 *"Who cares about school?! The real me lives on the Internet!"*
 >
-> 🎭 **Mikami Teru** — *Death Note*
+> 🎭 **Natsume Asako** — *My Little Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
