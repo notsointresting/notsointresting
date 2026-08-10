@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: a censorship conspiracy theory and the first virus created by AI](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/) 
-- [How ideas of a vast censorship network moved from the online fringe to Trump policy](https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/) 
-- [The Download: Google’s AI shake-up and Meta’s rogue model](https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/) 
-- [Puzzle Corner](https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/) 
+<!-- AI_NEWS:START -->- [The Download: AI agents for science, and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/) 
+- [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/) 
+- [These startups are chasing the next big thing in LLMs](https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/) 
+- [The Download: a censorship conspiracy theory and the first virus created by AI](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/) 
 <!-- AI_NEWS:END -->
 
 </td>
