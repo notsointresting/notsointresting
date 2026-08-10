@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you really want to be strong... Stop caring about what your surrounding thinks of you!"*
+> 💬 *"[To Rukia as she is taken to Sokyoku Hill] Bye Bye, Rukia chan! See 'ya at the execution grounds."*
 >
-> 🎭 **Saitama** — *One Punch Man*
+> 🎭 **Ichimaru Gin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
