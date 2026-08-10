@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Well, nothing in life is ever certain."*
+> 💬 *"If you really want to be strong... Stop caring about what your surrounding thinks of you!"*
 >
-> 🎭 **Watashi** — *Humanity Has Declined*
+> 🎭 **Saitama** — *One Punch Man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
