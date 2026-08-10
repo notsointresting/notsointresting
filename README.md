@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's more cruel to give someone false hope, you know."*
+> 💬 *"Can anyone hear me? I'm the first man in space. If you look up, well, maybe you'll see it. Or at least please listen. We've left the oceans and climbed above the mountains. I'm flying. We've found the untouched realm of God. You have to look now, it's your only chance. Nothing is here yet, not even air or water to ruin. Soon the next man will follow to touch it, and another, and in all the rush, we may again destroy it. Maybe our killing comes from the madness of being confined. Please listen, there's no more reason to kill because we don't have any more borders now! Can anyone hear me? If you can hear me, then pray. The humblest of all things, the most noble – pray for each step you take. Make a path that is safe so that those who follow you will never stumble. Dear God, please give us your mercy - mercy for we are lost. Forgive the irresponsible, the trivial men who beg you from the dark for the forgiveness of your light."*
 >
-> 🎭 **Michiru Kinushima** — *Plastic Memories*
+> 🎭 **Shirotsugh Lhadatt** — *Royal Space Force: The Wings of Honneamise*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
