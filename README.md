@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Rukia as she is taken to Sokyoku Hill] Bye Bye, Rukia chan! See 'ya at the execution grounds."*
+> 💬 *"It's more cruel to give someone false hope, you know."*
 >
-> 🎭 **Ichimaru Gin** — *Bleach*
+> 🎭 **Michiru Kinushima** — *Plastic Memories*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
