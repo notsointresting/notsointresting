@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't surpress my feeling anymore. When she gets confused, I will still her back. Yes I know I am selfish, I don't care."*
+> 💬 *"Those bound by superficial rules who do not use their pawns to the utmost are fools."*
 >
-> 🎭 **Kou Mabuchi** — *Blue Spring Ride*
+> 🎭 **Ciel Phantomhive** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
