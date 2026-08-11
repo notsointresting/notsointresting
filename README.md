@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"99% of perception that normal humans have are closed off. Those who don't think of themselves are quite foolish beings."*
+> 💬 *"The longer you're with someone, the tougher it is to part ways."*
 >
-> 🎭 **Okabe Rintarou** — *Steins;Gate*
+> 🎭 **Sawako Kuronuma** — *Kimi ni Todoke: From Me to You*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
