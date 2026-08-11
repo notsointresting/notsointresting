@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What is the resulting amperage when applying 3.0V to a conductor with 20ohm resistance?"*
+> 💬 *"He wouldn't notice if I got a crew cut, shaved my head bald, or even grew an afro!"*
 >
-> 🎭 **Yuzuru Otonashi** — *Angel Beats!*
+> 🎭 **Riku Harada** — *D.N.Angel*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
