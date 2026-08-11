@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"He wouldn't notice if I got a crew cut, shaved my head bald, or even grew an afro!"*
+> 💬 *"99% of perception that normal humans have are closed off. Those who don't think of themselves are quite foolish beings."*
 >
-> 🎭 **Riku Harada** — *D.N.Angel*
+> 🎭 **Okabe Rintarou** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
