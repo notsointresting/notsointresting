@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Modern-day saints carry assault rifles, and spread the word of God with their bullets."*
+> 💬 *"The root of all evil is the kotatsu."*
 >
-> 🎭 **Koko Hekmatyar** — *Jormungand*
+> 🎭 **Chiaki Shinichi** — *Nodame Cantabile*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
