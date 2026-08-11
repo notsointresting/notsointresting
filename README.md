@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The longer you're with someone, the tougher it is to part ways."*
+> 💬 *"Modern-day saints carry assault rifles, and spread the word of God with their bullets."*
 >
-> 🎭 **Sawako Kuronuma** — *Kimi ni Todoke: From Me to You*
+> 🎭 **Koko Hekmatyar** — *Jormungand*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
