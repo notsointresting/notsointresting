@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You got away with just physical damage, but I'm going to take CRITICAL MENTAL DAMAGE!"*
+> 💬 *"Ever since that day, I've kept this broom balanced on my fingertip."*
 >
-> 🎭 **Ooyama** — *Angel Beats!*
+> 🎭 **Shiina** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
