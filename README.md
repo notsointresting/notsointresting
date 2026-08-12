@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The root of all evil is the kotatsu."*
+> 💬 *"Deceive your other self. Deceive the world. That is what you must do to reach the Steins Gate. Good Luck. El Psy Congroo."*
 >
-> 🎭 **Chiaki Shinichi** — *Nodame Cantabile*
+> 🎭 **Okabe Rintarou** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
