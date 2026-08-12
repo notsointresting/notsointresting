@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ever since that day, I've kept this broom balanced on my fingertip."*
+> 💬 *"Pitiful shadow cloaked in darkness. Thy action cause men pain and suffering. Thy hollow soul drowns in thy sins. How would you like to see what death is like?"*
 >
-> 🎭 **Shiina** — *Angel Beats!*
+> 🎭 **Ai Enma** — *Hell Girl*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
