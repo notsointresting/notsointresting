@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Deceive your other self. Deceive the world. That is what you must do to reach the Steins Gate. Good Luck. El Psy Congroo."*
+> 💬 *"Ever since that day, I've kept this broom balanced on my fingertip."*
 >
-> 🎭 **Okabe Rintarou** — *Steins;Gate*
+> 🎭 **Shiina** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
