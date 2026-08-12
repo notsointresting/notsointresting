@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If the only way to be granted life in this world is to surrender my body and soul to insanity, then I shall choose to meet my doom!"*
+> 💬 *"You got away with just physical damage, but I'm going to take CRITICAL MENTAL DAMAGE!"*
 >
-> 🎭 **Keigo Oonishi** — *Texhnolyze*
+> 🎭 **Ooyama** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
