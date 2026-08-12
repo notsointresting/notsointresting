@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pitiful shadow cloaked in darkness. Thy action cause men pain and suffering. Thy hollow soul drowns in thy sins. How would you like to see what death is like?"*
+> 💬 *"If the only way to be granted life in this world is to surrender my body and soul to insanity, then I shall choose to meet my doom!"*
 >
-> 🎭 **Ai Enma** — *Hell Girl*
+> 🎭 **Keigo Oonishi** — *Texhnolyze*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
