@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/) 
+<!-- AI_NEWS:START -->- [Scientists just created female clones of male mice](https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/) 
+- [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/) 
 - [The Download: our 35 young innovators and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/) 
 - [How we picked 35 of the world’s top young scientists and engineers](https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/) 
-- [How the “censorship-industrial complex” is changing the internet and US policy](https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/) 
 <!-- AI_NEWS:END -->
 
 </td>
