@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Traditions that don't benefit people today are worthless."*
+> 💬 *"The zipper is a window to society."*
 >
-> 🎭 **Tachibana Chika** — *Nisekoi: False Love*
+> 🎭 **Kotarō Katsura** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
