@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/) 
+<!-- AI_NEWS:START -->- [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/) 
+- [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) 
+- [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/) 
 - [What’s behind this summer’s heat, and why 2027 could be worse](https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/) 
-- [How kids feel about AI, in their own words](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/) 
-- [Scientists just created female clones of male mice](https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/) 
 <!-- AI_NEWS:END -->
 
 </td>
