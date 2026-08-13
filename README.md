@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those who use cheating as their weapon, will be strangled by cheating in the end."*
+> 💬 *"Give advice and good guidance, then halt if such is of no avail. Do not disgrace yourself for it."*
 >
-> 🎭 **Toua Tokuchi** — *One Outs*
+> 🎭 **Takaaki Morofushi** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
