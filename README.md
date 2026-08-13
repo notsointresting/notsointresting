@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Give advice and good guidance, then halt if such is of no avail. Do not disgrace yourself for it."*
+> 💬 *"Just as there isn't a problem that can't be solved by being right, there isn't a problem that can't be solved by money."*
 >
-> 🎭 **Takaaki Morofushi** — *Case Closed*
+> 🎭 **Deishū Kaiki** — *Nisemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
