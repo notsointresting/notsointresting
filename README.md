@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Protecting what we cherish most as men is the reason why we formed this pirate crew!"*
+> 💬 *"Traditions that don't benefit people today are worthless."*
 >
-> 🎭 **Usopp** — *One Piece*
+> 🎭 **Tachibana Chika** — *Nisekoi: False Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
