@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ever since that day, I've kept this broom balanced on my fingertip."*
+> 💬 *"Those who use cheating as their weapon, will be strangled by cheating in the end."*
 >
-> 🎭 **Shiina** — *Angel Beats!*
+> 🎭 **Toua Tokuchi** — *One Outs*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
