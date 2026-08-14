@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Crying is the same thing as pouring all your frustations and regrets out of your body. You may use it as a weapon, but that's just too easy. Whenever you feel like crying, just smile instead. That's what it means to be a man. You get it?"*
+> 💬 *"Memories - they can sometimes become vague and foggy and there are times when they disappear altogether. Therefore, because there are many things I don't want to lose track of, I will record everything in here (his diary) for the sake of those moments that should not be forgotten."*
 >
-> 🎭 **Tatsumi Oga** — *Beelzebub*
+> 🎭 **Keisuke Urashima** — *Love Hina*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
