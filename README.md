@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/) 
-- [Building a practical path to post-quantum cryptography](https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/) 
-- [Flock is tightening its rules in response to a growing surveillance backlash](https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/) 
-- [The Download: kids’ thoughts on AI, and female clones of male mice](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/) 
+<!-- AI_NEWS:START -->- [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) 
+- [This scientist is helping build a missing map of childhood](https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/) 
+- [Job titles of the future: Space travel agent](https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/) 
+- [Cloning could be used to save species—or make human “organ sacks”](https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/) 
 <!-- AI_NEWS:END -->
 
 </td>
