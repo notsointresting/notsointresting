@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Strength is the only thing that matters in this world. Everything else is just a delusion for the weak."*
+> 💬 *"No matter what happens, no matter what, never stop, always keep walking."*
 >
-> 🎭 **Vegeta** — *Dragon Ball Z*
+> 🎭 **Mana Walker** — *D.Gray-man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
