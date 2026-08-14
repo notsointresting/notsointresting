@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The zipper is a window to society."*
+> 💬 *"Crying is the same thing as pouring all your frustations and regrets out of your body. You may use it as a weapon, but that's just too easy. Whenever you feel like crying, just smile instead. That's what it means to be a man. You get it?"*
 >
-> 🎭 **Kotarō Katsura** — *Gintama*
+> 🎭 **Tatsumi Oga** — *Beelzebub*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
