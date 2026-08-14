@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Create a world without All Might. And cause enough destruction to show them all how fragile their justice really is. From this day forward… that’s my conviction. It’s all about All Might."*
+> 💬 *"Strength is the only thing that matters in this world. Everything else is just a delusion for the weak."*
 >
-> 🎭 **Shigaraki Tomura** — *My Hero Academia*
+> 🎭 **Vegeta** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
