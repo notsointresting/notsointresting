@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Memories - they can sometimes become vague and foggy and there are times when they disappear altogether. Therefore, because there are many things I don't want to lose track of, I will record everything in here (his diary) for the sake of those moments that should not be forgotten."*
+> 💬 *"If you follow your rage into battle, I have a feeling that terrible things can happen."*
 >
-> 🎭 **Keisuke Urashima** — *Love Hina*
+> 🎭 **Aladdin** — *Magi: The Labyrinth of Magic*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
