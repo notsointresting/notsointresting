@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"But what are you going to do when someone you saved kills someone else in the future?"*
+> 💬 *"Ninjas are revolting, they stole my idea. I'll have to kill them now."*
 >
-> 🎭 **Megumi Fushiguro** — *Jujutsu Kaisen*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
