@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if the clothes are too large in the beginning, they’ll fill out as you grow. The same goes for courage… The secret of not getting killed by the enemy is to underestimate life’s difficulties."*
+> 💬 *"Any harm that comes to me because of you is harm that I need. I want to share your pain. So I want you to let me fight. With you."*
 >
-> 🎭 **Olivier Poplan** — *Legend of the Galactic Heroes*
+> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
