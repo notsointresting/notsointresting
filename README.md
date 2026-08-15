@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No matter what happens, no matter what, never stop, always keep walking."*
+> 💬 *"But what are you going to do when someone you saved kills someone else in the future?"*
 >
-> 🎭 **Mana Walker** — *D.Gray-man*
+> 🎭 **Megumi Fushiguro** — *Jujutsu Kaisen*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
