@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The one who holds power has no self-awareness of his responsibilities and the one aware of the responsibilities has no power at all."*
+> 💬 *"Even if the clothes are too large in the beginning, they’ll fill out as you grow. The same goes for courage… The secret of not getting killed by the enemy is to underestimate life’s difficulties."*
 >
-> 🎭 **Arslan** — *The Heroic Legend of Arslan*
+> 🎭 **Olivier Poplan** — *Legend of the Galactic Heroes*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
