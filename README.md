@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Any harm that comes to me because of you is harm that I need. I want to share your pain. So I want you to let me fight. With you."*
+> 💬 *"No one can justify life by linking happy moments into a rosary."*
 >
-> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
+> 🎭 **Shinji Ikari** — *Neon Genesis Evangelion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
