@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What you need are feelings and experiences. The feelings of the person seeking the rain must be in concert with those of the person making it."*
+> 💬 *"Sunday, May 14th at 14:15:30--the moment I got Senjōgahara's phone number."*
 >
-> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
+> 🎭 **Koyomi Araragi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
