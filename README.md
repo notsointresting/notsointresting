@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can take a picture of something and it never does it justice... I think about that sometimes when I see a picture of you."*
+> 💬 *"I never rely on luck. It's all my own choice. It leads me to the future."*
 >
-> 🎭 **Mikako Nagamine** — *Voices of a Distant Star*
+> 🎭 **Kagura Mikazuchi** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
