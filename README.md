@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I never rely on luck. It's all my own choice. It leads me to the future."*
+> 💬 *"What you need are feelings and experiences. The feelings of the person seeking the rain must be in concert with those of the person making it."*
 >
-> 🎭 **Kagura Mikazuchi** — *Fairy Tail*
+> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
