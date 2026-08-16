@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No one can justify life by linking happy moments into a rosary."*
+> 💬 *"That may be so. What is right from wrong? What is good from evil? Nobody can truly distinguish between them. Even if there was a god. Now, supposing a god and his world existed, even then I'd stop and think for myself. I'd decide for myself whether his teachings are right or wrong. After all, I am just the same as you. I put faith in my own convictions as to what I believe is right, and consider them to be righteous."*
 >
-> 🎭 **Shinji Ikari** — *Neon Genesis Evangelion*
+> 🎭 **Near** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
