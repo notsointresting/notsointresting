@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That may be so. What is right from wrong? What is good from evil? Nobody can truly distinguish between them. Even if there was a god. Now, supposing a god and his world existed, even then I'd stop and think for myself. I'd decide for myself whether his teachings are right or wrong. After all, I am just the same as you. I put faith in my own convictions as to what I believe is right, and consider them to be righteous."*
+> 💬 *"You can take a picture of something and it never does it justice... I think about that sometimes when I see a picture of you."*
 >
-> 🎭 **Near** — *Death Note*
+> 🎭 **Mikako Nagamine** — *Voices of a Distant Star*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
