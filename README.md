@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sunday, May 14th at 14:15:30--the moment I got Senjōgahara's phone number."*
+> 💬 *"I am Justice! I protect the innocent and those who fear evil. I'm the one that will become the god of a new world that every one desires!"*
 >
-> 🎭 **Koyomi Araragi** — *Bakemonogatari*
+> 🎭 **Light Yagami** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
