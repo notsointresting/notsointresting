@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) 
+<!-- AI_NEWS:START -->- [How much hydrogen awaits us underground?](https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/) 
+- [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) 
+- [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) 
 - [This scientist is helping build a missing map of childhood](https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/) 
-- [Job titles of the future: Space travel agent](https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/) 
-- [Cloning could be used to save species—or make human “organ sacks”](https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/) 
 <!-- AI_NEWS:END -->
 
 </td>
