@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*referring to Yoh* [annoyed] Why does he always seem so carefree? He doesn't study... He listens to his favorite music... He even watches the rivers and stars!.. I wish I could live like that..."*
+> 💬 *"I don't know what to say. Now, I think it's just best to observe closely."*
 >
-> 🎭 **Manta Oyamada** — *Shaman King*
+> 🎭 **Near** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
