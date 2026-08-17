@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t want to change. I want to change. We all hold in our hearts conflicting feelings, each back to back. And so, we live our days."*
+> 💬 *"*referring to Yoh* [annoyed] Why does he always seem so carefree? He doesn't study... He listens to his favorite music... He even watches the rivers and stars!.. I wish I could live like that..."*
 >
-> 🎭 **Dera Mochimazzi** — *Tamako Market*
+> 🎭 **Manta Oyamada** — *Shaman King*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
