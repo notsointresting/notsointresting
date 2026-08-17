@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am Justice! I protect the innocent and those who fear evil. I'm the one that will become the god of a new world that every one desires!"*
+> 💬 *"I don’t want to change. I want to change. We all hold in our hearts conflicting feelings, each back to back. And so, we live our days."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Dera Mochimazzi** — *Tamako Market*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
