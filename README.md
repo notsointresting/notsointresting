@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I am a god with a heart, but there’s one thing I cannot tolerate… people who don’t pay their proper respect to others."*
+> 💬 *"[singing] Total slaughter, total slaughter. I won't leave a single man alive. La de da de die, genocide. La de da de dud, an ocean of blood. Let's begin the killing time."*
 >
-> 🎭 **Beerus** — *Dragon Ball Z*
+> 🎭 **Vash the Stampede** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
