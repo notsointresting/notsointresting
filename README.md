@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What's important, is to know fear and yet take a step forward."*
+> 💬 *"I am a god with a heart, but there’s one thing I cannot tolerate… people who don’t pay their proper respect to others."*
 >
-> 🎭 **Rosette Christopher** — *Chrono Crusade*
+> 🎭 **Beerus** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
