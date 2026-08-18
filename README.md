@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) 
-- [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/) 
-- [How much hydrogen awaits us underground?](https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/) 
-- [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) 
+<!-- AI_NEWS:START -->- [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) 
+- [The role of the astronaut is in flux](https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/) 
+- [AI’s recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) 
+- [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) 
 <!-- AI_NEWS:END -->
 
 </td>
