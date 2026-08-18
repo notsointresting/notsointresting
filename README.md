@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/) 
+<!-- AI_NEWS:START -->- [What Flock’s defenders are missing](https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/) 
+- [The Download: dead robot friends and the “censorship-industrial complex”](https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/) 
 - [How much hydrogen awaits us underground?](https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/) 
 - [What happens when a kid’s robot best friend dies?](https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/) 
-- [The Download: Flock’s new rules, cloning’s future, and children’s cells](https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/) 
 <!-- AI_NEWS:END -->
 
 </td>
