@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Only a fool refuses a woman who offers herself."*
+> 💬 *"Awaken, Benihime."*
 >
-> 🎭 **Inuyasha** — *InuYasha*
+> 🎭 **Urahara Kisuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
