@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Awaken, Benihime."*
+> 💬 *"What's wrong Frieza? Is your brain another one of your weak and under used muscles?"*
 >
-> 🎭 **Urahara Kisuke** — *Bleach*
+> 🎭 **Vegeta** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
