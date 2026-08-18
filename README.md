@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[singing] Total slaughter, total slaughter. I won't leave a single man alive. La de da de die, genocide. La de da de dud, an ocean of blood. Let's begin the killing time."*
+> 💬 *"That's right. It's not like I ever felt superior to anyone else because I could see ghosts. And I never planned to take it up as a profession. Hell, I never even felt the need to use my ability to help others. All I ever wanted was the normal life I couldn't have. I've finally achieved what I always wanted."*
 >
-> 🎭 **Vash the Stampede** — *Trigun*
+> 🎭 **Kurosaki Ichigo** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
