@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I devour the five lands and drain the three seas, yet only the sky is impossible to reach. With this body lacking wings, hands, or legs. I am the World Serpent. My name is Jormungand."*
+> 💬 *"Create a world without All Might. And cause enough destruction to show them all how fragile their justice really is. From this day forward… that’s my conviction. It’s all about All Might."*
 >
-> 🎭 **Jormungand** — *Jormungand*
+> 🎭 **Shigaraki Tomura** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
