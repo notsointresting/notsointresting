@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That's right. It's not like I ever felt superior to anyone else because I could see ghosts. And I never planned to take it up as a profession. Hell, I never even felt the need to use my ability to help others. All I ever wanted was the normal life I couldn't have. I've finally achieved what I always wanted."*
+> 💬 *"I devour the five lands and drain the three seas, yet only the sky is impossible to reach. With this body lacking wings, hands, or legs. I am the World Serpent. My name is Jormungand."*
 >
-> 🎭 **Kurosaki Ichigo** — *Bleach*
+> 🎭 **Jormungand** — *Jormungand*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
