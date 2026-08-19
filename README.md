@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[when Naruto transforms into a woman in front of the whole class] CUT THE STUPID TRICKS! THIS IS YOUR LAST WARNING!!"*
+> 💬 *"If you're going to selfishly admire someone only to be disillusioned later, then maybe you shouldn't try to get to know them better at all."*
 >
-> 🎭 **Iruka Umino** — *Naruto*
+> 🎭 **Koyomi Araragi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
