@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) 
+<!-- AI_NEWS:START -->- [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) 
+- [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) 
 - [The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/) 
 - [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) 
-- [Support networks aim to help kids through the polycrisis](https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/) 
 <!-- AI_NEWS:END -->
 
 </td>
