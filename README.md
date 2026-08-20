@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/) 
-- [Child-monitoring apps might need a reboot](https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/) 
-- [The Download: how people really use AI, and Flock’s design choices](https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/) 
-- [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) 
+<!-- AI_NEWS:START -->- [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) 
+- [The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/) 
+- [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) 
+- [Support networks aim to help kids through the polycrisis](https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/) 
 <!-- AI_NEWS:END -->
 
 </td>
