@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you go easy on the ones with just a bit of power, they give you more trouble than anybody else."*
+> 💬 *"My happiness can only be... can only be made with my own hands! My happiness doesn't depend on anyone but me!"*
 >
-> 🎭 **Madara** — *Natsume Yuujinchou*
+> 🎭 **Minori Kushieda** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
