@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sometimes the person who tries to keep everyone happy is the the most lonely one."*
+> 💬 *"If you don’t do something because you think you can’t do it, you’ll never be able to do anything in the future."*
 >
-> 🎭 **Makoto Ōgami** — *Ghost Hound*
+> 🎭 **Kira Yamato** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
