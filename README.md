@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you're going to selfishly admire someone only to be disillusioned later, then maybe you shouldn't try to get to know them better at all."*
+> 💬 *"Hey, Shippo. Your village called.They're asking for their idiot!"*
 >
-> 🎭 **Koyomi Araragi** — *Bakemonogatari*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
