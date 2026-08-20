@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hey, Shippo. Your village called.They're asking for their idiot!"*
+> 💬 *"Sometimes the person who tries to keep everyone happy is the the most lonely one."*
 >
-> 🎭 **Inuyasha** — *InuYasha*
+> 🎭 **Makoto Ōgami** — *Ghost Hound*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
