@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...There's nothing to feel sorry for on my behalf. I've been a very selfish girl. For the first time, I was able to see that. Thank you for worrying about me, mama. (to her mother)"*
+> 💬 *"When you go easy on the ones with just a bit of power, they give you more trouble than anybody else."*
 >
-> 🎭 **Sohma Kagura** — *Fruits Basket*
+> 🎭 **Madara** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
