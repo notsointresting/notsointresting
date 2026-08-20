@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html) 
-- [ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html) 
-- [40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets](https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html) 
-- [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html) 
+<!-- CYBER_NEWS:START -->- [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html) 
+- [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html) 
+- [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html) 
+- [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
