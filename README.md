@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Waver] The path of devotion is a great labor. Do not ever mar it."*
+> 💬 *"Ever since that day, I've kept this broom balanced on my fingertip."*
 >
-> 🎭 **Gilgamesh** — *Fate/Zero*
+> 🎭 **Shiina** — *Angel Beats!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
