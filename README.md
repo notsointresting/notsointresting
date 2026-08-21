@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Assassins Rule Number Two - Transpositional Thinking: Analyze the target in order to predict his thoughts and movements."*
+> 💬 *"Why is it?.. I'm so sad and so lonely. But the tears just won't come."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Lucy Heartfilia** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
