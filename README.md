@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) 
-- [The Download: polycrisis support networks and a hydrogen gold rush](https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/) 
-- [The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/) 
-- [Unlocking hidden revenue streams with market models](https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/) 
+<!-- AI_NEWS:START -->- [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) 
+- [When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/) 
+- [This company’s plans to deploy space mirrors could jeopardize the night sky for many](https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/) 
+- [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) 
 <!-- AI_NEWS:END -->
 
 </td>
