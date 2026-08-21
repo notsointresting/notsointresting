@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if the questions change, it makes no difference to me."*
+> 💬 *"[To Waver] The path of devotion is a great labor. Do not ever mar it."*
 >
-> 🎭 **Karma Akabane** — *Assassination Classroom*
+> 🎭 **Gilgamesh** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
