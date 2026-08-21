@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ever since that day, I've kept this broom balanced on my fingertip."*
+> 💬 *"Assassins Rule Number Two - Transpositional Thinking: Analyze the target in order to predict his thoughts and movements."*
 >
-> 🎭 **Shiina** — *Angel Beats!*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
