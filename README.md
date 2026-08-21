@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"My happiness can only be... can only be made with my own hands! My happiness doesn't depend on anyone but me!"*
+> 💬 *"Wrong, holy man. All we want is to get our bodies normal again. See, we don't lie about what's possible. We didn't start a cult."*
 >
-> 🎭 **Minori Kushieda** — *Toradora!*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
