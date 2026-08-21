@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Wrong, holy man. All we want is to get our bodies normal again. See, we don't lie about what's possible. We didn't start a cult."*
+> 💬 *"Even if the questions change, it makes no difference to me."*
 >
-> 🎭 **Edward Elric** — *Fullmetal Alchemist*
+> 🎭 **Karma Akabane** — *Assassination Classroom*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
