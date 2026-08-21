@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) 
+<!-- AI_NEWS:START -->- [The Download: threats from space mirrors and credit for AI drugs](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/) 
+- [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) 
 - [When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/) 
 - [This company’s plans to deploy space mirrors could jeopardize the night sky for many](https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/) 
-- [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) 
 <!-- AI_NEWS:END -->
 
 </td>
