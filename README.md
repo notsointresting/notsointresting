@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Saya, no matter what happens, do what you believe is right. Accept your past. And if you trip, remember nankurunasia. Live through today for tomorrow's sake."*
+> 💬 *"Humans cannot create anything out of nothingness. Humans cannot accomplish anything without holding onto something. After all, humans are not gods."*
 >
-> 🎭 **George Miyagusuku** — *Blood+*
+> 🎭 **Kaworu Nagisa** — *Neon Genesis Evangelion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
