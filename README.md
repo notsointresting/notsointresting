@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You can't do anything about what doesn't exist. In the end, humans have to settle for what's in front of them."*
+> 💬 *"You sure can talk the talk, but you’re not quite ready to walk the walk. Time’s up, it’s my turn."*
 >
-> 🎭 **Kyon** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
