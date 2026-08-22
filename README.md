@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't call me "this chick"."*
+> 💬 *"You can't do anything about what doesn't exist. In the end, humans have to settle for what's in front of them."*
 >
-> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
+> 🎭 **Kyon** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
