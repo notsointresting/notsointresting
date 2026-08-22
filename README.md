@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Humans cannot create anything out of nothingness. Humans cannot accomplish anything without holding onto something. After all, humans are not gods."*
+> 💬 *"Do you think everyone can make their dreams come true through hard work? Hard work isn't always rewarded."*
 >
-> 🎭 **Kaworu Nagisa** — *Neon Genesis Evangelion*
+> 🎭 **Atsushi Murasakibara** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
