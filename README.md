@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Do you think everyone can make their dreams come true through hard work? Hard work isn't always rewarded."*
+> 💬 *"Don't call me "this chick"."*
 >
-> 🎭 **Atsushi Murasakibara** — *Kuroko's Basketball - duplicate*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
