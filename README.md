@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why is it?.. I'm so sad and so lonely. But the tears just won't come."*
+> 💬 *"Saya, no matter what happens, do what you believe is right. Accept your past. And if you trip, remember nankurunasia. Live through today for tomorrow's sake."*
 >
-> 🎭 **Lucy Heartfilia** — *Fairy Tail*
+> 🎭 **George Miyagusuku** — *Blood+*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
