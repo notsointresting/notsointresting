@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you were to be troubled over something as trivial as losing face, then it's better to not have it at all."*
+> 💬 *"Sorry, but I hate people who act innocent but are actually opportunists."*
 >
-> 🎭 **Fujitora** — *One Piece*
+> 🎭 **Nai** — *Karneval*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
