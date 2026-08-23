@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You sure can talk the talk, but you’re not quite ready to walk the walk. Time’s up, it’s my turn."*
+> 💬 *"If you were to be troubled over something as trivial as losing face, then it's better to not have it at all."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Fujitora** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
