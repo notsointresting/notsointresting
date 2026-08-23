@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whenever we pray for someone's happiness, someone else must be cursed in exchange."*
+> 💬 *"If you want to be strong, smile! He who can smile, even when he's so sad that he wants to die, when it's so painful that he wants to give it all up and run away, is the one who becomes strong."*
 >
-> 🎭 **Sayaka Miki** — *Puella Magi Madoka Magica*
+> 🎭 **Atro Spiker** — *Rokka: Braves of the Six Flowers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
