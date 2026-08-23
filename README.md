@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you want to be strong, smile! He who can smile, even when he's so sad that he wants to die, when it's so painful that he wants to give it all up and run away, is the one who becomes strong."*
+> 💬 *"Death is terrible for anyone. Young or old, good or evil, it's all the same. Death is impartial. There is no especially terrible death. That's why death is so fearsome. Your deeds, your age, your personality, your wealth, your beauty... They are all meaningless in the face of death."*
 >
-> 🎭 **Atro Spiker** — *Rokka: Braves of the Six Flowers*
+> 🎭 **Sunako Kirishiki** — *Shiki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
