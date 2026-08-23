@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Death is terrible for anyone. Young or old, good or evil, it's all the same. Death is impartial. There is no especially terrible death. That's why death is so fearsome. Your deeds, your age, your personality, your wealth, your beauty... They are all meaningless in the face of death."*
+> 💬 *"Dreams are illusions. All they do is interfere with reality."*
 >
-> 🎭 **Sunako Kirishiki** — *Shiki*
+> 🎭 **Ein** — *Phantom: Requiem for the Phantom*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
