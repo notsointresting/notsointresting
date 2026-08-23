@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sorry, but I hate people who act innocent but are actually opportunists."*
+> 💬 *"Whenever we pray for someone's happiness, someone else must be cursed in exchange."*
 >
-> 🎭 **Nai** — *Karneval*
+> 🎭 **Sayaka Miki** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
