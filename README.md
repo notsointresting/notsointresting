@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/) 
+<!-- AI_NEWS:START -->- [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) 
+- [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/) 
 - [Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/) 
 - [The Download: threats from space mirrors and credit for AI drugs](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/) 
-- [Mother tongue](https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/) 
 <!-- AI_NEWS:END -->
 
 </td>
