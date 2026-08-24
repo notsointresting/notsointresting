@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm getting wet!"*
+> 💬 *"[To Sarutobi] What nonsense! In the grand scheme of time, you're nothing more than a trivial footnote in the brief history of a cluster of huts called the "Leaf Village"! In time, the Hokage Stone Faces will crumble and be worn down to nothing..."*
 >
-> 🎭 **Saeko Busujima** — *Highschool Of The Dead*
+> 🎭 **Orochimaru** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
