@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Dreams are illusions. All they do is interfere with reality."*
+> 💬 *"There's no way I'm dying before you do, you morally bankrupt Colonel with a God complex."*
 >
-> 🎭 **Ein** — *Phantom: Requiem for the Phantom*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
