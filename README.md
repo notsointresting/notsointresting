@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Sarutobi] What nonsense! In the grand scheme of time, you're nothing more than a trivial footnote in the brief history of a cluster of huts called the "Leaf Village"! In time, the Hokage Stone Faces will crumble and be worn down to nothing..."*
+> 💬 *"We do have a lot in common. The same earth, the same air, the same sky. Maybe if we started looking at what's the same, instead of always looking at what is different... well, who knows?"*
 >
-> 🎭 **Orochimaru** — *Naruto*
+> 🎭 **Nyarth** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
