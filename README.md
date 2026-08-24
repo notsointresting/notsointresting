@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Over the nine mountains, across the eight seas, there is nothing I cannot cut."*
+> 💬 *"We found ourselves in conflict with each other many times. There were hard times when we wanted to run away or give up. But it was only because that rain fell, that the seeds of our emotions could sprout. And the flowers of deeper friendship could bloom."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Misaki Kamiigusa** — *The Pet Girl of Sakurasou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
