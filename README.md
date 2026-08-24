@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html) 
-- [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html) 
-- [Microsoft Defender&#39;s Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html) 
-- [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html) 
+<!-- CYBER_NEWS:START -->- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html) 
+- [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html) 
+- [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html) 
+- [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
