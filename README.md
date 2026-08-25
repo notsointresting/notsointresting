@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nothing is unforgivable. So if you cannot forgive him, it means you do not want to."*
+> 💬 *"The amount of money one owns ultimately decides the victor. This doesn't stop within the walls of a casino, or it's cash flow. It's a rule that forms the basis for a capitalist society!"*
 >
-> 🎭 **Shirley Fenette** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Jabami Yumeko** — *Kakegurui*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
