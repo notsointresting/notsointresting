@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I wanted to be saved too..."*
+> 💬 *"Nothing is unforgivable. So if you cannot forgive him, it means you do not want to."*
 >
-> 🎭 **Uryuu Minene** — *The Future Diary*
+> 🎭 **Shirley Fenette** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
