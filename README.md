@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Who wants their life planned out for them."*
+> 💬 *"I wanted to be saved too..."*
 >
-> 🎭 **Killua Zoldyck** — *Hunter x Hunter*
+> 🎭 **Uryuu Minene** — *The Future Diary*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
