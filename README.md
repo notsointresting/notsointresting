@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Welcome to the spiderverse, a world measured through webs](https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/) 
+<!-- AI_NEWS:START -->- [Art and algorithms at Sotheby’s](https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/) 
+- [The Download: smarter AI in schools, and a robot “carnival” in Shanghai](https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/) 
+- [Welcome to the spiderverse, a world measured through webs](https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/) 
 - [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) 
-- [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/) 
-- [The Download: kids outlearning AI, and space travel agents](https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/) 
 <!-- AI_NEWS:END -->
 
 </td>
