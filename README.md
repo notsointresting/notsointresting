@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We do have a lot in common. The same earth, the same air, the same sky. Maybe if we started looking at what's the same, instead of always looking at what is different... well, who knows?"*
+> 💬 *"You never thought to kill, or fight for revenge. Only to test your limits, and to push yourself beyond them, to become the strongest you could possibly be. How can a Saiyan fight like that, and at the same time be so gentle that he wouldn't hurt a fly? It makes me angry just thinking about it. But perhaps it is my anger that has made me blind to the truth for so long. I see it now. This day has made it all too clear. You're better than me, Kakarot. You are the best..."*
 >
-> 🎭 **Nyarth** — *Pokémon*
+> 🎭 **Vegeta** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
