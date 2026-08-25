@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Justice isn’t something that you can just proclaim. It’s a feeling you should keep near your heart."*
+> 💬 *"Who wants their life planned out for them."*
 >
-> 🎭 **Miwako Sato** — *Case Closed*
+> 🎭 **Killua Zoldyck** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
