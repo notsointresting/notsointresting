@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Addressing a sticking point in sustainable adhesives](https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/) 
-- [YouTuber finds niche as college admissions mentor](https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/) 
-- [Launching youth entrepreneurship](https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/) 
-- [A new stamp on cyberfraud prevention](https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/) 
+<!-- AI_NEWS:START -->- [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/) 
+- [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) 
+- [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) 
+- [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) 
 <!-- AI_NEWS:END -->
 
 </td>
