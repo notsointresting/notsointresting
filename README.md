@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"‎[to Takumi Myama] Why are you blocking us when you have someone else that you like? We can easily see her feelings towards you so there's no way you haven't realized what's there. Yet you just leave the situation half-finished. Aren't you just saving her for when things don't work out with your favorite?"*
+> 💬 *"And the TV show ended by saying how young people are becoming increasingly illiterate, but doesn't browsing the Internet and blogging actually improve your literacy?"*
 >
-> 🎭 **Takumi Nomiya** — *Honey and Clover*
+> 🎭 **Konata Izumi** — *Lucky Star*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
