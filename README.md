@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The amount of money one owns ultimately decides the victor. This doesn't stop within the walls of a casino, or it's cash flow. It's a rule that forms the basis for a capitalist society!"*
+> 💬 *"You may come to a standstill or get irritated because things don't work out the way you want them to, but what you gain from hard work will never betray you."*
 >
-> 🎭 **Jabami Yumeko** — *Kakegurui*
+> 🎭 **Tooru Miyagishi** — *Hanasaku Iroha: Blossoms for Tomorrow*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
