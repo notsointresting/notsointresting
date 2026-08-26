@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Orihime] Am I frightening... woman?"*
+> 💬 *"Now that the rainy season has started, it rains quite a lot. I don't like the rainy season. As the humidity rises, so does the misery. And recently, more things that contribute to my misery have sprung up around me..."*
 >
-> 🎭 **Ulquiorra Schiffer** — *Bleach*
+> 🎭 **Kaname Tsukahara** — *You and Me.*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
