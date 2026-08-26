@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/) 
+<!-- AI_NEWS:START -->- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) 
+- [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/) 
 - [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) 
 - [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) 
-- [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/) 
 <!-- AI_NEWS:END -->
 
 </td>
