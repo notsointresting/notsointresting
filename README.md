@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Art and algorithms at Sotheby’s](https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/) 
-- [The Download: smarter AI in schools, and a robot “carnival” in Shanghai](https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/) 
-- [Welcome to the spiderverse, a world measured through webs](https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/) 
-- [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/) 
+<!-- AI_NEWS:START -->- [Addressing a sticking point in sustainable adhesives](https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/) 
+- [YouTuber finds niche as college admissions mentor](https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/) 
+- [Launching youth entrepreneurship](https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/) 
+- [A new stamp on cyberfraud prevention](https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/) 
 <!-- AI_NEWS:END -->
 
 </td>
