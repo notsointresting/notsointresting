@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Now that the rainy season has started, it rains quite a lot. I don't like the rainy season. As the humidity rises, so does the misery. And recently, more things that contribute to my misery have sprung up around me..."*
+> 💬 *"You’re like big umbrella. You’re the shade from the strong sun’s rays when the weather is good. And you’re the shelter from the cold rain when the weather is bad. You’re always protecting others."*
 >
-> 🎭 **Kaname Tsukahara** — *You and Me.*
+> 🎭 **Angelina Nanatsu Sewell** — *Mashiroiro Symphony: The Color of Lovers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
