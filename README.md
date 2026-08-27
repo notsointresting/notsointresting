@@ -178,10 +178,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html) 
-- [Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html) 
-- [NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html) 
-- [CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html) 
+<!-- CYBER_NEWS:START -->- [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html) 
+- [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html) 
+- [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html) 
+- [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
