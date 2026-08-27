@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) 
-- [The Download: the Kids issue arrives, and Bill Gates reveals his AI fears](https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/) 
-- [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/) 
-- [AI models flub these intelligence tests. Can you fare any better?](https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/) 
+<!-- AI_NEWS:START -->- [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) 
+- [The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/) 
+- [Is Slate Auto’s new electric truck the EV Americans need?](https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/) 
+- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) 
 <!-- AI_NEWS:END -->
 
 </td>
