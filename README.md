@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You’re like big umbrella. You’re the shade from the strong sun’s rays when the weather is good. And you’re the shelter from the cold rain when the weather is bad. You’re always protecting others."*
+> 💬 *"It’s unbearable to die hating someone."*
 >
-> 🎭 **Angelina Nanatsu Sewell** — *Mashiroiro Symphony: The Color of Lovers*
+> 🎭 **Detective Conan** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
