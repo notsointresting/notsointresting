@@ -319,9 +319,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Barragan, before he was recruited by Aizen] Isn't it ironic, king of Hueco Mundo? Dressed in black and poised to attack, you look just like a shinigami."*
+> 💬 *"Don't care anything and do not do anything that's a waste of energy."*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Oreki Houtarou** — *Hyouka*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
