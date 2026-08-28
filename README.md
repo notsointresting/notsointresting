@@ -189,10 +189,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) 
+<!-- AI_NEWS:START -->- [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) 
+- [How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/) 
+- [A startup claims it’s found a drug to make your blood young](https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/) 
 - [The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US](https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/) 
-- [Is Slate Auto’s new electric truck the EV Americans need?](https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/) 
-- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) 
 <!-- AI_NEWS:END -->
 
 </td>
