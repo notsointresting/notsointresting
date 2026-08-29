@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Mom, dad, Risa became a delinquent!"*
+> 💬 *"A pig that doesn't fly is just a pig."*
 >
-> 🎭 **Riku Harada** — *D.N.Angel*
+> 🎭 **Porco Rosso** — *Porco Rosso*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
