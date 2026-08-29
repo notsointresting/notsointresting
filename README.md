@@ -19,35 +19,6 @@
 
 ---
 
-<!-- About Section with Terminal Style -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=435&lines=%24+cat+about_me.yaml" alt="Terminal"/>
-</div>
-
-```yaml
-┌──────────────────────────────────────────────────────────────────┐
-│                         WHOAMI                                   │
-├──────────────────────────────────────────────────────────────────┤
-│  Name       : Sahil Shriwardhankar                               │
-│  Role       : SOC Analyst (L1) | AI Developer                    │
-│  Location   : India 🇮🇳                                           │
-│  Status     : Open to Opportunities                              │
-├──────────────────────────────────────────────────────────────────┤
-│                      CURRENT MISSION                             │
-├──────────────────────────────────────────────────────────────────┤
-│  🔍 Detecting threats & hunting anomalies in security logs       │
-│  🤖 Building AI-powered security automation tools                │
-│  🔐 Exploring cryptography & steganography techniques            │
-│  📚 Mastering advanced SIEM & threat intelligence                │
-├──────────────────────────────────────────────────────────────────┤
-│                       SECRET ABILITY                             │
-├──────────────────────────────────────────────────────────────────┤
-│  🕵️ I can hide secrets inside images, audio & text!              │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
 <!-- Skill Bars Animation -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
@@ -250,8 +221,6 @@
   
 <img src="https://img.shields.io/badge/🥇_1st_Place-Web_Development_Competition_(DBATU)-FFD700?style=for-the-badge"/>
 <br><br>
-<img src="https://img.shields.io/badge/🥇_1st_Place-Government_Typing_Exam_(GCC--TBC)-FFD700?style=for-the-badge"/>
-<br><br>
 <img src="https://img.shields.io/badge/🎯_Participant-Codédex_Holiday_Hackathon_'24-00D9FF?style=for-the-badge"/>
 
 </div>
@@ -283,25 +252,7 @@
   </sub>
 </p>
 
-<!-- Connect Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  Let's Connect
-</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahill-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/notsointresting">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sahillrajeshshriwardhankar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
-  </a>
-</p>
 
 ---
 
