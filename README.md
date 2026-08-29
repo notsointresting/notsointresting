@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It doesn´t matter what day it is as long as you are happy."*
+> 💬 *"Mom, dad, Risa became a delinquent!"*
 >
-> 🎭 **Juvia Loxar** — *Fairy Tail*
+> 🎭 **Riku Harada** — *D.N.Angel*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
