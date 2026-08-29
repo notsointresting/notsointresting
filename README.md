@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't care anything and do not do anything that's a waste of energy."*
+> 💬 *"It doesn´t matter what day it is as long as you are happy."*
 >
-> 🎭 **Oreki Houtarou** — *Hyouka*
+> 🎭 **Juvia Loxar** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
