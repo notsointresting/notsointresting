@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We should work towards world peace. Like giving everyone in the world an Upa cushion..."*
+> 💬 *"Right now, I'm afraid of losing you. Although my life hasn't been very fortunate until now, I'm glad if I caught your eye because of that misfortune. Because of that, I was able to fall for you. So we'll definitely do something, but I want to wait just a bit. So, right now, the last thing I can offer you... Is this starry sky."*
 >
-> 🎭 **Mayuri Shiina** — *Steins;Gate*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
