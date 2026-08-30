@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A dream... It's something you do for yourself, not for others."*
+> 💬 *"We should work towards world peace. Like giving everyone in the world an Upa cushion..."*
 >
-> 🎭 **Griffith** — *Berserk*
+> 🎭 **Mayuri Shiina** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
