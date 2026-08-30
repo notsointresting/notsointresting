@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I think being able to openly take away the most important thing people have... "life"... is the best thing that ever happened!"*
+> 💬 *"A dream... It's something you do for yourself, not for others."*
 >
-> 🎭 **Luciano Bradley** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Griffith** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
