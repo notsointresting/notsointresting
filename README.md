@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html) 
+<!-- CYBER_NEWS:START -->- [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html) 
+- [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html) 
+- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html) 
 - [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html) 
-- [Berlin Refuses to Pay Hackers Who Stole Data From the City&#39;s State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html) 
-- [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
