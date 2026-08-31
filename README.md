@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are many unusual things in this world. Everyday events occur that cannot be explained. Bizarre phenomena that often go unnoticed because people close their eyes to what they don't understand. But the truth of the matter is, there are many unusual things in this world. And people... People are the most mysterious of them all."*
+> 💬 *"The weak don't get to decide anything, not even how they die."*
 >
-> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
+> 🎭 **Trafalgar Law** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
