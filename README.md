@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The weak don't get to decide anything, not even how they die."*
+> 💬 *"I don't think anyone is born with a reason to live. It's something you have to find for yourself."*
 >
-> 🎭 **Trafalgar Law** — *One Piece*
+> 🎭 **Honda Tohru** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
