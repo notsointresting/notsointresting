@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/) 
+<!-- AI_NEWS:START -->- [Making the AI-powered case for legacy modernization](https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/) 
+- [The Download: engineered microbes for crops, and OpenAI’s culture problem](https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/) 
+- [How engineered microbes could help feed the world’s crops](https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/) 
 - [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/) 
-- [The Download: a secretive antiaging drug and joining virtual power plants](https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/) 
-- [How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/) 
 <!-- AI_NEWS:END -->
 
 </td>
