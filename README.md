@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't think anyone is born with a reason to live. It's something you have to find for yourself."*
+> 💬 *"Oh? I thought I severed your body from the waist-down, but...It seems the cut was too shallow."*
 >
-> 🎭 **Honda Tohru** — *Fruits Basket*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
