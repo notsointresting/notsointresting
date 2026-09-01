@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh? I thought I severed your body from the waist-down, but...It seems the cut was too shallow."*
+> 💬 *"It's not too late to change ourselves and have a meaningful life."*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Hanamichi Sakuragi** — *Slam Dunk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
