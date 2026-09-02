@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We really are weak creatures, but that's why we can strive to become stronger. Even if you feel it's useless, each step we take leads to something great. That's why I'm sure we'll be able to change. Because we're weak... and because death is inevitable. Humans try their best to live and end up becoming stronger."*
+> 💬 *"Why does everything you say makes me wanna bash your face in?"*
 >
-> 🎭 **Trisha Elric** — *Fullmetal Alchemist*
+> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
