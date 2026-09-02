@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why does everything you say makes me wanna bash your face in?"*
+> 💬 *"You're not a good-for-nothing person. I think that being able to try your hardest to be something is a talent by itself."*
 >
-> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
+> 🎭 **Alphonse Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
