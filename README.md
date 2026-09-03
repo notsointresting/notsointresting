@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Compared to the “righteous” greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born."*
+> 💬 *"And while you're waiting for us to kill you, we highly recommend p!$$!ng yourself, Followed by a course of praying to your impudent god. And cowarding in the corner and begging, always good. But if you act now, there's still time for an old-fashioned suicide!! Thank you London! We love you! Goodnight!"*
 >
-> 🎭 **Eustass Kid** — *One Piece*
+> 🎭 **Jan Valentine** — *Hellsing*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
