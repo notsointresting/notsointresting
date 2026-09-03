@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I got no intentions of becoming a captain. Becoming a captain would mean that I can't fight under Captain Zaraki. If your wish is to surpass Kuchiki Byakuya... then I just have one wish: to fight and die under that man's command. That's all."*
+> 💬 *"Don’t hesitate to cut the enemy. Don’t falter to finish them off. Much less heal their wounds. That’s unspeakable, nino. Leave the chocolate here. Become a demon, nino. As strong as a demon. As wicked as a demon. You have to learn that the only way to stand up against ruthlessness, is to become ruthless yourself."*
 >
-> 🎭 **Madarame Ikkaku** — *Bleach*
+> 🎭 **Dordonii Alessandro Del Socacchio** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
