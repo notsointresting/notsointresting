@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"And while you're waiting for us to kill you, we highly recommend p!$$!ng yourself, Followed by a course of praying to your impudent god. And cowarding in the corner and begging, always good. But if you act now, there's still time for an old-fashioned suicide!! Thank you London! We love you! Goodnight!"*
+> 💬 *"I got no intentions of becoming a captain. Becoming a captain would mean that I can't fight under Captain Zaraki. If your wish is to surpass Kuchiki Byakuya... then I just have one wish: to fight and die under that man's command. That's all."*
 >
-> 🎭 **Jan Valentine** — *Hellsing*
+> 🎭 **Madarame Ikkaku** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
