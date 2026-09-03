@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I've lived my life as a newspaper reporter. I uncover the truth and write my articles. But then I learned, all too well, that a mere reporter like myself can't ever get to the truth in this city... it's nearly impossible. And it's unsure! No one here is even interested in learning the truth - a truth that must be known. But I want to know! I want to learn what must be known!"*
+> 💬 *"Compared to the “righteous” greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born."*
 >
-> 🎭 **Michael Seebach** — *The Big O*
+> 🎭 **Eustass Kid** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
