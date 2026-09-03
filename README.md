@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html) 
-- [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html) 
-- [Shai-Hulud&#39;s Reach Just Grew to 469 Credential Locations. Here&#39;s What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html) 
-- [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member&#39;s iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html) 
+<!-- CYBER_NEWS:START -->- [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html) 
+- [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html) 
+- [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html) 
+- [Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
