@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/) 
+<!-- AI_NEWS:START -->- [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) 
+- [The Download: rethinking child safety and fossil-fueled farming](https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/) 
 - [Agriculture relies on fossil fuels. It’s costing us.](https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/) 
 - [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/) 
-- [Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/) 
 <!-- AI_NEWS:END -->
 
 </td>
