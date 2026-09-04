@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The world doesn't get to decide whether my life is boring, fun, or ordinary, because that's my decision to make. As long as I have the will, nothing is impossible!"*
+> 💬 *"I always thought that life was about standing your ground, no matter how strong the current was. But going with the flow isn’t so bad after all. As long as it takes you forward."*
 >
-> 🎭 **Keima Katsuragi** — *The World God Only Knows*
+> 🎭 **Nana Osaki** — *Nana*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
