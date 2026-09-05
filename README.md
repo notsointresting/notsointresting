@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"*after touching Misa's butt and getting away with it* This is an outrage... taking advantage of this situation! I assure you, I will get to the bottom of this!"*
+> 💬 *"There's no more trusted observer than someone who suspects you."*
 >
-> 🎭 **L Lawliet** — *Death Note*
+> 🎭 **Sora** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
