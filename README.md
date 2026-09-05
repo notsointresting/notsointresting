@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff88&height=200&section=header&text=Sahil%20Shriwardhankar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff88&height=200&section=header&text=&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%90+SOC+Analyst+%7C+Threat+Detection+%7C+Incident+Response;%F0%9F%A4%96+AI+%26+LLM+Enthusiast+%7C+Building+Intelligent+Systems;%F0%9F%9B%A1%EF%B8%8F+Securing+the+Digital+World%2C+One+Log+at+a+Time)](https://git.io/typing-svg)
