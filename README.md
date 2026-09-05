@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Maybe worrying about the future partings so much that you miss out on happiness in the present is a waste."*
+> 💬 *"*after touching Misa's butt and getting away with it* This is an outrage... taking advantage of this situation! I assure you, I will get to the bottom of this!"*
 >
-> 🎭 **Hishiro Chizuru** — *ReLIFE*
+> 🎭 **L Lawliet** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
