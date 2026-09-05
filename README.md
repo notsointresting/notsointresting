@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I always thought that life was about standing your ground, no matter how strong the current was. But going with the flow isn’t so bad after all. As long as it takes you forward."*
+> 💬 *"Love really is like playing with fire. Anyone can play easily and lightheartedly. But when you mess up and get burned, that scar stays with you your whole life."*
 >
-> 🎭 **Nana Osaki** — *Nana*
+> 🎭 **Ushiromiya Kyrie** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
