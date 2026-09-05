@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Protecting someone means giving them a place to belong. Giving them a place where they can be happy."*
+> 💬 *"Maybe worrying about the future partings so much that you miss out on happiness in the present is a waste."*
 >
-> 🎭 **Rayneshia El-Arte Corwen** — *Log Horizon*
+> 🎭 **Hishiro Chizuru** — *ReLIFE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
