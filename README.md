@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A fight you can't win becomes an obsession"*
+> 💬 *"Protecting someone means giving them a place to belong. Giving them a place where they can be happy."*
 >
-> 🎭 **Askeladd** — *Vinland Saga*
+> 🎭 **Rayneshia El-Arte Corwen** — *Log Horizon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
