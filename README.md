@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You wait out here for us, ok, Usopp? We’re gonna level that stupid house to the ground."*
+> 💬 *"Excuses are meaningless. The tougher things get, the more likely people are to come to their own conclusions."*
 >
-> 🎭 **Monkey D. Luffy** — *One Piece*
+> 🎭 **Hachiman Hikigaya** — *My Teen Romantic Comedy SNAFU*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
