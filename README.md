@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's no more trusted observer than someone who suspects you."*
+> 💬 *"Damn, at least one of us should've died!"*
 >
-> 🎭 **Sora** — *No Game, No Life*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
