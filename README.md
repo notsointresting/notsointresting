@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pain tends to heal as time passes, but personally, I don't want time to heal my wounds. You may think you've escaped the pain and forgotten it, but that's nothing more than stagnation. You can't move forward without the pain."*
+> 💬 *"Loathe me, o fierce deity. Accept and awaken to your maelstrom of hate...god of calamity, Yato!"*
 >
-> 🎭 **Ciel Phantomhive** — *Black Butler*
+> 🎭 **Rabō** — *Noragami*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
