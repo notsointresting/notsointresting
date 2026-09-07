@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's nothing unusual here… The appropriate one stands in the appropriate place after the inappropriate ones have collapsed to the ground, defeated. There is nothing unexpected or odd about it. Because this is reality. Not one shred of uncertainty exists here. Not even fear, of course…"*
+> 💬 *"Pain tends to heal as time passes, but personally, I don't want time to heal my wounds. You may think you've escaped the pain and forgotten it, but that's nothing more than stagnation. You can't move forward without the pain."*
 >
-> 🎭 **Asura** — *Soul Eater*
+> 🎭 **Ciel Phantomhive** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
