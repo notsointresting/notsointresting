@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Loathe me, o fierce deity. Accept and awaken to your maelstrom of hate...god of calamity, Yato!"*
+> 💬 *"You got in an accident. You couldn't do anything afterward. It's okay to feel ashamed about that. But don't run from that shame! You have to carry that humiliation with you and live on!"*
 >
-> 🎭 **Rabō** — *Noragami*
+> 🎭 **Tada Banri** — *Golden Time*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
