@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the hunt for underground hydrogen and more rogue OpenAI agents](https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/) 
-- [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) 
-- [The Download: selling battlefield drone data and AI reshaping language](https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/) 
-- [Data from drones in Ukraine is fueling a new Wild West marketplace](https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/) 
+<!-- AI_NEWS:START -->- [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/) 
+- [This founder is teaching chips how to recycle &lpar;their energy&rpar;](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/) 
+- [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/) 
+- [This founder is making cheaper, cleaner steel](https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/) 
 <!-- AI_NEWS:END -->
 
 </td>
