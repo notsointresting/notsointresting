@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You got in an accident. You couldn't do anything afterward. It's okay to feel ashamed about that. But don't run from that shame! You have to carry that humiliation with you and live on!"*
+> 💬 *"Water, 35 litres. Carbon, 20 kg. Ammonia, 4 litres. Lime, 1.5 kg. Phosphorus, 800 g. Salt, 250 g. Niter, 100 g. Sulphur, 80 g. Fluoride, 7.5 g. Iron, 5 g. Silicon, 3g. And fifteen other elements. Those are the elements to make an average adult human body. You can buy these elemental ingredients at the market with the pocket money of a child. Humans are made so cheaply."*
 >
-> 🎭 **Tada Banri** — *Golden Time*
+> 🎭 **Edward Elric** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
