@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When will the war end? When someone wins."*
+> 💬 *"I was feeling down, but you distracted me by subjecting me to your selfish whims. There are times when selfishness can save a person."*
 >
-> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
