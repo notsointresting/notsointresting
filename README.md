@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was feeling down, but you distracted me by subjecting me to your selfish whims. There are times when selfishness can save a person."*
+> 💬 *"Team Rocket may be dirty rotten criminals, but we're not in the business of destroying children's dreams! At least, not yet."*
 >
-> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
+> 🎭 **Kojirou** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
