@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[To Kyo] Seriously... Must you break something every time you come home? When are you going to learn? You're too weak."*
+> 💬 *"The rain, the wind, the sun... you bring them all with you. Every time our eyes meet. You bring the world to me."*
 >
-> 🎭 **Sohma Yuki** — *Fruits Basket*
+> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
