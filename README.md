@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Team Rocket may be dirty rotten criminals, but we're not in the business of destroying children's dreams! At least, not yet."*
+> 💬 *"You'll break. Humans are so fragile."*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Argentine** — *D.N.Angel*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
