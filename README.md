@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/) 
+<!-- AI_NEWS:START -->- [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/) 
+- [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/) 
 - [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/) 
 - [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) 
-- [The Download: our 35 Innovators Under 35 this year](https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/) 
 <!-- AI_NEWS:END -->
 
 </td>
