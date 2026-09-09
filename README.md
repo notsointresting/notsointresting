@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The rain, the wind, the sun... you bring them all with you. Every time our eyes meet. You bring the world to me."*
+> 💬 *"Getting kicked out of school won't kill me, but losing my way of life most certainly will."*
 >
-> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
+> 🎭 **Shikishima Kiriko** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
