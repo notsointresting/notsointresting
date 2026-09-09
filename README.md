@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You'll break. Humans are so fragile."*
+> 💬 *"[To Kyo] Seriously... Must you break something every time you come home? When are you going to learn? You're too weak."*
 >
-> 🎭 **Argentine** — *D.N.Angel*
+> 🎭 **Sohma Yuki** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
