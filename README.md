@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Instead of regretting what we cannot do, it is better to do what one can. Even for example, what you do has nothing to do with results, you must forge forward."*
+> 💬 *"How come you wear glasses? I mean, you're really pretty but you can only appeal to a tiny section of the fanbase. *To Miyuki*"*
 >
-> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
+> 🎭 **Konata Izumi** — *Lucky Star*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
