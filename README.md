@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Getting kicked out of school won't kill me, but losing my way of life most certainly will."*
+> 💬 *"I despise common sense. I’ve seen the world from every possible angle. This cruel, ridiculous, beautiful world."*
 >
-> 🎭 **Shikishima Kiriko** — *Ultimate Otaku Teacher*
+> 🎭 **Lacie Baskerville** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
