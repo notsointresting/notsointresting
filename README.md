@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/) 
-- [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/) 
-- [Healthcare AI’s next test is integration](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/) 
-- [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/) 
+<!-- AI_NEWS:START -->- [The Download: a “God-driven” cryptocurrency and a solar engineering roadmap](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/) 
+- [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/) 
+- [This road map could help us decide whether to deploy solar geoengineering](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/) 
+- [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/) 
 <!-- AI_NEWS:END -->
 
 </td>
