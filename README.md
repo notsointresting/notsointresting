@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t want to waste a single second or meter. From your first step and second of the day, I want to be with you."*
+> 💬 *"Instead of regretting what we cannot do, it is better to do what one can. Even for example, what you do has nothing to do with results, you must forge forward."*
 >
-> 🎭 **Kaga Kouko** — *Golden Time*
+> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
