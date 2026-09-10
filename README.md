@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example &quot;sk-1234&quot; Admin Key](https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html) 
-- [Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6](https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html) 
-- [U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto](https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html) 
-- [Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week](https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html) 
+<!-- CYBER_NEWS:START -->- [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html) 
+- [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html) 
+- [PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances](https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html) 
+- [Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks](https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
