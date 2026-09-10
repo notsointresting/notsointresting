@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/) 
-- [Batteries just broke another record in the US](https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/) 
-- [Understanding the thermal ceiling in portable power](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/) 
-- [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/) 
+<!-- AI_NEWS:START -->- [Can the US battery market untangle from China?](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/) 
+- [God told them to sell crypto. Their investors lost everything.](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/) 
+- [Healthcare AI’s next test is integration](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/) 
+- [The Download: OpenAI’s turning point for math and a battery record](https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/) 
 <!-- AI_NEWS:END -->
 
 </td>
