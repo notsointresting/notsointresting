@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I despise common sense. I’ve seen the world from every possible angle. This cruel, ridiculous, beautiful world."*
+> 💬 *"I don’t want to waste a single second or meter. From your first step and second of the day, I want to be with you."*
 >
-> 🎭 **Lacie Baskerville** — *Pandora Hearts*
+> 🎭 **Kaga Kouko** — *Golden Time*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
