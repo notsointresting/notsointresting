@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"How come you wear glasses? I mean, you're really pretty but you can only appeal to a tiny section of the fanbase. *To Miyuki*"*
+> 💬 *"You shouldn't talk. It makes you sound stupid."*
 >
-> 🎭 **Konata Izumi** — *Lucky Star*
+> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
