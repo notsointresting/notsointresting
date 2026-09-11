@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Team isn't just something to be protected. A team also protects you. We don't support each because we are a team. We are a team because we support each other."*
+> 💬 *"Sometimes you can't see what's right in front of you."*
 >
-> 🎭 **Teppei Kiyoshi** — *Kuroko's Basketball - duplicate*
+> 🎭 **Ryuunosuke Uryuu** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
