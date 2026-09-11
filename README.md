@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You shouldn't talk. It makes you sound stupid."*
+> 💬 *"There are some things you can't say to someone, no matter how close you are."*
 >
-> 🎭 **Yuusuke Urameshi** — *Yu Yu Hakusho*
+> 🎭 **Nanami Aoyama** — *The Pet Girl of Sakurasou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
