@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are some things you can't say to someone, no matter how close you are."*
+> 💬 *"Team isn't just something to be protected. A team also protects you. We don't support each because we are a team. We are a team because we support each other."*
 >
-> 🎭 **Nanami Aoyama** — *The Pet Girl of Sakurasou*
+> 🎭 **Teppei Kiyoshi** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
