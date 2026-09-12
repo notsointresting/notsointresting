@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"With kindness comes naivete. Courage becomes foolhardiness. And dedication has no reward. If you can't accept any of that, you are not fit to be a magical girl."*
+> 💬 *"It's not like I'm desperate to have friends, anyway. I just don't like being looked down on as that sad person with no friends."*
 >
-> 🎭 **Homura Akemi** — *Puella Magi Madoka Magica*
+> 🎭 **Yozora Mikazuki** — *Boku wa Tomodachi ga Sukunai*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
