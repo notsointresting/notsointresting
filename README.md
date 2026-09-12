@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not like I'm desperate to have friends, anyway. I just don't like being looked down on as that sad person with no friends."*
+> 💬 *"The Killer instinct is not perceived by words, but by look"*
 >
-> 🎭 **Yozora Mikazuki** — *Boku wa Tomodachi ga Sukunai*
+> 🎭 **Gantz** — *Gantz*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
