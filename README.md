@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The Killer instinct is not perceived by words, but by look"*
+> 💬 *"As long as we are under the same sky, we shouldn't be sad when we part ways."*
 >
-> 🎭 **Gantz** — *Gantz*
+> 🎭 **Wolfgang Grimmer** — *Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
