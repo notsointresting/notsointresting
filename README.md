@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sometimes you can't see what's right in front of you."*
+> 💬 *"With kindness comes naivete. Courage becomes foolhardiness. And dedication has no reward. If you can't accept any of that, you are not fit to be a magical girl."*
 >
-> 🎭 **Ryuunosuke Uryuu** — *Fate/Zero*
+> 🎭 **Homura Akemi** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
