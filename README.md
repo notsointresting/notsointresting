@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"As long as we are under the same sky, we shouldn't be sad when we part ways."*
+> 💬 *"DON'T LEAVE ME!!"*
 >
-> 🎭 **Wolfgang Grimmer** — *Monster*
+> 🎭 **Sohma Kagura** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
