@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why do I want to win so much...? Everyone takes up soccer for different reasons. But we all have a passion for the sport... That drive carries us through a game, even if we lose. If we win, it pushes us forward to the next game. The winners of the game honour the losers by playing with everything they have... and until we hit a wall, until a better team beats us, we should try our best, instead of running away. That's what I want to do!"*
+> 💬 *"Look Goku, you can go out in public and have your hair sticking out in every direction if you want to, but not me!"*
 >
-> 🎭 **Shō Kazamatsuri** — *Whistle!*
+> 🎭 **Bulma** — *Dragon Ball*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
