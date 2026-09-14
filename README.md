@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We're all lost... That's why we're sad."*
+> 💬 *"This is my darkness. Nothing anyone says can console me."*
 >
-> 🎭 **Van Hohenheim** — *Fullmetal Alchemist*
+> 🎭 **Mato Kuroi** — *Black Rock Shooter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
