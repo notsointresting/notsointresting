@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Convey my will to this blade… now let’s see if I am able to cut Steel."*
+> 💬 *"A dream... It's something you do for yourself, not for others."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Griffith** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
