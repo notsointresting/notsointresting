@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This is my darkness. Nothing anyone says can console me."*
+> 💬 *"Convey my will to this blade… now let’s see if I am able to cut Steel."*
 >
-> 🎭 **Mato Kuroi** — *Black Rock Shooter*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
