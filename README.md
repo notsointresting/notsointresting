@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html) 
-- [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html) 
-- [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html) 
-- [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html) 
+<!-- CYBER_NEWS:START -->- [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html) 
+- [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html) 
+- [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html) 
+- [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
