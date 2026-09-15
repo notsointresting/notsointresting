@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The sun may be wonderful but can you live on that alone? We all live because of the wind, the clouds, and the rain. They're not things you can throw out just because they're temporarily inconvenient, right?"*
+> 💬 *"The natural enemy of the strong is the weak, but the natural enemy of the weak is not the strong - it is the ones that are even weaker."*
 >
-> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
+> 🎭 **Sora** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
