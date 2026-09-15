@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is a demon who escaped my control, just like Tamayo. Find her and put an end to her. You are the only one I can ask."*
+> 💬 *"The sun may be wonderful but can you live on that alone? We all live because of the wind, the clouds, and the rain. They're not things you can throw out just because they're temporarily inconvenient, right?"*
 >
-> 🎭 **Muzan Kibutsuji** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Nike Lemercier** — *The World is Still Beautiful*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
