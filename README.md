@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/) 
+<!-- AI_NEWS:START -->- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) 
+- [The Download: AI doomers, whistleblowing agents, and de-aged livers](https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/) 
 - [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/) 
 - [What’s at stake in AI’s trillion-dollar gamble](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/) 
-- [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) 
 <!-- AI_NEWS:END -->
 
 </td>
