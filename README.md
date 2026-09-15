@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The natural enemy of the strong is the weak, but the natural enemy of the weak is not the strong - it is the ones that are even weaker."*
+> 💬 *"I want everyone to like me. Or rather, I don't want them to hate me."*
 >
-> 🎭 **Sora** — *No Game, No Life*
+> 🎭 **Tomoe Koga** — *Rascal Does Not Dream of Bunny Girl Senpai*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
