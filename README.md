@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A dream... It's something you do for yourself, not for others."*
+> 💬 *"There is a demon who escaped my control, just like Tamayo. Find her and put an end to her. You are the only one I can ask."*
 >
-> 🎭 **Griffith** — *Berserk*
+> 🎭 **Muzan Kibutsuji** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
