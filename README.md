@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I want everyone to like me. Or rather, I don't want them to hate me."*
+> 💬 *"...Yes, the desire to protect something... is, at the same time, none other than the wish for something to violate it."*
 >
-> 🎭 **Tomoe Koga** — *Rascal Does Not Dream of Bunny Girl Senpai*
+> 🎭 **Emiya Shirou** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
