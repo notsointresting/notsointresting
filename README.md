@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A sound soul dwells within a sound mind and a sound body."*
+> 💬 *"I've never seen a hero fall down stairs, cry, and get first aid from demons."*
 >
-> 🎭 **Maka Albarn** — *Soul Eater*
+> 🎭 **Maou Sadao** — *The Devil is a Part-Timer!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
