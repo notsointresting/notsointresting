@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"However, as always, this girl was thinking up all sorts of nonsensical stuff. I can't help but wonder if there's a black hole inside her head, since her common sense seems to come from a different universe altogether."*
+> 💬 *"A sound soul dwells within a sound mind and a sound body."*
 >
-> 🎭 **Kyon** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Maka Albarn** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
