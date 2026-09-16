@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...Yes, the desire to protect something... is, at the same time, none other than the wish for something to violate it."*
+> 💬 *"However, as always, this girl was thinking up all sorts of nonsensical stuff. I can't help but wonder if there's a black hole inside her head, since her common sense seems to come from a different universe altogether."*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Kyon** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
