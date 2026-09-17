@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t know how I’ll feel when I’m dead, But I don’t want to regret the way I lived."*
+> 💬 *"Well, who you love depends on the person. Isn't everything fine as long as it's someone who's fun to be with? Being with someone doesn't require any permission as long as the two people accept each other. If you worry about your parents or your family, then you lose. Don't forget that. You can't go out with someone with incomplete feelings."*
 >
-> 🎭 **Yuji Itadori** — *Jujutsu Kaisen*
+> 🎭 **Ushiromiya Battler** — *Umineko: When They Cry*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
