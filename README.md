@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I've never seen a hero fall down stairs, cry, and get first aid from demons."*
+> 💬 *"Our motto is to make use of our characteristics to answer customers' needs."*
 >
-> 🎭 **Maou Sadao** — *The Devil is a Part-Timer!*
+> 🎭 **Kyoya Ootori** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
