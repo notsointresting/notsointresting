@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Our motto is to make use of our characteristics to answer customers' needs."*
+> 💬 *"I’m not gonna be your worthless punching bag-Deku forever… Kacchan, I’m… I’m the Deku who always does his best!"*
 >
-> 🎭 **Kyoya Ootori** — *Ouran High School Host Club*
+> 🎭 **Izuku Midoriya** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
