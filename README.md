@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Meet a mouse whose brain cortex is made up of human cells](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/) 
+<!-- AI_NEWS:START -->- [Meet the innovators under 35 shaping climate tech](https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/) 
+- [Meet a mouse whose brain cortex is made up of human cells](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/) 
 - [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) 
 - [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/) 
-- [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) 
 <!-- AI_NEWS:END -->
 
 </td>
