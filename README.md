@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Maybe I should just kill all the higher ups."*
+> 💬 *"I'm watching a dream I'll never wake up from."*
 >
-> 🎭 **Satoru Gojo** — *Jujutsu Kaisen*
+> 🎭 **Spike Spiegel** — *Cowboy Bebop*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
