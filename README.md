@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh, well. No matter what path they take, people without guts have nothing ahead of them."*
+> 💬 *"It's alright to feel sad. When you're sad, you should experience that sorrow fully. It's not too late to move on after that."*
 >
-> 🎭 **Hiruma Youichi** — *Eyeshield 21*
+> 🎭 **Urutori** — *Utawarerumono*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
