@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm watching a dream I'll never wake up from."*
+> 💬 *"Oh, well. No matter what path they take, people without guts have nothing ahead of them."*
 >
-> 🎭 **Spike Spiegel** — *Cowboy Bebop*
+> 🎭 **Hiruma Youichi** — *Eyeshield 21*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
