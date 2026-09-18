@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Well, who you love depends on the person. Isn't everything fine as long as it's someone who's fun to be with? Being with someone doesn't require any permission as long as the two people accept each other. If you worry about your parents or your family, then you lose. Don't forget that. You can't go out with someone with incomplete feelings."*
+> 💬 *"Maybe I should just kill all the higher ups."*
 >
-> 🎭 **Ushiromiya Battler** — *Umineko: When They Cry*
+> 🎭 **Satoru Gojo** — *Jujutsu Kaisen*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
