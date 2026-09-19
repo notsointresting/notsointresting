@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Family? Let me tell you what kind of link I have with them. They are just lumps of meat linked by hatred and murderous intent!"*
+> 💬 *"Weapons are used by soldiers on the battlefield. If you have never used them yourself, you have no idea what you're selling."*
 >
-> 🎭 **Gaara** — *Naruto*
+> 🎭 **Koko Hekmatyar** — *Jormungand*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
