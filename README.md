@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Sometimes the person who tries to keep everyone happy is the the most lonely one."*
+> 💬 *"Family? Let me tell you what kind of link I have with them. They are just lumps of meat linked by hatred and murderous intent!"*
 >
-> 🎭 **Makoto Ōgami** — *Ghost Hound*
+> 🎭 **Gaara** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
