@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's alright to feel sad. When you're sad, you should experience that sorrow fully. It's not too late to move on after that."*
+> 💬 *"Money can buy companionship, but not its quality."*
 >
-> 🎭 **Urutori** — *Utawarerumono*
+> 🎭 **Fleur Boland** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
