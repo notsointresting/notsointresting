@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whenever humans encounter the unknown, they tend to lose perspective."*
+> 💬 *"If you're gonna hit it, hit it until it breaks!"*
 >
-> 🎭 **Knov** — *Hunter x Hunter*
+> 🎭 **Tooru Oikawa** — *Haikyu!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
