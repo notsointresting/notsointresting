@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Weapons are used by soldiers on the battlefield. If you have never used them yourself, you have no idea what you're selling."*
+> 💬 *"Whenever humans encounter the unknown, they tend to lose perspective."*
 >
-> 🎭 **Koko Hekmatyar** — *Jormungand*
+> 🎭 **Knov** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
