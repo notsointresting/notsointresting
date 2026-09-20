@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The world is destined for even greater chaos."*
+> 💬 *"As long as you live things will keep happening! As long as you're alive wishes will keep being made!"*
 >
-> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Honda Tohru** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
