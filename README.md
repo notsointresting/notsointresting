@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you're gonna hit it, hit it until it breaks!"*
+> 💬 *"The world is destined for even greater chaos."*
 >
-> 🎭 **Tooru Oikawa** — *Haikyu!!*
+> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
