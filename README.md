@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The Present is ending. Here, countless versions of our past selves are always crying, laughing, falling in love, getting hurt, joking around, feeling happy and suffering. These feelings are born all the time and in the next moment, they became the past and die. It's over now. This is the end, but the truth is everyone's time is like that. Right after it's born, every moment becomes the past and dies."*
+> 💬 *"More than anyone else, humanity is a species which looks forward to tomorrow. Because of their dreams, they can bear with the unjustness of the present."*
 >
-> 🎭 **Tada Banri** — *Golden Time*
+> 🎭 **Rory Mercury** — *GATE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
