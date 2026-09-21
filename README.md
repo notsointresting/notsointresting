@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"As long as you live things will keep happening! As long as you're alive wishes will keep being made!"*
+> 💬 *"You're horrible! Commenting on my appearance like that! I don't have to listen to this from you! It's sexual harassment!"*
 >
-> 🎭 **Honda Tohru** — *Fruits Basket*
+> 🎭 **Medusa Gorgon** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
