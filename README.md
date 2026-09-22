@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The future belongs to those who believe in the beauty of their dreams."*
+> 💬 *"Anything at all. Just this once I'll fulfil whatever your wish is. Whether is world conquest, or eternal life, or to defeat the saiyans that are coming to earth."*
 >
-> 🎭 **Shōyō Hinata** — *Haikyu!!*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
