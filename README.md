@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"More than anyone else, humanity is a species which looks forward to tomorrow. Because of their dreams, they can bear with the unjustness of the present."*
+> 💬 *"I already told you once—you gotta keep your emotions out of this. If you value your life, never trust anyone."*
 >
-> 🎭 **Rory Mercury** — *GATE*
+> 🎭 **Franky Franklin** — *Spy x Family*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
