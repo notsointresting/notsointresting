@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People can face tomorrow because they can see reality and accept it. By denying reality, you cloud up the present, and tomorrow will never come. No, you can cloud it up, but your tomorrow will be that much crueler."*
+> 💬 *"The future belongs to those who believe in the beauty of their dreams."*
 >
-> 🎭 **Kurokawa Mari** — *GATE*
+> 🎭 **Shōyō Hinata** — *Haikyu!!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
