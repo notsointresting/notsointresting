@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A fake with more power than the real thing is more dangerous than the real thing."*
+> 💬 *"A warrior who has lost his ability to fight is only going to be in the way."*
 >
-> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
+> 🎭 **Urahara Kisuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
