@@ -270,7 +270,7 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Anything at all. Just this once I'll fulfil whatever your wish is. Whether is world conquest, or eternal life, or to defeat the saiyans that are coming to earth."*
+> 💬 *"A fake with more power than the real thing is more dangerous than the real thing."*
 >
 > 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
