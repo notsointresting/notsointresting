@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Because nothing makes one happier than being with the one you love."*
+> 💬 *"Nothing beats a cup of herbal tea in the morning."*
 >
-> 🎭 **Isla** — *Plastic Memories*
+> 🎭 **Excalibur** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
