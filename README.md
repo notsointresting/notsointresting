@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Your happiness is your own business. Its a promise you make to yourself. It is a reward you give yourself for accomplishing what you set out to do, for achieving what you strive for. But if you fail to reward yourself for what you have accomplished, then you are essentially breaking a promise to yourself. Its like a breach of contract, compensation must always be made. You must pay all of the debts that you made, even to yourself."*
+> 💬 *"I smile whenever I feel tense."*
 >
-> 🎭 **Yuuko Ichihara** — *xxxHOLiC*
+> 🎭 **Shinra Kusakabe** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
