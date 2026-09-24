@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nothing beats a cup of herbal tea in the morning."*
+> 💬 *"The people laughing are laughing at their own ignorance."*
 >
-> 🎭 **Excalibur** — *Soul Eater*
+> 🎭 **Sakamoto Yuuji** — *Baka & Test - Summon the Beasts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
