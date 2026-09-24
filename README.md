@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The people laughing are laughing at their own ignorance."*
+> 💬 *"Once you miss the opportunity to say something, the words become increasingly toxic. The best thing to do is to just say everything."*
 >
-> 🎭 **Sakamoto Yuuji** — *Baka & Test - Summon the Beasts*
+> 🎭 **Hayashida Nana** — *Golden Time*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
