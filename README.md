@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Being alive...is a sign of strength!"*
+> 💬 *"I didn’t expect my life would end up like this. I live in a beat-up apartment with thin walls. My manager who’s younger than me treats me like an idiot. Even kids make fun of me, and I had to apologize to them. I’ve only ever got one girlfriend, and that was in middle school. Just where did I go wrong?"*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Takemichi Hanagaki** — *Tokyo Revengers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
