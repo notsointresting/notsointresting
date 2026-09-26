@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will acknowledge you as my enemy and destroy you."*
+> 💬 *"We all have to die when our time comes, but if we do our duty we don't got regrets. So taste a little piece of my sword, Toguro!"*
 >
-> 🎭 **Acnologia** — *Fairy Tail*
+> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
