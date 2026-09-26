@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't lose against myself. There's no element that would make me lose if our powers are equal. To admit defeat against such an enemy is to declare that I'm wrong."*
+> 💬 *"Truly Necessary Evils Are Always ... Controlled By The State."*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Makima** — *Chainsaw Man*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
