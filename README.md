@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We all have to die when our time comes, but if we do our duty we don't got regrets. So taste a little piece of my sword, Toguro!"*
+> 💬 *"A world created through oppresing others with brute force has no meaning!"*
 >
-> 🎭 **Kazuma Kuwabara** — *Yu Yu Hakusho*
+> 🎭 **Yuzu Hiiragi** — *Yu-Gi-Oh! Arc-V*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
