@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A world created through oppresing others with brute force has no meaning!"*
+> 💬 *"I can't lose against myself. There's no element that would make me lose if our powers are equal. To admit defeat against such an enemy is to declare that I'm wrong."*
 >
-> 🎭 **Yuzu Hiiragi** — *Yu-Gi-Oh! Arc-V*
+> 🎭 **Emiya Shirou** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
