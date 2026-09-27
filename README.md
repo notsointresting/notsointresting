@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Only I could do it! I was well aware that killing people is crime in itself! Yet at that point it was the only way to make things right! I thought to myself that someday people will come to realize this as much, and regard it as an act of justice! I had no choice but to act as Kira… it was the destiny given to me. I was chosen to renew this rotten world, to bring about true peace – a utopia."*
+> 💬 *"The world as it is, the human nature as always, it is impossible to eliminate battles. In the end, killing is necessarily evil. If so, it is best to end them in the maximum efficiency and at the least cost, least time. If you want to slander that as foul and demean that as nasty, then do as you wish. Justice can not save the world. I have no interest with things like that."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Emiya Kiritsugu** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
