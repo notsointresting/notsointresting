@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The world as it is, the human nature as always, it is impossible to eliminate battles. In the end, killing is necessarily evil. If so, it is best to end them in the maximum efficiency and at the least cost, least time. If you want to slander that as foul and demean that as nasty, then do as you wish. Justice can not save the world. I have no interest with things like that."*
+> 💬 *"Those who aim further for other's sake. Those who think of others before themselves. ...And those who hate themselves more than anyone. These are the qualities of a Magus. This is a contradiction you can only have if you are born broken."*
 >
-> 🎭 **Emiya Kiritsugu** — *Fate/Zero*
+> 🎭 **Tohsaka Rin** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
