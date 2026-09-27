@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Those who aim further for other's sake. Those who think of others before themselves. ...And those who hate themselves more than anyone. These are the qualities of a Magus. This is a contradiction you can only have if you are born broken."*
+> 💬 *"Having my fate decided for me from the time I was born goes against my view of beauty."*
 >
-> 🎭 **Tohsaka Rin** — *Fate/stay night*
+> 🎭 **Jae-ha** — *Yona of the Dawn*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
