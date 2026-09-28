@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This is pure offense. They gave up fighting with their brains a long time ago."*
+> 💬 *"If you act only on what you should do without heed for what you want to do, you're nothing more than a machine, a phenomenon."*
 >
-> 🎭 **Hiei** — *Yu Yu Hakusho*
+> 🎭 **Kaminski Natalia** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
