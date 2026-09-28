@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: the Pentagon’s AI-powered lie detector and young organ limits](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/) 
+<!-- AI_NEWS:START -->- [The Download: rogue agent liability and the AI Hype Index](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/) 
+- [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) 
+- [The Download: the Pentagon’s AI-powered lie detector and young organ limits](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/) 
 - [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) 
-- [Young organs may not be a fountain of youth for recipients](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/) 
-- [The Download: a bid to scrap the virtual wall and AI hits Climate Week](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/) 
 <!-- AI_NEWS:END -->
 
 </td>
