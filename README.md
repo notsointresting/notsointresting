@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Having my fate decided for me from the time I was born goes against my view of beauty."*
+> 💬 *"This is pure offense. They gave up fighting with their brains a long time ago."*
 >
-> 🎭 **Jae-ha** — *Yona of the Dawn*
+> 🎭 **Hiei** — *Yu Yu Hakusho*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
