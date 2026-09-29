@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) 
+<!-- AI_NEWS:START -->- [Coming soon: Our 2026 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/) 
+- [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) 
+- [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) 
 - [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/) 
-- [The Download: rogue agent liability and the AI Hype Index](https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/) 
-- [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/) 
 <!-- AI_NEWS:END -->
 
 </td>
