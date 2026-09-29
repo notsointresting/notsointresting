@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's no shortcut to victory. You have to climb that steep mountain one step at a time. There's an abyss down below and it never ends. Your only choice is to keep climbing!"*
+> 💬 *"I don’t wanna live a thousand years. If I just live through today, that’ll be enough."*
 >
-> 🎭 **Ryuuichi Kazama** — *Ping Pong the Animation*
+> 🎭 **Portgas D. Ace** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
