@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you act only on what you should do without heed for what you want to do, you're nothing more than a machine, a phenomenon."*
+> 💬 *"The disturbance in the stitch, is a disturbance in the heart."*
 >
-> 🎭 **Kaminski Natalia** — *Fate/Zero*
+> 🎭 **Anissina von Karbelnikoff** — *Kyo kara Maoh!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
