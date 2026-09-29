@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The disturbance in the stitch, is a disturbance in the heart."*
+> 💬 *"There's no shortcut to victory. You have to climb that steep mountain one step at a time. There's an abyss down below and it never ends. Your only choice is to keep climbing!"*
 >
-> 🎭 **Anissina von Karbelnikoff** — *Kyo kara Maoh!*
+> 🎭 **Ryuuichi Kazama** — *Ping Pong the Animation*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
