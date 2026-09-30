@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The school takes no responsibility of your future! You are fully responsible for your own future! That is why you have to find what you want to do! You are all free!"*
+> 💬 *""Time" is proof that people have lived. Every person lives the time that has been given to them... that is life."*
 >
-> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
+> 🎭 **Erza Scarlet** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
