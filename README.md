@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: climate tech companies to watch and AI’s discovery problem](https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/) 
+<!-- AI_NEWS:START -->- [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) 
+- [The Download: climate tech companies to watch and AI’s discovery problem](https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/) 
 - [Coming soon: Our 2026 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/) 
 - [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) 
-- [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) 
 <!-- AI_NEWS:END -->
 
 </td>
