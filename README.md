@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *""Time" is proof that people have lived. Every person lives the time that has been given to them... that is life."*
+> 💬 *"There's nothing more boring than a perfect heroine!"*
 >
-> 🎭 **Erza Scarlet** — *Fairy Tail*
+> 🎭 **Drosselmeyer** — *Princess Tutu*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
