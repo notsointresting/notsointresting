@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don’t wanna live a thousand years. If I just live through today, that’ll be enough."*
+> 💬 *"The school takes no responsibility of your future! You are fully responsible for your own future! That is why you have to find what you want to do! You are all free!"*
 >
-> 🎭 **Portgas D. Ace** — *One Piece*
+> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
