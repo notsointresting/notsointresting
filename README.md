@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The moment a person says he's working hard without thinking, he's still being naive. He is not trying at all!"*
+> 💬 *"Sometimes the only thing you have to doubt is your own common sense."*
 >
-> 🎭 **Oz Vessalius** — *Pandora Hearts*
+> 🎭 **Nico Robin** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
