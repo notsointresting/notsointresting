@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: OpenAI’s chief research officer explains its hacking response](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/) 
+<!-- AI_NEWS:START -->- [An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/) 
+- [How smaller, distributed batteries could help the grid](https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/) 
+- [The Download: OpenAI’s chief research officer explains its hacking response](https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/) 
 - [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) 
-- [The Download: climate tech companies to watch and AI’s discovery problem](https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/) 
-- [Coming soon: Our 2026 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/) 
 <!-- AI_NEWS:END -->
 
 </td>
