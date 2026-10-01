@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's nothing more boring than a perfect heroine!"*
+> 💬 *"The moment a person says he's working hard without thinking, he's still being naive. He is not trying at all!"*
 >
-> 🎭 **Drosselmeyer** — *Princess Tutu*
+> 🎭 **Oz Vessalius** — *Pandora Hearts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
