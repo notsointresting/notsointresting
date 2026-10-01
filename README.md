@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html) 
-- [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html) 
-- [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html) 
-- [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html) 
+<!-- CYBER_NEWS:START -->- [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html) 
+- [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html) 
+- [Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version](https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html) 
+- [Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path](https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
