@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I won't give up, I will fight til the bitter end, cause there's no way I will back down after what you did to my friends. They are what made me the person I am today, that's why I'll keep fighting... For my friends!"*
+> 💬 *"While it may be that ignorance is a sin, it's impossible to know everything."*
 >
-> 🎭 **Lucy Heartfilia** — *Fairy Tail*
+> 🎭 **Kraft Lawrence** — *Spice and Wolf*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
