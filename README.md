@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Believe me… This town smells worse than Gray Terminal. It smells like rotten people! If I stay here… I’ll never be free! I’m… ashamed to be born a noble!"*
+> 💬 *"No one could understand the fear of walking alone in this unstable world."*
 >
-> 🎭 **Sabo** — *One Piece*
+> 🎭 **Natsume Takeshi** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
