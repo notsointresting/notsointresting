@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [A new contest pits competitors against each other in a race to biological youth](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/) 
+<!-- AI_NEWS:START -->- [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) 
+- [The Download: a biological de-aging contest and why LLMs don’t reason](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/) 
+- [A new contest pits competitors against each other in a race to biological youth](https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/) 
 - [Don’t be fooled—LLMs don’t reason](https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/) 
-- [The Download: AI “mind-reading” and creative uses for small batteries](https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/) 
-- [An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/) 
 <!-- AI_NEWS:END -->
 
 </td>
