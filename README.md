@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"While it may be that ignorance is a sin, it's impossible to know everything."*
+> 💬 *"Believe me… This town smells worse than Gray Terminal. It smells like rotten people! If I stay here… I’ll never be free! I’m… ashamed to be born a noble!"*
 >
-> 🎭 **Kraft Lawrence** — *Spice and Wolf*
+> 🎭 **Sabo** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
