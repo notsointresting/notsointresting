@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"No one could understand the fear of walking alone in this unstable world."*
+> 💬 *"I won the battle but lost the war!"*
 >
-> 🎭 **Natsume Takeshi** — *Natsume Yuujinchou*
+> 🎭 **Zenitsu Agatsuma** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
