@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's very difficult for me to step on an ant without crushing it."*
+> 💬 *"Sometimes life is like jazz, and goes in an unexpected direction..."*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Kaoru Nishimi** — *Kids on the Slope*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
