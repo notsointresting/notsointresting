@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I won the battle but lost the war!"*
+> 💬 *"When you point a sword at someone, either you kill them or they kill you, there ain't no in between. So quit talkin' like a fuckin' pussy. Anyone who can't handle that should just SHUT THE FUCK UP and GET OVER IT!"*
 >
-> 🎭 **Zenitsu Agatsuma** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Mugen** — *Samurai Champloo*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
