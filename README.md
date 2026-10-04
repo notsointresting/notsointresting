@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The curtain that falls down at the end, shall be pulled down by the blade of my sword."*
+> 💬 *"Humans continue to live in a cycle of death and destruction. Guns can't change anything. It merely creates an infinite chain of hatred and retribution."*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **TimeKeeper** — *Gunslinger Stratos: The Animation*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
