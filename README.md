@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's not a sin to fall in love. You can't even arrest someone over that."*
+> 💬 *"That’s right… Who cares if I’m a zero? Stand up… She’s watching! I can’t embarrass myself in front of her anymore!"*
 >
-> 🎭 **Gajeel Redfox** — *Fairy Tail*
+> 🎭 **Kafka Hibino** — *Kaiju No. 8*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
