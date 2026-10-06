@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are two types of lies: Lies that hurt, and lies that don’t hurt."*
+> 💬 *""Every experience is a tool to clear your path." It was none other than those students who taught me that."*
 >
-> 🎭 **Itaru Hashida** — *Steins Gate*
+> 🎭 **Karasuma Tadaomi** — *Assassination Classroom 2nd Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
