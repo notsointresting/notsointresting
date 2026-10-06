@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"That’s right… Who cares if I’m a zero? Stand up… She’s watching! I can’t embarrass myself in front of her anymore!"*
+> 💬 *"...A human's belief can make the impossible possible."*
 >
-> 🎭 **Kafka Hibino** — *Kaiju No. 8*
+> 🎭 **Kouta Tsuchiya** — *Baka & Test - Summon the Beasts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
