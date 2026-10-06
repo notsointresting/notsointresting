@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Fruit doesn't grow on trees, you know!"*
+> 💬 *"There are two types of lies: Lies that hurt, and lies that don’t hurt."*
 >
-> 🎭 **Kojirou** — *Pokémon*
+> 🎭 **Itaru Hashida** — *Steins Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
