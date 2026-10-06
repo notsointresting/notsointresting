@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users&#39; Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html) 
-- [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html) 
-- [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html) 
-- [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html) 
+<!-- CYBER_NEWS:START -->- [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html) 
+- [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html) 
+- [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html) 
+- [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
