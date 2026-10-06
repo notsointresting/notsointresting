@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Connecting AI agents to enterprise knowledge](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/) 
-- [Bringing predictive analytics to the agentic AI era](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/) 
-- [The Download: AI’s popularity paradox and EmTech Future 2026](https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/) 
-- [People really hate AI, so why can’t they get enough?](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) 
+<!-- AI_NEWS:START -->- [2026 Climate Tech Companies to Watch](https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/) 
+- [Here’s how our climate team picked 10 promising companies to watch](https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/) 
+- [WeLion New Energy and its semi-solid-state batteries](https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/) 
+- [Form Energy and its iron batteries](https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/) 
 <!-- AI_NEWS:END -->
 
 </td>
