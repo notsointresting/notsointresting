@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"...A human's belief can make the impossible possible."*
+> 💬 *"Fruit doesn't grow on trees, you know!"*
 >
-> 🎭 **Kouta Tsuchiya** — *Baka & Test - Summon the Beasts*
+> 🎭 **Kojirou** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
