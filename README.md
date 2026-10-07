@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Weight-loss drugs show signs of slowing biological aging, say drugmakers](https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/) 
+<!-- AI_NEWS:START -->- [The Download: weight-loss drugs slowing aging and carbon dioxide batteries](https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/) 
+- [Weight-loss drugs show signs of slowing biological aging, say drugmakers](https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/) 
 - [The Download: 10 climate tech companies to watch](https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/) 
 - [2026 Climate Tech Companies to Watch](https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/) 
-- [Here’s how our climate team picked 10 promising companies to watch](https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/) 
 <!-- AI_NEWS:END -->
 
 </td>
