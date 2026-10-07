@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The world just exists to hurt people and to be conquered. To survive, you mow down your enemies and take what you want."*
+> 💬 *"Near and the others told me that this woman was supposed to be the second Kira. But could it really be this unbelievably stupid girl?.."*
 >
-> 🎭 **Livius Orvinus Ifrikia** — *The World is Still Beautiful*
+> 🎭 **Mello** — *Death Note*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
