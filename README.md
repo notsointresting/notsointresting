@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Near and the others told me that this woman was supposed to be the second Kira. But could it really be this unbelievably stupid girl?.."*
+> 💬 *"I wasn’t scared that I’d be rejected, I was scared that if I said how I felt, all of our relationships would change."*
 >
-> 🎭 **Mello** — *Death Note*
+> 🎭 **Chisaki Hiradaira** — *A Lull in the Sea*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
