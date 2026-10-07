@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *""Every experience is a tool to clear your path." It was none other than those students who taught me that."*
+> 💬 *"The world just exists to hurt people and to be conquered. To survive, you mow down your enemies and take what you want."*
 >
-> 🎭 **Karasuma Tadaomi** — *Assassination Classroom 2nd Season*
+> 🎭 **Livius Orvinus Ifrikia** — *The World is Still Beautiful*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
