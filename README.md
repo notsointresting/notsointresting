@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In the end, L is indeed the greatest detective on earth..."*
+> 💬 *"Pleasure is another thing that I lack. I seek for it but cannot find it."*
 >
-> 🎭 **Light Yagami** — *Death Note*
+> 🎭 **Kotomine Kirei** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
