@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I wasn’t scared that I’d be rejected, I was scared that if I said how I felt, all of our relationships would change."*
+> 💬 *"[Onizuka's p*nis is bit by a snake]Someone. Suck the poison out! ...Fuyutsuki-chan! I beg you! Suck it out quickly!"*
 >
-> 🎭 **Chisaki Hiradaira** — *A Lull in the Sea*
+> 🎭 **Eikichi Onizuka** — *Great Teacher Onizuka*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
