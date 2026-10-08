@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html) 
-- [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html) 
-- [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html) 
-- [MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html) 
+<!-- CYBER_NEWS:START -->- [FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html) 
+- [ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html) 
+- [Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks](https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html) 
+- [UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML](https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
