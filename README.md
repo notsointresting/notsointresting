@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pleasure is another thing that I lack. I seek for it but cannot find it."*
+> 💬 *"You should just steal the things you want."*
 >
-> 🎭 **Kotomine Kirei** — *Fate/Zero*
+> 🎭 **Five** — *Terror in Resonance*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
