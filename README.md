@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You should just steal the things you want."*
+> 💬 *"Some of us don't have time to die."*
 >
-> 🎭 **Five** — *Terror in Resonance*
+> 🎭 **Ganta Igarashi** — *Deadman Wonderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
