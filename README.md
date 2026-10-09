@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Some of us don't have time to die."*
+> 💬 *"A dog's happiness is measured by how useful he is to his master."*
 >
-> 🎭 **Ganta Igarashi** — *Deadman Wonderland*
+> 🎭 **Taiga Aisaka** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
