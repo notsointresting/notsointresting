@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I can’t even protect my captain’sdream, then whateverambitionI have is nothing but talk! Luffy must be the man who becomes the Pirate King!"*
+> 💬 *"Why did I rescue this guy in the first place? He's anti-social, thinks he's evil kenevil, and hardly speaks. You've got such a gloomy personality, why don't you stop pretending to be human."*
 >
-> 🎭 **Roronoa Zoro** — *One Piece*
+> 🎭 **Duo Maxwell** — *Mobile Suit Gundam Wing*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
