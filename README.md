@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A dog's happiness is measured by how useful he is to his master."*
+> 💬 *"I can't promise you that good things will come to your life, but I do know that no one but you have the power to give meaning to your life in this world."*
 >
-> 🎭 **Taiga Aisaka** — *Toradora!*
+> 🎭 **Rin Asogi** — *Rin: Daughters of Mnemosyne*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
