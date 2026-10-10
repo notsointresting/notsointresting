@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why did I rescue this guy in the first place? He's anti-social, thinks he's evil kenevil, and hardly speaks. You've got such a gloomy personality, why don't you stop pretending to be human."*
+> 💬 *"The right to choose life or death lies with the victor. And the victor of this battle is me."*
 >
-> 🎭 **Duo Maxwell** — *Mobile Suit Gundam Wing*
+> 🎭 **Uryuu Ishida** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
