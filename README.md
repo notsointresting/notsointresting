@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I can't promise you that good things will come to your life, but I do know that no one but you have the power to give meaning to your life in this world."*
+> 💬 *"If I can’t even protect my captain’sdream, then whateverambitionI have is nothing but talk! Luffy must be the man who becomes the Pirate King!"*
 >
-> 🎭 **Rin Asogi** — *Rin: Daughters of Mnemosyne*
+> 🎭 **Roronoa Zoro** — *One Piece*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
