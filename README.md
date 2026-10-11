@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The right to choose life or death lies with the victor. And the victor of this battle is me."*
+> 💬 *"Remember how you're supposed to let go right away when you fall off a horse and hit the ground? You don't need to hurt yourself for no reason. If you don't let go, you'll get dragged by the horse and get hurt."*
 >
-> 🎭 **Uryuu Ishida** — *Bleach*
+> 🎭 **Aki Mikage (Silver Spoon)** — *Silver Spoon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
