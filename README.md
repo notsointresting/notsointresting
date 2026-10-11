@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Remember how you're supposed to let go right away when you fall off a horse and hit the ground? You don't need to hurt yourself for no reason. If you don't let go, you'll get dragged by the horse and get hurt."*
+> 💬 *"Usui, you perverted, outer spaceman human being!"*
 >
-> 🎭 **Aki Mikage (Silver Spoon)** — *Silver Spoon*
+> 🎭 **Misaki Ayuzawa** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
