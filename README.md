@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Usui, you perverted, outer spaceman human being!"*
+> 💬 *"It's amazing no one's locked you up yet (to Shigure)"*
 >
-> 🎭 **Misaki Ayuzawa** — *Maid Sama!*
+> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
