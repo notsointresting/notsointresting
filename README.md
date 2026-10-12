@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was just dreaming a little. About my old world. It's strange. In the dream, I wondered if everything here, in Aincard, if everything that had happened with you, was only a dream. I was really scared. I'm happy this wasn't a dream."*
+> 💬 *"Strength is the only thing that matters in this world. Everything else is just a delusion for the weak."*
 >
-> 🎭 **Asuna Yūki** — *Sword Art Online*
+> 🎭 **Vegeta** — *Dragon Ball Z*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
