@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's amazing no one's locked you up yet (to Shigure)"*
+> 💬 *"I was just dreaming a little. About my old world. It's strange. In the dream, I wondered if everything here, in Aincard, if everything that had happened with you, was only a dream. I was really scared. I'm happy this wasn't a dream."*
 >
-> 🎭 **Sohma Hatsuharu** — *Fruits Basket*
+> 🎭 **Asuna Yūki** — *Sword Art Online*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
