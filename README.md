@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Bring Your Own Agent: Your Employees&#39; Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html) 
+<!-- CYBER_NEWS:START -->- [⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More](https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html) 
+- [Bring Your Own Agent: Your Employees&#39; Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html) 
 - [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html) 
 - [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html) 
-- [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
