@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even when the sky's so dark you can't see a thing, there are still stars shining out there. So if she can learn to shine brighter, we'll be able to see her."*
+> 💬 *"The only people who say that money doesn't matter in this world are the ones with lots of it."*
 >
-> 🎭 **Minori Kushieda** — *Toradora!*
+> 🎭 **Takasugi Shinsuke** — *Gintama*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
