@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to Kenpachi Zaraki, after Tosen's senses-robbing Bankai still does not discourage the Eleventh Division Captain from fighting] I see. It's understandable. You are a demon. You belong in the darkness. So of course you do not fear it."*
+> 💬 *"Even when the sky's so dark you can't see a thing, there are still stars shining out there. So if she can learn to shine brighter, we'll be able to see her."*
 >
-> 🎭 **Tousen Kaname** — *Bleach*
+> 🎭 **Minori Kushieda** — *Toradora!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
