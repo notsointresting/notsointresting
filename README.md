@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The only people who say that money doesn't matter in this world are the ones with lots of it."*
+> 💬 *"Educating a heterosexual person about anime, is a joy for an otaku."*
 >
-> 🎭 **Takasugi Shinsuke** — *Gintama*
+> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
