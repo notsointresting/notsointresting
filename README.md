@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts](https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html) 
-- [curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution](https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html) 
-- [How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team](https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html) 
-- [Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html) 
+<!-- CYBER_NEWS:START -->- [Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability](https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html) 
+- [Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App](https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html) 
+- [Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages](https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html) 
+- [U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud](https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
