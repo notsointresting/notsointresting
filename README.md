@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"People who neglect to make efforts or who don't take any actions at all are always the ones who dream that someday they will suddenly become wildly successful."*
+> 💬 *"You need someone else to become more disciplined. No matter how hard you try by yourself, there´s a limit."*
 >
-> 🎭 **Misaki Nakahara** — *Welcome to the N.H.K.*
+> 🎭 **Ukai Keishin** — *Haikyu!! 2nd Season*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
