@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You need someone else to become more disciplined. No matter how hard you try by yourself, there´s a limit."*
+> 💬 *"Dreams can become reality!"*
 >
-> 🎭 **Ukai Keishin** — *Haikyu!! 2nd Season*
+> 🎭 **Izuku Midoriya** — *My Hero Academia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
