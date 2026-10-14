@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The US military’s race to make fake blood](https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/) 
+<!-- AI_NEWS:START -->- [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/) 
+- [The US military’s race to make fake blood](https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/) 
 - [The Download: open model trade-offs and geothermal power’s promise](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/) 
 - [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) 
-- [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/) 
 <!-- AI_NEWS:END -->
 
 </td>
