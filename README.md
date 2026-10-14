@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Educating a heterosexual person about anime, is a joy for an otaku."*
+> 💬 *"People who neglect to make efforts or who don't take any actions at all are always the ones who dream that someday they will suddenly become wildly successful."*
 >
-> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
+> 🎭 **Misaki Nakahara** — *Welcome to the N.H.K.*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
