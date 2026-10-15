@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The bond between Nezuko and me, can’t be severed by anyone!"*
+> 💬 *"[to Arrancar Gantenbainne Mosqueda] It seems that my power is more akin to yours than that of a Shinigami or a Quincy."*
 >
-> 🎭 **Tanjiro Kamado** — *Demon Slayer: Kimetsu no Yaiba*
+> 🎭 **Yasutora Sado** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
