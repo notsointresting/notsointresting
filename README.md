@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/) 
-- [The US military’s race to make fake blood](https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/) 
-- [The Download: open model trade-offs and geothermal power’s promise](https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/) 
-- [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/) 
+<!-- AI_NEWS:START -->- [How much more can nuclear power plants give?](https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/) 
+- [Six wild ideas for perpetuating your mind](https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/) 
+- [Pig kidneys that were “frozen” for a year have been brought back to life](https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/) 
+- [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/) 
 <!-- AI_NEWS:END -->
 
 </td>
