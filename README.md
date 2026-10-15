@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[to Arrancar Gantenbainne Mosqueda] It seems that my power is more akin to yours than that of a Shinigami or a Quincy."*
+> 💬 *"Even if we painstakingly piece together something lost, it doesn't mean things will ever go back to how they were."*
 >
-> 🎭 **Yasutora Sado** — *Bleach*
+> 🎭 **Guts** — *Berserk*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
