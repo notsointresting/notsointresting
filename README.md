@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The game design for life is flawed."*
+> 💬 *"The bond between Nezuko and me, can’t be severed by anyone!"*
 >
-> 🎭 **Keima Katsuragi** — *The World God Only Knows*
+> 🎭 **Tanjiro Kamado** — *Demon Slayer: Kimetsu no Yaiba*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
