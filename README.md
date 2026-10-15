@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Dreams can become reality!"*
+> 💬 *"The game design for life is flawed."*
 >
-> 🎭 **Izuku Midoriya** — *My Hero Academia*
+> 🎭 **Keima Katsuragi** — *The World God Only Knows*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
