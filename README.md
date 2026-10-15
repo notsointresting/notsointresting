@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [How much more can nuclear power plants give?](https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/) 
+<!-- AI_NEWS:START -->- [The Download: reviving frozen pig kidneys and boosting nuclear power](https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/) 
+- [How much more can nuclear power plants give?](https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/) 
 - [Six wild ideas for perpetuating your mind](https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/) 
 - [Pig kidneys that were “frozen” for a year have been brought back to life](https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/) 
-- [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/) 
 <!-- AI_NEWS:END -->
 
 </td>
