@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"They call each other friends, but they are either using others or being used themselves."*
+> 💬 *"From this day on, I don't need freedom. As we struggle using our strength to grasp what's above us. We will eventually reach something, that is the meaning of the word freedom."*
 >
-> 🎭 **Aoyagi Ritsuka** — *Loveless*
+> 🎭 **Ringo Noyamano** — *Air Gear*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
