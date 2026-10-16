@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Manga that's born from people taking responsibility for their own work, banging their head in frustration, feeling cornered, and like they want to escape, and then using that extreme situation, mental ability, stamina, and panic to create... would never lose to some soul-less manga that's just made up of other people's ideas without any kind of resolve!"*
+> 💬 *"It's okay, cool guys see naked women all the time, I'm totally used to it."*
 >
-> 🎭 **Moritaka Mashiro** — *Bakuman.*
+> 🎭 **Soul Evans** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
