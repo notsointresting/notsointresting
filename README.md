@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if we painstakingly piece together something lost, it doesn't mean things will ever go back to how they were."*
+> 💬 *"They call each other friends, but they are either using others or being used themselves."*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Aoyagi Ritsuka** — *Loveless*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
