@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's okay, cool guys see naked women all the time, I'm totally used to it."*
+> 💬 *"There isn't just one truth out there, everyone carries their own form of it"*
 >
-> 🎭 **Soul Evans** — *Soul Eater*
+> 🎭 **Frau** — *07-Ghost*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
