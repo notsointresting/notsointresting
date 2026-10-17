@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There's nothing unusual here… The appropriate one stands in the appropriate place after the inappropriate ones have collapsed to the ground, defeated. There is nothing unexpected or odd about it. Because this is reality. Not one shred of uncertainty exists here. Not even fear, of course…"*
+> 💬 *"We believe that God exists. And he exists because we exist."*
 >
-> 🎭 **Asura** — *Soul Eater*
+> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
