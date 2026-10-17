@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Appearances rarely share the whole truth."*
+> 💬 *"Death may be my only freedom."*
 >
-> 🎭 **Pride** — *Fullmetal Alchemist*
+> 🎭 **C.C.** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
