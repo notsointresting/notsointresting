@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Death may be my only freedom."*
+> 💬 *"There's nothing unusual here… The appropriate one stands in the appropriate place after the inappropriate ones have collapsed to the ground, defeated. There is nothing unexpected or odd about it. Because this is reality. Not one shred of uncertainty exists here. Not even fear, of course…"*
 >
-> 🎭 **C.C.** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Asura** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
