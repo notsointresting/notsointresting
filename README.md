@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There isn't just one truth out there, everyone carries their own form of it"*
+> 💬 *"Appearances rarely share the whole truth."*
 >
-> 🎭 **Frau** — *07-Ghost*
+> 🎭 **Pride** — *Fullmetal Alchemist*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
