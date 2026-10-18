@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"We believe that God exists. And he exists because we exist."*
+> 💬 *"When it's time for the flowers to bloom, they'll bloom. When it's time for spring to come, it'll come."*
 >
-> 🎭 **Itsuki Koizumi** — *The Melancholy of Haruhi Suzumiya*
+> 🎭 **Atsushi Shimao** — *Natsuyuki Rendezvous*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
