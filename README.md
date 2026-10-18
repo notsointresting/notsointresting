@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Does this man look like the legendary gunman Vash the Stampede? That droopy-eyed, weak-looking, bristle-headed, promiscuous-looking donut freak of a man?"*
+> 💬 *"If you have a wish, don't go back to the past and redo everything. If you want to change yourself, don't change the past, but change who you are now!"*
 >
-> 🎭 **Meryl Stryfe** — *Trigun*
+> 🎭 **Emiya Shirou** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
