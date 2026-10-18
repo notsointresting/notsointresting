@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When it's time for the flowers to bloom, they'll bloom. When it's time for spring to come, it'll come."*
+> 💬 *"[To Barragan, before he was recruited by Aizen] Isn't it ironic, king of Hueco Mundo? Dressed in black and poised to attack, you look just like a shinigami."*
 >
-> 🎭 **Atsushi Shimao** — *Natsuyuki Rendezvous*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
