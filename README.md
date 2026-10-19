@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Kindness is weakness. Your weakness will delay the trigger by a moment. This world doesn't treat kindness kindly."*
+> 💬 *"That day four years ago... When I wasn't needed by anyone. When nobody cared about me. When I had given up on living and was about to jump off the roof of a building... FB saved me with a single message. I didn't care if it was a joke or not. I was just happy that somebody knew... that I was alive... that it was OK for me to live..."*
 >
-> 🎭 **Koko Hekmatyar** — *Jormungand*
+> 🎭 **Moeka Kiryū** — *Steins;Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
