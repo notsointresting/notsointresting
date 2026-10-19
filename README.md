@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you have a wish, don't go back to the past and redo everything. If you want to change yourself, don't change the past, but change who you are now!"*
+> 💬 *"Kindness is weakness. Your weakness will delay the trigger by a moment. This world doesn't treat kindness kindly."*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Koko Hekmatyar** — *Jormungand*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
