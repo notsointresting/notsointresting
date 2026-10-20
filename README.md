@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/) 
+<!-- AI_NEWS:START -->- [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/) 
+- [The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/) 
 - [The Download: the claim shaking up AI and the internet’s agent problem](https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/) 
 - [AI adoption by industry shows what other sectors can learn](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/) 
-- [How to study a swiftly melting climate disaster](https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/) 
 <!-- AI_NEWS:END -->
 
 </td>
