@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The reward for ambition too great... is self destruction."*
+> 💬 *"Is that so? Then I'll just use "pathetic" next time."*
 >
-> 🎭 **Guts** — *Berserk*
+> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
