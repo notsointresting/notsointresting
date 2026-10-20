@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Is that so? Then I'll just use "pathetic" next time."*
+> 💬 *"As long as it's for the right cause, there's nothing wrong with playing dirty."*
 >
-> 🎭 **Senjougahara Hitagi** — *Bakemonogatari*
+> 🎭 **Kureo Mado** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
