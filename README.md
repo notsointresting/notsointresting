@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"As long as it's for the right cause, there's nothing wrong with playing dirty."*
+> 💬 *"Symmetry is key everything must be esthetically pleasing. That's why I use the two of you as twin pistols in order to preserve symmetry. When I hold you both I'm completely balanced on the right and left. It isn't perfect because your human forms are so different from each other though. Your hair styles and height for example. Even your boobs are different sizes!"*
 >
-> 🎭 **Kureo Mado** — *Tokyo Ghoul*
+> 🎭 **Death the Kid** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
