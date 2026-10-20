@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/) 
+<!-- AI_NEWS:START -->- [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/) 
+- [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/) 
 - [The Download: preserving the Arctic permafrost, and playful AI agents](https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/) 
 - [Inside the quest to combat Arctic fires and save the planet’s frozen carbon](https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/) 
-- [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/) 
 <!-- AI_NEWS:END -->
 
 </td>
