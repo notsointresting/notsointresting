@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [How to study a swiftly melting climate disaster](https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/) 
-- [A visit to Samsung’s massive new semiconductor hub](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/) 
-- [These startups hope “blended” food will cut our appetite for red meat](https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/) 
-- [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/) 
+<!-- AI_NEWS:START -->- [The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/) 
+- [The Download: the claim shaking up AI and the internet’s agent problem](https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/) 
+- [AI adoption by industry shows what other sectors can learn](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/) 
+- [How to study a swiftly melting climate disaster](https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/) 
 <!-- AI_NEWS:END -->
 
 </td>
