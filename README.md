@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [We can do impossible things](https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/) 
+<!-- AI_NEWS:START -->- [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/) 
+- [We can do impossible things](https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/) 
 - [Nuclear-powered spaceships](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/) 
 - [Exercise in a pill](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/) 
-- [Interspecies communication](https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/) 
 <!-- AI_NEWS:END -->
 
 </td>
