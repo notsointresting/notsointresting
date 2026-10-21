@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I must find a place to pawn this off."*
+> 💬 *"Even though one is dumped, no matter how one shows his misfortune and seeks kindness, the world doesn't give a damn about it."*
 >
-> 🎭 **Miroku** — *InuYasha*
+> 🎭 **Kenji Harima** — *School Rumble*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
