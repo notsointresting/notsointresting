@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even though one is dumped, no matter how one shows his misfortune and seeks kindness, the world doesn't give a damn about it."*
+> 💬 *"This is something my master used to say. "Kids who are too obedient and never think of themselves are the hardest to watch.""*
 >
-> 🎭 **Kenji Harima** — *School Rumble*
+> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
