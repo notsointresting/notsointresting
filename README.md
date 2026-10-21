@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"This is something my master used to say. "Kids who are too obedient and never think of themselves are the hardest to watch.""*
+> 💬 *"And it seems you've acquired a new power. However, is that all you are capable of achieving with it? This is the end. You will no longer interfere. The sun has already set in our hands."*
 >
-> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
+> 🎭 **Ulquiorra Schiffer** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
