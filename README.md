@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Relying on someone else without exerting any effort of your own is just not right. Because the one you rely on most, can disappear, at any time."*
+> 💬 *"I must find a place to pawn this off."*
 >
-> 🎭 **Jodie Starling** — *Case Closed*
+> 🎭 **Miroku** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
