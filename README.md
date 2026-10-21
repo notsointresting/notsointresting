@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [It’s a bird, it’s a plane … it’s a robo-puffin?](https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/) 
-- [Here’s the tea](https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/) 
-- [Melt it, spin it, use it again](https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/) 
-- [A reason to eat carbs](https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/) 
+<!-- AI_NEWS:START -->- [We can do impossible things](https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/) 
+- [Nuclear-powered spaceships](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/) 
+- [Exercise in a pill](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/) 
+- [Interspecies communication](https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/) 
 <!-- AI_NEWS:END -->
 
 </td>
