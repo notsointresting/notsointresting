@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"And it seems you've acquired a new power. However, is that all you are capable of achieving with it? This is the end. You will no longer interfere. The sun has already set in our hands."*
+> 💬 *"Lies are like colours. The more you pile up, the blacker things get."*
 >
-> 🎭 **Ulquiorra Schiffer** — *Bleach*
+> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
