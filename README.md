@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Lies are like colours. The more you pile up, the blacker things get."*
+> 💬 *"I hate this town. It’s too filled with memories I’d rather forget. I go to school every day, hang out with my friends, and then go home. There’s no place I’d rather not go ever again. I wonder if anything will ever change? Will that day ever come?"*
 >
-> 🎭 **Yuuji Kazami** — *The Fruit of Grisaia*
+> 🎭 **Okazaki Tomoya** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
