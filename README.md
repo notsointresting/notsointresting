@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I give my best and am told that I’m useless, then that’s my own fault. But being considered useless, without having even tried, is something I can’t allow."*
+> 💬 *"Humans tend to think logically, but their actions are driven by emotions..."*
 >
-> 🎭 **Ritsu Onodera** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
+> 🎭 **Sumire Muroto** — *Black Bullet*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
