@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I hate this town. It’s too filled with memories I’d rather forget. I go to school every day, hang out with my friends, and then go home. There’s no place I’d rather not go ever again. I wonder if anything will ever change? Will that day ever come?"*
+> 💬 *"If I give my best and am told that I’m useless, then that’s my own fault. But being considered useless, without having even tried, is something I can’t allow."*
 >
-> 🎭 **Okazaki Tomoya** — *Clannad*
+> 🎭 **Ritsu Onodera** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
