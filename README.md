@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/) 
-- [We can do impossible things](https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/) 
-- [Nuclear-powered spaceships](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/) 
-- [Exercise in a pill](https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/) 
+<!-- AI_NEWS:START -->- [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) 
+- [Three things you should know about permafrost](https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/) 
+- [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) 
+- [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/) 
 <!-- AI_NEWS:END -->
 
 </td>
