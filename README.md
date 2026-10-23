@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Humans tend to think logically, but their actions are driven by emotions..."*
+> 💬 *"Life and death are like light and shadow. They're both always there. But people don't like thinking about death, so subconsciously, they always look away from it."*
 >
-> 🎭 **Sumire Muroto** — *Black Bullet*
+> 🎭 **Yato** — *Noragami*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
