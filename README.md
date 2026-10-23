@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"They say that the best blaze burns brightest, when circumstances are at their worst."*
+> 💬 *"Huh? In a real war, what fool waits for their enemy's "turn"?"*
 >
-> 🎭 **Sophie Hatter** — *Howl's Moving Castle*
+> 🎭 **Sora** — *No Game, No Life*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
