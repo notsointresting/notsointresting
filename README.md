@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Life and death are like light and shadow. They're both always there. But people don't like thinking about death, so subconsciously, they always look away from it."*
+> 💬 *"Freedom can be found at the bottom of your heart."*
 >
-> 🎭 **Yato** — *Noragami*
+> 🎭 **Rob** — *Fairy Tail*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
