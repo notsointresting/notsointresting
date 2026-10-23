@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Freedom can be found at the bottom of your heart."*
+> 💬 *"They say that the best blaze burns brightest, when circumstances are at their worst."*
 >
-> 🎭 **Rob** — *Fairy Tail*
+> 🎭 **Sophie Hatter** — *Howl's Moving Castle*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
