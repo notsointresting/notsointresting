@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Anything I would never want to lose is always lost. It is a given that everything that is worth wanting will be lost the moment I obtain it. There's nothing worth pursuing at the cost of prolonging a life of suffering."*
+> 💬 *"More than anyone else, humanity is a species which looks forward to tomorrow. Because of their dreams, they can bear with the unjustness of the present."*
 >
-> 🎭 **Osamu Dazai** — *Bungo Stray Dogs 2*
+> 🎭 **Rory Mercury** — *GATE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
