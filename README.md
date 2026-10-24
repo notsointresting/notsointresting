@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Regardless of the color of eyes or skin, the color of blood is the same for everyone, isn’t it?"*
+> 💬 *"Anything I would never want to lose is always lost. It is a given that everything that is worth wanting will be lost the moment I obtain it. There's nothing worth pursuing at the cost of prolonging a life of suffering."*
 >
-> 🎭 **Oskar von Reuenthal** — *Legend of the Galactic Heroes*
+> 🎭 **Osamu Dazai** — *Bungo Stray Dogs 2*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
