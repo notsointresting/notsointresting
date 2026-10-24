@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"More than anyone else, humanity is a species which looks forward to tomorrow. Because of their dreams, they can bear with the unjustness of the present."*
+> 💬 *"Hold your tongue, the dead don't speak."*
 >
-> 🎭 **Rory Mercury** — *GATE*
+> 🎭 **Alexander Anderson** — *Hellsing Ultimate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
