@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Huh? In a real war, what fool waits for their enemy's "turn"?"*
+> 💬 *"Regardless of the color of eyes or skin, the color of blood is the same for everyone, isn’t it?"*
 >
-> 🎭 **Sora** — *No Game, No Life*
+> 🎭 **Oskar von Reuenthal** — *Legend of the Galactic Heroes*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
