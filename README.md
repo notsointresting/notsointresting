@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A left... and then a right. Or is it a right and then a left? Hmm... maybe the postcard's upside-down."*
+> 💬 *"The luminous blue stripes that ring our bodies are the ties that bind friends together in the world of flame and smoke. Never break them."*
 >
-> 🎭 **Hikari** — *Pokémon*
+> 🎭 **Akitaru Obi** — *Fire Force*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
