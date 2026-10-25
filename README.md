@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh, you're one of those guys... You don't care if somebody beats the crap out of you, but if someone lays a finger on a family member, you completely freak out. What a waste..."*
+> 💬 *"I don't need you anymore. I'm tired of you. (To Haru)"*
 >
-> 🎭 **Greed** — *Fullmetal Alchemist: Brotherhood*
+> 🎭 **Sohma Rin** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
