@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I don't need you anymore. I'm tired of you. (To Haru)"*
+> 💬 *"A left... and then a right. Or is it a right and then a left? Hmm... maybe the postcard's upside-down."*
 >
-> 🎭 **Sohma Rin** — *Fruits Basket*
+> 🎭 **Hikari** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
