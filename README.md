@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Hold your tongue, the dead don't speak."*
+> 💬 *"Oh, you're one of those guys... You don't care if somebody beats the crap out of you, but if someone lays a finger on a family member, you completely freak out. What a waste..."*
 >
-> 🎭 **Alexander Anderson** — *Hellsing Ultimate*
+> 🎭 **Greed** — *Fullmetal Alchemist: Brotherhood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
