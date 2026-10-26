@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The luminous blue stripes that ring our bodies are the ties that bind friends together in the world of flame and smoke. Never break them."*
+> 💬 *"You'll always stand by the light. That is your basketball."*
 >
-> 🎭 **Akitaru Obi** — *Fire Force*
+> 🎭 **Taiga Kagami** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
