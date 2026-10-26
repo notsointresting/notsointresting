@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Pika Pika!"*
+> 💬 *"You’re too kind. Remember this and take it to heart: kindness sometimes leads to even greater tragedy."*
 >
-> 🎭 **Pikachu** — *Pokémon*
+> 🎭 **Homura Akemi** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
