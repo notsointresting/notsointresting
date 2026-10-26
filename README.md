@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You'll always stand by the light. That is your basketball."*
+> 💬 *"Pika Pika!"*
 >
-> 🎭 **Taiga Kagami** — *Kuroko's Basketball - duplicate*
+> 🎭 **Pikachu** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
