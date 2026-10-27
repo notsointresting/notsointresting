@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You know the power of my zanpakuto, Suzumebachi. If someone gets hit twice in the same spot... They die!"*
+> 💬 *"Good… death is chasing me. Ones who kill are also chased by death, always living alongside death… Jobs that risk one’s soul are truly beautiful! How rewarding… my battlefield!"*
 >
-> 🎭 **Soi Fon** — *Bleach*
+> 🎭 **Solf J. Kimblee** — *Fullmetal Alchemist: Brotherhood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
