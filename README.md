@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html) 
-- [PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw](https://thehackernews.com/2026/10/php-issues-second-windows-security.html) 
-- [Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware](https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html) 
-- [⚡ Weekly Recap: This2Shell, That2Shell, Everything&#39;s an RCE? Rogue AI, Supply Chain Chaos and More](https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html) 
+<!-- CYBER_NEWS:START -->- [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html) 
+- [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html) 
+- [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html) 
+- [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
