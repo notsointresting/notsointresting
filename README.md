@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Good… death is chasing me. Ones who kill are also chased by death, always living alongside death… Jobs that risk one’s soul are truly beautiful! How rewarding… my battlefield!"*
+> 💬 *"Don't worry about being so considerate of adults. You can only be a kid for so long, so you might as well enjoy it."*
 >
-> 🎭 **Solf J. Kimblee** — *Fullmetal Alchemist: Brotherhood*
+> 🎭 **Charles Beams** — *Eureka Seven*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
