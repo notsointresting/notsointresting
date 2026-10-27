@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You’re too kind. Remember this and take it to heart: kindness sometimes leads to even greater tragedy."*
+> 💬 *"You know the power of my zanpakuto, Suzumebachi. If someone gets hit twice in the same spot... They die!"*
 >
-> 🎭 **Homura Akemi** — *Puella Magi Madoka Magica*
+> 🎭 **Soi Fon** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
