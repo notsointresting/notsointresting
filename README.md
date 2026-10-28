@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't worry about being so considerate of adults. You can only be a kid for so long, so you might as well enjoy it."*
+> 💬 *"There are things you can't turn back, even if you want to."*
 >
-> 🎭 **Charles Beams** — *Eureka Seven*
+> 🎭 **Jūdai Yūki** — *Yu-Gi-Oh! GX*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
