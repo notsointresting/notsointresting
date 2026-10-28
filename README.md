@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"(after Pikachu accidentally zaps her bike to a crisp) My bike's been barbecued!!"*
+> 💬 *"I was wrong, kill him."*
 >
-> 🎭 **Haruka** — *Pokémon*
+> 🎭 **Kagome Higurashi** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
