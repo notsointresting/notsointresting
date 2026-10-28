@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: Anthropic’s IPO, smarter power grids, and exercise pills](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/) 
+<!-- AI_NEWS:START -->- [The Download: dead startups fueling AI and interspecies communication](https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/) 
+- [Pairing industrial AI autonomy and human control](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/) 
+- [The Download: Anthropic’s IPO, smarter power grids, and exercise pills](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/) 
 - [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/) 
-- [How solid-state transformers could help power the AI boom](https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/) 
-- [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/) 
 <!-- AI_NEWS:END -->
 
 </td>
