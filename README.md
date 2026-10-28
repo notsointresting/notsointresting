@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There are things you can't turn back, even if you want to."*
+> 💬 *"(after Pikachu accidentally zaps her bike to a crisp) My bike's been barbecued!!"*
 >
-> 🎭 **Jūdai Yūki** — *Yu-Gi-Oh! GX*
+> 🎭 **Haruka** — *Pokémon*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
