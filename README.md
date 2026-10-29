@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) 
+<!-- AI_NEWS:START -->- [The Download: AI agent tracking and climate feedback loops](https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/) 
+- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) 
 - [Our climate models have a big, dangerous blind spot](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/) 
 - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/) 
-- [The Download: dead startups fueling AI and interspecies communication](https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/) 
 <!-- AI_NEWS:END -->
 
 </td>
