@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I was wrong, kill him."*
+> 💬 *"Love grows over time. He will eventually become the most important person in your life."*
 >
-> 🎭 **Kagome Higurashi** — *InuYasha*
+> 🎭 **Touko** — *The Ogre's Bride*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
