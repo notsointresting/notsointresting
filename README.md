@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Love grows over time. He will eventually become the most important person in your life."*
+> 💬 *"He feared sleep. He'd say that his soul would slip down into nothing. They say that man never dreamt after the day he cut his pillow."*
 >
-> 🎭 **Touko** — *The Ogre's Bride*
+> 🎭 **Ginko** — *Mushi-Shi*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
