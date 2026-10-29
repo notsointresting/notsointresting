@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"He feared sleep. He'd say that his soul would slip down into nothing. They say that man never dreamt after the day he cut his pillow."*
+> 💬 *"The real fun is in constantly pushing beyond your limits. So if you're thinking of everything as a game, you won't be able to fully experience it."*
 >
-> 🎭 **Ginko** — *Mushi-Shi*
+> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
