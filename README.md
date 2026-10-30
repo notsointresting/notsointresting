@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The real fun is in constantly pushing beyond your limits. So if you're thinking of everything as a game, you won't be able to fully experience it."*
+> 💬 *"Red is supposed to be the color of fate, right? Even if it’s annoying now, it might connect to something good when you least expect it."*
 >
-> 🎭 **Kagami Junichirou** — *Ultimate Otaku Teacher*
+> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
