@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I really don't get it. Why don't you tell her how you feel if you care for her so much? Why would you lie like that and keep yourself from pursuing her?"*
+> 💬 *"Even the worst evil saves something... even the greatest good hurts someone."*
 >
-> 🎭 **Soutarou Kanou** — *Maid Sama!*
+> 🎭 **Rouka Numachi** — *Hanamonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
