@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Red is supposed to be the color of fate, right? Even if it’s annoying now, it might connect to something good when you least expect it."*
+> 💬 *"I really don't get it. Why don't you tell her how you feel if you care for her so much? Why would you lie like that and keep yourself from pursuing her?"*
 >
-> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
+> 🎭 **Soutarou Kanou** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
