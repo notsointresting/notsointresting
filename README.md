@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Eating disorders are on the rise. GLP-1s could make things worse.](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/) 
+<!-- AI_NEWS:START -->- [The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals](https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/) 
+- [Eating disorders are on the rise. GLP-1s could make things worse.](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/) 
 - [The Download: AI agent tracking and climate feedback loops](https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/) 
 - [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) 
-- [Our climate models have a big, dangerous blind spot](https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/) 
 <!-- AI_NEWS:END -->
 
 </td>
