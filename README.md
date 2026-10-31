@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *""To enjoy what one loves to do". Those words come easily from the mouth. But it's another thing to help them grow."*
+> 💬 *"It's fine if he holds bad judgements without trying to get to know me. The real point is letting just the ones who want to understand me know my real self."*
 >
-> 🎭 **Medaka Kurokami** — *Medaka Box*
+> 🎭 **Kyoya Ootori** — *Ouran High School Host Club*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
