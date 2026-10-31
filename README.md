@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'll get what I want... even if I have to steal it."*
+> 💬 *""To enjoy what one loves to do". Those words come easily from the mouth. But it's another thing to help them grow."*
 >
-> 🎭 **Rue Kuroha** — *Princess Tutu*
+> 🎭 **Medaka Kurokami** — *Medaka Box*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
