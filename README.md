@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oddities are the world itself. They're linked to the world, unlike living beings. Science alone cannot shed light upon them, as there will always be people who'll be afraid of vampires. Although all forms of darkness could be lit up, darkness will never cease to exist."*
+> 💬 *"I'll get what I want... even if I have to steal it."*
 >
-> 🎭 **Bakemonogatari** — *Bakemonogatari*
+> 🎭 **Rue Kuroha** — *Princess Tutu*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
