@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even the worst evil saves something... even the greatest good hurts someone."*
+> 💬 *"Oddities are the world itself. They're linked to the world, unlike living beings. Science alone cannot shed light upon them, as there will always be people who'll be afraid of vampires. Although all forms of darkness could be lit up, darkness will never cease to exist."*
 >
-> 🎭 **Rouka Numachi** — *Hanamonogatari*
+> 🎭 **Bakemonogatari** — *Bakemonogatari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
