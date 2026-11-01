@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you ever feel like dying to help the universe, just let me know. I'll be waiting."*
+> 💬 *"Theories are nothing more than words. Accept what you’ve seen."*
 >
-> 🎭 **Kyubee** — *Puella Magi Madoka Magica*
+> 🎭 **Rintaro Okabe** — *Steins Gate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
