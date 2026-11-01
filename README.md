@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"In my next life, I want to be me, and meet you again."*
+> 💬 *"If you ever feel like dying to help the universe, just let me know. I'll be waiting."*
 >
-> 🎭 **Gon Freecss** — *Hunter x Hunter*
+> 🎭 **Kyubee** — *Puella Magi Madoka Magica*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
