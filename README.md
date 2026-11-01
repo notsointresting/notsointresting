@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's fine if he holds bad judgements without trying to get to know me. The real point is letting just the ones who want to understand me know my real self."*
+> 💬 *"In my next life, I want to be me, and meet you again."*
 >
-> 🎭 **Kyoya Ootori** — *Ouran High School Host Club*
+> 🎭 **Gon Freecss** — *Hunter x Hunter*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
