@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Theories are nothing more than words. Accept what you’ve seen."*
+> 💬 *"A small mistake can make a huge difference."*
 >
-> 🎭 **Rintaro Okabe** — *Steins Gate*
+> 🎭 **Shinichi Kudou** — *Case Closed*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
