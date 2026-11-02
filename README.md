@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html) 
-- [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html) 
-- [FBI Links North Korea&#39;s TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html) 
-- [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html) 
+<!-- CYBER_NEWS:START -->- [Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html) 
+- [Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html) 
+- [Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html) 
+- [Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
