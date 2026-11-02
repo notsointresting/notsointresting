@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals](https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/) 
-- [Eating disorders are on the rise. GLP-1s could make things worse.](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/) 
-- [The Download: AI agent tracking and climate feedback loops](https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/) 
-- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) 
+<!-- AI_NEWS:START -->- [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/) 
+- [The Download: the agentic web arrives and the drive for safer roads](https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/) 
+- [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/) 
+- [The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals](https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/) 
 <!-- AI_NEWS:END -->
 
 </td>
