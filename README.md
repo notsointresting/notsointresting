@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"A small mistake can make a huge difference."*
+> 💬 *"Let’s see who can be a cooler Defense Force officer!"*
 >
-> 🎭 **Shinichi Kudou** — *Case Closed*
+> 🎭 **Kafka Hibino** — *Kaiju No. 8*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
