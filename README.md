@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"[in reference to Mizuho Asano, Keigo's sister] I owe this crazy woman."*
+> 💬 *"Even though everything is going to disappear, it isn't supposed to be meaningless. It's exactly because you know you're going to part ways, that now and only now is your only chance."*
 >
-> 🎭 **Madarame Ikkaku** — *Bleach*
+> 🎭 **Onoya An** — *ReLIFE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
