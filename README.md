@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even though everything is going to disappear, it isn't supposed to be meaningless. It's exactly because you know you're going to part ways, that now and only now is your only chance."*
+> 💬 *"Aki, you can't lie when you confess to someone. I'm trying to comfort you know, but if I just wanted to comfort you, I won't confess to you. I confessed to you like this because I really like you. But I do find it a little annoying how you fidget around like this, and I really hate you for blaming yourself and regretting your actions. -- and I really hate you when you said that a girl, who summoned all her courage to confess to you, is lying."*
 >
-> 🎭 **Onoya An** — *ReLIFE*
+> 🎭 **Shimada Minami** — *Baka & Test - Summon the Beasts*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
