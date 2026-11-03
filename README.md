@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Let’s see who can be a cooler Defense Force officer!"*
+> 💬 *"[in reference to Mizuho Asano, Keigo's sister] I owe this crazy woman."*
 >
-> 🎭 **Kafka Hibino** — *Kaiju No. 8*
+> 🎭 **Madarame Ikkaku** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
