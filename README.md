@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When you look back after a long life, you'll realize there's nothing that's really worth risking your life for."*
+> 💬 *"Don’t push your feelings onto others. No matter what pretty words you use, your kindness is just hypocrisy. You’re pretending to be nice only to make yourself feel better."*
 >
-> 🎭 **Mackenzie Glen** — *Fate/Zero*
+> 🎭 **Hallelujah Haptism** — *Mobile Suit Gundam 00*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
