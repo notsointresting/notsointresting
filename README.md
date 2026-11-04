@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When there is evil in this world that justice cannot defeat, would you taint your hands with evil to defeat evil? Or would you remain steadfast and righteous even if it means surrendering to evil?"*
+> 💬 *"When you look back after a long life, you'll realize there's nothing that's really worth risking your life for."*
 >
-> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
+> 🎭 **Mackenzie Glen** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
