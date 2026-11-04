@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Aki, you can't lie when you confess to someone. I'm trying to comfort you know, but if I just wanted to comfort you, I won't confess to you. I confessed to you like this because I really like you. But I do find it a little annoying how you fidget around like this, and I really hate you for blaming yourself and regretting your actions. -- and I really hate you when you said that a girl, who summoned all her courage to confess to you, is lying."*
+> 💬 *"When there is evil in this world that justice cannot defeat, would you taint your hands with evil to defeat evil? Or would you remain steadfast and righteous even if it means surrendering to evil?"*
 >
-> 🎭 **Shimada Minami** — *Baka & Test - Summon the Beasts*
+> 🎭 **Lelouch Lamperouge** — *Code Geass: Lelouch of the Rebellion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
