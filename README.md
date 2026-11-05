@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if there's nothing here today, there might be something tomorrow. It's a caring heart that's important."*
+> 💬 *"The day before yesterday, I saw a rabbit. Yesterday, it was a deer. And today, it’s you."*
 >
-> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
+> 🎭 **Ichinose Kotomi** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
