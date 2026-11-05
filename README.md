@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t push your feelings onto others. No matter what pretty words you use, your kindness is just hypocrisy. You’re pretending to be nice only to make yourself feel better."*
+> 💬 *"Even if there's nothing here today, there might be something tomorrow. It's a caring heart that's important."*
 >
-> 🎭 **Hallelujah Haptism** — *Mobile Suit Gundam 00*
+> 🎭 **Takashi Natsume** — *Natsume Yuujinchou*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
