@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Songs are good. Singing brings us joy. It is the highest point in the culture that Lilims have created."*
+> 💬 *"Damn piece of Earth trash!"*
 >
-> 🎭 **Kaworu Nagisa** — *Neon Genesis Evangelion*
+> 🎭 **Miguel Aiman** — *Mobile Suit Gundam SEED*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
