@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Oh, right, Senjougahara. I've got a great story to tell you. It's about that man who tried to rape you way back. He was hit by a car and died in a place with no connection to you, in an event with no connection to you. Without any drama at all. [...] That's the lesson for you here: You shouldn't expect your life to be like the theater."*
+> 💬 *"Songs are good. Singing brings us joy. It is the highest point in the culture that Lilims have created."*
 >
-> 🎭 **Deishū Kaiki** — *Bakemonogatari*
+> 🎭 **Kaworu Nagisa** — *Neon Genesis Evangelion*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
