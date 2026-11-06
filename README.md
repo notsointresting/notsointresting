@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Damn piece of Earth trash!"*
+> 💬 *"Your own path is for you to find out on your own."*
 >
-> 🎭 **Miguel Aiman** — *Mobile Suit Gundam SEED*
+> 🎭 **Subaru** — *.hack//Sign*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
