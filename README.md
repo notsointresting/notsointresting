@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Microsoft Paint RCE Fix Now Available, but Windows Update Won&#39;t Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html) 
-- [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users&#39; Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html) 
-- [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html) 
-- [Chainalysis Breach Exposes All Users&#39; Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html) 
+<!-- CYBER_NEWS:START -->- [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html) 
+- [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html) 
+- [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html) 
+- [Microsoft Paint RCE Fix Now Available, but Windows Update Won&#39;t Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
