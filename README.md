@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't ever think there's any perfect society made by humans!! If you think that way you'll overlook the enemy!! Don't be fooled by appearances!!"*
+> 💬 *"He turned a room full of strangers into a room full of enemies with just one sentence."*
 >
-> 🎭 **Smoker** — *One Piece*
+> 🎭 **Nara Shikamaru** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
