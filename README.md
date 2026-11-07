@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"He turned a room full of strangers into a room full of enemies with just one sentence."*
+> 💬 *"Everytime Otani says or does something, I end up going to heaven, or hell."*
 >
-> 🎭 **Nara Shikamaru** — *Naruto*
+> 🎭 **Risa Koizumi** — *Lovely Complex*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
