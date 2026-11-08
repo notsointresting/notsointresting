@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The more I concentrate, the more I get consumed by my performance. The sounds I play fade away from my reach, tangling up like flowers seized by the spring wind and vanish."*
+> 💬 *"Blood calls for blood, while hatred begets hatred, and the energy that comes forth begins to take root in this earth and engraves a crest of blood. They never learn, no matter how many times history is repeated. Humans are foolish, sorrowful creatures."*
 >
-> 🎭 **Kousei Arima** — *Your Lie in April*
+> 🎭 **Lust** — *Fullmetal Alchemist: Brotherhood*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
