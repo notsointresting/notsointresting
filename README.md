@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Everytime Otani says or does something, I end up going to heaven, or hell."*
+> 💬 *"The more I concentrate, the more I get consumed by my performance. The sounds I play fade away from my reach, tangling up like flowers seized by the spring wind and vanish."*
 >
-> 🎭 **Risa Koizumi** — *Lovely Complex*
+> 🎭 **Kousei Arima** — *Your Lie in April*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
