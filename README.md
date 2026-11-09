@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Even if doesn't alter or change the end result in the slightest, making decisions based on convictions that you believe in and walking your own path has its own merit and worth. There's something to be said for not having... even one regret."*
+> 💬 *"I will be the Man who surpass God."*
 >
-> 🎭 **Haschwalth Jugram** — *Bleach*
+> 🎭 **Black Star** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
