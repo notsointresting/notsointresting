@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: a humanoid cleans house and Samsung builds for the AI boom](https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/) 
-- [I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/) 
-- [The Download: Texas’s fragile AI boom and energy policy shifts](https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/) 
-- [A new bill could change how the US builds energy infrastructure](https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/) 
+<!-- AI_NEWS:START -->- [The Download: empty AI climate claims, and an Nvidia investigation](https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/) 
+- [Innovating with AI in the special chemicals industry](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/) 
+- [The climate case for AI has not been made](https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/) 
+- [The Download: a humanoid cleans house and Samsung builds for the AI boom](https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/) 
 <!-- AI_NEWS:END -->
 
 </td>
