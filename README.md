@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"(to Kagura) Sorry that's your cue to say "Shigure you perv" and roll your eyes, slap me, whatever."*
+> 💬 *"Don't ever lie, even if it's about your feelings."*
 >
-> 🎭 **Sohma Shigure** — *Fruits Basket*
+> 🎭 **Misaki Ayuzawa** — *Maid Sama!*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
