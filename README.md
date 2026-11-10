@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I will be the Man who surpass God."*
+> 💬 *"(to Kagura) Sorry that's your cue to say "Shigure you perv" and roll your eyes, slap me, whatever."*
 >
-> 🎭 **Black Star** — *Soul Eater*
+> 🎭 **Sohma Shigure** — *Fruits Basket*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
