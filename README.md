@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't ever lie, even if it's about your feelings."*
+> 💬 *"What is an adult? Does coolly drinking black coffee and spouting logic make you an adult?! If that's the case, I'll stay a kid that likes drinking orange juice."*
 >
-> 🎭 **Misaki Ayuzawa** — *Maid Sama!*
+> 🎭 **Shirota Mahiru** — *SERVAMP*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
