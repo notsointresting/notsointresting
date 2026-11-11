@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What is an adult? Does coolly drinking black coffee and spouting logic make you an adult?! If that's the case, I'll stay a kid that likes drinking orange juice."*
+> 💬 *"Someday, my memories of her will fade. Her voice, her actions – I might forget them as well. But even then, I will always remember that I loved her."*
 >
-> 🎭 **Shirota Mahiru** — *SERVAMP*
+> 🎭 **Emiya Shirou** — *Fate/stay night*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
