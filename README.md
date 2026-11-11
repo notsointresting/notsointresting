@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Someday, my memories of her will fade. Her voice, her actions – I might forget them as well. But even then, I will always remember that I loved her."*
+> 💬 *"It's very difficult for me to step on an ant without crushing it."*
 >
-> 🎭 **Emiya Shirou** — *Fate/stay night*
+> 🎭 **Aizen Sousuke** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
