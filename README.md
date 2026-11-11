@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html) 
-- [We Built An Agent That Broke All of Our Security Rules. Here&#39;s What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html) 
-- [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html) 
-- [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html) 
+<!-- CYBER_NEWS:START -->- [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html) 
+- [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html) 
+- [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html) 
+- [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
