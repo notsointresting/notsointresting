@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"It's very difficult for me to step on an ant without crushing it."*
+> 💬 *"Who can gaze into the mirror without becoming evil? The mirror does not reflect evil, but creates it."*
 >
-> 🎭 **Aizen Sousuke** — *Bleach*
+> 🎭 **Motoko Kusanagi** — *Ghost in the Shell*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
