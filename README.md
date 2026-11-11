@@ -149,10 +149,10 @@
 
 <h3 align="center">🔒 Cybersecurity</h3>
 
-<!-- CYBER_NEWS:START -->- [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html) 
-- [SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html) 
-- [Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html) 
-- [Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html) 
+<!-- CYBER_NEWS:START -->- [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html) 
+- [We Built An Agent That Broke All of Our Security Rules. Here&#39;s What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html) 
+- [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html) 
+- [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html) 
 <!-- CYBER_NEWS:END -->
 
 </td>
