@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [What to know about this year’s UN climate talks](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/) 
+<!-- AI_NEWS:START -->- [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/) 
+- [What to know about this year’s UN climate talks](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/) 
 - [The Download: preserving minds and weighing open AI risks](https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/) 
 - [The Download: Pelosi’s successor targets AI and data centers face power woes](https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/) 
-- [Evolving metal extraction processes](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/) 
 <!-- AI_NEWS:END -->
 
 </td>
