@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Nobody will be happy being told off for something they never did."*
+> 💬 *"Ruin Myself, huh? I like it."*
 >
-> 🎭 **Sakamoto Yuuji** — *Baka & Test - Summon the Beasts*
+> 🎭 **Ohana Matsumae** — *Hanasaku Iroha: Blossoms for Tomorrow*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
