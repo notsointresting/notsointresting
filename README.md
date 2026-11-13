@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Ruin Myself, huh? I like it."*
+> 💬 *"After you've gobbled him down you'd be left alone to regret it while covered in blood and guts. That's the hunger of a ghoul. That's our destiny."*
 >
-> 🎭 **Ohana Matsumae** — *Hanasaku Iroha: Blossoms for Tomorrow*
+> 🎭 **Touka Kirishima** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
