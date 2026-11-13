@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/) 
-- [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/) 
-- [What to know about this year’s UN climate talks](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/) 
-- [The Download: preserving minds and weighing open AI risks](https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/) 
+<!-- AI_NEWS:START -->- [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/) 
+- [More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) 
+- [Silicon Valley claims to know the future. So why did it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/) 
+- [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/) 
 <!-- AI_NEWS:END -->
 
 </td>
