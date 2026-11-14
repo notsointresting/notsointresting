@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Quite worthy of being an instructor at U.A. Ain’t that right, hero? Is it cuz your students are so precious? Hope you got what it takes to protect them… See ya later."*
+> 💬 *"GOOD MOOOORNING ICHIGOOOOOO!!!!"*
 >
-> 🎭 **Dabi** — *My Hero Academia*
+> 🎭 **Kurosaki Isshin** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
