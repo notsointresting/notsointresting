@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"GOOD MOOOORNING ICHIGOOOOOO!!!!"*
+> 💬 *"Whenever I look at you, I'm reminded about everything I hate about myself. It hurts."*
 >
-> 🎭 **Kurosaki Isshin** — *Bleach*
+> 🎭 **Nicholas D. Wolfwood** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
