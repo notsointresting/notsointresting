@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Whenever I look at you, I'm reminded about everything I hate about myself. It hurts."*
+> 💬 *"If I follow my dream and it shatters - I can accept having to regret that. But I don't want to regret not pursuing it in the first place."*
 >
-> 🎭 **Nicholas D. Wolfwood** — *Trigun*
+> 🎭 **Akito Takagi** — *Bakuman.*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
