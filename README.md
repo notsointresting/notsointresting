@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If I follow my dream and it shatters - I can accept having to regret that. But I don't want to regret not pursuing it in the first place."*
+> 💬 *"I hate, hate, HATE everyone. But that’s okay. I can use my screams to blow them all away. I’m sure dead people are a lot easier to deal with."*
 >
-> 🎭 **Akito Takagi** — *Bakuman.*
+> 🎭 **Crona** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
