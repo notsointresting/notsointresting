@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When a person encounters that which they cannot understand, what do they do? Why, they think. But you know, the more you think about something, the further you get from the truth. Yes. Your thoughts get in the way of what your instincts desire. In the way of the real answer."*
+> 💬 *"But for me, just having fun wasn't enough. The support of my friends was equally important. They encouraged me through my struggles. They're all so different from me, but they're honest and determined. We fought, but we also worked together. I know my mother had a friend like that too. Someone to have fun with. Someone to share her worries. Mom, I have finished the song we promised to write. Sorry it took so long. I'm glad I could create this song with you and my friends. I'll treasure it always for bringing us together."*
 >
-> 🎭 **Fumito Nanahara** — *Blood-C*
+> 🎭 **Wakana Sakai** — *Tari Tari*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
