@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"But for me, just having fun wasn't enough. The support of my friends was equally important. They encouraged me through my struggles. They're all so different from me, but they're honest and determined. We fought, but we also worked together. I know my mother had a friend like that too. Someone to have fun with. Someone to share her worries. Mom, I have finished the song we promised to write. Sorry it took so long. I'm glad I could create this song with you and my friends. I'll treasure it always for bringing us together."*
+> 💬 *"The more fun I have, the more it'll hurt when we part ways. I know that all too well."*
 >
-> 🎭 **Wakana Sakai** — *Tari Tari*
+> 🎭 **Hishiro Chizuru** — *ReLIFE*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
