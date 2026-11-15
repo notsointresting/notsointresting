@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I hate, hate, HATE everyone. But that’s okay. I can use my screams to blow them all away. I’m sure dead people are a lot easier to deal with."*
+> 💬 *"When a person encounters that which they cannot understand, what do they do? Why, they think. But you know, the more you think about something, the further you get from the truth. Yes. Your thoughts get in the way of what your instincts desire. In the way of the real answer."*
 >
-> 🎭 **Crona** — *Soul Eater*
+> 🎭 **Fumito Nanahara** — *Blood-C*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
