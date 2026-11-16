@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The more fun I have, the more it'll hurt when we part ways. I know that all too well."*
+> 💬 *"I live life every day hoping I was a slightly kinder person than I was the day before."*
 >
-> 🎭 **Hishiro Chizuru** — *ReLIFE*
+> 🎭 **Shoko Makinohara** — *Rascal Does Not Dream of Bunny Girl Senpai*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
