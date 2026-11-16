@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/) 
+<!-- AI_NEWS:START -->- [The Download: testing tech promises and searching for cognitive immortality](https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/) 
+- [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/) 
+- [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/) 
 - [More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) 
-- [Silicon Valley claims to know the future. So why did it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/) 
-- [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/) 
 <!-- AI_NEWS:END -->
 
 </td>
