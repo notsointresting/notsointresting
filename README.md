@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don’t give up! There’s no shame in falling down! True shame is to not stand up again!"*
+> 💬 *"Running away isn’t the same thing as losing. You only truly lose by dying. So as long you’re alive, you win."*
 >
-> 🎭 **Midorima Shintarou** — *Kuroko's Basketball - duplicate*
+> 🎭 **Senator Figaro** — *Valvrave the Liberator*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
