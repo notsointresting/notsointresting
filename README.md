@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/) 
+<!-- AI_NEWS:START -->- [Research Reports](https://www.technologyreview.com/2026/11/17/1148203/research-reports/) 
+- [The Download: Jensen Huang’s open-source dilemma and cognitive immortality](https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/) 
+- [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/) 
 - [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/) 
-- [The Download: testing tech promises and searching for cognitive immortality](https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/) 
-- [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/) 
 <!-- AI_NEWS:END -->
 
 </td>
