@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Running away isn’t the same thing as losing. You only truly lose by dying. So as long you’re alive, you win."*
+> 💬 *"Are you stupid?"*
 >
-> 🎭 **Senator Figaro** — *Valvrave the Liberator*
+> 🎭 **Inuyasha** — *InuYasha*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
