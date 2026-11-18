@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [Research Reports](https://www.technologyreview.com/2026/11/17/1148203/research-reports/) 
+<!-- AI_NEWS:START -->- [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/) 
+- [Hydropower hit record lows in the US Southwest this summer](https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/) 
+- [Research Reports](https://www.technologyreview.com/2026/11/17/1148203/research-reports/) 
 - [The Download: Jensen Huang’s open-source dilemma and cognitive immortality](https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/) 
-- [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/) 
-- [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/) 
 <!-- AI_NEWS:END -->
 
 </td>
