@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Are you stupid?"*
+> 💬 *"You can't just erase people's feelings. It's as if my emotions were lost somewhere hundreds of miles away. It's as if they were sent long ago, in a letter that was always intended for me."*
 >
-> 🎭 **Inuyasha** — *InuYasha*
+> 🎭 **Wolfgang Grimmer** — *Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
