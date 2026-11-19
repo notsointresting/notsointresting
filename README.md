@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't tell me he wants to conquer the world? Can't he come up with something more original?"*
+> 💬 *"The fact that you consider yourself as an equal to me, is being arrogant in itself."*
 >
-> 🎭 **Lina Inverse** — *Slayers*
+> 🎭 **Kuchiki Byakuya** — *Bleach*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
