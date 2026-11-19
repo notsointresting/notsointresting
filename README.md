@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"What is education? Isn't education meant to create a person that conforms to society? What kind of education must be administrated to create a human being that meets the society's demands? Education is an experiment."*
+> 💬 *"Don't tell me he wants to conquer the world? Can't he come up with something more original?"*
 >
-> 🎭 **Mikhail Petrov** — *Monster*
+> 🎭 **Lina Inverse** — *Slayers*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
