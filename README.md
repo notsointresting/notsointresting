@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"While it may be that ignorance is a sin, it's impossible to know everything."*
+> 💬 *"What is education? Isn't education meant to create a person that conforms to society? What kind of education must be administrated to create a human being that meets the society's demands? Education is an experiment."*
 >
-> 🎭 **Kraft Lawrence** — *Spice and Wolf*
+> 🎭 **Mikhail Petrov** — *Monster*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
