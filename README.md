@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The fact that you consider yourself as an equal to me, is being arrogant in itself."*
+> 💬 *"Killing others is never justice, no matter what kind of noble cause one upholds."*
 >
-> 🎭 **Kuchiki Byakuya** — *Bleach*
+> 🎭 **Seishin Muroi** — *Shiki*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
