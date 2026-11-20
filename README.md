@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Killing others is never justice, no matter what kind of noble cause one upholds."*
+> 💬 *"I'm here because I don't like to be tied down. So you should decide for yourself who you want for your friend."*
 >
-> 🎭 **Seishin Muroi** — *Shiki*
+> 🎭 **Hayabusa Shou** — *Haven't You Heard? I'm Sakamoto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
