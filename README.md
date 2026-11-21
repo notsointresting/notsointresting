@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"When the guarantee of safety is dangled right in front of their eyes, humans will turn their eye from probability."*
+> 💬 *"Power is necessary, because conflicts continue to exist."*
 >
-> 🎭 **Saori Shibuki** — *Alice in Borderland*
+> 🎭 **Gilbert Dullindal** — *Mobile Suit Gundam SEED Destiny*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
