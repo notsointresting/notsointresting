@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Power is necessary, because conflicts continue to exist."*
+> 💬 *"I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me."*
 >
-> 🎭 **Gilbert Dullindal** — *Mobile Suit Gundam SEED Destiny*
+> 🎭 **Alois Trancy** — *Black Butler*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
