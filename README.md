@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I'm here because I don't like to be tied down. So you should decide for yourself who you want for your friend."*
+> 💬 *"When the guarantee of safety is dangled right in front of their eyes, humans will turn their eye from probability."*
 >
-> 🎭 **Hayabusa Shou** — *Haven't You Heard? I'm Sakamoto*
+> 🎭 **Saori Shibuki** — *Alice in Borderland*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
