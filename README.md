@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Don't beg for things, get them yourself or else you won't get anything."*
+> 💬 *"There is always a chance of success, and if there isn't any, I'll just have to make one."*
 >
-> 🎭 **Renton Thurston** — *Eureka Seven*
+> 🎭 **Keima Katsuragi** — *The World God Only Knows*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
