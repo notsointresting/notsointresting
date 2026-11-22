@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me."*
+> 💬 *"Don't beg for things, get them yourself or else you won't get anything."*
 >
-> 🎭 **Alois Trancy** — *Black Butler*
+> 🎭 **Renton Thurston** — *Eureka Seven*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
