@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"There is always a chance of success, and if there isn't any, I'll just have to make one."*
+> 💬 *"Between dreams and reality is the vault of your soul. No one could see the “Dream World” without this path."*
 >
-> 🎭 **Keima Katsuragi** — *The World God Only Knows*
+> 🎭 **Ginko** — *Mushi-Shi*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
