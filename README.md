@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Between dreams and reality is the vault of your soul. No one could see the “Dream World” without this path."*
+> 💬 *"If you do evil out of a hatred for evil, that rage and hate will merely birth new conflict."*
 >
-> 🎭 **Ginko** — *Mushi-Shi*
+> 🎭 **Saber** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
