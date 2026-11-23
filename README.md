@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) 
+<!-- AI_NEWS:START -->- [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/) 
+- [Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/) 
+- [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) 
 - [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/) 
-- [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/) 
-- [A human liver has been kept alive outside the body for a record seven weeks](https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/) 
 <!-- AI_NEWS:END -->
 
 </td>
