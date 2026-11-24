@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/) 
-- [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/) 
-- [Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/) 
-- [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) 
+<!-- AI_NEWS:START -->- [Raising the stakes for enterprise networks with AI modernization](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/) 
+- [The Download: AI’s gas power boom and a consciousness reality check](https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/) 
+- [Data centers are getting their own natural gas power plants](https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/) 
+- [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/) 
 <!-- AI_NEWS:END -->
 
 </td>
