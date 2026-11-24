@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If people scrutinize you, just ignore them and do whatever you want to do."*
+> 💬 *"Why is it that the beautiful things are entwined more deeply with death than with life?"*
 >
-> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
+> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
