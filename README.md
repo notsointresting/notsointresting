@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"If you do evil out of a hatred for evil, that rage and hate will merely birth new conflict."*
+> 💬 *"If people scrutinize you, just ignore them and do whatever you want to do."*
 >
-> 🎭 **Saber** — *Fate/Zero*
+> 🎭 **Zen Wistalia** — *Snow White with the Red Hair*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
