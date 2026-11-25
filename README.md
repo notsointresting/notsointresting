@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Isn't the foolishness of the few a more precious commodity than the wisdom of the masses? There are those who were born human but harbor wishes that man was not meant for and have renounced their humanity in its pursuit."*
+> 💬 *"The weaker you are the louder you bark."*
 >
-> 🎭 **Gilgamesh** — *Fate/Zero*
+> 🎭 **Tenten** — *Naruto*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
