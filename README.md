@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Why is it that the beautiful things are entwined more deeply with death than with life?"*
+> 💬 *"Isn't the foolishness of the few a more precious commodity than the wisdom of the masses? There are those who were born human but harbor wishes that man was not meant for and have renounced their humanity in its pursuit."*
 >
-> 🎭 **Kaneki Ken** — *Tokyo Ghoul*
+> 🎭 **Gilgamesh** — *Fate/Zero*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
