@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"The weaker you are the louder you bark."*
+> 💬 *"Once you look up to someone, you can't overtake them."*
 >
-> 🎭 **Tenten** — *Naruto*
+> 🎭 **Kise Ryouta** — *Kuroko's Basketball - duplicate*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
