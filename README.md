@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Once you look up to someone, you can't overtake them."*
+> 💬 *"You know... You like me more than you think you do."*
 >
-> 🎭 **Kise Ryouta** — *Kuroko's Basketball - duplicate*
+> 🎭 **Masamune Takano** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
