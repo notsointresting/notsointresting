@@ -160,10 +160,10 @@
 
 <h3 align="center">🤖 AI & Tech</h3>
 
-<!-- AI_NEWS:START -->- [The Download: Better bionic hands and AI’s natural-gas boom](https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/) 
-- [The next generation of bionic hands is here—and they can feel](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/) 
-- [How data centers are driving a US natural-gas boom](https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/) 
-- [The Download: AI swamping open records, and firefighting for permafrost](https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/) 
+<!-- AI_NEWS:START -->- [The Download: Innovators Under 35 nominations are open, and a bionic window into the mind](https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/) 
+- [Our 2027 Innovators Under 35 competition is now open](https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/) 
+- [How cutting-edge prosthetics can help probe the human mind](https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/) 
+- [The Download: Better bionic hands and AI’s natural-gas boom](https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/) 
 <!-- AI_NEWS:END -->
 
 </td>
