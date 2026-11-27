@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Have you ever imagined how it feels to be treated like you don't exist? You're right there, but you get treated like you're not. You're denied everything - every day your heart gets carved up and you experience disappointment again and again, but you have to smile anyway. Do you know how that feels?"*
+> 💬 *"Isn’t it fine as long as you find it? Isn’t it fine as long as you find the next fun and happy moments again?"*
 >
-> 🎭 **Ryūto Sakurai** — *Bungaku Shoujo*
+> 🎭 **Okazaki Tomoya** — *Clannad*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
