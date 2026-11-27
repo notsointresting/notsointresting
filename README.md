@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"You know... You like me more than you think you do."*
+> 💬 *"But you're wrong, no one ever has the right to take the life of another person. No one, no one ever has the right to take the life of another. No one. And everyone, everyone deserves a future. Don't you think that's true? Please, please, it's time to stop the fighting now. It's up to us to end the cycle of hatred. If we don't work to end the sorrow this time, then the cycle of pain will just continue on. When we were all born, were any of us made to steal or cause others harm?"*
 >
-> 🎭 **Masamune Takano** — *Sekai Ichi Hatsukoi - World's Greatest First Love*
+> 🎭 **Meryl Stryfe** — *Trigun*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
