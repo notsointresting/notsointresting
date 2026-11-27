@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"But you're wrong, no one ever has the right to take the life of another person. No one, no one ever has the right to take the life of another. No one. And everyone, everyone deserves a future. Don't you think that's true? Please, please, it's time to stop the fighting now. It's up to us to end the cycle of hatred. If we don't work to end the sorrow this time, then the cycle of pain will just continue on. When we were all born, were any of us made to steal or cause others harm?"*
+> 💬 *"Have you ever imagined how it feels to be treated like you don't exist? You're right there, but you get treated like you're not. You're denied everything - every day your heart gets carved up and you experience disappointment again and again, but you have to smile anyway. Do you know how that feels?"*
 >
-> 🎭 **Meryl Stryfe** — *Trigun*
+> 🎭 **Ryūto Sakurai** — *Bungaku Shoujo*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
