@@ -270,9 +270,9 @@
 ### 🎌 Random Anime Quote
 
 <!-- ANIME_QUOTE:START -->
-> 💬 *"Isn’t it fine as long as you find it? Isn’t it fine as long as you find the next fun and happy moments again?"*
+> 💬 *"The doors here only open one way. They open inward."*
 >
-> 🎭 **Okazaki Tomoya** — *Clannad*
+> 🎭 **Crona** — *Soul Eater*
 <!-- ANIME_QUOTE:END -->
 
 <sub>🔄 Updates every 4 hours via GitHub Actions</sub>
